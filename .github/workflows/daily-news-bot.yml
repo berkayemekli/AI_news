@@ -37,4 +37,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update world developments dashboard"
-          file_pattern: "output/* docs/* docs/.nojekyll data/news_state.json"
+          file_pattern: "docs/* docs/.nojekyll data/news_state.json"
