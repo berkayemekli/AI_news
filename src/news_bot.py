@@ -10,10 +10,23 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Iterable
 from urllib.error import HTTPError, URLError
+from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree
 
 from config import DEFAULT_NEWS_BOT_CONFIG, NEWS_STATE_JSON, OUTPUT_DIR
+
+INVEST_ANALYSIS_JSON = Path(r"C:\AI\Invest\output\analysis_payload.json")
+TEFAS_HISTORY_URL = "https://www.tefas.gov.tr/api/DB/BindHistoryInfo"
+YAHOO_CHART_URL = "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
+TEFAS_HEADERS = {
+    "User-Agent": "Mozilla/5.0",
+    "X-Requested-With": "XMLHttpRequest",
+    "Origin": "https://www.tefas.gov.tr",
+    "Referer": "https://www.tefas.gov.tr/TarihselVeriler.aspx",
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+}
+YAHOO_HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 
 CATEGORY_LABELS = {
@@ -222,6 +235,23 @@ def _clean_text(value: str | None) -> str:
     return text.strip()
 
 
+def _fix_mojibake(value: str | None) -> str:
+    if not value:
+        return ""
+    text = str(value)
+    for _ in range(2):
+        if not any(token in text for token in ("Ã", "Ä", "Å", "â", "�")):
+            break
+        try:
+            repaired = text.encode("latin1", errors="ignore").decode("utf-8", errors="ignore")
+        except UnicodeError:
+            break
+        if not repaired or repaired == text:
+            break
+        text = repaired
+    return text.replace("\x00", "").strip()
+
+
 def _first_text(element: ElementTree.Element, paths: Iterable[str]) -> str:
     for path in paths:
         node = element.find(path)
@@ -350,7 +380,7 @@ def _passes_quality_filter(item: dict, score: int, matched_keywords: list[str]) 
 
 
 def _normalize_summary(summary: str) -> str:
-    cleaned = _clean_text(summary)
+    cleaned = _fix_mojibake(_clean_text(summary))
     if len(cleaned) > 280:
         cleaned = cleaned[:277].rstrip() + "..."
     return cleaned
@@ -417,6 +447,189 @@ def _load_previous_state(path: Path) -> dict:
         return json.loads(path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError):
         return {}
+
+
+def _load_invest_analysis() -> dict:
+    if not INVEST_ANALYSIS_JSON.exists():
+        return {}
+    try:
+        return json.loads(INVEST_ANALYSIS_JSON.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+
+def _post_form(url: str, data: dict[str, str], headers: dict[str, str]) -> dict:
+    encoded = urlencode(data).encode("utf-8")
+    request = Request(url, data=encoded, headers=headers, method="POST")
+    with urlopen(request, timeout=20) as response:
+        return json.loads(response.read().decode("utf-8"))
+
+
+def _get_json(url: str, headers: dict[str, str]) -> dict:
+    request = Request(url, headers=headers, method="GET")
+    with urlopen(request, timeout=20) as response:
+        return json.loads(response.read().decode("utf-8"))
+
+
+def _fetch_tefas_daily_change(fund_code: str) -> tuple[float | None, float | None]:
+    today = datetime.now().date()
+    start = (today - timedelta(days=7)).strftime("%d.%m.%Y")
+    end = today.strftime("%d.%m.%Y")
+    payload = {
+        "fontip": "YAT",
+        "sfontur": "",
+        "fonkod": fund_code,
+        "fongrup": "",
+        "bastarih": start,
+        "bittarih": end,
+        "fonturkod": "",
+    }
+    raw = _post_form(TEFAS_HISTORY_URL, payload, TEFAS_HEADERS)
+    rows = []
+    for item in raw.get("data", []):
+        price_raw = item.get("FIYAT") or item.get("Fiyat")
+        date_raw = item.get("TARIH") or item.get("Tarih")
+        if price_raw in (None, "") or not date_raw:
+            continue
+        rows.append(
+            {
+                "date": str(date_raw)[:10],
+                "close": float(str(price_raw).replace(",", ".")),
+            }
+        )
+    rows.sort(key=lambda row: row["date"])
+    if len(rows) < 2:
+        return (rows[-1]["close"], None) if rows else (None, None)
+    latest = float(rows[-1]["close"])
+    previous = float(rows[-2]["close"])
+    change_pct = ((latest / previous) - 1.0) * 100 if previous else None
+    return latest, change_pct
+
+
+def _fetch_yahoo_daily_change(symbol: str) -> tuple[float | None, float | None]:
+    end = datetime.now().date()
+    start = end - timedelta(days=10)
+    period1 = int(datetime.combine(start, datetime.min.time()).timestamp())
+    period2 = int(datetime.combine(end + timedelta(days=1), datetime.min.time()).timestamp())
+    url = YAHOO_CHART_URL.format(symbol=symbol) + f"?period1={period1}&period2={period2}&interval=1d&includeAdjustedClose=true"
+    raw = _get_json(url, YAHOO_HEADERS)
+    result = raw.get("chart", {}).get("result", [])
+    if not result:
+        return None, None
+    closes = [close for close in result[0].get("indicators", {}).get("quote", [{}])[0].get("close", []) if close is not None]
+    if not closes:
+        return None, None
+    latest = float(closes[-1])
+    if len(closes) < 2:
+        return latest, None
+    previous = float(closes[-2])
+    change_pct = ((latest / previous) - 1.0) * 100 if previous else None
+    return latest, change_pct
+
+
+def _build_market_sidebar() -> list[dict]:
+    analysis = _load_invest_analysis()
+    if not analysis:
+        return []
+
+    items: list[dict] = []
+    market = analysis.get("market_snapshot", {})
+    usd_try = market.get("usd_try")
+    if usd_try is not None:
+        items.append(
+            {
+                "label": "USD/TRY",
+                "value": f"{usd_try:.2f}",
+                "change": _fix_mojibake(market.get("usd_try_trend", "bilgi yok")),
+                "note": "Güncel kur yönü",
+            }
+        )
+
+    try:
+        gta_price, gta_change = _fetch_tefas_daily_change("GTA")
+    except Exception:
+        gta_price, gta_change = None, None
+    if gta_price is not None:
+        items.append(
+            {
+                "label": "Altın Fonu",
+                "value": f"{gta_price:.4f}",
+                "change": f"%{gta_change:.2f}" if gta_change is not None else "günlük yok",
+                "note": "TEFAS günlük değişim",
+            }
+        )
+
+    try:
+        gtz_price, gtz_change = _fetch_tefas_daily_change("GTZ")
+    except Exception:
+        gtz_price, gtz_change = None, None
+    if gtz_price is not None:
+        items.append(
+            {
+                "label": "Gümüş Fonu",
+                "value": f"{gtz_price:.4f}",
+                "change": f"%{gtz_change:.2f}" if gtz_change is not None else "günlük yok",
+                "note": "TEFAS günlük değişim",
+            }
+        )
+
+    try:
+        gtl_price, gtl_change = _fetch_tefas_daily_change("GTL")
+    except Exception:
+        gtl_price, gtl_change = None, None
+    if gtl_price is not None:
+        items.append(
+            {
+                "label": "GTL Para Piyasası",
+                "value": f"{gtl_price:.6f}",
+                "change": f"%{gtl_change:.2f}" if gtl_change is not None else "günlük yok",
+                "note": "TEFAS günlük değişim",
+            }
+        )
+
+    try:
+        gvi_price, gvi_change = _fetch_tefas_daily_change("GVI")
+    except Exception:
+        gvi_price, gvi_change = None, None
+    if gvi_price is not None:
+        items.append(
+            {
+                "label": "GVI Fon Sepeti",
+                "value": f"{gvi_price:.4f}",
+                "change": f"%{gvi_change:.2f}" if gvi_change is not None else "günlük yok",
+                "note": "TEFAS günlük değişim",
+            }
+        )
+
+    try:
+        gtm_price, gtm_change = _fetch_tefas_daily_change("GTM")
+    except Exception:
+        gtm_price, gtm_change = None, None
+    if gtm_price is not None:
+        items.append(
+            {
+                "label": "GTM Temettü",
+                "value": f"{gtm_price:.4f}",
+                "change": f"%{gtm_change:.2f}" if gtm_change is not None else "günlük yok",
+                "note": "TEFAS günlük değişim",
+            }
+        )
+
+    try:
+        garan_price, garan_change = _fetch_yahoo_daily_change("GARAN.IS")
+    except Exception:
+        garan_price, garan_change = None, None
+    if garan_price is not None:
+        items.append(
+            {
+                "label": "GARAN",
+                "value": f"{garan_price:.2f}",
+                "change": f"%{garan_change:.2f}" if garan_change is not None else "günlük yok",
+                "note": "Yahoo günlük değişim",
+            }
+        )
+
+    return items[:7]
 
 
 def _build_trend_snapshot(items: list[FeedItem]) -> dict[str, dict]:
@@ -661,12 +874,12 @@ def _render_headline_cards(report: dict) -> str:
               <a class="btn primary" href="{link}" target="_blank" rel="noreferrer">Habere Git</a>
             </article>
             """.format(
-                labels=html.escape(labels),
+                labels=html.escape(_fix_mojibake(labels)),
                 score=item["score"],
-                title=html.escape(item["title"]),
-                summary_tr=html.escape(item.get("summary_tr") or item["summary"] or "Özet bulunamadı."),
-                source=html.escape(item["source"]),
-                why=html.escape(item["why_it_matters"]),
+                title=html.escape(_fix_mojibake(item["title"])),
+                summary_tr=html.escape(_fix_mojibake(item.get("summary_tr") or item["summary"] or "Özet bulunamadı.")),
+                source=html.escape(_fix_mojibake(item["source"])),
+                why=html.escape(_fix_mojibake(item["why_it_matters"])),
                 link=html.escape(item["link"]),
             ).strip()
         )
@@ -703,12 +916,12 @@ def _render_router_cards(report: dict) -> str:
               </div>
             </article>
             """.format(
-                label=html.escape(route["label"]),
+                label=html.escape(_fix_mojibake(route["label"])),
                 score=route["score"],
-                source=html.escape(route["best_source"]),
-                reason=html.escape(route["reason"]),
-                backup=html.escape(route["backup_source"]),
-                mode=html.escape(route["mode"]),
+                source=html.escape(_fix_mojibake(route["best_source"])),
+                reason=html.escape(_fix_mojibake(route["reason"])),
+                backup=html.escape(_fix_mojibake(route["backup_source"])),
+                mode=html.escape(_fix_mojibake(route["mode"])),
                 url=html.escape(route["best_url"]),
                 backup_url=html.escape(route["backup_url"]),
             ).strip()
@@ -722,8 +935,8 @@ def _render_today_stack(report: dict) -> str:
         items.append(
             "<li><strong>{index}. {source}:</strong> {label} konusu için bugünün en iyi ilk durağı.</li>".format(
                 index=index,
-                source=html.escape(route["best_source"]),
-                label=html.escape(route["label"]),
+                source=html.escape(_fix_mojibake(route["best_source"])),
+                label=html.escape(_fix_mojibake(route["label"])),
             )
         )
     return "\n".join(items)
@@ -732,14 +945,46 @@ def _render_today_stack(report: dict) -> str:
 def _render_error_list(report: dict) -> str:
     if not report.get("errors"):
         return "<li>Kaynak hatası görünmüyor.</li>"
-    return "\n".join("<li>{}</li>".format(html.escape(error)) for error in report["errors"])
+    return "\n".join("<li>{}</li>".format(html.escape(_fix_mojibake(error))) for error in report["errors"])
+
+
+def _render_market_sidebar() -> str:
+    items = _build_market_sidebar()
+    if not items:
+        return '<div class="market-empty">Invest verisi bulunamadı.</div>'
+    blocks = []
+    for item in items:
+        blocks.append(
+            """
+            <div class="market-item">
+              <div class="market-head">
+                <strong>{label}</strong>
+                <span>{change}</span>
+              </div>
+              <div class="market-value">{value}</div>
+              <div class="market-note">{note}</div>
+            </div>
+            """.format(
+                label=html.escape(_fix_mojibake(item["label"])),
+                change=html.escape(_fix_mojibake(item["change"])),
+                value=html.escape(_fix_mojibake(item["value"])),
+                note=html.escape(_fix_mojibake(item["note"])),
+            ).strip()
+        )
+    return "\n".join(blocks)
 
 
 def _render_html(report: dict) -> str:
     generated_at = html.escape(report["generated_at"])
-    trend_signals = " ".join(html.escape(signal) for signal in report.get("trend_signals", []))
+    trend_signals = " ".join(html.escape(_fix_mojibake(signal)) for signal in report.get("trend_signals", []))
     headline_count = len(report.get("headlines", []))
     router_count = len(report.get("topic_router", []))
+    lead = report["headlines"][0] if report.get("headlines") else None
+    lead_title = html.escape(_fix_mojibake(lead["title"])) if lead else "Bugünün güçlü sinyalleri burada toplanıyor."
+    lead_summary = html.escape(_fix_mojibake(lead.get("summary_tr") or lead.get("summary") or "")) if lead else "Filtrelenmiş küresel gelişmeler, daha editoryal bir akış içinde sunulur."
+    lead_source = html.escape(_fix_mojibake(lead["source"])) if lead else "AI News"
+    lead_link = html.escape(lead["link"]) if lead else "#"
+    market_sidebar = _render_market_sidebar()
     return """<!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -748,19 +993,19 @@ def _render_html(report: dict) -> str:
   <title>Dünya Gelişmeleri Paneli</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Source+Serif+4:wght@400;600;700;800&display=swap" rel="stylesheet">
   <style>
     :root {{
-      --bg: #071019;
-      --panel: rgba(8, 18, 30, 0.76);
-      --panel-strong: rgba(8, 18, 30, 0.92);
-      --line: rgba(255, 255, 255, 0.12);
-      --ink: #eef5f8;
-      --muted: #b4c5cf;
-      --gold: #f3c76e;
-      --cyan: #7ce1ff;
-      --mint: #90f2cf;
-      --shadow: 0 28px 70px rgba(0, 0, 0, 0.36);
+      --bg: #f4eee4;
+      --panel: #fffdfa;
+      --panel-strong: #fbf6ef;
+      --line: #d9cdbc;
+      --ink: #1d2022;
+      --muted: #6f685f;
+      --gold: #a13c2b;
+      --cyan: #235f5b;
+      --mint: #235f5b;
+      --shadow: 0 18px 36px rgba(74, 50, 28, 0.08);
     }}
     * {{ box-sizing: border-box; }}
     body {{
@@ -768,10 +1013,8 @@ def _render_html(report: dict) -> str:
       font-family: "Manrope", sans-serif;
       color: var(--ink);
       background:
-        radial-gradient(circle at 10% 15%, rgba(124, 225, 255, 0.18), transparent 20%),
-        radial-gradient(circle at 90% 12%, rgba(243, 199, 110, 0.18), transparent 22%),
-        radial-gradient(circle at 50% 75%, rgba(144, 242, 207, 0.12), transparent 24%),
-        linear-gradient(180deg, #061018 0%, #091522 100%);
+        radial-gradient(circle at 12% 12%, rgba(161, 60, 43, 0.08), transparent 18%),
+        linear-gradient(180deg, #f8f3eb 0%, #f1e9dd 100%);
       min-height: 100vh;
     }}
     body::before {{
@@ -779,39 +1022,55 @@ def _render_html(report: dict) -> str:
       position: fixed;
       inset: 0;
       background-image:
-        linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
-      background-size: 36px 36px;
-      mask-image: linear-gradient(180deg, rgba(0,0,0,0.9), transparent 90%);
+        linear-gradient(rgba(31,32,34,0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(31,32,34,0.03) 1px, transparent 1px);
+      background-size: 28px 28px;
+      mask-image: linear-gradient(180deg, rgba(0,0,0,0.32), transparent 88%);
       pointer-events: none;
     }}
     .wrap {{
-      width: min(1180px, calc(100% - 32px));
+      width: min(1240px, calc(100% - 32px));
       margin: 0 auto;
-      padding: 28px 0 56px;
+      padding: 22px 0 56px;
       position: relative;
       z-index: 1;
     }}
+    .topbar {{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 18px;
+      padding: 0 0 18px;
+      margin-bottom: 18px;
+      border-bottom: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 0.92rem;
+    }}
+    .topbar strong {{
+      color: var(--ink);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      font-size: 0.78rem;
+    }}
     .hero {{
       display: grid;
-      grid-template-columns: 1.2fr 0.8fr;
+      grid-template-columns: 1.25fr 0.75fr;
       gap: 24px;
-      min-height: 70vh;
+      min-height: 52vh;
     }}
     .hero-main, .hero-side, .section-card, .headline-card, .route-card, .mini-panel {{
       border: 1px solid var(--line);
       background: var(--panel);
-      backdrop-filter: blur(14px);
       box-shadow: var(--shadow);
     }}
     .hero-main {{
       border-radius: 32px;
-      min-height: 560px;
-      padding: 38px;
+      min-height: 520px;
+      padding: 34px;
       display: flex;
-      align-items: flex-end;
+      align-items: stretch;
       background:
-        linear-gradient(180deg, rgba(3, 7, 12, 0.1), rgba(3, 7, 12, 0.92)),
+        linear-gradient(180deg, rgba(255, 252, 248, 0.2), rgba(255, 252, 248, 0.94)),
         url("https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1400&q=80") center/cover;
     }}
     .hero-side {{
@@ -819,33 +1078,33 @@ def _render_html(report: dict) -> str:
       display: grid;
       gap: 1px;
       overflow: hidden;
-      background: rgba(255,255,255,0.08);
+      background: var(--line);
     }}
     .hero-panel {{
-      min-height: 250px;
-      padding: 26px;
+      min-height: 220px;
+      padding: 24px;
       display: flex;
       flex-direction: column;
-      justify-content: flex-end;
+      justify-content: space-between;
       background: var(--panel-strong);
     }}
     .hero-panel.top {{
       background:
-        linear-gradient(180deg, rgba(4,10,18,0.24), rgba(4,10,18,0.9)),
+        linear-gradient(180deg, rgba(255, 250, 244, 0.55), rgba(255, 250, 244, 0.96)),
         url("https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1000&q=80") center/cover;
     }}
     .hero-panel.bottom {{
       background:
-        linear-gradient(180deg, rgba(4,10,18,0.28), rgba(4,10,18,0.92)),
+        linear-gradient(180deg, rgba(251, 246, 239, 0.68), rgba(251, 246, 239, 0.98)),
         url("https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1000&q=80") center/cover;
     }}
     .eyebrow {{
       display: inline-flex;
       padding: 8px 14px;
       border-radius: 999px;
-      border: 1px solid rgba(255,255,255,0.15);
-      background: rgba(7, 14, 22, 0.44);
-      color: var(--cyan);
+      border: 1px solid rgba(161,60,43,0.16);
+      background: rgba(255,252,248,0.86);
+      color: var(--gold);
       font-size: 0.76rem;
       font-weight: 800;
       letter-spacing: 0.18em;
@@ -853,14 +1112,14 @@ def _render_html(report: dict) -> str:
     }}
     h1, h2, h3 {{
       margin: 0;
-      font-family: "Playfair Display", serif;
+      font-family: "Source Serif 4", serif;
       letter-spacing: -0.03em;
       line-height: 1;
     }}
     h1 {{
       margin-top: 18px;
       font-size: clamp(3rem, 7vw, 5.8rem);
-      max-width: 10ch;
+      max-width: 11ch;
     }}
     h2 {{
       font-size: clamp(2rem, 3vw, 3rem);
@@ -872,8 +1131,26 @@ def _render_html(report: dict) -> str:
     .lede {{
       margin-top: 18px;
       max-width: 58ch;
-      color: #d7e4ea;
+      color: #403a34;
       font-size: 1.08rem;
+    }}
+    .hero-copy {{
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 22px;
+      width: 100%;
+      align-self: end;
+    }}
+    .hero-rail {{
+      align-self: end;
+      padding: 18px;
+      border-radius: 22px;
+      border: 1px solid var(--line);
+      background: rgba(255,253,250,0.92);
+    }}
+    .hero-rail p {{
+      margin: 10px 0 0;
+      color: var(--muted);
     }}
     .hero-stats, .mini-grid, .headline-grid, .router-grid {{
       display: grid;
@@ -885,12 +1162,15 @@ def _render_html(report: dict) -> str:
     }}
     .stat, .mini-panel {{
       border-radius: 18px;
-      padding: 16px;
-      background: rgba(255,255,255,0.06);
+      padding: 10px 12px;
+      background: var(--panel-strong);
     }}
     .stat strong {{
       display: block;
-      font-size: 1.55rem;
+      font-size: 1rem;
+    }}
+    .stat span {{
+      font-size: 0.82rem;
     }}
     .stat span, .muted, .meta, .footer-note {{
       color: var(--muted);
@@ -920,12 +1200,20 @@ def _render_html(report: dict) -> str:
     .headline-card, .route-card {{
       border-radius: 24px;
       padding: 22px;
-      background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.02)), var(--panel-strong);
+      background: linear-gradient(180deg, rgba(255,255,255,0.92), rgba(251,246,239,0.96)), var(--panel-strong);
       position: relative;
       overflow: hidden;
     }}
+    .headline-card::before, .route-card::before {{
+      content: "";
+      position: absolute;
+      inset: 0 auto auto 0;
+      width: 100%;
+      height: 4px;
+      background: linear-gradient(90deg, var(--gold), transparent 72%);
+    }}
     .headline-card {{
-      grid-column: span 4;
+      grid-column: span 6;
     }}
     .headline-card.empty {{
       grid-column: span 12;
@@ -943,8 +1231,8 @@ def _render_html(report: dict) -> str:
       display: inline-flex;
       border-radius: 999px;
       padding: 8px 12px;
-      border: 1px solid rgba(255,255,255,0.1);
-      background: rgba(255,255,255,0.06);
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,0.76);
       font-size: 0.78rem;
       font-weight: 800;
       letter-spacing: 0.08em;
@@ -952,6 +1240,10 @@ def _render_html(report: dict) -> str:
     }}
     .pill {{ color: var(--mint); }}
     .score, .route-score {{ color: var(--gold); }}
+    .headline-card h3 {{
+      font-size: 2rem;
+      line-height: 1.02;
+    }}
     p {{
       line-height: 1.6;
     }}
@@ -973,20 +1265,20 @@ def _render_html(report: dict) -> str:
       border-radius: 999px;
       text-decoration: none;
       font-weight: 800;
-      border: 1px solid rgba(255,255,255,0.12);
+      border: 1px solid var(--line);
       transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
     }}
     .btn:hover {{
       transform: translateY(-1px);
     }}
     .btn.primary {{
-      background: linear-gradient(135deg, var(--gold), #ff9c68);
-      color: #201307;
+      background: linear-gradient(135deg, #b54632, #8a2a1f);
+      color: #fff9f5;
       border-color: transparent;
     }}
     .btn.secondary {{
       color: var(--ink);
-      background: rgba(255,255,255,0.05);
+      background: rgba(255,255,255,0.75);
     }}
     .mini-grid {{
       grid-template-columns: 1.1fr 0.9fr;
@@ -1014,6 +1306,42 @@ def _render_html(report: dict) -> str:
       margin-top: 8px;
       color: #dce7ed;
     }}
+    .market-stack {{
+      display: grid;
+      gap: 10px;
+      margin-top: 14px;
+    }}
+    .market-item {{
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 12px;
+      background: rgba(255,255,255,0.72);
+    }}
+    .market-head {{
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      color: var(--muted);
+      font-size: 0.84rem;
+    }}
+    .market-head strong {{
+      color: var(--ink);
+    }}
+    .market-value {{
+      margin-top: 6px;
+      font-size: 1.35rem;
+      font-weight: 800;
+      color: var(--ink);
+    }}
+    .market-note {{
+      margin-top: 4px;
+      font-size: 0.82rem;
+      color: var(--muted);
+    }}
+    .market-empty {{
+      margin-top: 12px;
+      color: var(--muted);
+    }}
     .footer-note {{
       margin-top: 28px;
       padding: 0 6px;
@@ -1021,6 +1349,9 @@ def _render_html(report: dict) -> str:
     }}
     @media (max-width: 960px) {{
       .hero, .mini-grid {{
+        grid-template-columns: 1fr;
+      }}
+      .hero-copy {{
         grid-template-columns: 1fr;
       }}
       .headline-card, .route-card {{
@@ -1049,36 +1380,51 @@ def _render_html(report: dict) -> str:
 </head>
 <body>
   <main class="wrap">
+    <div class="topbar">
+      <strong>AI News Briefing</strong>
+      <span>Günlük küresel sinyal akışı, seçilmiş kaynaklar, Türkçe özetler</span>
+    </div>
     <section class="hero">
       <article class="hero-main">
-        <div>
-          <div class="eyebrow">Dünya Gelişmeleri Paneli</div>
-          <h1>Gerçekten Önemli Ne Oluyor?</h1>
-          <p class="lede">Bu panel Python ile üretildi. Amaç: gürültüyü elemek, trend başlıkları ayırmak ve sizi o konuyu en iyi veren kaynağa yönlendirmek.</p>
-          <div class="hero-stats">
-            <div class="stat">
-              <strong>{headline_count}</strong>
-              <span>Seçilen başlık</span>
+        <div class="hero-copy">
+          <div>
+            <div class="eyebrow">Günün Çerçevesi</div>
+            <h1>Gerçekten önemli ne oluyor?</h1>
+            <p class="lede">Bu sayfa, dashboard görünümünden çok editoryal briefing mantığıyla hazırlandı: daha temiz görsel dil, daha güçlü başlıklar ve her haber için kısa Türkçe anlatım.</p>
+            <div class="hero-stats">
+              <div class="stat">
+                <strong>{headline_count}</strong>
+                <span>Seçilen başlık</span>
+              </div>
+              <div class="stat">
+                <strong>{router_count}</strong>
+                <span>Aktif konu yönlendirici</span>
+              </div>
+              <div class="stat">
+                <strong>3</strong>
+                <span>Bugünün ilk durakları</span>
+              </div>
             </div>
-            <div class="stat">
-              <strong>{router_count}</strong>
-              <span>Aktif konu yönlendirici</span>
-            </div>
-            <div class="stat">
-              <strong>3</strong>
-              <span>Bugünün ilk durakları</span>
+          </div>
+          <div class="hero-rail">
+            <div class="eyebrow">Lead Story</div>
+            <h3>{lead_title}</h3>
+            <p>{lead_summary}</p>
+            <div class="meta"><strong>Kaynak:</strong> {lead_source}</div>
+            <div class="actions">
+              <a class="btn primary" href="{lead_link}" target="_blank" rel="noreferrer">Lead Haberi Aç</a>
             </div>
           </div>
         </div>
       </article>
       <aside class="hero-side">
         <section class="hero-panel top">
-          <div class="eyebrow">Trend Sinyali</div>
+          <div class="eyebrow">Editör Notu</div>
           <h3>{top_source}</h3>
           <p>{top_reason}</p>
         </section>
         <section class="hero-panel bottom">
-          <div class="eyebrow">Çalışma Bilgisi</div>
+          <div class="eyebrow">Bugünkü Ritim</div>
           <h3 id="clock">--:--:--</h3>
           <p id="clock-date">{generated_at}</p>
           <p class="muted">{trend_signals}</p>
@@ -1090,10 +1436,10 @@ def _render_html(report: dict) -> str:
       <div class="section-card">
         <div class="section-top">
           <div>
-            <div class="eyebrow">Öne Çıkan Başlıklar</div>
-            <h2>Bugünün Seçilmiş Başlıkları</h2>
+            <div class="eyebrow">Seçilmiş Haberler</div>
+            <h2>Bugünün briefing sayfası</h2>
           </div>
-          <p>Her haber skor, kategori ve stratejik ilgi açısından filtrelendi.</p>
+          <p>Her haber skor, kategori ve stratejik ilgi açısından filtrelendi; ham akış yerine daha kısa ve daha editoryal bir özet dili kullanıldı.</p>
         </div>
         <div class="headline-grid">
           {headline_cards}
@@ -1105,7 +1451,7 @@ def _render_html(report: dict) -> str:
       <div class="section-card">
         <div class="section-top">
           <div>
-            <div class="eyebrow">Konu Yönlendirici</div>
+            <div class="eyebrow">Yönlendirme Masası</div>
             <h2>Konuya Göre En İyi Site</h2>
           </div>
           <p>Bugün hangi konu baskınsa, sizi o alanı daha iyi kapsayan kaynağa yönlendirir.</p>
@@ -1116,14 +1462,14 @@ def _render_html(report: dict) -> str:
 
         <div class="mini-grid">
           <div class="mini-panel today-list">
-            <div class="eyebrow">Bugün Odağı</div>
+            <div class="eyebrow">Hızlı Liste</div>
             <h3>Bugün Hangi 3 Siteye Bakayım?</h3>
             <ol>
               {today_stack}
             </ol>
           </div>
           <div class="mini-panel errors">
-            <div class="eyebrow">Kaynak Notları</div>
+            <div class="eyebrow">Sistem Notları</div>
             <h3>Veri Kaynağı Durumu</h3>
             <ul>
               {error_list}
@@ -1170,8 +1516,13 @@ def _render_html(report: dict) -> str:
         router_cards=_render_router_cards(report),
         today_stack=_render_today_stack(report),
         error_list=_render_error_list(report),
-        top_source=html.escape(report["topic_router"][0]["best_source"] if report.get("topic_router") else "Semafor"),
-        top_reason=html.escape(report["topic_router"][0]["reason"] if report.get("topic_router") else "Günün baskın konusu için seçilmiş başlangıç kaynağı."),
+        market_sidebar=market_sidebar,
+        lead_title=lead_title,
+        lead_summary=lead_summary,
+        lead_source=lead_source,
+        lead_link=lead_link,
+        top_source=html.escape(_fix_mojibake(report["topic_router"][0]["best_source"] if report.get("topic_router") else "Semafor")),
+        top_reason=html.escape(_fix_mojibake(report["topic_router"][0]["reason"] if report.get("topic_router") else "Günün baskın konusu için seçilmiş başlangıç kaynağı.")),
     )
 
 
@@ -1199,6 +1550,7 @@ if __name__ == "__main__":
     print(f"Markdown report: {result['output_paths']['markdown']}")
     print(f"JSON payload: {result['output_paths']['json']}")
     print(f"HTML dashboard: {result['output_paths']['html']}")
+
 
 
 
