@@ -1,0 +1,39 @@
+name: Daily News Bot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build-dashboard:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run news bot
+        run: python ./src/news_bot.py
+
+      - name: Publish dashboard for GitHub Pages
+        shell: bash
+        run: |
+          mkdir -p docs
+          cp output/world_developments_dashboard.html docs/index.html
+          cp output/world_developments_payload.json docs/world_developments_payload.json
+          cp output/world_developments_report.md docs/world_developments_report.md
+
+      - name: Commit updated outputs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update world developments dashboard"
+          file_pattern: "output/* docs/* data/news_state.json"
