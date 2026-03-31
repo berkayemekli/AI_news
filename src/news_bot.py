@@ -864,7 +864,7 @@ def _render_markdown(report: dict) -> str:
 
 def _render_headline_cards(report: dict) -> str:
     cards = []
-    for index, item in enumerate(report.get("headlines", [])[1:5], start=1):
+    for index, item in enumerate(report.get("headlines", [])[1:7], start=1):
         labels = " | ".join(CATEGORY_LABELS.get(category, category) for category in item["categories"])
         image_url = [
             "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
@@ -927,6 +927,27 @@ def _render_today_stack(report: dict) -> str:
     return "<li><strong>1.</strong> <span>Bugun rota olusmadi</span><small>Kaynak bekleniyor</small></li>"
 
 
+def _render_more_reads(report: dict) -> str:
+    cards = []
+    for route in report.get("today_stack", [])[:4]:
+        cards.append(
+            """
+            <article class="more-card">
+              <small>{label}</small>
+              <h3>{source}</h3>
+              <p>{reason}</p>
+              <a href="{url}" target="_blank" rel="noreferrer">Kaynaga git</a>
+            </article>
+            """.format(
+                label=_html_text(route["label"]),
+                source=_html_text(route["best_source"]),
+                reason=_html_text(route["reason"]),
+                url=html.escape(route["best_url"]),
+            ).strip()
+        )
+    return "\n".join(cards)
+
+
 def _render_error_list(report: dict) -> str:
     if not report.get("errors"):
         return "<li>Kaynak hatasi gorunmuyor.</li>"
@@ -938,7 +959,7 @@ def _build_portfolio_performance() -> dict:
     if not analysis:
         return {"tracked_return_value": None, "tracked_return_pct": None, "daily_return_pct": None, "daily_return_label": "Gunluk veri yok"}
 
-    instruments = analysis.get("pnl_summary", {}).get("instruments", [])
+    instruments = analysis.get("transaction_analysis", {}).get("instruments", [])
     buy_amount = 0.0
     current_value = 0.0
     for item in instruments:
@@ -1063,7 +1084,19 @@ def _render_political_brief(report: dict) -> str:
             break
     if items:
         return "\n".join(items)
-    return '<li><a href="https://www.reuters.com/world/" target="_blank" rel="noreferrer">Reuters World akisina git</a><span>Tarafsiz siyasi tarama</span></li>'
+    fallback = [
+        ("Reuters World", "https://www.reuters.com/world/", "Hizli ve tarafsiz dunya siyaseti akisi"),
+        ("AP World", "https://apnews.com/world-news", "Diplomasi, savas ve secim basliklari"),
+        ("Foreign Affairs", "https://www.foreignaffairs.com/", "Gunluk degil ama yapisal okuma icin"),
+    ]
+    return "\n".join(
+        '<li><a href="{url}" target="_blank" rel="noreferrer">{label}</a><span>{note}</span></li>'.format(
+            url=url,
+            label=label,
+            note=note,
+        )
+        for label, url, note in fallback
+    )
 
 
 def _build_market_sidebar() -> list[dict]:
@@ -1074,7 +1107,7 @@ def _build_market_sidebar() -> list[dict]:
     items: list[dict] = []
     market = analysis.get("market_snapshot", {})
     holdings = analysis.get("portfolio_mix", {}).get("holdings", [])
-    pnl_items = analysis.get("pnl_summary", {}).get("instruments", [])
+    pnl_items = analysis.get("transaction_analysis", {}).get("instruments", [])
     holdings_by_code = {str(row.get("instrument_code") or "").upper(): row for row in holdings if row.get("instrument_code")}
     holdings_by_name = {str(row.get("instrument_name") or "").upper(): row for row in holdings}
     pnl_by_code = {}
@@ -1090,6 +1123,8 @@ def _build_market_sidebar() -> list[dict]:
             pnl_by_code["GTZ"] = row
         elif name.startswith("GVI"):
             pnl_by_code["GVI"] = row
+        elif name.startswith("GARAN"):
+            pnl_by_code["GARAN"] = row
 
     def _fmt_pct(value: float | None) -> str:
         return f"%{value:.2f}" if value is not None else "-"
@@ -1145,11 +1180,15 @@ def _build_market_sidebar() -> list[dict]:
     except Exception:
         garan_price, garan_change = None, None
     if garan_price is not None:
+        pnl_row = pnl_by_code.get("GARAN")
+        profit_loss = float(pnl_row.get("profit_loss") or 0.0) if pnl_row else None
+        buy_amount = float(pnl_row.get("buy_amount") or 0.0) if pnl_row else None
+        cost_change = ((profit_loss / buy_amount) * 100) if pnl_row and buy_amount else None
         items.append({
             "label": "GARAN",
             "value": f"{garan_price:.2f}",
             "daily_change": _fmt_pct(garan_change),
-            "cost_change": "-",
+            "cost_change": _fmt_pct(cost_change),
             "year_change": "-",
             "note": "Yahoo gunluk",
         })
@@ -1187,7 +1226,7 @@ def _render_html(report: dict) -> str:
   <style>
     :root {{ --paper:#faf8f3; --panel:#ffffff; --ink:#161616; --muted:#726c64; --line:#e8e0d5; --accent:#c65435; --soft:#f6eee7; --shadow:0 14px 30px rgba(0,0,0,.05); }}
     * {{ box-sizing:border-box; }}
-    body {{ margin:0; background:linear-gradient(180deg,#f8f4ed 0%, #fbfaf7 18%, #fbfaf7 100%); color:var(--ink); font-family:"Inter",sans-serif; }}
+    body {{ margin:0; background:#ffffff; color:var(--ink); font-family:"Inter",sans-serif; }}
     a {{ color:inherit; text-decoration:none; }}
     .page {{ width:min(1380px, calc(100vw - 36px)); margin:0 auto; padding:18px 0 56px; }}
     .masthead {{ display:flex; justify-content:space-between; align-items:end; gap:16px; border-bottom:1px solid var(--line); padding-bottom:16px; }}
@@ -1221,6 +1260,12 @@ def _render_html(report: dict) -> str:
     .section-head h2 {{ margin:0; font-family:"Instrument Serif",serif; font-size:2.1rem; letter-spacing:-.04em; }}
     .section-head p {{ margin:0; color:var(--muted); max-width:38ch; }}
     .story-grid {{ display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:18px; }}
+    .more-grid {{ display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:14px; margin-top:18px; }}
+    .more-card {{ background:#fff; border:1px solid var(--line); border-radius:18px; padding:16px; display:grid; gap:10px; }}
+    .more-card small {{ color:var(--muted); text-transform:uppercase; letter-spacing:.08em; font-weight:800; }}
+    .more-card h3 {{ margin:0; font-family:"Instrument Serif",serif; font-size:1.3rem; letter-spacing:-.03em; }}
+    .more-card p {{ margin:0; color:#5e5850; line-height:1.55; font-size:.95rem; }}
+    .more-card a {{ color:var(--accent); font-weight:700; }}
     .story-card {{ background:var(--panel); border:1px solid var(--line); border-radius:22px; overflow:hidden; box-shadow:var(--shadow); }}
     .story-image {{ height:170px; background-size:cover; background-position:center; }}
     .story-body {{ padding:18px; display:grid; gap:12px; }}
@@ -1248,7 +1293,7 @@ def _render_html(report: dict) -> str:
     .market-note {{ margin-top:8px; font-size:.9rem; color:var(--muted); }}
     .rail-photo {{ height:160px; border-radius:18px; background:linear-gradient(180deg,rgba(16,16,16,.1),rgba(16,16,16,.25)), url('https://images.unsplash.com/photo-1496096265110-f83ad7f96608?auto=format&fit=crop&w=1000&q=80') center/cover; margin-top:12px; }}
     .footer-note {{ margin-top:26px; color:var(--muted); font-size:.92rem; border-top:1px solid var(--line); padding-top:16px; }}
-    @media (max-width:1100px) {{ .editorial-grid,.lead-story,.subgrid,.story-grid,.perf-grid {{ grid-template-columns:1fr; }} .lead-photo {{ min-height:300px; order:-1; }} }}
+    @media (max-width:1100px) {{ .editorial-grid,.lead-story,.subgrid,.story-grid,.perf-grid,.more-grid {{ grid-template-columns:1fr; }} .lead-photo {{ min-height:300px; order:-1; }} }}
   </style>
 </head>
 <body>
@@ -1294,6 +1339,7 @@ def _render_html(report: dict) -> str:
             <p>Quartz hissine daha yakin, daha gorsel ve paylasilabilir kartlar.</p>
           </div>
           <div class="story-grid">{headline_cards}</div>
+          <div class="more-grid">{more_reads}</div>
         </section>
       </section>
       <aside class="right-rail">
@@ -1325,6 +1371,7 @@ def _render_html(report: dict) -> str:
         today_stack=_render_today_stack(report),
         political_brief=_render_political_brief(report),
         headline_cards=_render_headline_cards(report),
+        more_reads=_render_more_reads(report),
         performance_summary=_render_performance_summary(),
         market_sidebar=_render_market_sidebar(),
         error_list=_render_error_list(report),
