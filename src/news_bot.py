@@ -473,8 +473,20 @@ def _post_form(url: str, data: dict[str, str], headers: dict[str, str]) -> dict:
 
 def _get_json(url: str, headers: dict[str, str]) -> dict:
     request = Request(url, headers=headers, method="GET")
-    with urlopen(request, timeout=20) as response:
-        return json.loads(response.read().decode("utf-8"))
+    try:
+        with urlopen(request, timeout=20) as response:
+            return json.loads(response.read().decode("utf-8"))
+    except Exception:
+        command = [
+            "powershell",
+            "-NoProfile",
+            "-Command",
+            "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; "
+            "[Console]::OutputEncoding = [System.Text.Encoding]::UTF8; "
+            f"(Invoke-RestMethod -Uri '{url}' -Headers @{{'User-Agent'='Mozilla/5.0'}} | ConvertTo-Json -Depth 8)",
+        ]
+        result = subprocess.run(command, capture_output=True, check=True)
+        return json.loads(result.stdout.decode("utf-8"))
 
 
 def _fetch_tefas_daily_change(fund_code: str) -> tuple[float | None, float | None]:
@@ -531,6 +543,25 @@ def _fetch_yahoo_daily_change(symbol: str) -> tuple[float | None, float | None]:
     previous = float(closes[-2])
     change_pct = ((latest / previous) - 1.0) * 100 if previous else None
     return latest, change_pct
+
+
+def _fetch_yahoo_change_set(symbol: str) -> tuple[float | None, float | None, float | None]:
+    end = datetime.now().date()
+    start = end - timedelta(days=380)
+    period1 = int(datetime.combine(start, datetime.min.time()).timestamp())
+    period2 = int(datetime.combine(end + timedelta(days=1), datetime.min.time()).timestamp())
+    url = YAHOO_CHART_URL.format(symbol=symbol) + f"?period1={period1}&period2={period2}&interval=1d&includeAdjustedClose=true"
+    raw = _get_json(url, YAHOO_HEADERS)
+    result = raw.get("chart", {}).get("result", [])
+    if not result:
+        return None, None, None
+    closes = [close for close in result[0].get("indicators", {}).get("quote", [{}])[0].get("close", []) if close is not None]
+    if not closes:
+        return None, None, None
+    latest = float(closes[-1])
+    daily = ((latest / closes[-2]) - 1.0) * 100 if len(closes) >= 2 and closes[-2] else None
+    yearly = ((latest / closes[0]) - 1.0) * 100 if closes[0] else None
+    return latest, daily, yearly
 
 
 def _build_market_sidebar() -> list[dict]:
@@ -1012,7 +1043,7 @@ def _render_performance_summary() -> str:
         return f"{value:,.0f} TL".replace(",", ".")
 
     cards = [
-        {"label": "Takip listesi getiri", "value": fmt_pct(perf["tracked_return_pct"]), "note": fmt_tl(perf["tracked_return_value"])} ,
+        {"label": "Maliyeti bilinen fonlar", "value": fmt_pct(perf["tracked_return_pct"]), "note": fmt_tl(perf["tracked_return_value"])} ,
         {"label": "Gunluk getiri", "value": fmt_pct(perf["daily_return_pct"]), "note": perf["daily_return_label"]},
     ]
     return "\n".join(
@@ -1066,14 +1097,11 @@ def _render_political_brief(report: dict) -> str:
         cats = item.get("categories", [])
         title = item.get("title", "")
         text = " ".join([title, item.get("summary", ""), item.get("summary_tr", "")]).lower()
-        if "macro" not in cats and not any(token in text for token in ("trump", "china", "tariff", "white house", "beijing", "europe", "nato", "ukraine", "iran", "trade", "sanction", "congress")):
+        if "macro" not in cats and not any(token in text for token in ("trump", "china", "tariff", "white house", "beijing", "europe", "nato", "ukraine", "iran", "trade", "sanction", "congress", "government", "election", "military", "minister", "president")):
             continue
         items.append(
             """
-            <li>
-              <a href="{link}" target="_blank" rel="noreferrer">{title}</a>
-              <span>{source}</span>
-            </li>
+            <li><a href="{link}" target="_blank" rel="noreferrer">{title}</a><span>{source}</span></li>
             """.format(
                 link=html.escape(item["link"]),
                 title=_html_text(title),
@@ -1085,9 +1113,9 @@ def _render_political_brief(report: dict) -> str:
     if items:
         return "\n".join(items)
     fallback = [
-        ("Reuters World", "https://www.reuters.com/world/", "Hizli ve tarafsiz dunya siyaseti akisi"),
-        ("AP World", "https://apnews.com/world-news", "Diplomasi, savas ve secim basliklari"),
-        ("Foreign Affairs", "https://www.foreignaffairs.com/", "Gunluk degil ama yapisal okuma icin"),
+        ("Reuters World", "https://www.reuters.com/world/", "Dunya siyaseti"),
+        ("AP World", "https://apnews.com/world-news", "Dunya siyaseti"),
+        ("Foreign Affairs", "https://www.foreignaffairs.com/", "Analiz"),
     ]
     return "\n".join(
         '<li><a href="{url}" target="_blank" rel="noreferrer">{label}</a><span>{note}</span></li>'.format(
@@ -1132,12 +1160,18 @@ def _build_market_sidebar() -> list[dict]:
     usd_try = market.get("usd_try")
     if usd_try is not None:
         trend_map = {"up": "Yukari", "down": "Asagi", "flat": "Yatay", "unknown": "Belirsiz", "data_unavailable": "Veri yok"}
+        usd_daily = None
+        usd_yearly = None
+        try:
+            _, usd_daily, usd_yearly = _fetch_yahoo_change_set("TRY=X")
+        except Exception:
+            usd_daily, usd_yearly = None, None
         items.append({
             "label": "USD/TRY",
             "value": f"{usd_try:.2f}",
-            "daily_change": trend_map.get(str(market.get("usd_try_trend", "unknown")), "Bilgi yok"),
+            "daily_change": _fmt_pct(usd_daily) if usd_daily is not None else trend_map.get(str(market.get("usd_try_trend", "unknown")), "Bilgi yok"),
             "cost_change": "-",
-            "year_change": "-",
+            "year_change": _fmt_pct(usd_yearly),
             "note": "Kur yonu",
         })
 
@@ -1158,7 +1192,7 @@ def _build_market_sidebar() -> list[dict]:
             amount = holding.get("amount")
             value = f"{amount:,.0f} TL".replace(",", ".") if isinstance(amount, (int, float)) else "Portfoyde"
             note = "Invest portfoy baglantisi"
-            daily_change = "Portfoy bagi"
+            daily_change = "Veri yok"
         else:
             continue
         annual = holding.get("one_year_return_pct") if holding else None
@@ -1176,9 +1210,9 @@ def _build_market_sidebar() -> list[dict]:
 
     garan_holding = holdings_by_name.get("GARAN")
     try:
-        garan_price, garan_change = _fetch_yahoo_daily_change("GARAN.IS")
+        garan_price, garan_change, garan_yearly = _fetch_yahoo_change_set("GARAN.IS")
     except Exception:
-        garan_price, garan_change = None, None
+        garan_price, garan_change, garan_yearly = None, None, None
     if garan_price is not None:
         pnl_row = pnl_by_code.get("GARAN")
         profit_loss = float(pnl_row.get("profit_loss") or 0.0) if pnl_row else None
@@ -1189,14 +1223,14 @@ def _build_market_sidebar() -> list[dict]:
             "value": f"{garan_price:.2f}",
             "daily_change": _fmt_pct(garan_change),
             "cost_change": _fmt_pct(cost_change),
-            "year_change": "-",
+            "year_change": _fmt_pct(garan_yearly),
             "note": "Yahoo gunluk",
         })
     elif garan_holding:
         items.append({
             "label": "GARAN",
             "value": f"{garan_holding.get('amount', 0):,.0f} TL".replace(",", "."),
-            "daily_change": "Portfoy bagi",
+            "daily_change": "Veri yok",
             "cost_change": "-",
             "year_change": "-",
             "note": "Invest holding degeri",
@@ -1246,7 +1280,7 @@ def _render_html(report: dict) -> str:
     .btn {{ display:inline-flex; align-items:center; justify-content:center; padding:12px 16px; border-radius:999px; font-weight:700; border:1px solid var(--line); }}
     .btn.primary {{ background:var(--ink); color:#fff; border-color:var(--ink); }}
     .btn.secondary {{ background:var(--soft); color:var(--accent); border-color:#edd9ce; }}
-    .subgrid {{ display:grid; grid-template-columns:minmax(0,1fr) minmax(260px,.8fr); gap:18px; }}
+    .subgrid {{ display:grid; grid-template-columns:1fr; gap:18px; }}
     .panel {{ background:var(--panel); border:1px solid var(--line); border-radius:22px; padding:22px; box-shadow:var(--shadow); }}
     .panel h2 {{ margin:0 0 10px; font-family:"Instrument Serif",serif; font-size:2rem; letter-spacing:-.04em; }}
     .panel p.intro {{ margin:0 0 16px; color:var(--muted); line-height:1.65; }}
@@ -1323,13 +1357,8 @@ def _render_html(report: dict) -> str:
         </article>
         <section class="subgrid">
           <article class="panel">
-            <h2>Bugunun rotasi</h2>
-            <p class="intro">Daha az baslik, daha dogru ilk durak. Once buradan baslayin.</p>
-            <ol class="today-list">{today_stack}</ol>
-          </article>
-          <article class="panel">
             <h2>Siyasi radar</h2>
-            <p class="intro">Tarafsiz tarama icin Reuters omurgasini koruyan kisa jeopolitik blok.</p>
+            <p class="intro">Dunya siyaseti ve jeopolitik tarafta bugunun one cikan basliklari.</p>
             <ul class="politics-list">{political_brief}</ul>
           </article>
         </section>

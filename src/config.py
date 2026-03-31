@@ -50,6 +50,16 @@ class NewsBotConfig:
             categories=("macro", "technology", "financial_system"),
         ),
         NewsFeed(
+            name="AP World",
+            url="https://apnews.com/hub/world-news/rss",
+            categories=("macro",),
+        ),
+        NewsFeed(
+            name="BBC World",
+            url="http://feeds.bbci.co.uk/news/world/rss.xml",
+            categories=("macro",),
+        ),
+        NewsFeed(
             name="The Robot Report",
             url="https://www.therobotreport.com/feed/",
             categories=("robotics",),
