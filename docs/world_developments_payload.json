@@ -1,59 +1,103 @@
 {
-  "generated_at": "2026-03-31T17:06:18.484679+00:00",
-  "headlines": [
+  "generated_at": "2026-03-31T17:46:27.735345+00:00",
+  "headlines": [],
+  "political_items": [
     {
-      "source": "The Robot Report",
-      "title": "Humanoid completes live HMND PoC with SAP and Martur Fompak",
-      "link": "https://www.therobotreport.com/humanoid-completes-live-hmnd-poc-sap-martur-fompak/",
-      "published_at": "Mon, 30 Mar 2026 20:57:53 +0000",
-      "summary": "Humanoid and SAP successfully integrated agentic AI into the HMND 01 Alpha robot to autonomously perform warehouse logistics tasks.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 25,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, humanoid ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "autonomous",
-        "humanoid",
-        "robot",
-        "warehouse"
-      ]
+      "source": "BBC World",
+      "title": "Iran using children in security roles in war, reports and witnesses say",
+      "link": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
+      "summary": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
+      "published_at": "Tue, 31 Mar 2026 12:56:45 GMT",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor."
     },
     {
-      "source": "Payments Dive",
-      "title": "Visa’s stablecoin ally falls for Mastercard",
-      "link": "https://www.paymentsdive.com/news/visas-stablecoin-ally-falls-for-mastercard/816093/",
-      "published_at": "Mon, 30 Mar 2026 10:45:00 -0400",
-      "summary": "Stablecoin startup BVNK crowed about an investment from the largest U.S. card network last year, but now it’s being acquired by a rival.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
-      "categories": [
-        "financial_system"
-      ],
-      "score": 20,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, stablecoin ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "mastercard",
-        "stablecoin",
-        "visa"
-      ]
+      "source": "BBC World",
+      "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
+      "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
+      "summary": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
+      "published_at": "Tue, 31 Mar 2026 17:16:00 GMT",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor."
     },
     {
-      "source": "The Robot Report",
-      "title": "Icarus Robotics to test its free-flying robot in the ISS with Voyager",
-      "link": "https://www.therobotreport.com/icarus-robotics-to-test-its-free-flying-robots-in-the-iss-with-voyager/",
-      "published_at": "Mon, 30 Mar 2026 14:00:35 +0000",
-      "summary": "Icarus Robotics hopes its free-flying robot will be able to do repetitive tasks for astronauts on the International Space Station.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
+      "source": "BBC World",
+      "title": "China bans storing cremated remains in empty 'bone ash apartments'",
+      "link": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
+      "summary": "China bans 'bone ash apartments' where mourners are storing cremated remains instead of cemeteries.",
+      "published_at": "Tue, 31 Mar 2026 10:53:10 GMT",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor."
+    },
+    {
+      "source": "BBC World",
+      "title": "Palestinians convicted of lethal attacks face death penalty under new Israeli law",
+      "link": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The new law, passed on Monday, was pushed hard by the far-right and Security Minister Itamar Ben-Gvir.",
+      "published_at": "Tue, 31 Mar 2026 17:30:05 GMT",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor."
+    }
+  ],
+  "market_items": [
+    {
+      "label": "USD/TRY",
+      "value": "44.48",
+      "daily_change": "Yukari",
+      "cost_change": "-",
+      "year_change": "-",
+      "note": "Kur yonu",
+      "raw_value": 44.48
+    },
+    {
+      "label": "Altin Fonu",
+      "value": "1.5708",
+      "daily_change": "%0.00",
+      "cost_change": "%-2.02",
+      "year_change": "%67.60",
+      "note": "Invest guncel fiyat",
+      "raw_value": 1.5708
+    },
+    {
+      "label": "Gumus Fonu",
+      "value": "12.0646",
+      "daily_change": "%0.00",
+      "cost_change": "%-12.01",
+      "year_change": "-",
+      "note": "Invest guncel fiyat",
+      "raw_value": 12.064629
+    },
+    {
+      "label": "Para Piyasasi",
+      "value": "0.115764",
+      "daily_change": "%0.00",
+      "cost_change": "%2.60",
+      "year_change": "%50.50",
+      "note": "Invest guncel fiyat",
+      "raw_value": 0.115764
+    },
+    {
+      "label": "Fon Sepeti",
+      "value": "5.1161",
+      "daily_change": "%0.00",
+      "cost_change": "%55.46",
+      "year_change": "-",
+      "note": "Invest guncel fiyat",
+      "raw_value": 5.116143
+    },
+    {
+      "label": "Temettu",
+      "value": "6.9465",
+      "daily_change": "%0.00",
+      "cost_change": "%-6.75",
+      "year_change": "%43.20",
+      "note": "Invest guncel fiyat",
+      "raw_value": 6.946538
+    },
+    {
+      "label": "GARAN",
+      "value": "324.034 TL",
+      "daily_change": "%0.00",
+      "cost_change": "-",
+      "year_change": "-",
+      "note": "Invest holding degeri",
+      "raw_value": 324034.0
     }
   ],
   "trend_snapshot": {
@@ -66,12 +110,12 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 21.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 20.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
@@ -79,91 +123,84 @@
   ],
   "topic_router": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 140,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 63,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 26,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     },
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 26,
+      "score": 0,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "markets",
+      "label": "Markets",
+      "score": 0,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 140,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 63,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 0,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 26,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+      "topic": "markets",
+      "label": "Markets",
+      "score": 0,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "errors": [
     "Reuters World: b\"Invoke-WebRequest : Uzak ad \\xc3\\xa7\\xc3\\xb6z\\xc3\\xbclemedi: 'feeds.reuters.com'\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://feeds.re ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\"",
     "Reuters Business: b\"Invoke-WebRequest : Uzak ad \\xc3\\xa7\\xc3\\xb6z\\xc3\\xbclemedi: 'feeds.reuters.com'\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://feeds.re ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\"",
     "Reuters Technology: b\"Invoke-WebRequest : Uzak ad \\xc3\\xa7\\xc3\\xb6z\\xc3\\xbclemedi: 'feeds.reuters.com'\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://feeds.re ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\"",
-    "Quartz: not well-formed (invalid token): line 367, column 231",
-    "AP World: b\"Invoke-WebRequest : \\xc4\\xb0stek durduruldu: Ba\\xc4\\x9flant\\xc4\\xb1 beklenmedik bir \\xc5\\x9fekilde kapat\\xc4\\xb1ld\\xc4\\xb1.\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://apnews.c ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\""
+    "TechCrunch: b\"Invoke-WebRequest : Temel al\\xc4\\xb1nan ba\\xc4\\x9flant\\xc4\\xb1 kapat\\xc4\\xb1ld\\xc4\\xb1: Alma i\\xc5\\x9fleminde beklenmeyen hata olu\\xc5\\x9ftu.\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://techcrun ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\"",
+    "Quartz: b\"Invoke-WebRequest : Temel al\\xc4\\xb1nan ba\\xc4\\x9flant\\xc4\\xb1 kapat\\xc4\\xb1ld\\xc4\\xb1: Alma i\\xc5\\x9fleminde beklenmeyen hata olu\\xc5\\x9ftu.\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://qz.com/f ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\"",
+    "AP World: b\"Invoke-WebRequest : Temel al\\xc4\\xb1nan ba\\xc4\\x9flant\\xc4\\xb1 kapat\\xc4\\xb1ld\\xc4\\xb1: Alma i\\xc5\\x9fleminde beklenmeyen hata olu\\xc5\\x9ftu.\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://apnews.c ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\"",
+    "BBC World: <urlopen error [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı>",
+    "The Robot Report: b\"Invoke-WebRequest : Temel al\\xc4\\xb1nan ba\\xc4\\x9flant\\xc4\\xb1 kapat\\xc4\\xb1ld\\xc4\\xb1: Alma i\\xc5\\x9fleminde beklenmeyen hata olu\\xc5\\x9ftu.\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://www.ther ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\"",
+    "Payments Dive: b\"Invoke-WebRequest : Temel al\\xc4\\xb1nan ba\\xc4\\x9flant\\xc4\\xb1 kapat\\xc4\\xb1ld\\xc4\\xb1: Alma i\\xc5\\x9fleminde beklenmeyen hata olu\\xc5\\x9ftu.\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://www.paym ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\""
   ],
   "coverage_notes": {
     "objective": "Gerçekten önemli olanları seçmek ve günlük stratejik farkındalık yaratmak.",

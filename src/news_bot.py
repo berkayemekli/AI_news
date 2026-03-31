@@ -164,6 +164,8 @@ SOURCE_QUALITY_BONUS = {
     "Reuters World": 5,
     "Reuters Business": 5,
     "Reuters Technology": 5,
+    "AP World": 4,
+    "BBC World": 4,
     "The Robot Report": 4,
     "Payments Dive": 3,
     "TechCrunch": -6,
@@ -447,12 +449,53 @@ def _deduplicate(items: Iterable[FeedItem]) -> list[FeedItem]:
 
 
 def _load_previous_state(path: Path) -> dict:
-    if not path.exists():
-        return {}
+    candidate_paths = [path, DOCS_DIR / "world_developments_payload.json", OUTPUT_DIR / "world_developments_payload.json"]
+    for candidate in candidate_paths:
+        if not candidate.exists():
+            continue
+        try:
+            state = json.loads(candidate.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        if isinstance(state, dict):
+            if candidate == path and not state.get("market_items") and (DOCS_DIR / "world_developments_payload.json").exists():
+                continue
+            return state
+    return {}
+
+
+def _market_state_lookup(previous_state: dict | None) -> dict[str, dict]:
+    lookup: dict[str, dict] = {}
+    if not isinstance(previous_state, dict):
+        return lookup
+    for item in previous_state.get("market_items", []) or []:
+        label = str(item.get("label") or "").strip()
+        if label:
+            lookup[label] = item
+    return lookup
+
+
+def _history_daily_change_by_code(instrument_code: str) -> float | None:
+    history_path = Path(r"C:\AI\Invest\output\portfolio_history_1y_daily.csv")
+    if not history_path.exists():
+        return None
+    rows: list[float] = []
     try:
-        return json.loads(path.read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError):
-        return {}
+        import csv
+
+        with history_path.open("r", encoding="utf-8") as handle:
+            reader = csv.DictReader(handle)
+            for row in reader:
+                code = str(row.get("instrument_code") or "").upper()
+                close = row.get("close")
+                if code != instrument_code.upper() or not close:
+                    continue
+                rows.append(float(close))
+    except Exception:
+        return None
+    if len(rows) < 2 or not rows[-2]:
+        return None
+    return ((rows[-1] / rows[-2]) - 1.0) * 100
 
 
 def _load_invest_analysis() -> dict:
@@ -564,111 +607,6 @@ def _fetch_yahoo_change_set(symbol: str) -> tuple[float | None, float | None, fl
     return latest, daily, yearly
 
 
-def _build_market_sidebar() -> list[dict]:
-    analysis = _load_invest_analysis()
-    if not analysis:
-        return []
-
-    items: list[dict] = []
-    market = analysis.get("market_snapshot", {})
-    usd_try = market.get("usd_try")
-    if usd_try is not None:
-        items.append(
-            {
-                "label": "USD/TRY",
-                "value": f"{usd_try:.2f}",
-                "change": _fix_mojibake(market.get("usd_try_trend", "bilgi yok")),
-                "note": "Güncel kur yönü",
-            }
-        )
-
-    try:
-        gta_price, gta_change = _fetch_tefas_daily_change("GTA")
-    except Exception:
-        gta_price, gta_change = None, None
-    if gta_price is not None:
-        items.append(
-            {
-                "label": "Altın Fonu",
-                "value": f"{gta_price:.4f}",
-                "change": f"%{gta_change:.2f}" if gta_change is not None else "günlük yok",
-                "note": "TEFAS günlük değişim",
-            }
-        )
-
-    try:
-        gtz_price, gtz_change = _fetch_tefas_daily_change("GTZ")
-    except Exception:
-        gtz_price, gtz_change = None, None
-    if gtz_price is not None:
-        items.append(
-            {
-                "label": "Gümüş Fonu",
-                "value": f"{gtz_price:.4f}",
-                "change": f"%{gtz_change:.2f}" if gtz_change is not None else "günlük yok",
-                "note": "TEFAS günlük değişim",
-            }
-        )
-
-    try:
-        gtl_price, gtl_change = _fetch_tefas_daily_change("GTL")
-    except Exception:
-        gtl_price, gtl_change = None, None
-    if gtl_price is not None:
-        items.append(
-            {
-                "label": "GTL Para Piyasası",
-                "value": f"{gtl_price:.6f}",
-                "change": f"%{gtl_change:.2f}" if gtl_change is not None else "günlük yok",
-                "note": "TEFAS günlük değişim",
-            }
-        )
-
-    try:
-        gvi_price, gvi_change = _fetch_tefas_daily_change("GVI")
-    except Exception:
-        gvi_price, gvi_change = None, None
-    if gvi_price is not None:
-        items.append(
-            {
-                "label": "GVI Fon Sepeti",
-                "value": f"{gvi_price:.4f}",
-                "change": f"%{gvi_change:.2f}" if gvi_change is not None else "günlük yok",
-                "note": "TEFAS günlük değişim",
-            }
-        )
-
-    try:
-        gtm_price, gtm_change = _fetch_tefas_daily_change("GTM")
-    except Exception:
-        gtm_price, gtm_change = None, None
-    if gtm_price is not None:
-        items.append(
-            {
-                "label": "GTM Temettü",
-                "value": f"{gtm_price:.4f}",
-                "change": f"%{gtm_change:.2f}" if gtm_change is not None else "günlük yok",
-                "note": "TEFAS günlük değişim",
-            }
-        )
-
-    try:
-        garan_price, garan_change = _fetch_yahoo_daily_change("GARAN.IS")
-    except Exception:
-        garan_price, garan_change = None, None
-    if garan_price is not None:
-        items.append(
-            {
-                "label": "GARAN",
-                "value": f"{garan_price:.2f}",
-                "change": f"%{garan_change:.2f}" if garan_change is not None else "günlük yok",
-                "note": "Yahoo günlük değişim",
-            }
-        )
-
-    return items[:7]
-
-
 def _build_trend_snapshot(items: list[FeedItem]) -> dict[str, dict]:
     counts = {category: 0 for category in CATEGORY_LABELS}
     avg_scores = {category: [] for category in CATEGORY_LABELS}
@@ -770,6 +708,7 @@ def _build_today_stack(router: list[dict]) -> list[dict]:
 def collect_news() -> dict:
     cutoff = _utc_now() - timedelta(hours=DEFAULT_NEWS_BOT_CONFIG.lookback_hours)
     collected: list[FeedItem] = []
+    political_candidates: list[dict] = []
     errors: list[str] = []
 
     for feed in DEFAULT_NEWS_BOT_CONFIG.feeds:
@@ -788,6 +727,46 @@ def collect_news() -> dict:
             published_dt = _parse_datetime(raw_item["published_at"])
             if published_dt is not None and published_dt < cutoff:
                 continue
+            political_text = " ".join([raw_item["title"], raw_item["summary"]]).lower()
+            normalized_summary = _normalize_summary(raw_item["summary"])
+            if "macro" in feed.categories and any(
+                token in political_text
+                for token in (
+                    "trump",
+                    "china",
+                    "tariff",
+                    "white house",
+                    "beijing",
+                    "europe",
+                    "nato",
+                    "ukraine",
+                    "iran",
+                    "trade",
+                    "sanction",
+                    "congress",
+                    "government",
+                    "election",
+                    "military",
+                    "minister",
+                    "president",
+                )
+            ):
+                political_candidates.append(
+                    {
+                        "source": raw_item["source"],
+                        "title": raw_item["title"],
+                        "link": raw_item["link"],
+                        "summary": normalized_summary,
+                        "summary_tr": _build_turkish_summary(
+                            raw_item["title"],
+                            normalized_summary,
+                            "macro",
+                            [],
+                            raw_item["source"],
+                        ),
+                        "published_at": raw_item["published_at"],
+                    }
+                )
             score, matched_keywords = _score_item(
                 raw_item["title"],
                 raw_item["summary"],
@@ -797,7 +776,7 @@ def collect_news() -> dict:
             score += SOURCE_QUALITY_BONUS.get(feed.name, 0)
             if score <= 0:
                 continue
-            raw_item["summary"] = _normalize_summary(raw_item["summary"])
+            raw_item["summary"] = normalized_summary
             if not _passes_quality_filter(raw_item, score, matched_keywords):
                 continue
             primary_category = _pick_primary_category(feed.categories, matched_keywords)
@@ -825,14 +804,71 @@ def collect_news() -> dict:
 
     ranked = sorted(_deduplicate(collected), key=lambda item: (-item.score, item.title))
     selected = ranked[: DEFAULT_NEWS_BOT_CONFIG.max_headlines]
+    political_items = []
+    seen_links: set[str] = set()
+    for row in political_candidates:
+        link = row.get("link") or ""
+        if not link or link in seen_links:
+            continue
+        seen_links.add(link)
+        political_items.append(row)
+    if not political_items:
+        for item in ranked:
+            text = " ".join([item.title, item.summary, item.summary_tr]).lower()
+            if "macro" in item.categories or any(
+                token in text
+                for token in (
+                    "trump",
+                    "china",
+                    "tariff",
+                    "white house",
+                    "beijing",
+                    "europe",
+                    "nato",
+                    "ukraine",
+                    "iran",
+                    "trade",
+                    "sanction",
+                    "congress",
+                    "government",
+                    "election",
+                    "military",
+                    "minister",
+                    "president",
+                )
+            ):
+                political_items.append(asdict(item))
     previous_state = _load_previous_state(NEWS_STATE_JSON)
+    if not political_items:
+        political_items = previous_state.get("political_items", []) or []
+    normalized_political_items = []
+    for item in political_items[:4]:
+        summary = _normalize_summary(item.get("summary", ""))
+        normalized_political_items.append(
+            {
+                **item,
+                "summary": summary,
+                "summary_tr": item.get("summary_tr")
+                or _build_turkish_summary(
+                    item.get("title", ""),
+                    summary,
+                    "macro",
+                    [],
+                    item.get("source", ""),
+                ),
+            }
+        )
+    political_items = normalized_political_items
     trend_snapshot = _build_trend_snapshot(ranked)
     topic_router = _build_topic_router(ranked)
     today_stack = _build_today_stack(topic_router)
+    market_items = _build_market_sidebar(previous_state)
 
     return {
         "generated_at": _utc_now().isoformat(),
         "headlines": [asdict(item) for item in selected],
+        "political_items": political_items,
+        "market_items": market_items,
         "trend_snapshot": trend_snapshot,
         "trend_signals": _compare_trends(previous_state, trend_snapshot),
         "topic_router": topic_router,
@@ -1058,8 +1094,8 @@ def _render_performance_summary() -> str:
     )
 
 
-def _render_market_sidebar() -> str:
-    items = _build_market_sidebar()
+def _render_market_sidebar(report: dict) -> str:
+    items = report.get("market_items") or _build_market_sidebar(_load_previous_state(NEWS_STATE_JSON))
     if not items:
         return '<div class="market-empty">Invest verisi bulunamadi.</div>'
     blocks = []
@@ -1092,47 +1128,49 @@ def _render_market_sidebar() -> str:
 
 def _render_political_brief(report: dict) -> str:
     items = []
-    for item in report.get("headlines", []):
+    for item in report.get("political_items", []):
         source = item.get("source", "")
-        cats = item.get("categories", [])
         title = item.get("title", "")
-        text = " ".join([title, item.get("summary", ""), item.get("summary_tr", "")]).lower()
-        if "macro" not in cats and not any(token in text for token in ("trump", "china", "tariff", "white house", "beijing", "europe", "nato", "ukraine", "iran", "trade", "sanction", "congress", "government", "election", "military", "minister", "president")):
-            continue
+        summary = item.get("summary_tr") or item.get("summary") or "Kisa ozet bulunamadi."
+        published_at = item.get("published_at") or ""
         items.append(
             """
-            <li><a href="{link}" target="_blank" rel="noreferrer">{title}</a><span>{source}</span></li>
+            <li>
+              <div class="politics-copy">
+                <strong>{title}</strong>
+                <p>{summary}</p>
+              </div>
+              <span>{source} {published_at}</span>
+            </li>
             """.format(
-                link=html.escape(item["link"]),
                 title=_html_text(title),
+                summary=_html_text(summary),
                 source=_html_text(source),
+                published_at=_html_text(published_at),
             ).strip()
         )
         if len(items) == 3:
             break
     if items:
         return "\n".join(items)
-    fallback = [
-        ("Reuters World", "https://www.reuters.com/world/", "Dunya siyaseti"),
-        ("AP World", "https://apnews.com/world-news", "Dunya siyaseti"),
-        ("Foreign Affairs", "https://www.foreignaffairs.com/", "Analiz"),
-    ]
-    return "\n".join(
-        '<li><a href="{url}" target="_blank" rel="noreferrer">{label}</a><span>{note}</span></li>'.format(
-            url=url,
-            label=label,
-            note=note,
-        )
-        for label, url, note in fallback
-    )
+    return """
+    <li>
+      <div class="politics-copy">
+        <strong>Bugun guclu siyasi baslik cikmadi</strong>
+        <p>Feed akisi zayif kaldiginda bu alan link listesine dusmek yerine bos oldugunu acikca soyler.</p>
+      </div>
+      <span>Radar beklemede</span>
+    </li>
+    """.strip()
 
 
-def _build_market_sidebar() -> list[dict]:
+def _build_market_sidebar(previous_state: dict | None = None) -> list[dict]:
     analysis = _load_invest_analysis()
     if not analysis:
         return []
 
     items: list[dict] = []
+    previous_market = _market_state_lookup(previous_state)
     market = analysis.get("market_snapshot", {})
     holdings = analysis.get("portfolio_mix", {}).get("holdings", [])
     pnl_items = analysis.get("transaction_analysis", {}).get("instruments", [])
@@ -1173,12 +1211,14 @@ def _build_market_sidebar() -> list[dict]:
             "cost_change": "-",
             "year_change": _fmt_pct(usd_yearly),
             "note": "Kur yonu",
+            "raw_value": float(usd_try),
         })
 
-    fund_specs = [("GTA", "Altin Fonu", 4), ("GTZ", "Gumus Fonu", 4), ("GTL", "Para Piyasas?", 6), ("GVI", "Fon Sepeti", 4), ("GTM", "Temettu", 4)]
+    fund_specs = [("GTA", "Altin Fonu", 4), ("GTZ", "Gumus Fonu", 4), ("GTL", "Para Piyasasi", 6), ("GVI", "Fon Sepeti", 4), ("GTM", "Temettu", 4)]
     for code, label, precision in fund_specs:
         holding = holdings_by_code.get(code)
         pnl_row = pnl_by_code.get(code)
+        previous_item = previous_market.get(label, {})
         price = change = None
         try:
             price, change = _fetch_tefas_daily_change(code)
@@ -1188,11 +1228,27 @@ def _build_market_sidebar() -> list[dict]:
             value = f"{price:.{precision}f}"
             note = "TEFAS gunluk"
             daily_change = _fmt_pct(change)
+            raw_value = float(price)
         elif holding:
+            current_price = float(pnl_row.get("current_price")) if pnl_row and pnl_row.get("current_price") not in (None, "") else None
             amount = holding.get("amount")
-            value = f"{amount:,.0f} TL".replace(",", ".") if isinstance(amount, (int, float)) else "Portfoyde"
-            note = "Invest portfoy baglantisi"
-            daily_change = "Veri yok"
+            if current_price is not None:
+                value = f"{current_price:.{precision}f}"
+                note = "Invest guncel fiyat"
+                raw_value = current_price
+            else:
+                value = f"{amount:,.0f} TL".replace(",", ".") if isinstance(amount, (int, float)) else "Portfoyde"
+                note = "Invest portfoy degeri"
+                raw_value = float(amount) if isinstance(amount, (int, float)) else None
+            daily_from_history = _history_daily_change_by_code(code)
+            previous_value = previous_item.get("raw_value")
+            previous_value = float(previous_value) if isinstance(previous_value, (int, float)) else None
+            if daily_from_history is not None:
+                daily_change = _fmt_pct(daily_from_history)
+            elif current_price is not None and previous_value:
+                daily_change = _fmt_pct(((current_price / previous_value) - 1.0) * 100)
+            else:
+                daily_change = "-"
         else:
             continue
         annual = holding.get("one_year_return_pct") if holding else None
@@ -1206,6 +1262,7 @@ def _build_market_sidebar() -> list[dict]:
             "cost_change": _fmt_pct(cost_change),
             "year_change": _fmt_pct(float(annual)) if isinstance(annual, (int, float)) else "-",
             "note": note,
+            "raw_value": raw_value,
         })
 
     garan_holding = holdings_by_name.get("GARAN")
@@ -1225,15 +1282,21 @@ def _build_market_sidebar() -> list[dict]:
             "cost_change": _fmt_pct(cost_change),
             "year_change": _fmt_pct(garan_yearly),
             "note": "Yahoo gunluk",
+            "raw_value": float(garan_price),
         })
     elif garan_holding:
+        previous_item = previous_market.get("GARAN", {})
+        previous_value = previous_item.get("raw_value")
+        previous_value = float(previous_value) if isinstance(previous_value, (int, float)) else None
+        raw_value = float(garan_holding.get("amount", 0)) if isinstance(garan_holding.get("amount", 0), (int, float)) else None
         items.append({
             "label": "GARAN",
             "value": f"{garan_holding.get('amount', 0):,.0f} TL".replace(",", "."),
-            "daily_change": "Veri yok",
+            "daily_change": _fmt_pct(((raw_value / previous_value) - 1.0) * 100) if raw_value and previous_value else "-",
             "cost_change": "-",
             "year_change": "-",
             "note": "Invest holding degeri",
+            "raw_value": raw_value,
         })
 
     return items[:7]
@@ -1290,6 +1353,9 @@ def _render_html(report: dict) -> str:
     .today-list li {{ display:grid; grid-template-columns:auto 1fr; gap:8px 12px; }}
     .today-list span {{ font-weight:700; }}
     .today-list small, .politics-list span {{ color:var(--muted); }}
+    .politics-copy {{ display:grid; gap:6px; }}
+    .politics-copy strong {{ font-family:"Instrument Serif",serif; font-size:1.1rem; line-height:1.15; letter-spacing:-.02em; }}
+    .politics-copy p {{ margin:0; color:#39342f; line-height:1.65; }}
     .section-head {{ display:flex; justify-content:space-between; align-items:end; gap:12px; margin:4px 0 14px; }}
     .section-head h2 {{ margin:0; font-family:"Instrument Serif",serif; font-size:2.1rem; letter-spacing:-.04em; }}
     .section-head p {{ margin:0; color:var(--muted); max-width:38ch; }}
@@ -1308,7 +1374,7 @@ def _render_html(report: dict) -> str:
     .story-card h3 {{ margin:0; font-family:"Instrument Serif",serif; font-size:1.65rem; line-height:1.04; letter-spacing:-.04em; }}
     .story-card p {{ margin:0; color:#39342f; line-height:1.72; }}
     .story-footer {{ padding-top:10px; border-top:1px solid #f1ebe3; color:var(--muted); font-size:.92rem; }}
-    .story-footer a, .politics-list a {{ color:var(--accent); font-weight:700; }}
+    .story-footer a {{ color:var(--accent); font-weight:700; }}
     .right-rail {{ display:grid; gap:16px; }}
     .perf-grid {{ display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:10px; }}
     .perf-card {{ background:#fffaf6; border:1px solid #efe4d8; border-radius:18px; padding:14px; display:grid; gap:6px; }}
@@ -1402,12 +1468,18 @@ def _render_html(report: dict) -> str:
         headline_cards=_render_headline_cards(report),
         more_reads=_render_more_reads(report),
         performance_summary=_render_performance_summary(),
-        market_sidebar=_render_market_sidebar(),
+        market_sidebar=_render_market_sidebar(report),
         error_list=_render_error_list(report),
     )
 
 
 def write_news_outputs(report: dict, output_dir: Path = OUTPUT_DIR) -> dict[str, Path]:
+    def _safe_write(path: Path, content: str) -> None:
+        try:
+            path.write_text(content, encoding="utf-8")
+        except PermissionError:
+            return
+
     output_dir.mkdir(parents=True, exist_ok=True)
     DOCS_DIR.mkdir(parents=True, exist_ok=True)
     NEWS_STATE_JSON.parent.mkdir(parents=True, exist_ok=True)
@@ -1420,13 +1492,13 @@ def write_news_outputs(report: dict, output_dir: Path = OUTPUT_DIR) -> dict[str,
     html_content = _render_html(report)
     json_content = json.dumps(report, ensure_ascii=False, indent=2)
     markdown_content = _render_markdown(report)
-    markdown_path.write_text(markdown_content, encoding="utf-8")
-    json_path.write_text(json_content, encoding="utf-8")
-    html_path.write_text(html_content, encoding="utf-8")
-    docs_html_path.write_text(html_content, encoding="utf-8")
-    docs_json_path.write_text(json_content, encoding="utf-8")
-    docs_markdown_path.write_text(markdown_content, encoding="utf-8")
-    NEWS_STATE_JSON.write_text(json_content, encoding="utf-8")
+    _safe_write(markdown_path, markdown_content)
+    _safe_write(json_path, json_content)
+    _safe_write(html_path, html_content)
+    _safe_write(docs_html_path, html_content)
+    _safe_write(docs_json_path, json_content)
+    _safe_write(docs_markdown_path, markdown_content)
+    _safe_write(NEWS_STATE_JSON, json_content)
     return {
         "markdown": markdown_path,
         "json": json_path,
