@@ -1,0 +1,177 @@
+{
+  "generated_at": "2026-03-31T17:06:18.484679+00:00",
+  "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Humanoid completes live HMND PoC with SAP and Martur Fompak",
+      "link": "https://www.therobotreport.com/humanoid-completes-live-hmnd-poc-sap-martur-fompak/",
+      "published_at": "Mon, 30 Mar 2026 20:57:53 +0000",
+      "summary": "Humanoid and SAP successfully integrated agentic AI into the HMND 01 Alpha robot to autonomously perform warehouse logistics tasks.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 25,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, humanoid ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "autonomous",
+        "humanoid",
+        "robot",
+        "warehouse"
+      ]
+    },
+    {
+      "source": "Payments Dive",
+      "title": "Visa’s stablecoin ally falls for Mastercard",
+      "link": "https://www.paymentsdive.com/news/visas-stablecoin-ally-falls-for-mastercard/816093/",
+      "published_at": "Mon, 30 Mar 2026 10:45:00 -0400",
+      "summary": "Stablecoin startup BVNK crowed about an investment from the largest U.S. card network last year, but now it’s being acquired by a rival.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "categories": [
+        "financial_system"
+      ],
+      "score": 20,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, stablecoin ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "mastercard",
+        "stablecoin",
+        "visa"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Icarus Robotics to test its free-flying robot in the ISS with Voyager",
+      "link": "https://www.therobotreport.com/icarus-robotics-to-test-its-free-flying-robots-in-the-iss-with-voyager/",
+      "published_at": "Mon, 30 Mar 2026 14:00:35 +0000",
+      "summary": "Icarus Robotics hopes its free-flying robot will be able to do repetitive tasks for astronauts on the International Space Station.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 17,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    }
+  ],
+  "trend_snapshot": {
+    "macro": {
+      "count": 0,
+      "avg_score": 0.0
+    },
+    "technology": {
+      "count": 0,
+      "avg_score": 0.0
+    },
+    "robotics": {
+      "count": 2,
+      "avg_score": 21.0
+    },
+    "financial_system": {
+      "count": 1,
+      "avg_score": 20.0
+    }
+  },
+  "trend_signals": [
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+  ],
+  "topic_router": [
+    {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 140,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 63,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 26,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 26,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    }
+  ],
+  "today_stack": [
+    {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 140,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 63,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 26,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    }
+  ],
+  "errors": [
+    "Reuters World: b\"Invoke-WebRequest : Uzak ad \\xc3\\xa7\\xc3\\xb6z\\xc3\\xbclemedi: 'feeds.reuters.com'\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://feeds.re ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\"",
+    "Reuters Business: b\"Invoke-WebRequest : Uzak ad \\xc3\\xa7\\xc3\\xb6z\\xc3\\xbclemedi: 'feeds.reuters.com'\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://feeds.re ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\"",
+    "Reuters Technology: b\"Invoke-WebRequest : Uzak ad \\xc3\\xa7\\xc3\\xb6z\\xc3\\xbclemedi: 'feeds.reuters.com'\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://feeds.re ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\"",
+    "Quartz: not well-formed (invalid token): line 367, column 231",
+    "AP World: b\"Invoke-WebRequest : \\xc4\\xb0stek durduruldu: Ba\\xc4\\x9flant\\xc4\\xb1 beklenmedik bir \\xc5\\x9fekilde kapat\\xc4\\xb1ld\\xc4\\xb1.\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://apnews.c ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\""
+  ],
+  "coverage_notes": {
+    "objective": "Gerçekten önemli olanları seçmek ve günlük stratejik farkındalık yaratmak.",
+    "categories": {
+      "macro": "Makro",
+      "technology": "Teknoloji",
+      "robotics": "Robotik",
+      "financial_system": "Finansal Sistem"
+    }
+  }
+}

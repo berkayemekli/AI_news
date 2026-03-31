@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI News Briefing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root { --paper:#faf8f3; --panel:#ffffff; --ink:#161616; --muted:#726c64; --line:#e8e0d5; --accent:#c65435; --soft:#f6eee7; --shadow:0 14px 30px rgba(0,0,0,.05); }
+    * { box-sizing:border-box; }
+    body { margin:0; background:#ffffff; color:var(--ink); font-family:"Inter",sans-serif; }
+    a { color:inherit; text-decoration:none; }
+    .page { width:min(1380px, calc(100vw - 36px)); margin:0 auto; padding:18px 0 56px; }
+    .masthead { display:flex; justify-content:space-between; align-items:end; gap:16px; border-bottom:1px solid var(--line); padding-bottom:16px; }
+    .brand { font-family:"Instrument Serif",serif; font-size:clamp(2.6rem,5vw,4.6rem); letter-spacing:-.05em; }
+    .mast-copy { color:var(--muted); max-width:44ch; text-align:right; line-height:1.55; }
+    .editorial-grid { display:grid; grid-template-columns:minmax(0,1.68fr) minmax(290px,.72fr); gap:22px; padding-top:22px; align-items:start; }
+    .lead-shell { display:grid; gap:22px; }
+    .lead-story { display:grid; grid-template-columns:minmax(0,1.1fr) minmax(260px,.9fr); background:var(--panel); border:1px solid var(--line); border-radius:26px; overflow:hidden; box-shadow:var(--shadow); }
+    .lead-copy { padding:30px; }
+    .lead-photo { min-height:440px; background:linear-gradient(180deg,rgba(15,15,15,.08),rgba(15,15,15,.22)), url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=80') center/cover; }
+    .kicker { display:inline-flex; padding:8px 12px; border-radius:999px; background:var(--soft); color:var(--accent); font-size:.78rem; font-weight:800; letter-spacing:.12em; text-transform:uppercase; }
+    .lead-story h1 { margin:16px 0 16px; font-family:"Instrument Serif",serif; font-size:clamp(3rem,5vw,5.4rem); line-height:.95; letter-spacing:-.06em; max-width:10ch; }
+    .lead-summary { color:#302c28; font-size:1.08rem; line-height:1.8; max-width:56ch; }
+    .lead-meta { display:grid; gap:14px; margin-top:18px; padding-top:18px; border-top:1px solid var(--line); color:var(--muted); }
+    .lead-meta strong { color:var(--ink); }
+    .actions { margin-top:18px; display:flex; gap:12px; flex-wrap:wrap; }
+    .btn { display:inline-flex; align-items:center; justify-content:center; padding:12px 16px; border-radius:999px; font-weight:700; border:1px solid var(--line); }
+    .btn.primary { background:var(--ink); color:#fff; border-color:var(--ink); }
+    .btn.secondary { background:var(--soft); color:var(--accent); border-color:#edd9ce; }
+    .subgrid { display:grid; grid-template-columns:1fr; gap:18px; }
+    .panel { background:var(--panel); border:1px solid var(--line); border-radius:22px; padding:22px; box-shadow:var(--shadow); }
+    .panel h2 { margin:0 0 10px; font-family:"Instrument Serif",serif; font-size:2rem; letter-spacing:-.04em; }
+    .panel p.intro { margin:0 0 16px; color:var(--muted); line-height:1.65; }
+    .today-list, .politics-list, .error-list { list-style:none; padding:0; margin:0; display:grid; gap:12px; }
+    .today-list li, .politics-list li, .error-list li { padding-bottom:12px; border-bottom:1px solid #f1ebe3; }
+    .today-list li:last-child, .politics-list li:last-child, .error-list li:last-child { border-bottom:0; padding-bottom:0; }
+    .today-list li { display:grid; grid-template-columns:auto 1fr; gap:8px 12px; }
+    .today-list span { font-weight:700; }
+    .today-list small, .politics-list span { color:var(--muted); }
+    .section-head { display:flex; justify-content:space-between; align-items:end; gap:12px; margin:4px 0 14px; }
+    .section-head h2 { margin:0; font-family:"Instrument Serif",serif; font-size:2.1rem; letter-spacing:-.04em; }
+    .section-head p { margin:0; color:var(--muted); max-width:38ch; }
+    .story-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:18px; }
+    .more-grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:14px; margin-top:18px; }
+    .more-card { background:#fff; border:1px solid var(--line); border-radius:18px; padding:16px; display:grid; gap:10px; }
+    .more-card small { color:var(--muted); text-transform:uppercase; letter-spacing:.08em; font-weight:800; }
+    .more-card h3 { margin:0; font-family:"Instrument Serif",serif; font-size:1.3rem; letter-spacing:-.03em; }
+    .more-card p { margin:0; color:#5e5850; line-height:1.55; font-size:.95rem; }
+    .more-card a { color:var(--accent); font-weight:700; }
+    .story-card { background:var(--panel); border:1px solid var(--line); border-radius:22px; overflow:hidden; box-shadow:var(--shadow); }
+    .story-image { height:170px; background-size:cover; background-position:center; }
+    .story-body { padding:18px; display:grid; gap:12px; }
+    .story-meta-row, .story-footer, .rail-head { display:flex; justify-content:space-between; align-items:center; gap:10px; flex-wrap:wrap; }
+    .story-tag, .story-score, .rail-tag { font-size:.74rem; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); font-weight:800; }
+    .story-card h3 { margin:0; font-family:"Instrument Serif",serif; font-size:1.65rem; line-height:1.04; letter-spacing:-.04em; }
+    .story-card p { margin:0; color:#39342f; line-height:1.72; }
+    .story-footer { padding-top:10px; border-top:1px solid #f1ebe3; color:var(--muted); font-size:.92rem; }
+    .story-footer a, .politics-list a { color:var(--accent); font-weight:700; }
+    .right-rail { display:grid; gap:16px; }
+    .perf-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:10px; }
+    .perf-card { background:#fffaf6; border:1px solid #efe4d8; border-radius:18px; padding:14px; display:grid; gap:6px; }
+    .perf-card span { font-size:.76rem; text-transform:uppercase; letter-spacing:.08em; color:var(--muted); font-weight:800; }
+    .perf-card strong { font-size:1.55rem; letter-spacing:-.04em; }
+    .perf-card small { color:var(--muted); }
+    .market-stack { display:grid; gap:8px; }
+    .market-card { padding:12px 0; border-top:1px solid #f1ebe3; }
+    .market-card:first-child { border-top:0; padding-top:0; }
+    .market-top { display:flex; justify-content:space-between; gap:10px; color:var(--muted); font-size:.88rem; }
+    .market-value { margin-top:5px; font-size:1.25rem; font-weight:800; letter-spacing:-.03em; }
+    .market-metrics { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:8px; margin-top:10px; }
+    .market-metrics span { display:grid; gap:2px; padding:8px 10px; border-radius:12px; background:#fbf7f2; }
+    .market-metrics small { color:var(--muted); font-size:.68rem; text-transform:uppercase; letter-spacing:.08em; }
+    .market-metrics strong { font-size:.92rem; letter-spacing:-.02em; }
+    .market-note { margin-top:8px; font-size:.9rem; color:var(--muted); }
+    .rail-photo { height:160px; border-radius:18px; background:linear-gradient(180deg,rgba(16,16,16,.1),rgba(16,16,16,.25)), url('https://images.unsplash.com/photo-1496096265110-f83ad7f96608?auto=format&fit=crop&w=1000&q=80') center/cover; margin-top:12px; }
+    .footer-note { margin-top:26px; color:var(--muted); font-size:.92rem; border-top:1px solid var(--line); padding-top:16px; }
+    @media (max-width:1100px) { .editorial-grid,.lead-story,.subgrid,.story-grid,.perf-grid,.more-grid { grid-template-columns:1fr; } .lead-photo { min-height:300px; order:-1; } }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="masthead">
+      <div class="brand">AI News Briefing</div>
+      <div class="mast-copy">Dunyada gercekten onemli olani gurultuden ayiran daha editoriyal bir sabah sayfasi. Nvidia, robotik, odeme raylari ve jeopolitik ayni duzlemde.</div>
+    </header>
+    <main class="editorial-grid">
+      <section class="lead-shell">
+        <article class="lead-story">
+          <div class="lead-copy">
+            <div class="kicker">Generation AI</div>
+            <h1>Humanoid completes live HMND PoC with SAP and Martur Fompak</h1>
+            <p class="lead-summary">Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.</p>
+            <div class="actions">
+              <a class="btn primary" href="https://www.therobotreport.com/humanoid-completes-live-hmnd-poc-sap-martur-fompak/" target="_blank" rel="noreferrer">Lead haberi ac</a>
+              <a class="btn secondary" href="https://www.reuters.com/world/" target="_blank" rel="noreferrer">Reuters World</a>
+            </div>
+            <div class="lead-meta">
+              <div><strong>Kaynak:</strong> The Robot Report</div>
+              <div><strong>Neden onemli:</strong> Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal &#246;zellikle autonomous, humanoid ekseninde &#246;ne &#231;&#305;k&#305;yor.</div>
+              <div><strong>Guncellendi:</strong> 2026-03-31T17:06:18.484679+00:00</div>
+            </div>
+          </div>
+          <div class="lead-photo"></div>
+        </article>
+        <section class="subgrid">
+          <article class="panel">
+            <h2>Siyasi radar</h2>
+            <p class="intro">Dunya siyaseti ve jeopolitik tarafta bugunun one cikan basliklari.</p>
+            <ul class="politics-list"><li><a href="https://www.reuters.com/world/" target="_blank" rel="noreferrer">Reuters World</a><span>Dunya siyaseti</span></li>
+<li><a href="https://apnews.com/world-news" target="_blank" rel="noreferrer">AP World</a><span>Dunya siyaseti</span></li>
+<li><a href="https://www.foreignaffairs.com/" target="_blank" rel="noreferrer">Foreign Affairs</a><span>Analiz</span></li></ul>
+          </article>
+        </section>
+        <section>
+          <div class="section-head">
+            <h2>Secilmis haberler</h2>
+            <p>Quartz hissine daha yakin, daha gorsel ve paylasilabilir kartlar.</p>
+          </div>
+          <div class="story-grid"><article class="story-card">
+              <div class="story-image" style="background-image:url('https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80');"></div>
+              <div class="story-body">
+                <div class="story-meta-row">
+                  <span class="story-tag">Finansal Sistem</span>
+                  <span class="story-score">Skor 20</span>
+                </div>
+                <h3>Visa&#8217;s stablecoin ally falls for Mastercard</h3>
+                <p>Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.</p>
+                <div class="story-footer">
+                  <span><strong>Kaynak:</strong> Payments Dive</span>
+                  <a href="https://www.paymentsdive.com/news/visas-stablecoin-ally-falls-for-mastercard/816093/" target="_blank" rel="noreferrer">Haberi ac</a>
+                </div>
+              </div>
+            </article>
+<article class="story-card">
+              <div class="story-image" style="background-image:url('https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80');"></div>
+              <div class="story-body">
+                <div class="story-meta-row">
+                  <span class="story-tag">Robotik</span>
+                  <span class="story-score">Skor 17</span>
+                </div>
+                <h3>Icarus Robotics to test its free-flying robot in the ISS with Voyager</h3>
+                <p>Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.</p>
+                <div class="story-footer">
+                  <span><strong>Kaynak:</strong> The Robot Report</span>
+                  <a href="https://www.therobotreport.com/icarus-robotics-to-test-its-free-flying-robots-in-the-iss-with-voyager/" target="_blank" rel="noreferrer">Haberi ac</a>
+                </div>
+              </div>
+            </article></div>
+          <div class="more-grid"><article class="more-card">
+              <small>Robotik</small>
+              <h3>The Robot Report</h3>
+              <p>Robotik &#351;irketleri, depo otomasyonu, humanoid geli&#351;meler ve sanayi kullan&#305;mlar&#305;n&#305; daha odakl&#305; verir.</p>
+              <a href="https://www.therobotreport.com/" target="_blank" rel="noreferrer">Kaynaga git</a>
+            </article>
+<article class="more-card">
+              <small>&#214;demeler / Visa</small>
+              <h3>Payments Dive</h3>
+              <p>Visa, Mastercard, fintek altyap&#305;s&#305;, API ekonomisi ve &#246;deme a&#287;lar&#305; taraf&#305;nda daha odakl&#305; ak&#305;&#351; verir.</p>
+              <a href="https://www.paymentsdive.com/" target="_blank" rel="noreferrer">Kaynaga git</a>
+            </article>
+<article class="more-card">
+              <small>YZ Modelleri</small>
+              <h3>The Information</h3>
+              <p>Model sava&#351;&#305;, &#351;irket i&#231;i hamleler, &#252;r&#252;n stratejisi ve yat&#305;r&#305;m ak&#305;&#351;lar&#305;n&#305; erken okumak i&#231;in &#231;ok g&#252;&#231;l&#252;.</p>
+              <a href="https://www.theinformation.com/about/" target="_blank" rel="noreferrer">Kaynaga git</a>
+            </article></div>
+        </section>
+      </section>
+      <aside class="right-rail">
+        <article class="panel">
+          <div class="rail-head"><span class="rail-tag">Invest ozeti</span></div>
+          <h2>Portfoy gorunumu</h2>
+          <div class="perf-grid"><div class="perf-card">
+          <span>Maliyeti bilinen fonlar</span>
+          <strong>%1.98</strong>
+          <small>54.977 TL</small>
+        </div>
+<div class="perf-card">
+          <span>Gunluk getiri</span>
+          <strong>%0.78</strong>
+          <small>Portfoy bazinda</small>
+        </div></div>
+          <div class="rail-photo"></div>
+        </article>
+        <article class="panel">
+          <div class="rail-head"><span class="rail-tag">Piyasa panosu</span></div>
+          <h2>Fonlar ve ana izleme listesi</h2>
+          <div class="market-stack"><article class="market-card">
+              <div class="market-top">
+                <strong>USD/TRY</strong>
+                <span>44.48</span>
+              </div>
+              <div class="market-metrics">
+                <span><small>Gunluk</small><strong>%0.06</strong></span>
+                <span><small>Maliyet</small><strong>-</strong></span>
+                <span><small>1Y</small><strong>%21.38</strong></span>
+              </div>
+              <div class="market-note">Kur yonu</div>
+            </article>
+<article class="market-card">
+              <div class="market-top">
+                <strong>Altin Fonu</strong>
+                <span>1.345.020 TL</span>
+              </div>
+              <div class="market-metrics">
+                <span><small>Gunluk</small><strong>Veri yok</strong></span>
+                <span><small>Maliyet</small><strong>%-2.02</strong></span>
+                <span><small>1Y</small><strong>%67.60</strong></span>
+              </div>
+              <div class="market-note">Invest portfoy baglantisi</div>
+            </article>
+<article class="market-card">
+              <div class="market-top">
+                <strong>Gumus Fonu</strong>
+                <span>165.825 TL</span>
+              </div>
+              <div class="market-metrics">
+                <span><small>Gunluk</small><strong>Veri yok</strong></span>
+                <span><small>Maliyet</small><strong>%-12.01</strong></span>
+                <span><small>1Y</small><strong>-</strong></span>
+              </div>
+              <div class="market-note">Invest portfoy baglantisi</div>
+            </article>
+<article class="market-card">
+              <div class="market-top">
+                <strong>Para Piyasas?</strong>
+                <span>828.300 TL</span>
+              </div>
+              <div class="market-metrics">
+                <span><small>Gunluk</small><strong>Veri yok</strong></span>
+                <span><small>Maliyet</small><strong>%2.60</strong></span>
+                <span><small>1Y</small><strong>%50.50</strong></span>
+              </div>
+              <div class="market-note">Invest portfoy baglantisi</div>
+            </article>
+<article class="market-card">
+              <div class="market-top">
+                <strong>Fon Sepeti</strong>
+                <span>277.275 TL</span>
+              </div>
+              <div class="market-metrics">
+                <span><small>Gunluk</small><strong>Veri yok</strong></span>
+                <span><small>Maliyet</small><strong>%55.46</strong></span>
+                <span><small>1Y</small><strong>-</strong></span>
+              </div>
+              <div class="market-note">Invest portfoy baglantisi</div>
+            </article>
+<article class="market-card">
+              <div class="market-top">
+                <strong>Temettu</strong>
+                <span>188.875 TL</span>
+              </div>
+              <div class="market-metrics">
+                <span><small>Gunluk</small><strong>Veri yok</strong></span>
+                <span><small>Maliyet</small><strong>%-6.75</strong></span>
+                <span><small>1Y</small><strong>%43.20</strong></span>
+              </div>
+              <div class="market-note">Invest portfoy baglantisi</div>
+            </article>
+<article class="market-card">
+              <div class="market-top">
+                <strong>GARAN</strong>
+                <span>126.50</span>
+              </div>
+              <div class="market-metrics">
+                <span><small>Gunluk</small><strong>%0.80</strong></span>
+                <span><small>Maliyet</small><strong>-</strong></span>
+                <span><small>1Y</small><strong>%-11.29</strong></span>
+              </div>
+              <div class="market-note">Yahoo gunluk</div>
+            </article></div>
+        </article>
+      </aside>
+    </main>
+    <footer class="footer-note">Bu sayfa AI News motoru tarafindan otomatik uretilir. Politik tarama mumkun oldugunca Reuters merkezli kalir.</footer>
+  </div>
+</body>
+</html>
