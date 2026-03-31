@@ -864,61 +864,57 @@ def _render_markdown(report: dict) -> str:
 
 def _render_headline_cards(report: dict) -> str:
     cards = []
-    for item in report.get("headlines", []):
-        labels = ", ".join(CATEGORY_LABELS.get(category, category) for category in item["categories"])
+    for item in report.get("headlines", [])[1:7]:
+        labels = " ? ".join(CATEGORY_LABELS.get(category, category) for category in item["categories"])
         cards.append(
             """
-            <article class="headline-card">
-              <div class="headline-top">
-                <span class="pill">{labels}</span>
-                <span class="score">Puan {score}</span>
+            <article class="story-card">
+              <div class="story-meta-row">
+                <span class="story-tag">{labels}</span>
+                <span class="story-score">Skor {score}</span>
               </div>
               <h3>{title}</h3>
-              <p>{summary_tr}</p>
-              <div class="meta"><strong>Kaynak:</strong> {source}</div>
-              <div class="meta"><strong>Neden önemli:</strong> {why}</div>
-              <a class="btn primary" href="{link}" target="_blank" rel="noreferrer">Habere Git</a>
+              <p>{summary}</p>
+              <div class="story-footer">
+                <span><strong>Kaynak:</strong> {source}</span>
+                <a href="{link}" target="_blank" rel="noreferrer">Haberi a?</a>
+              </div>
             </article>
             """.format(
-                labels=_html_text(labels),
+                labels=_html_text(labels or "Genel"),
                 score=item["score"],
                 title=_html_text(item["title"]),
-                summary_tr=_html_text(item.get("summary_tr") or item["summary"] or "Özet bulunamadı."),
+                summary=_html_text(item.get("summary_tr") or item["summary"] or "?zet bulunamad?."),
                 source=_html_text(item["source"]),
-                why=_html_text(item["why_it_matters"]),
                 link=html.escape(item["link"]),
             ).strip()
         )
     if cards:
         return "\n".join(cards)
     return """
-    <article class="headline-card empty">
-      <div class="headline-top">
-        <span class="pill">Feed Durumu</span>
-      </div>
-      <h3>Bugün anlamlı başlık seçilemedi</h3>
-      <p>Muhtemel nedenler: kaynak erişim hatası, DNS/TLS sorunu veya seçici filtrelerden geçen haber olmaması.</p>
+    <article class="story-card empty-state">
+      <div class="story-meta-row"><span class="story-tag">Feed durumu</span></div>
+      <h3>Bug?n yeterince g??l? haber se?ilemedi</h3>
+      <p>Kaynak eri?imi d??t???nde ya da filtre ?ok sert kald???nda briefing bu alan? bo? ge?mek yerine bunu a??k?a s?yler.</p>
     </article>
     """.strip()
 
 
 def _render_router_cards(report: dict) -> str:
     cards = []
-    for route in report.get("topic_router", []):
+    for route in report.get("topic_router", [])[:4]:
         cards.append(
             """
             <article class="route-card">
-              <div class="route-top">
-                <span class="pill">{label}</span>
-                <span class="route-score">Trend {score}</span>
+              <div class="route-topline">
+                <span class="route-label">{label}</span>
+                <span class="route-trend">Trend {score}</span>
               </div>
               <h3>{source}</h3>
               <p>{reason}</p>
-              <div class="meta"><strong>Yedek kaynak:</strong> {backup}</div>
-              <div class="meta"><strong>Kullanım:</strong> {mode}</div>
-              <div class="actions">
-                <a class="btn primary" href="{url}" target="_blank" rel="noreferrer">En İyi Kaynak</a>
-                <a class="btn secondary" href="{backup_url}" target="_blank" rel="noreferrer">Yedek Kaynak</a>
+              <div class="route-links">
+                <a href="{url}" target="_blank" rel="noreferrer">Ana kaynak</a>
+                <span>Yedek: {backup}</span>
               </div>
             </article>
             """.format(
@@ -926,10 +922,8 @@ def _render_router_cards(report: dict) -> str:
                 score=route["score"],
                 source=_html_text(route["best_source"]),
                 reason=_html_text(route["reason"]),
-                backup=_html_text(route["backup_source"]),
-                mode=_html_text(route["mode"]),
                 url=html.escape(route["best_url"]),
-                backup_url=html.escape(route["backup_url"]),
+                backup=_html_text(route["backup_source"]),
             ).strip()
         )
     return "\n".join(cards)
@@ -937,39 +931,41 @@ def _render_router_cards(report: dict) -> str:
 
 def _render_today_stack(report: dict) -> str:
     items = []
-    for index, route in enumerate(report.get("today_stack", []), start=1):
+    for index, route in enumerate(report.get("today_stack", [])[:5], start=1):
         items.append(
-            "<li><strong>{index}. {source}:</strong> {label} konusu için bugünün en iyi ilk durağı.</li>".format(
+            "<li><strong>{index}.</strong> <span>{label}</span><small>{source}</small></li>".format(
                 index=index,
-                source=_html_text(route["best_source"]),
                 label=_html_text(route["label"]),
+                source=_html_text(route["best_source"]),
             )
         )
-    return "\n".join(items)
+    if items:
+        return "\n".join(items)
+    return "<li><strong>1.</strong> <span>Bug?n rota olu?mad?</span><small>Kaynak bekleniyor</small></li>"
 
 
 def _render_error_list(report: dict) -> str:
     if not report.get("errors"):
-        return "<li>Kaynak hatası görünmüyor.</li>"
-    return "\n".join("<li>{}</li>".format(_html_text(error)) for error in report["errors"])
+        return "<li>Kaynak hatas? g?r?nm?yor.</li>"
+    return "\n".join("<li>{}</li>".format(_html_text(error)) for error in report["errors"][:5])
 
 
 def _render_market_sidebar() -> str:
     items = _build_market_sidebar()
     if not items:
-        return '<div class="market-empty">Invest verisi bulunamadı.</div>'
+        return '<div class="market-empty">Invest verisi bulunamad?.</div>'
     blocks = []
-    for item in items:
+    for item in items[:8]:
         blocks.append(
             """
-            <div class="market-item">
-              <div class="market-head">
+            <article class="market-card">
+              <div class="market-top">
                 <strong>{label}</strong>
                 <span>{change}</span>
               </div>
               <div class="market-value">{value}</div>
               <div class="market-note">{note}</div>
-            </div>
+            </article>
             """.format(
                 label=_html_text(item["label"]),
                 change=_html_text(item["change"]),
@@ -980,562 +976,347 @@ def _render_market_sidebar() -> str:
     return "\n".join(blocks)
 
 
+def _render_signal_strip(report: dict) -> str:
+    bits = [
+        ("Ba?l?k", str(len(report.get("headlines", [])))),
+        ("Router", str(len(report.get("topic_router", [])))),
+        ("Sinyal", _html_text(" ? ".join(report.get("trend_signals", [])[:2]) or "Sinyal ak??? haz?rlan?yor")),
+    ]
+    return "\n".join(
+        '<div class="signal-chip"><span>{}</span><strong>{}</strong></div>'.format(_html_text(label), value)
+        for label, value in bits
+    )
+
+
+def _render_political_brief(report: dict) -> str:
+    items = []
+    for item in report.get("headlines", []):
+        source = item.get("source", "")
+        cats = item.get("categories", [])
+        title = item.get("title", "")
+        text = " ".join([title, item.get("summary", ""), item.get("summary_tr", "")]).lower()
+        if "macro" not in cats and not any(token in text for token in ("trump", "china", "tariff", "white house", "beijing", "europe", "nato", "ukraine", "iran", "trade", "sanction", "congress")):
+            continue
+        items.append(
+            """
+            <li>
+              <a href="{link}" target="_blank" rel="noreferrer">{title}</a>
+              <span>{source}</span>
+            </li>
+            """.format(
+                link=html.escape(item["link"]),
+                title=_html_text(title),
+                source=_html_text(source),
+            ).strip()
+        )
+        if len(items) == 4:
+            break
+    if items:
+        return "\n".join(items)
+    return '<li><a href="https://www.reuters.com/world/" target="_blank" rel="noreferrer">Reuters World ak???n? a?</a><span>Tarafs?z siyasi tarama</span></li>'
+
+
+def _build_market_sidebar() -> list[dict]:
+    analysis = _load_invest_analysis()
+    if not analysis:
+        return []
+
+    items: list[dict] = []
+    market = analysis.get("market_snapshot", {})
+    holdings = analysis.get("portfolio_mix", {}).get("holdings", [])
+    holdings_by_code = {
+        str(row.get("instrument_code") or "").upper(): row
+        for row in holdings
+        if row.get("instrument_code")
+    }
+    holdings_by_name = {
+        str(row.get("instrument_name") or "").upper(): row
+        for row in holdings
+    }
+
+    usd_try = market.get("usd_try")
+    if usd_try is not None:
+        trend_map = {
+            "up": "Yukar?",
+            "down": "A?a??",
+            "flat": "Yatay",
+            "unknown": "Belirsiz",
+            "data_unavailable": "Veri yok",
+        }
+        items.append(
+            {
+                "label": "USD/TRY",
+                "value": f"{usd_try:.2f}",
+                "change": trend_map.get(str(market.get("usd_try_trend", "unknown")), "Bilgi yok"),
+                "note": "Kur y?n?",
+            }
+        )
+
+    fund_specs = [
+        ("GTA", "Alt?n Fonu", 4),
+        ("GTZ", "G?m?? Fonu", 4),
+        ("GTL", "Para Piyasas?", 6),
+        ("GVI", "Fon Sepeti", 4),
+        ("GTM", "Temett?", 4),
+    ]
+    for code, label, precision in fund_specs:
+        holding = holdings_by_code.get(code)
+        price = change = None
+        try:
+            price, change = _fetch_tefas_daily_change(code)
+        except Exception:
+            price, change = None, None
+        if price is not None:
+            value = f"{price:.{precision}f}"
+            note = "TEFAS g?nl?k"
+        elif holding:
+            amount = holding.get("amount")
+            annual = holding.get("one_year_return_pct")
+            value = f"{amount:,.0f} TL".replace(",", ".") if isinstance(amount, (int, float)) else "Portf?yde"
+            note = f"Portf?y tutar? ? 1Y %{annual:.1f}" if isinstance(annual, (int, float)) else "Portf?yde mevcut"
+        else:
+            continue
+        items.append(
+            {
+                "label": label,
+                "value": value,
+                "change": f"%{change:.2f}" if change is not None else "Portf?y ba??",
+                "note": note,
+            }
+        )
+
+    garan_holding = holdings_by_name.get("GARAN")
+    try:
+        garan_price, garan_change = _fetch_yahoo_daily_change("GARAN.IS")
+    except Exception:
+        garan_price, garan_change = None, None
+    if garan_price is not None:
+        items.append(
+            {
+                "label": "GARAN",
+                "value": f"{garan_price:.2f}",
+                "change": f"%{garan_change:.2f}" if garan_change is not None else "G?nl?k yok",
+                "note": "Yahoo g?nl?k",
+            }
+        )
+    elif garan_holding:
+        items.append(
+            {
+                "label": "GARAN",
+                "value": f"{garan_holding.get('amount', 0):,.0f} TL".replace(",", "."),
+                "change": "Portf?y ba??",
+                "note": "Invest holding de?eri",
+            }
+        )
+
+    return items[:8]
+
+
 def _render_html(report: dict) -> str:
-    generated_at = html.escape(report["generated_at"])
-    trend_signals = " ".join(html.escape(_fix_mojibake(signal)) for signal in report.get("trend_signals", []))
-    headline_count = len(report.get("headlines", []))
-    router_count = len(report.get("topic_router", []))
+    generated_at = _html_text(report["generated_at"])
     lead = report["headlines"][0] if report.get("headlines") else None
-    lead_title = html.escape(_fix_mojibake(lead["title"])) if lead else "Bugünün güçlü sinyalleri burada toplanıyor."
-    lead_summary = html.escape(_fix_mojibake(lead.get("summary_tr") or lead.get("summary") or "")) if lead else "Filtrelenmiş küresel gelişmeler, daha editoryal bir akış içinde sunulur."
-    lead_source = html.escape(_fix_mojibake(lead["source"])) if lead else "AI News"
+    lead_title = _html_text(lead["title"]) if lead else "Bug?n?n g??l? sinyalleri burada toplan?yor."
+    lead_summary = _html_text(lead.get("summary_tr") or lead.get("summary") or "Filtrelenmi? k?resel geli?meler daha editoryal bir ak?? i?inde sunulur.") if lead else "Filtrelenmi? k?resel geli?meler daha editoryal bir ak?? i?inde sunulur."
+    lead_source = _html_text(lead["source"]) if lead else "AI News"
     lead_link = html.escape(lead["link"]) if lead else "#"
-    market_sidebar = _render_market_sidebar()
+    lead_reason = _html_text(lead.get("why_it_matters") or "Sermaye, teknoloji ve devlet hamlelerinin nereye kayd???n? daha h?zl? g?rmek i?in.") if lead else "Sermaye, teknoloji ve devlet hamlelerinin nereye kayd???n? daha h?zl? g?rmek i?in."
+    trend_line = _html_text(" ? ".join(report.get("trend_signals", [])[:3]) or "Makro, yapay zeka, robotik ve finansal altyap? ayn? ekranda.")
     return """<!DOCTYPE html>
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dünya Gelişmeleri Paneli</title>
+  <title>AI News Briefing</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Source+Serif+4:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
   <style>
     :root {{
-      --bg: #f4eee4;
-      --panel: #fffdfa;
-      --panel-strong: #fbf6ef;
-      --line: #d9cdbc;
-      --ink: #1d2022;
-      --muted: #6f685f;
-      --gold: #a13c2b;
-      --cyan: #235f5b;
-      --mint: #235f5b;
-      --shadow: 0 18px 36px rgba(74, 50, 28, 0.08);
+      --paper: #fbfaf7;
+      --panel: #ffffff;
+      --ink: #171717;
+      --muted: #6f6a63;
+      --line: #e6dfd4;
+      --accent: #bb4d36;
+      --accent-soft: #f7ece7;
     }}
     * {{ box-sizing: border-box; }}
-    body {{
-      margin: 0;
-      font-family: "Manrope", sans-serif;
-      color: var(--ink);
-      background:
-        radial-gradient(circle at 12% 12%, rgba(161, 60, 43, 0.08), transparent 18%),
-        linear-gradient(180deg, #f8f3eb 0%, #f1e9dd 100%);
-      min-height: 100vh;
-    }}
-    body::before {{
-      content: "";
-      position: fixed;
-      inset: 0;
-      background-image:
-        linear-gradient(rgba(31,32,34,0.03) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(31,32,34,0.03) 1px, transparent 1px);
-      background-size: 28px 28px;
-      mask-image: linear-gradient(180deg, rgba(0,0,0,0.32), transparent 88%);
-      pointer-events: none;
-    }}
-    .wrap {{
-      width: min(1240px, calc(100% - 32px));
-      margin: 0 auto;
-      padding: 22px 0 56px;
-      position: relative;
-      z-index: 1;
-    }}
-    .topbar {{
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 18px;
-      padding: 0 0 18px;
-      margin-bottom: 18px;
-      border-bottom: 1px solid var(--line);
-      color: var(--muted);
-      font-size: 0.92rem;
-    }}
-    .topbar strong {{
-      color: var(--ink);
-      text-transform: uppercase;
-      letter-spacing: 0.1em;
-      font-size: 0.78rem;
-    }}
-    .hero {{
-      display: grid;
-      grid-template-columns: 1.25fr 0.75fr;
-      gap: 24px;
-      min-height: 52vh;
-    }}
-    .hero-main, .hero-side, .section-card, .headline-card, .route-card, .mini-panel {{
-      border: 1px solid var(--line);
-      background: var(--panel);
-      box-shadow: var(--shadow);
-    }}
-    .hero-main {{
-      border-radius: 32px;
-      min-height: 520px;
-      padding: 34px;
-      display: flex;
-      align-items: stretch;
-      background:
-        linear-gradient(180deg, rgba(255, 252, 248, 0.2), rgba(255, 252, 248, 0.94)),
-        url("https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1400&q=80") center/cover;
-    }}
-    .hero-side {{
-      border-radius: 28px;
-      display: grid;
-      gap: 1px;
-      overflow: hidden;
-      background: var(--line);
-    }}
-    .hero-panel {{
-      min-height: 220px;
-      padding: 24px;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      background: var(--panel-strong);
-    }}
-    .hero-panel.top {{
-      background:
-        linear-gradient(180deg, rgba(255, 250, 244, 0.55), rgba(255, 250, 244, 0.96)),
-        url("https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1000&q=80") center/cover;
-    }}
-    .hero-panel.bottom {{
-      background:
-        linear-gradient(180deg, rgba(251, 246, 239, 0.68), rgba(251, 246, 239, 0.98)),
-        url("https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1000&q=80") center/cover;
-    }}
-    .eyebrow {{
-      display: inline-flex;
-      padding: 8px 14px;
-      border-radius: 999px;
-      border: 1px solid rgba(161,60,43,0.16);
-      background: rgba(255,252,248,0.86);
-      color: var(--gold);
-      font-size: 0.76rem;
-      font-weight: 800;
-      letter-spacing: 0.18em;
-      text-transform: uppercase;
-    }}
-    h1, h2, h3 {{
-      margin: 0;
-      font-family: "Source Serif 4", serif;
-      letter-spacing: -0.03em;
-      line-height: 1;
-    }}
-    h1 {{
-      margin-top: 18px;
-      font-size: clamp(3rem, 7vw, 5.8rem);
-      max-width: 11ch;
-    }}
-    h2 {{
-      font-size: clamp(2rem, 3vw, 3rem);
-    }}
-    h3 {{
-      font-size: 1.7rem;
-      margin-top: 16px;
-    }}
-    .lede {{
-      margin-top: 18px;
-      max-width: 58ch;
-      color: #403a34;
-      font-size: 1.08rem;
-    }}
-    .hero-copy {{
-      display: grid;
-      grid-template-columns: 1.15fr 0.85fr;
-      gap: 22px;
-      width: 100%;
-      align-self: end;
-    }}
-    .hero-rail {{
-      align-self: end;
-      padding: 18px;
-      border-radius: 22px;
-      border: 1px solid var(--line);
-      background: rgba(255,253,250,0.92);
-    }}
-    .hero-rail p {{
-      margin: 10px 0 0;
-      color: var(--muted);
-    }}
-    .hero-stats, .mini-grid, .headline-grid, .router-grid {{
-      display: grid;
-      gap: 16px;
-    }}
-    .hero-stats {{
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      margin-top: 28px;
-    }}
-    .stat, .mini-panel {{
-      border-radius: 18px;
-      padding: 10px 12px;
-      background: var(--panel-strong);
-    }}
-    .stat strong {{
-      display: block;
-      font-size: 1rem;
-    }}
-    .stat span {{
-      font-size: 0.82rem;
-    }}
-    .stat span, .muted, .meta, .footer-note {{
-      color: var(--muted);
-    }}
-    .section {{
-      margin-top: 28px;
-    }}
-    .section-card {{
-      border-radius: 28px;
-      padding: 28px;
-    }}
-    .section-top {{
-      display: flex;
-      justify-content: space-between;
-      align-items: end;
-      gap: 18px;
-      margin-bottom: 22px;
-    }}
-    .section-top p {{
-      max-width: 58ch;
-      margin: 0;
-      color: var(--muted);
-    }}
-    .headline-grid {{
-      grid-template-columns: repeat(12, 1fr);
-    }}
-    .headline-card, .route-card {{
-      border-radius: 24px;
-      padding: 22px;
-      background: linear-gradient(180deg, rgba(255,255,255,0.92), rgba(251,246,239,0.96)), var(--panel-strong);
-      position: relative;
-      overflow: hidden;
-    }}
-    .headline-card::before, .route-card::before {{
-      content: "";
-      position: absolute;
-      inset: 0 auto auto 0;
-      width: 100%;
-      height: 4px;
-      background: linear-gradient(90deg, var(--gold), transparent 72%);
-    }}
-    .headline-card {{
-      grid-column: span 6;
-    }}
-    .headline-card.empty {{
-      grid-column: span 12;
-    }}
-    .route-card {{
-      grid-column: span 6;
-    }}
-    .headline-top, .route-top {{
-      display: flex;
-      justify-content: space-between;
-      gap: 10px;
-      align-items: center;
-    }}
-    .pill, .score, .route-score {{
-      display: inline-flex;
-      border-radius: 999px;
-      padding: 8px 12px;
-      border: 1px solid var(--line);
-      background: rgba(255,255,255,0.76);
-      font-size: 0.78rem;
-      font-weight: 800;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-    }}
-    .pill {{ color: var(--mint); }}
-    .score, .route-score {{ color: var(--gold); }}
-    .headline-card h3 {{
-      font-size: 2rem;
-      line-height: 1.02;
-    }}
-    p {{
-      line-height: 1.6;
-    }}
-    .meta {{
-      margin-top: 12px;
-      font-size: 0.95rem;
-    }}
-    .actions {{
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      margin-top: 20px;
-    }}
-    .btn {{
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      padding: 12px 16px;
-      border-radius: 999px;
-      text-decoration: none;
-      font-weight: 800;
-      border: 1px solid var(--line);
-      transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
-    }}
-    .btn:hover {{
-      transform: translateY(-1px);
-    }}
-    .btn.primary {{
-      background: linear-gradient(135deg, #b54632, #8a2a1f);
-      color: #fff9f5;
-      border-color: transparent;
-    }}
-    .btn.secondary {{
-      color: var(--ink);
-      background: rgba(255,255,255,0.75);
-    }}
-    .mini-grid {{
-      grid-template-columns: 1.1fr 0.9fr;
-      margin-top: 22px;
-    }}
-    .today-list ol {{
-      margin: 14px 0 0;
-      padding-left: 20px;
-    }}
-    .today-list li {{
-      margin-top: 10px;
-      color: #dce7ed;
-    }}
-    .clock {{
-      margin-top: 10px;
-      font-size: clamp(2rem, 5vw, 3.5rem);
-      font-weight: 800;
-      letter-spacing: -0.05em;
-    }}
-    .errors ul {{
-      margin: 14px 0 0;
-      padding-left: 18px;
-    }}
-    .errors li {{
-      margin-top: 8px;
-      color: #dce7ed;
-    }}
-    .market-stack {{
-      display: grid;
-      gap: 10px;
-      margin-top: 14px;
-    }}
-    .market-item {{
-      border: 1px solid var(--line);
-      border-radius: 16px;
-      padding: 12px;
-      background: rgba(255,255,255,0.72);
-    }}
-    .market-head {{
-      display: flex;
-      justify-content: space-between;
-      gap: 10px;
-      color: var(--muted);
-      font-size: 0.84rem;
-    }}
-    .market-head strong {{
-      color: var(--ink);
-    }}
-    .market-value {{
-      margin-top: 6px;
-      font-size: 1.35rem;
-      font-weight: 800;
-      color: var(--ink);
-    }}
-    .market-note {{
-      margin-top: 4px;
-      font-size: 0.82rem;
-      color: var(--muted);
-    }}
-    .market-empty {{
-      margin-top: 12px;
-      color: var(--muted);
-    }}
-    .footer-note {{
-      margin-top: 28px;
-      padding: 0 6px;
-      font-size: 0.92rem;
-    }}
-    @media (max-width: 960px) {{
-      .hero, .mini-grid {{
-        grid-template-columns: 1fr;
-      }}
-      .hero-copy {{
-        grid-template-columns: 1fr;
-      }}
-      .headline-card, .route-card {{
-        grid-column: span 12;
-      }}
-    }}
-    @media (max-width: 640px) {{
-      .wrap {{
-        width: min(100% - 20px, 1180px);
-      }}
-      .hero-main {{
-        min-height: 520px;
-        padding: 24px;
-      }}
-      .hero-stats {{
-        grid-template-columns: 1fr;
-      }}
-      .section-card {{
-        padding: 20px;
-      }}
-      .section-top {{
-        display: block;
-      }}
-    }}
+    body {{ margin: 0; background: var(--paper); color: var(--ink); font-family: "Inter", sans-serif; }}
+    a {{ color: inherit; text-decoration: none; }}
+    .page {{ width: min(1480px, calc(100vw - 40px)); margin: 0 auto; padding: 18px 0 56px; }}
+    .masthead {{ display: flex; justify-content: space-between; gap: 16px; align-items: end; padding: 8px 0 18px; border-bottom: 1px solid var(--line); }}
+    .brand {{ font-family: "Libre Baskerville", serif; font-size: clamp(2rem, 4vw, 3.4rem); letter-spacing: -0.04em; }}
+    .mast-meta {{ color: var(--muted); font-size: 0.95rem; max-width: 46ch; text-align: right; }}
+    .signal-row {{ display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; padding: 14px 0 18px; border-bottom: 1px solid var(--line); }}
+    .signal-chip {{ display: grid; gap: 4px; padding: 12px 14px; background: var(--panel); border: 1px solid var(--line); border-radius: 14px; min-height: 72px; }}
+    .signal-chip span {{ font-size: 0.76rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }}
+    .signal-chip strong {{ font-size: 0.98rem; line-height: 1.35; }}
+    .editorial-grid {{ display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(320px, 0.92fr); gap: 26px; padding-top: 20px; align-items: start; }}
+    .lead-column {{ display: grid; gap: 24px; }}
+    .lead-story {{ background: var(--panel); border: 1px solid var(--line); border-radius: 22px; padding: 28px 30px 30px; }}
+    .kicker {{ display: inline-flex; align-items: center; gap: 8px; font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); font-weight: 800; }}
+    .lead-story h1 {{ margin: 14px 0 14px; font-family: "Libre Baskerville", serif; font-size: clamp(2.5rem, 5vw, 4.6rem); line-height: 1.02; letter-spacing: -0.05em; max-width: 12ch; }}
+    .lead-summary {{ font-size: 1.08rem; line-height: 1.75; max-width: 64ch; color: #2b2926; }}
+    .lead-meta {{ display: grid; grid-template-columns: 180px 1fr; gap: 18px; margin-top: 22px; padding-top: 18px; border-top: 1px solid var(--line); }}
+    .lead-source strong, .rail-card h3, .section-title {{ font-family: "Libre Baskerville", serif; }}
+    .lead-source {{ color: var(--muted); line-height: 1.6; }}
+    .lead-why {{ line-height: 1.7; }}
+    .lead-actions {{ margin-top: 18px; display: flex; gap: 12px; flex-wrap: wrap; }}
+    .btn {{ display: inline-flex; align-items: center; justify-content: center; padding: 12px 16px; border-radius: 999px; border: 1px solid var(--line); font-weight: 700; }}
+    .btn.primary {{ background: var(--ink); color: #fff; border-color: var(--ink); }}
+    .btn.secondary {{ background: var(--accent-soft); color: var(--accent); border-color: #f0d8ce; }}
+    .briefing-grid {{ display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(280px, 0.85fr); gap: 20px; }}
+    .brief-card, .rail-card, .story-card, .route-card {{ background: var(--panel); border: 1px solid var(--line); border-radius: 20px; }}
+    .brief-card, .rail-card {{ padding: 22px; }}
+    .section-title {{ font-size: 1.6rem; margin: 0 0 10px; letter-spacing: -0.03em; }}
+    .section-copy {{ color: var(--muted); line-height: 1.65; margin: 0 0 18px; }}
+    .today-list, .politics-list, .error-list {{ list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }}
+    .today-list li {{ display: grid; grid-template-columns: auto 1fr; gap: 10px 12px; align-items: baseline; padding-bottom: 12px; border-bottom: 1px solid #f0ebe3; }}
+    .today-list li:last-child, .politics-list li:last-child, .error-list li:last-child {{ border-bottom: 0; padding-bottom: 0; }}
+    .today-list span {{ font-weight: 700; }}
+    .today-list small {{ grid-column: 2; color: var(--muted); }}
+    .story-grid {{ display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }}
+    .story-card {{ padding: 20px; display: grid; gap: 14px; }}
+    .story-card h3 {{ margin: 0; font-family: "Libre Baskerville", serif; font-size: 1.45rem; line-height: 1.18; letter-spacing: -0.03em; }}
+    .story-card p {{ margin: 0; color: #34302b; line-height: 1.68; }}
+    .story-meta-row, .story-footer, .route-topline, .route-links, .rail-top {{ display: flex; justify-content: space-between; gap: 12px; align-items: center; flex-wrap: wrap; }}
+    .story-tag, .story-score, .route-label, .route-trend, .rail-label {{ font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; font-weight: 800; color: var(--muted); }}
+    .story-footer {{ color: var(--muted); font-size: 0.9rem; border-top: 1px solid #f0ebe3; padding-top: 12px; }}
+    .story-footer a, .route-links a, .politics-list a {{ color: var(--accent); font-weight: 700; }}
+    .right-rail {{ display: grid; gap: 18px; position: sticky; top: 16px; }}
+    .rail-card h3 {{ margin: 0 0 10px; font-size: 1.35rem; letter-spacing: -0.03em; }}
+    .market-stack {{ display: grid; gap: 12px; }}
+    .market-card {{ padding: 14px 0; border-top: 1px solid #f0ebe3; }}
+    .market-card:first-child {{ border-top: 0; padding-top: 0; }}
+    .market-top {{ display: flex; justify-content: space-between; gap: 12px; align-items: center; font-size: 0.88rem; color: var(--muted); }}
+    .market-value {{ margin-top: 6px; font-size: 1.45rem; font-weight: 800; letter-spacing: -0.03em; }}
+    .market-note {{ margin-top: 4px; color: var(--muted); font-size: 0.9rem; }}
+    .route-stack {{ display: grid; gap: 12px; }}
+    .route-card {{ padding: 18px; }}
+    .route-card h3 {{ margin: 6px 0 8px; font-size: 1.15rem; }}
+    .route-card p {{ margin: 0; color: #393530; line-height: 1.6; }}
+    .route-links {{ margin-top: 12px; color: var(--muted); font-size: 0.9rem; }}
+    .politics-list li {{ display: grid; gap: 6px; padding-bottom: 12px; border-bottom: 1px solid #f0ebe3; }}
+    .politics-list span {{ color: var(--muted); font-size: 0.9rem; }}
+    .error-list li {{ color: var(--muted); padding-bottom: 10px; border-bottom: 1px solid #f0ebe3; }}
+    .footer-note {{ margin-top: 26px; color: var(--muted); font-size: 0.9rem; border-top: 1px solid var(--line); padding-top: 16px; }}
+    .market-empty, .empty-state {{ color: var(--muted); }}
+    @media (max-width: 1100px) {{ .editorial-grid, .briefing-grid, .lead-meta, .story-grid, .signal-row {{ grid-template-columns: 1fr; }} .right-rail {{ position: static; }} .page {{ width: min(100vw - 24px, 100%); }} }}
   </style>
 </head>
 <body>
-  <main class="wrap">
-    <div class="topbar">
-      <strong>AI News Briefing</strong>
-      <span>G&#252;nl&#252;k k&#252;resel sinyal ak&#305;&#351;&#305;, se&#231;ilmi&#351; kaynaklar ve T&#252;rk&#231;e &#246;zetler</span>
-    </div>
-    <section class="hero">
-      <article class="hero-main">
-        <div class="hero-copy">
-          <div>
-            <div class="eyebrow">G&#252;n&#252;n &#199;er&#231;evesi</div>
-            <h1>Ger&#231;ekten &#246;nemli ne oluyor?</h1>
-            <p class="lede">Bu sayfa, dashboard g&#246;r&#252;n&#252;m&#252;nden &#231;ok editoryal briefing mant&#305;&#287;&#305;yla haz&#305;rland&#305;: daha temiz g&#246;rsel dil, daha g&#252;&#231;l&#252; ba&#351;l&#305;klar ve her haber i&#231;in k&#305;sa T&#252;rk&#231;e anlat&#305;m.</p>
-            <div class="hero-stats">
-              <div class="stat">
-                <strong>{headline_count}</strong>
-                <span>Se&#231;ilen ba&#351;l&#305;k</span>
-              </div>
-              <div class="stat">
-                <strong>{router_count}</strong>
-                <span>Aktif konu y&#246;nlendirici</span>
-              </div>
-              <div class="stat">
-                <strong>3</strong>
-                <span>Bug&#252;n&#252;n ilk duraklar&#305;</span>
-              </div>
-            </div>
-          </div>
-          <div class="hero-rail">
-            <div class="eyebrow">Lead Story</div>
-            <h3>{lead_title}</h3>
-            <p>{lead_summary}</p>
-            <div class="meta"><strong>Kaynak:</strong> {lead_source}</div>
-            <div class="actions">
-              <a class="btn primary" href="{lead_link}" target="_blank" rel="noreferrer">Lead Haberi A&#231;</a>
-            </div>
-          </div>
-        </div>
-      </article>
-      <aside class="hero-side">
-        <section class="hero-panel top">
-          <div class="eyebrow">Edit&#246;r Notu</div>
-          <h3>{top_source}</h3>
-          <p>{top_reason}</p>
-        </section>
-        <section class="hero-panel bottom">
-          <div>
-            <div class="eyebrow">Piyasa Panosu</div>
-            <div class="market-stack">
-              {market_sidebar}
-            </div>
-          </div>
-          <div>
-            <h3 id="clock">--:--:--</h3>
-            <p id="clock-date">{generated_at}</p>
-            <p class="muted">{trend_signals}</p>
-          </div>
-        </section>
-      </aside>
-    </section>
-
-    <section class="section">
-      <div class="section-card">
-        <div class="section-top">
-          <div>
-            <div class="eyebrow">Seçilmiş Haberler</div>
-            <h2>Bugünün briefing sayfası</h2>
-          </div>
-          <p>Her haber skor, kategori ve stratejik ilgi açısından filtrelendi; ham akış yerine daha kısa ve daha editoryal bir özet dili kullanıldı.</p>
-        </div>
-        <div class="headline-grid">
-          {headline_cards}
-        </div>
+  <div class="page">
+    <header class="masthead">
+      <div>
+        <div class="brand">AI News Briefing</div>
+        <div class="mast-meta">D?nyada ger?ekten ?nemli olan? g?r?lt?den ay?ran g?nl?k briefing. Nvidia, AI, robotik, finansal raylar ve jeopolitik ayn? sayfada.</div>
       </div>
+      <div class="mast-meta">G?ncellendi: {generated_at}</div>
+    </header>
+
+    <section class="signal-row">
+      {signal_strip}
     </section>
 
-    <section class="section">
-      <div class="section-card">
-        <div class="section-top">
-          <div>
-            <div class="eyebrow">Yönlendirme Masası</div>
-            <h2>Konuya Göre En İyi Site</h2>
+    <main class="editorial-grid">
+      <section class="lead-column">
+        <article class="lead-story">
+          <div class="kicker">G?n?n ?er?evesi</div>
+          <h1>{lead_title}</h1>
+          <p class="lead-summary">{lead_summary}</p>
+          <div class="lead-actions">
+            <a class="btn primary" href="{lead_link}" target="_blank" rel="noreferrer">Lead haberi a?</a>
+            <a class="btn secondary" href="https://www.reuters.com/world/" target="_blank" rel="noreferrer">Reuters World</a>
           </div>
-          <p>Bugün hangi konu baskınsa, sizi o alanı daha iyi kapsayan kaynağa yönlendirir.</p>
-        </div>
-        <div class="headline-grid">
-          {router_cards}
-        </div>
+          <div class="lead-meta">
+            <div class="lead-source"><strong>{lead_source}</strong><br>{trend_line}</div>
+            <div class="lead-why"><strong>Bu neden ?nemli?</strong><br>{lead_reason}</div>
+          </div>
+        </article>
 
-        <div class="mini-grid">
-          <div class="mini-panel today-list">
-            <div class="eyebrow">Hızlı Liste</div>
-            <h3>Bugün Hangi 3 Siteye Bakayım?</h3>
-            <ol>
+        <section class="briefing-grid">
+          <article class="brief-card">
+            <h2 class="section-title">Bug?n?n briefing sayfas?</h2>
+            <p class="section-copy">?nce hangi kap?ya bakman?z gerekti?ini burada s?k??t?rd?m. Ama? daha ?ok ba?l?k de?il, daha do?ru ilk okuma rotas?.</p>
+            <ol class="today-list">
               {today_stack}
             </ol>
-          </div>
-          <div class="mini-panel errors">
-            <div class="eyebrow">Sistem Notları</div>
-            <h3>Veri Kaynağı Durumu</h3>
-            <ul>
-              {error_list}
+          </article>
+          <article class="brief-card">
+            <h2 class="section-title">Siyasi radar</h2>
+            <p class="section-copy">Tarafs?z tarama i?in Reuters omurgas?n? koruyup bug?n?n ?ne ??kan siyasi ba?l?klar?n? ay?r?yorum.</p>
+            <ul class="politics-list">
+              {political_brief}
             </ul>
-          </div>
-        </div>
-      </div>
-    </section>
+          </article>
+        </section>
 
-    <p class="footer-note">Son güncelleme: {generated_at}. Sayfa Python tarafında `news_bot` ile üretildi.</p>
-  </main>
-  <script>
-    const clockEl = document.getElementById("clock");
-    const dateEl = document.getElementById("clock-date");
-    function updateClock() {{
-      const now = new Date();
-      const time = new Intl.DateTimeFormat("tr-TR", {{
-        timeZone: "Europe/Istanbul",
-        hour: "2-digit",
-        minute: "2-digit",
-        second: "2-digit"
-      }}).format(now);
-      const date = new Intl.DateTimeFormat("tr-TR", {{
-        timeZone: "Europe/Istanbul",
-        weekday: "long",
-        day: "numeric",
-        month: "long",
-        year: "numeric"
-      }}).format(now);
-      clockEl.textContent = time;
-      dateEl.textContent = date;
-    }}
-    updateClock();
-    setInterval(updateClock, 1000);
-  </script>
+        <section>
+          <div class="rail-top" style="margin-bottom: 12px;">
+            <h2 class="section-title" style="margin:0;">Se?ilmi? haberler</h2>
+            <div class="mast-meta" style="text-align:left;">Quartz benzeri daha editoryal, daha k?sa ve daha okunur ak??.</div>
+          </div>
+          <div class="story-grid">
+            {headline_cards}
+          </div>
+        </section>
+      </section>
+
+      <aside class="right-rail">
+        <article class="rail-card">
+          <div class="rail-top">
+            <span class="rail-label">Piyasa panosu</span>
+            <span class="mast-meta">Invest ba?lant?s?</span>
+          </div>
+          <h3>Fonlar ve ana izleme listesi</h3>
+          <div class="market-stack">
+            {market_sidebar}
+          </div>
+        </article>
+
+        <article class="rail-card">
+          <div class="rail-top">
+            <span class="rail-label">Topic router</span>
+            <span class="mast-meta">En iyi ilk durak</span>
+          </div>
+          <h3>Konuya g?re do?ru kaynak</h3>
+          <div class="route-stack">
+            {router_cards}
+          </div>
+        </article>
+
+        <article class="rail-card">
+          <div class="rail-top">
+            <span class="rail-label">Kaynak notlar?</span>
+            <span class="mast-meta">Sistem sa?l???</span>
+          </div>
+          <h3>Feed durumu</h3>
+          <ul class="error-list">
+            {error_list}
+          </ul>
+        </article>
+      </aside>
+    </main>
+
+    <footer class="footer-note">Bu sayfa AI News motoru taraf?ndan otomatik ?retilir. Politik tarama m?mk?n oldu?unca Reuters merkezli, teknoloji ve strateji taraf? ise konu router mant???yla y?nlendirilir.</footer>
+  </div>
 </body>
 </html>
 """.format(
-        headline_count=headline_count,
-        router_count=router_count,
         generated_at=generated_at,
-        trend_signals=trend_signals or "Belirgin kategori ivmesi yok; haber akışı dengeli.",
-        headline_cards=_render_headline_cards(report),
-        router_cards=_render_router_cards(report),
-        today_stack=_render_today_stack(report),
-        error_list=_render_error_list(report),
-        market_sidebar=market_sidebar,
+        signal_strip=_render_signal_strip(report),
         lead_title=lead_title,
         lead_summary=lead_summary,
-        lead_source=lead_source,
         lead_link=lead_link,
-        top_source=_html_text(report["topic_router"][0]["best_source"] if report.get("topic_router") else "Semafor"),
-        top_reason=_html_text(report["topic_router"][0]["reason"] if report.get("topic_router") else "Gunun baskin konusu icin secilmis baslangic kaynagi."),
+        lead_source=lead_source,
+        trend_line=trend_line,
+        lead_reason=lead_reason,
+        today_stack=_render_today_stack(report),
+        political_brief=_render_political_brief(report),
+        headline_cards=_render_headline_cards(report),
+        market_sidebar=_render_market_sidebar(),
+        router_cards=_render_router_cards(report),
+        error_list=_render_error_list(report),
     )
 
 
