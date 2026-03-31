@@ -154,10 +154,10 @@ KEYWORD_WEIGHTS = {
 }
 
 WHY_IT_MATTERS = {
-    "macro": "Makro rejim değişimleri kur, faiz, emtia ve risk iştahını birlikte etkiler.",
-    "technology": "YZ altyapı yarışı sermaye akışını, çip talebini ve platform kazananlarını belirler.",
-    "robotics": "Robotik gerçek dünyaya indiğinde verimlilik, üretim yapısı ve iş gücü dengesi değişir.",
-    "financial_system": "Ödeme ve finans altyapısındaki değişim yeni kazananları ve işlem akışını yeniden kurar.",
+    "macro": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler.",
+    "technology": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler.",
+    "robotics": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir.",
+    "financial_system": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar.",
 }
 
 SOURCE_QUALITY_BONUS = {
@@ -250,6 +250,12 @@ def _fix_mojibake(value: str | None) -> str:
             break
         text = repaired
     return text.replace("\x00", "").strip()
+
+
+def _html_text(value: str | None) -> str:
+    fixed = _fix_mojibake(value)
+    escaped = html.escape(fixed)
+    return escaped.encode("ascii", "xmlcharrefreplace").decode("ascii")
 
 
 def _first_text(element: ElementTree.Element, paths: Iterable[str]) -> str:
@@ -389,23 +395,23 @@ def _normalize_summary(summary: str) -> str:
 def _build_turkish_summary(title: str, summary: str, primary_category: str, matched_keywords: list[str], source: str) -> str:
     keyword_set = set(matched_keywords)
     if {"humanoid", "warehouse"} & keyword_set:
-        return "Bu haber, insans? robotlar?n depo ve lojistik taraf?nda ger?ek saha kullan?m?na ge?ti?ini g?steriyor."
+        return "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor."
     if {"visa", "mastercard", "stablecoin"} & keyword_set:
-        return "Bu haber, ?deme a?lar? ve stablecoin taraf?nda rekabetin sertle?ti?ini ve finans altyap?s?nda yeni g?? dengeleri olu?tu?unu g?steriyor."
+        return "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor."
     if "nvidia" in keyword_set or "gpu" in keyword_set or "semiconductor" in keyword_set:
-        return "Bu haber, Nvidia ve yapay zeka ?ipleri taraf?nda altyap? yar???n?n h?z kesmeden devam etti?ini g?steriyor."
+        return "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor."
     if "openai" in keyword_set or "anthropic" in keyword_set or "model" in keyword_set or primary_category == "technology":
-        return "Bu haber, yapay zeka modeli ve altyap? yar???nda yeni ?r?n, yat?r?m veya platform hamlelerinin s?rd???n? g?steriyor."
+        return "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor."
     if "robot" in keyword_set or "robotics" in keyword_set or primary_category == "robotics":
-        return "Bu haber, robotik uygulamalar?n laboratuvar a?amas?ndan ??k?p ger?ek operasyonlara daha fazla girdi?ini g?steriyor."
+        return "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor."
     if "china" in keyword_set or "tariff" in keyword_set or "sanction" in keyword_set or primary_category == "macro":
-        return "Bu haber, makro ve jeopolitik tarafta piyasalar? etkileyebilecek yeni bir k?r?lmaya i?aret ediyor."
+        return "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor."
     if primary_category == "financial_system":
-        return "Bu haber, ?deme ve finans altyap?s?nda oyuncular aras?ndaki rekabetin yeniden ?ekillendi?ini g?steriyor."
+        return "Bu haber, odeme ve finans altyapisinda oyuncular arasindaki rekabetin yeniden sekillendigini gosteriyor."
     cleaned = _normalize_summary(summary)
     if cleaned:
-        return f"{source} haberine g?re: {cleaned}"
-    return "Bu haber, g?n?n stratejik ak???nda izlenmeye de?er bir geli?meye i?aret ediyor."
+        return f"{source} haberine gore: {cleaned}"
+    return "Bu haber, gunun stratejik akisinda izlenmeye deger bir gelismeye isaret ediyor."
 
 
 def _pick_primary_category(categories: Iterable[str], matched_keywords: Iterable[str]) -> str:
@@ -841,7 +847,7 @@ def _render_markdown(report: dict) -> str:
             ]
         )
         if item.get("summary_tr"):
-            lines.append(f"T?rk?e ?zet: {item['summary_tr']}")
+            lines.append(f"Turkce ozet: {item['summary_tr']}")
             lines.append("")
     lines.extend(["## Trend Sinyali", ""])
     for signal in report.get("trend_signals", []):
@@ -874,12 +880,12 @@ def _render_headline_cards(report: dict) -> str:
               <a class="btn primary" href="{link}" target="_blank" rel="noreferrer">Habere Git</a>
             </article>
             """.format(
-                labels=html.escape(_fix_mojibake(labels)),
+                labels=_html_text(labels),
                 score=item["score"],
-                title=html.escape(_fix_mojibake(item["title"])),
-                summary_tr=html.escape(_fix_mojibake(item.get("summary_tr") or item["summary"] or "Özet bulunamadı.")),
-                source=html.escape(_fix_mojibake(item["source"])),
-                why=html.escape(_fix_mojibake(item["why_it_matters"])),
+                title=_html_text(item["title"]),
+                summary_tr=_html_text(item.get("summary_tr") or item["summary"] or "Özet bulunamadı."),
+                source=_html_text(item["source"]),
+                why=_html_text(item["why_it_matters"]),
                 link=html.escape(item["link"]),
             ).strip()
         )
@@ -916,12 +922,12 @@ def _render_router_cards(report: dict) -> str:
               </div>
             </article>
             """.format(
-                label=html.escape(_fix_mojibake(route["label"])),
+                label=_html_text(route["label"]),
                 score=route["score"],
-                source=html.escape(_fix_mojibake(route["best_source"])),
-                reason=html.escape(_fix_mojibake(route["reason"])),
-                backup=html.escape(_fix_mojibake(route["backup_source"])),
-                mode=html.escape(_fix_mojibake(route["mode"])),
+                source=_html_text(route["best_source"]),
+                reason=_html_text(route["reason"]),
+                backup=_html_text(route["backup_source"]),
+                mode=_html_text(route["mode"]),
                 url=html.escape(route["best_url"]),
                 backup_url=html.escape(route["backup_url"]),
             ).strip()
@@ -935,8 +941,8 @@ def _render_today_stack(report: dict) -> str:
         items.append(
             "<li><strong>{index}. {source}:</strong> {label} konusu için bugünün en iyi ilk durağı.</li>".format(
                 index=index,
-                source=html.escape(_fix_mojibake(route["best_source"])),
-                label=html.escape(_fix_mojibake(route["label"])),
+                source=_html_text(route["best_source"]),
+                label=_html_text(route["label"]),
             )
         )
     return "\n".join(items)
@@ -945,7 +951,7 @@ def _render_today_stack(report: dict) -> str:
 def _render_error_list(report: dict) -> str:
     if not report.get("errors"):
         return "<li>Kaynak hatası görünmüyor.</li>"
-    return "\n".join("<li>{}</li>".format(html.escape(_fix_mojibake(error))) for error in report["errors"])
+    return "\n".join("<li>{}</li>".format(_html_text(error)) for error in report["errors"])
 
 
 def _render_market_sidebar() -> str:
@@ -965,10 +971,10 @@ def _render_market_sidebar() -> str:
               <div class="market-note">{note}</div>
             </div>
             """.format(
-                label=html.escape(_fix_mojibake(item["label"])),
-                change=html.escape(_fix_mojibake(item["change"])),
-                value=html.escape(_fix_mojibake(item["value"])),
-                note=html.escape(_fix_mojibake(item["note"])),
+                label=_html_text(item["label"]),
+                change=_html_text(item["change"]),
+                value=_html_text(item["value"]),
+                note=_html_text(item["note"]),
             ).strip()
         )
     return "\n".join(blocks)
@@ -1382,27 +1388,27 @@ def _render_html(report: dict) -> str:
   <main class="wrap">
     <div class="topbar">
       <strong>AI News Briefing</strong>
-      <span>Günlük küresel sinyal akışı, seçilmiş kaynaklar, Türkçe özetler</span>
+      <span>G&#252;nl&#252;k k&#252;resel sinyal ak&#305;&#351;&#305;, se&#231;ilmi&#351; kaynaklar ve T&#252;rk&#231;e &#246;zetler</span>
     </div>
     <section class="hero">
       <article class="hero-main">
         <div class="hero-copy">
           <div>
-            <div class="eyebrow">Günün Çerçevesi</div>
-            <h1>Gerçekten önemli ne oluyor?</h1>
-            <p class="lede">Bu sayfa, dashboard görünümünden çok editoryal briefing mantığıyla hazırlandı: daha temiz görsel dil, daha güçlü başlıklar ve her haber için kısa Türkçe anlatım.</p>
+            <div class="eyebrow">G&#252;n&#252;n &#199;er&#231;evesi</div>
+            <h1>Ger&#231;ekten &#246;nemli ne oluyor?</h1>
+            <p class="lede">Bu sayfa, dashboard g&#246;r&#252;n&#252;m&#252;nden &#231;ok editoryal briefing mant&#305;&#287;&#305;yla haz&#305;rland&#305;: daha temiz g&#246;rsel dil, daha g&#252;&#231;l&#252; ba&#351;l&#305;klar ve her haber i&#231;in k&#305;sa T&#252;rk&#231;e anlat&#305;m.</p>
             <div class="hero-stats">
               <div class="stat">
                 <strong>{headline_count}</strong>
-                <span>Seçilen başlık</span>
+                <span>Se&#231;ilen ba&#351;l&#305;k</span>
               </div>
               <div class="stat">
                 <strong>{router_count}</strong>
-                <span>Aktif konu yönlendirici</span>
+                <span>Aktif konu y&#246;nlendirici</span>
               </div>
               <div class="stat">
                 <strong>3</strong>
-                <span>Bugünün ilk durakları</span>
+                <span>Bug&#252;n&#252;n ilk duraklar&#305;</span>
               </div>
             </div>
           </div>
@@ -1412,22 +1418,29 @@ def _render_html(report: dict) -> str:
             <p>{lead_summary}</p>
             <div class="meta"><strong>Kaynak:</strong> {lead_source}</div>
             <div class="actions">
-              <a class="btn primary" href="{lead_link}" target="_blank" rel="noreferrer">Lead Haberi Aç</a>
+              <a class="btn primary" href="{lead_link}" target="_blank" rel="noreferrer">Lead Haberi A&#231;</a>
             </div>
           </div>
         </div>
       </article>
       <aside class="hero-side">
         <section class="hero-panel top">
-          <div class="eyebrow">Editör Notu</div>
+          <div class="eyebrow">Edit&#246;r Notu</div>
           <h3>{top_source}</h3>
           <p>{top_reason}</p>
         </section>
         <section class="hero-panel bottom">
-          <div class="eyebrow">Bugünkü Ritim</div>
-          <h3 id="clock">--:--:--</h3>
-          <p id="clock-date">{generated_at}</p>
-          <p class="muted">{trend_signals}</p>
+          <div>
+            <div class="eyebrow">Piyasa Panosu</div>
+            <div class="market-stack">
+              {market_sidebar}
+            </div>
+          </div>
+          <div>
+            <h3 id="clock">--:--:--</h3>
+            <p id="clock-date">{generated_at}</p>
+            <p class="muted">{trend_signals}</p>
+          </div>
         </section>
       </aside>
     </section>
@@ -1521,8 +1534,8 @@ def _render_html(report: dict) -> str:
         lead_summary=lead_summary,
         lead_source=lead_source,
         lead_link=lead_link,
-        top_source=html.escape(_fix_mojibake(report["topic_router"][0]["best_source"] if report.get("topic_router") else "Semafor")),
-        top_reason=html.escape(_fix_mojibake(report["topic_router"][0]["reason"] if report.get("topic_router") else "Günün baskın konusu için seçilmiş başlangıç kaynağı.")),
+        top_source=_html_text(report["topic_router"][0]["best_source"] if report.get("topic_router") else "Semafor"),
+        top_reason=_html_text(report["topic_router"][0]["reason"] if report.get("topic_router") else "Gunun baskin konusu icin secilmis baslangic kaynagi."),
     )
 
 
