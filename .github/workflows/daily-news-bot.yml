@@ -31,9 +31,10 @@ jobs:
           cp output/world_developments_dashboard.html docs/index.html
           cp output/world_developments_payload.json docs/world_developments_payload.json
           cp output/world_developments_report.md docs/world_developments_report.md
+          touch docs/.nojekyll
 
       - name: Commit updated outputs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update world developments dashboard"
-          file_pattern: "output/* docs/* data/news_state.json"
+          file_pattern: "output/* docs/* docs/.nojekyll data/news_state.json"
