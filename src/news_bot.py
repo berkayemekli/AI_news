@@ -14,7 +14,7 @@ from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree
 
-from config import DEFAULT_NEWS_BOT_CONFIG, NEWS_STATE_JSON, OUTPUT_DIR
+from config import DEFAULT_NEWS_BOT_CONFIG, DOCS_DIR, NEWS_STATE_JSON, OUTPUT_DIR
 
 INVEST_ANALYSIS_JSON = Path(r"C:\AI\Invest\output\analysis_payload.json")
 TEFAS_HISTORY_URL = "https://www.tefas.gov.tr/api/DB/BindHistoryInfo"
@@ -1528,15 +1528,31 @@ def _render_html(report: dict) -> str:
 
 def write_news_outputs(report: dict, output_dir: Path = OUTPUT_DIR) -> dict[str, Path]:
     output_dir.mkdir(parents=True, exist_ok=True)
+    DOCS_DIR.mkdir(parents=True, exist_ok=True)
     NEWS_STATE_JSON.parent.mkdir(parents=True, exist_ok=True)
     markdown_path = output_dir / "world_developments_report.md"
     json_path = output_dir / "world_developments_payload.json"
     html_path = output_dir / "world_developments_dashboard.html"
-    markdown_path.write_text(_render_markdown(report), encoding="utf-8")
-    json_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
-    html_path.write_text(_render_html(report), encoding="utf-8")
-    NEWS_STATE_JSON.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
-    return {"markdown": markdown_path, "json": json_path, "html": html_path, "state": NEWS_STATE_JSON}
+    docs_html_path = DOCS_DIR / "index.html"
+    docs_json_path = DOCS_DIR / "world_developments_payload.json"
+    docs_markdown_path = DOCS_DIR / "world_developments_report.md"
+    html_content = _render_html(report)
+    json_content = json.dumps(report, ensure_ascii=False, indent=2)
+    markdown_content = _render_markdown(report)
+    markdown_path.write_text(markdown_content, encoding="utf-8")
+    json_path.write_text(json_content, encoding="utf-8")
+    html_path.write_text(html_content, encoding="utf-8")
+    docs_html_path.write_text(html_content, encoding="utf-8")
+    docs_json_path.write_text(json_content, encoding="utf-8")
+    docs_markdown_path.write_text(markdown_content, encoding="utf-8")
+    NEWS_STATE_JSON.write_text(json_content, encoding="utf-8")
+    return {
+        "markdown": markdown_path,
+        "json": json_path,
+        "html": html_path,
+        "docs_html": docs_html_path,
+        "state": NEWS_STATE_JSON,
+    }
 
 
 def run() -> dict:
@@ -1550,6 +1566,7 @@ if __name__ == "__main__":
     print(f"Markdown report: {result['output_paths']['markdown']}")
     print(f"JSON payload: {result['output_paths']['json']}")
     print(f"HTML dashboard: {result['output_paths']['html']}")
+    print(f"Docs dashboard: {result['output_paths']['docs_html']}")
 
 
 
