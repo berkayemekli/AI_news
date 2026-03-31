@@ -1177,6 +1177,7 @@ def _render_html(report: dict) -> str:
 
 def write_news_outputs(report: dict, output_dir: Path = OUTPUT_DIR) -> dict[str, Path]:
     output_dir.mkdir(parents=True, exist_ok=True)
+    NEWS_STATE_JSON.parent.mkdir(parents=True, exist_ok=True)
     markdown_path = output_dir / "world_developments_report.md"
     json_path = output_dir / "world_developments_payload.json"
     html_path = output_dir / "world_developments_dashboard.html"
