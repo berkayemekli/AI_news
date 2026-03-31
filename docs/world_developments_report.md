@@ -1,6 +1,6 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-03-31T18:09:10.751748+00:00
+Uretim zamani: 2026-03-31T18:17:18.147456+00:00
 
 ## Bugunun 5 Onemli Basligi
 
@@ -42,7 +42,7 @@ Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gerce
 
 ## Trend Sinyali
 
-- Robotik ivmesi artıyor (0 -> 3).
+- Belirgin kategori ivmesi yok; haber akışı dengeli.
 
 ## Topic Router
 
@@ -56,5 +56,5 @@ Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gerce
 - Reuters World: <urlopen error [Errno -2] Name or service not known>
 - Reuters Business: <urlopen error [Errno -2] Name or service not known>
 - Reuters Technology: <urlopen error [Errno -2] Name or service not known>
-- Quartz: not well-formed (invalid token): line 383, column 231
+- Quartz: not well-formed (invalid token): line 399, column 231
 - AP World: HTTP Error 404: Not Found
