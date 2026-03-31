@@ -865,7 +865,7 @@ def _render_markdown(report: dict) -> str:
 def _render_headline_cards(report: dict) -> str:
     cards = []
     for index, item in enumerate(report.get("headlines", [])[1:5], start=1):
-        labels = " ? ".join(CATEGORY_LABELS.get(category, category) for category in item["categories"])
+        labels = " | ".join(CATEGORY_LABELS.get(category, category) for category in item["categories"])
         image_url = [
             "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
             "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
@@ -936,7 +936,7 @@ def _render_error_list(report: dict) -> str:
 def _build_portfolio_performance() -> dict:
     analysis = _load_invest_analysis()
     if not analysis:
-        return {"total_return_value": None, "total_return_pct": None, "daily_return_pct": None, "daily_return_label": "G?nl?k veri yok"}
+        return {"tracked_return_value": None, "tracked_return_pct": None, "daily_return_pct": None, "daily_return_label": "Gunluk veri yok"}
 
     instruments = analysis.get("pnl_summary", {}).get("instruments", [])
     buy_amount = 0.0
@@ -944,8 +944,8 @@ def _build_portfolio_performance() -> dict:
     for item in instruments:
         buy_amount += float(item.get("buy_amount") or 0.0)
         current_value += float(item.get("current_value") or 0.0)
-    total_return_value = current_value - buy_amount if buy_amount or current_value else None
-    total_return_pct = ((current_value / buy_amount) - 1.0) * 100 if buy_amount else None
+    tracked_return_value = current_value - buy_amount if buy_amount or current_value else None
+    tracked_return_pct = ((current_value / buy_amount) - 1.0) * 100 if buy_amount else None
 
     daily_return_pct = None
     history_path = Path(r"C:\AI\Invest\output\portfolio_history_1y_daily.csv")
@@ -972,10 +972,10 @@ def _build_portfolio_performance() -> dict:
             daily_return_pct = None
 
     return {
-        "total_return_value": total_return_value,
-        "total_return_pct": total_return_pct,
+        "tracked_return_value": tracked_return_value,
+        "tracked_return_pct": tracked_return_pct,
         "daily_return_pct": daily_return_pct,
-        "daily_return_label": "Portf?y baz?nda" if daily_return_pct is not None else "G?nl?k veri yok",
+        "daily_return_label": "Portfoy bazinda" if daily_return_pct is not None else "Gunluk veri yok",
     }
 
 
@@ -991,7 +991,7 @@ def _render_performance_summary() -> str:
         return f"{value:,.0f} TL".replace(",", ".")
 
     cards = [
-        {"label": "Toplam getiri", "value": fmt_pct(perf["total_return_pct"]), "note": fmt_tl(perf["total_return_value"])} ,
+        {"label": "Takip listesi getiri", "value": fmt_pct(perf["tracked_return_pct"]), "note": fmt_tl(perf["tracked_return_value"])} ,
         {"label": "Gunluk getiri", "value": fmt_pct(perf["daily_return_pct"]), "note": perf["daily_return_label"]},
     ]
     return "\n".join(
@@ -1017,15 +1017,21 @@ def _render_market_sidebar() -> str:
             <article class="market-card">
               <div class="market-top">
                 <strong>{label}</strong>
-                <span>{change}</span>
+                <span>{value}</span>
               </div>
-              <div class="market-value">{value}</div>
+              <div class="market-metrics">
+                <span><small>Gunluk</small><strong>{daily}</strong></span>
+                <span><small>Maliyet</small><strong>{cost}</strong></span>
+                <span><small>1Y</small><strong>{year}</strong></span>
+              </div>
               <div class="market-note">{note}</div>
             </article>
             """.format(
                 label=_html_text(item["label"]),
-                change=_html_text(item["change"]),
                 value=_html_text(item["value"]),
+                daily=_html_text(item["daily_change"]),
+                cost=_html_text(item["cost_change"]),
+                year=_html_text(item["year_change"]),
                 note=_html_text(item["note"]),
             ).strip()
         )
@@ -1068,17 +1074,42 @@ def _build_market_sidebar() -> list[dict]:
     items: list[dict] = []
     market = analysis.get("market_snapshot", {})
     holdings = analysis.get("portfolio_mix", {}).get("holdings", [])
+    pnl_items = analysis.get("pnl_summary", {}).get("instruments", [])
     holdings_by_code = {str(row.get("instrument_code") or "").upper(): row for row in holdings if row.get("instrument_code")}
     holdings_by_name = {str(row.get("instrument_name") or "").upper(): row for row in holdings}
+    pnl_by_code = {}
+    for row in pnl_items:
+        name = str(row.get("instrument_name") or "").upper()
+        if name.startswith("GTA"):
+            pnl_by_code["GTA"] = row
+        elif name.startswith("GTL"):
+            pnl_by_code["GTL"] = row
+        elif name.startswith("GTM"):
+            pnl_by_code["GTM"] = row
+        elif name.startswith("GTZ"):
+            pnl_by_code["GTZ"] = row
+        elif name.startswith("GVI"):
+            pnl_by_code["GVI"] = row
+
+    def _fmt_pct(value: float | None) -> str:
+        return f"%{value:.2f}" if value is not None else "-"
 
     usd_try = market.get("usd_try")
     if usd_try is not None:
         trend_map = {"up": "Yukari", "down": "Asagi", "flat": "Yatay", "unknown": "Belirsiz", "data_unavailable": "Veri yok"}
-        items.append({"label": "USD/TRY", "value": f"{usd_try:.2f}", "change": trend_map.get(str(market.get("usd_try_trend", "unknown")), "Bilgi yok"), "note": "Kur yonu"})
+        items.append({
+            "label": "USD/TRY",
+            "value": f"{usd_try:.2f}",
+            "daily_change": trend_map.get(str(market.get("usd_try_trend", "unknown")), "Bilgi yok"),
+            "cost_change": "-",
+            "year_change": "-",
+            "note": "Kur yonu",
+        })
 
     fund_specs = [("GTA", "Altin Fonu", 4), ("GTZ", "Gumus Fonu", 4), ("GTL", "Para Piyasas?", 6), ("GVI", "Fon Sepeti", 4), ("GTM", "Temettu", 4)]
     for code, label, precision in fund_specs:
         holding = holdings_by_code.get(code)
+        pnl_row = pnl_by_code.get(code)
         price = change = None
         try:
             price, change = _fetch_tefas_daily_change(code)
@@ -1087,16 +1118,26 @@ def _build_market_sidebar() -> list[dict]:
         if price is not None:
             value = f"{price:.{precision}f}"
             note = "TEFAS gunluk"
-            change_text = f"%{change:.2f}" if change is not None else "Gunluk yok"
+            daily_change = _fmt_pct(change)
         elif holding:
             amount = holding.get("amount")
-            annual = holding.get("one_year_return_pct")
             value = f"{amount:,.0f} TL".replace(",", ".") if isinstance(amount, (int, float)) else "Portfoyde"
-            note = f"1Y %{annual:.1f}" if isinstance(annual, (int, float)) else "Portfoyde mevcut"
-            change_text = "Portfoy bagi"
+            note = "Invest portfoy baglantisi"
+            daily_change = "Portfoy bagi"
         else:
             continue
-        items.append({"label": label, "value": value, "change": change_text, "note": note})
+        annual = holding.get("one_year_return_pct") if holding else None
+        profit_loss = float(pnl_row.get("profit_loss") or 0.0) if pnl_row else None
+        buy_amount = float(pnl_row.get("buy_amount") or 0.0) if pnl_row else None
+        cost_change = ((profit_loss / buy_amount) * 100) if pnl_row and buy_amount else None
+        items.append({
+            "label": label,
+            "value": value,
+            "daily_change": daily_change,
+            "cost_change": _fmt_pct(cost_change),
+            "year_change": _fmt_pct(float(annual)) if isinstance(annual, (int, float)) else "-",
+            "note": note,
+        })
 
     garan_holding = holdings_by_name.get("GARAN")
     try:
@@ -1104,9 +1145,23 @@ def _build_market_sidebar() -> list[dict]:
     except Exception:
         garan_price, garan_change = None, None
     if garan_price is not None:
-        items.append({"label": "GARAN", "value": f"{garan_price:.2f}", "change": f"%{garan_change:.2f}" if garan_change is not None else "Gunluk yok", "note": "Yahoo gunluk"})
+        items.append({
+            "label": "GARAN",
+            "value": f"{garan_price:.2f}",
+            "daily_change": _fmt_pct(garan_change),
+            "cost_change": "-",
+            "year_change": "-",
+            "note": "Yahoo gunluk",
+        })
     elif garan_holding:
-        items.append({"label": "GARAN", "value": f"{garan_holding.get('amount', 0):,.0f} TL".replace(",", "."), "change": "Portfoy bagi", "note": "Invest holding degeri"})
+        items.append({
+            "label": "GARAN",
+            "value": f"{garan_holding.get('amount', 0):,.0f} TL".replace(",", "."),
+            "daily_change": "Portfoy bagi",
+            "cost_change": "-",
+            "year_change": "-",
+            "note": "Invest holding degeri",
+        })
 
     return items[:7]
 
@@ -1114,11 +1169,11 @@ def _build_market_sidebar() -> list[dict]:
 def _render_html(report: dict) -> str:
     generated_at = _html_text(report["generated_at"])
     lead = report["headlines"][0] if report.get("headlines") else None
-    lead_title = _html_text(lead["title"]) if lead else "Bug?n?n g??l? sinyalleri burada toplan?yor."
-    lead_summary = _html_text(lead.get("summary_tr") or lead.get("summary") or "Filtrelenmi? k?resel geli?meler daha editoryal bir ak?? i?inde sunulur.") if lead else "Filtrelenmi? k?resel geli?meler daha editoryal bir ak?? i?inde sunulur."
+    lead_title = _html_text(lead["title"]) if lead else "Bugunun guclu sinyalleri burada toplaniyor."
+    lead_summary = _html_text(lead.get("summary_tr") or lead.get("summary") or "Filtrelenmis kuresel gelismeler daha editoriyal bir akis icinde sunulur.") if lead else "Filtrelenmis kuresel gelismeler daha editoriyal bir akis icinde sunulur."
     lead_source = _html_text(lead["source"]) if lead else "AI News"
     lead_link = html.escape(lead["link"]) if lead else "#"
-    lead_reason = _html_text(lead.get("why_it_matters") or "Sermaye, teknoloji ve devlet hamlelerinin nereye kayd???n? daha h?zl? g?rmek i?in.") if lead else "Sermaye, teknoloji ve devlet hamlelerinin nereye kayd???n? daha h?zl? g?rmek i?in."
+    lead_reason = _html_text(lead.get("why_it_matters") or "Sermaye, teknoloji ve devlet hamlelerinin nereye kaydigini daha hizli gormek icin.") if lead else "Sermaye, teknoloji ve devlet hamlelerinin nereye kaydigini daha hizli gormek icin."
     lead_image = "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=80"
     return """<!DOCTYPE html>
 <html lang="tr">
@@ -1186,7 +1241,11 @@ def _render_html(report: dict) -> str:
     .market-card:first-child {{ border-top:0; padding-top:0; }}
     .market-top {{ display:flex; justify-content:space-between; gap:10px; color:var(--muted); font-size:.88rem; }}
     .market-value {{ margin-top:5px; font-size:1.25rem; font-weight:800; letter-spacing:-.03em; }}
-    .market-note {{ margin-top:4px; font-size:.9rem; color:var(--muted); }}
+    .market-metrics {{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:8px; margin-top:10px; }}
+    .market-metrics span {{ display:grid; gap:2px; padding:8px 10px; border-radius:12px; background:#fbf7f2; }}
+    .market-metrics small {{ color:var(--muted); font-size:.68rem; text-transform:uppercase; letter-spacing:.08em; }}
+    .market-metrics strong {{ font-size:.92rem; letter-spacing:-.02em; }}
+    .market-note {{ margin-top:8px; font-size:.9rem; color:var(--muted); }}
     .rail-photo {{ height:160px; border-radius:18px; background:linear-gradient(180deg,rgba(16,16,16,.1),rgba(16,16,16,.25)), url('https://images.unsplash.com/photo-1496096265110-f83ad7f96608?auto=format&fit=crop&w=1000&q=80') center/cover; margin-top:12px; }}
     .footer-note {{ margin-top:26px; color:var(--muted); font-size:.92rem; border-top:1px solid var(--line); padding-top:16px; }}
     @media (max-width:1100px) {{ .editorial-grid,.lead-story,.subgrid,.story-grid,.perf-grid {{ grid-template-columns:1fr; }} .lead-photo {{ min-height:300px; order:-1; }} }}
@@ -1202,11 +1261,11 @@ def _render_html(report: dict) -> str:
       <section class="lead-shell">
         <article class="lead-story">
           <div class="lead-copy">
-            <div class="kicker">Gunun cercevesi</div>
+            <div class="kicker">Generation AI</div>
             <h1>{lead_title}</h1>
             <p class="lead-summary">{lead_summary}</p>
             <div class="actions">
-              <a class="btn primary" href="{lead_link}" target="_blank" rel="noreferrer">Lead haberi a?</a>
+              <a class="btn primary" href="{lead_link}" target="_blank" rel="noreferrer">Lead haberi ac</a>
               <a class="btn secondary" href="https://www.reuters.com/world/" target="_blank" rel="noreferrer">Reuters World</a>
             </div>
             <div class="lead-meta">
@@ -1248,11 +1307,6 @@ def _render_html(report: dict) -> str:
           <div class="rail-head"><span class="rail-tag">Piyasa panosu</span></div>
           <h2>Fonlar ve ana izleme listesi</h2>
           <div class="market-stack">{market_sidebar}</div>
-        </article>
-        <article class="panel">
-          <div class="rail-head"><span class="rail-tag">Feed notlari</span></div>
-          <h2>Kaynak durumu</h2>
-          <ul class="error-list">{error_list}</ul>
         </article>
       </aside>
     </main>
