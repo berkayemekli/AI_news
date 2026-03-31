@@ -877,14 +877,14 @@ def _render_headline_cards(report: dict) -> str:
               <p>{summary}</p>
               <div class="story-footer">
                 <span><strong>Kaynak:</strong> {source}</span>
-                <a href="{link}" target="_blank" rel="noreferrer">Haberi a?</a>
+                <a href="{link}" target="_blank" rel="noreferrer">Haberi ç</a>
               </div>
             </article>
             """.format(
                 labels=_html_text(labels or "Genel"),
                 score=item["score"],
                 title=_html_text(item["title"]),
-                summary=_html_text(item.get("summary_tr") or item["summary"] or "?zet bulunamad?."),
+                summary=_html_text(item.get("summary_tr") or item["summary"] or "Özet bulunamadı."),
                 source=_html_text(item["source"]),
                 link=html.escape(item["link"]),
             ).strip()
@@ -894,8 +894,8 @@ def _render_headline_cards(report: dict) -> str:
     return """
     <article class="story-card empty-state">
       <div class="story-meta-row"><span class="story-tag">Feed durumu</span></div>
-      <h3>Bug?n yeterince g??l? haber se?ilemedi</h3>
-      <p>Kaynak eri?imi d??t???nde ya da filtre ?ok sert kald???nda briefing bu alan? bo? ge?mek yerine bunu a??k?a s?yler.</p>
+      <h3>Bugün yeterince güçlü haber seçilemedi</h3>
+      <p>Kaynak erişimi düştüğünde ya da filtre çok sert kaldığında briefing bu alanı boş geçmek yerine bunu açıkça söyler.</p>
     </article>
     """.strip()
 
@@ -941,19 +941,19 @@ def _render_today_stack(report: dict) -> str:
         )
     if items:
         return "\n".join(items)
-    return "<li><strong>1.</strong> <span>Bug?n rota olu?mad?</span><small>Kaynak bekleniyor</small></li>"
+    return "<li><strong>1.</strong> <span>Bugün rota oluşmadı</span><small>Kaynak bekleniyor</small></li>"
 
 
 def _render_error_list(report: dict) -> str:
     if not report.get("errors"):
-        return "<li>Kaynak hatas? g?r?nm?yor.</li>"
+        return "<li>Kaynak hatası görünmüyor.</li>"
     return "\n".join("<li>{}</li>".format(_html_text(error)) for error in report["errors"][:5])
 
 
 def _render_market_sidebar() -> str:
     items = _build_market_sidebar()
     if not items:
-        return '<div class="market-empty">Invest verisi bulunamad?.</div>'
+        return '<div class="market-empty">Invest verisi bulunamadı.</div>'
     blocks = []
     for item in items[:8]:
         blocks.append(
@@ -978,9 +978,9 @@ def _render_market_sidebar() -> str:
 
 def _render_signal_strip(report: dict) -> str:
     bits = [
-        ("Ba?l?k", str(len(report.get("headlines", [])))),
+        ("Başlık", str(len(report.get("headlines", [])))),
         ("Router", str(len(report.get("topic_router", [])))),
-        ("Sinyal", _html_text(" ? ".join(report.get("trend_signals", [])[:2]) or "Sinyal ak??? haz?rlan?yor")),
+        ("Sinyal", _html_text(" ? ".join(report.get("trend_signals", [])[:2]) or "Sinyal akışı hazırlanıyor")),
     ]
     return "\n".join(
         '<div class="signal-chip"><span>{}</span><strong>{}</strong></div>'.format(_html_text(label), value)
@@ -1013,7 +1013,7 @@ def _render_political_brief(report: dict) -> str:
             break
     if items:
         return "\n".join(items)
-    return '<li><a href="https://www.reuters.com/world/" target="_blank" rel="noreferrer">Reuters World ak???n? a?</a><span>Tarafs?z siyasi tarama</span></li>'
+    return '<li><a href="https://www.reuters.com/world/" target="_blank" rel="noreferrer">Reuters World akışını aç</a><span>Tarafsız siyasi tarama</span></li>'
 
 
 def _build_market_sidebar() -> list[dict]:
@@ -1037,8 +1037,8 @@ def _build_market_sidebar() -> list[dict]:
     usd_try = market.get("usd_try")
     if usd_try is not None:
         trend_map = {
-            "up": "Yukar?",
-            "down": "A?a??",
+            "up": "Yukarı",
+            "down": "Aşağı",
             "flat": "Yatay",
             "unknown": "Belirsiz",
             "data_unavailable": "Veri yok",
@@ -1048,16 +1048,16 @@ def _build_market_sidebar() -> list[dict]:
                 "label": "USD/TRY",
                 "value": f"{usd_try:.2f}",
                 "change": trend_map.get(str(market.get("usd_try_trend", "unknown")), "Bilgi yok"),
-                "note": "Kur y?n?",
+                "note": "Kur yönü",
             }
         )
 
     fund_specs = [
-        ("GTA", "Alt?n Fonu", 4),
-        ("GTZ", "G?m?? Fonu", 4),
-        ("GTL", "Para Piyasas?", 6),
+        ("GTA", "Altın Fonu", 4),
+        ("GTZ", "Gümüş Fonu", 4),
+        ("GTL", "Para Piyasası", 6),
         ("GVI", "Fon Sepeti", 4),
-        ("GTM", "Temett?", 4),
+        ("GTM", "Temettü", 4),
     ]
     for code, label, precision in fund_specs:
         holding = holdings_by_code.get(code)
@@ -1068,19 +1068,19 @@ def _build_market_sidebar() -> list[dict]:
             price, change = None, None
         if price is not None:
             value = f"{price:.{precision}f}"
-            note = "TEFAS g?nl?k"
+            note = "TEFAS günlük"
         elif holding:
             amount = holding.get("amount")
             annual = holding.get("one_year_return_pct")
-            value = f"{amount:,.0f} TL".replace(",", ".") if isinstance(amount, (int, float)) else "Portf?yde"
-            note = f"Portf?y tutar? ? 1Y %{annual:.1f}" if isinstance(annual, (int, float)) else "Portf?yde mevcut"
+            value = f"{amount:,.0f} TL".replace(",", ".") if isinstance(amount, (int, float)) else "Portföyde"
+            note = f"Portföy tutarı · 1Y %{annual:.1f}" if isinstance(annual, (int, float)) else "Portföyde mevcut"
         else:
             continue
         items.append(
             {
                 "label": label,
                 "value": value,
-                "change": f"%{change:.2f}" if change is not None else "Portf?y ba??",
+                "change": f"%{change:.2f}" if change is not None else "Portföy bağı",
                 "note": note,
             }
         )
@@ -1095,8 +1095,8 @@ def _build_market_sidebar() -> list[dict]:
             {
                 "label": "GARAN",
                 "value": f"{garan_price:.2f}",
-                "change": f"%{garan_change:.2f}" if garan_change is not None else "G?nl?k yok",
-                "note": "Yahoo g?nl?k",
+                "change": f"%{garan_change:.2f}" if garan_change is not None else "Günlük yok",
+                "note": "Yahoo günlük",
             }
         )
     elif garan_holding:
@@ -1104,8 +1104,8 @@ def _build_market_sidebar() -> list[dict]:
             {
                 "label": "GARAN",
                 "value": f"{garan_holding.get('amount', 0):,.0f} TL".replace(",", "."),
-                "change": "Portf?y ba??",
-                "note": "Invest holding de?eri",
+                "change": "Portföy bağı",
+                "note": "Invest holding değeri",
             }
         )
 
@@ -1115,12 +1115,12 @@ def _build_market_sidebar() -> list[dict]:
 def _render_html(report: dict) -> str:
     generated_at = _html_text(report["generated_at"])
     lead = report["headlines"][0] if report.get("headlines") else None
-    lead_title = _html_text(lead["title"]) if lead else "Bug?n?n g??l? sinyalleri burada toplan?yor."
-    lead_summary = _html_text(lead.get("summary_tr") or lead.get("summary") or "Filtrelenmi? k?resel geli?meler daha editoryal bir ak?? i?inde sunulur.") if lead else "Filtrelenmi? k?resel geli?meler daha editoryal bir ak?? i?inde sunulur."
+    lead_title = _html_text(lead["title"]) if lead else "Bugünün güçlü sinyalleri burada toplanıyor."
+    lead_summary = _html_text(lead.get("summary_tr") or lead.get("summary") or "Filtrelenmiş küresel gelişmeler daha editoryal bir akış içinde sunulur.") if lead else "Filtrelenmiş küresel gelişmeler daha editoryal bir akış içinde sunulur."
     lead_source = _html_text(lead["source"]) if lead else "AI News"
     lead_link = html.escape(lead["link"]) if lead else "#"
-    lead_reason = _html_text(lead.get("why_it_matters") or "Sermaye, teknoloji ve devlet hamlelerinin nereye kayd???n? daha h?zl? g?rmek i?in.") if lead else "Sermaye, teknoloji ve devlet hamlelerinin nereye kayd???n? daha h?zl? g?rmek i?in."
-    trend_line = _html_text(" ? ".join(report.get("trend_signals", [])[:3]) or "Makro, yapay zeka, robotik ve finansal altyap? ayn? ekranda.")
+    lead_reason = _html_text(lead.get("why_it_matters") or "Sermaye, teknoloji ve devlet hamlelerinin nereye kaydığını daha hızlı görmek için.") if lead else "Sermaye, teknoloji ve devlet hamlelerinin nereye kaydığını daha hızlı görmek için."
+    trend_line = _html_text(" ? ".join(report.get("trend_signals", [])[:3]) or "Makro, yapay zeka, robotik ve finansal altyapı aynı ekranda.")
     return """<!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -1209,9 +1209,9 @@ def _render_html(report: dict) -> str:
     <header class="masthead">
       <div>
         <div class="brand">AI News Briefing</div>
-        <div class="mast-meta">D?nyada ger?ekten ?nemli olan? g?r?lt?den ay?ran g?nl?k briefing. Nvidia, AI, robotik, finansal raylar ve jeopolitik ayn? sayfada.</div>
+        <div class="mast-meta">Dünyada gerçekten önemli olanı gürültüden ayıran günlük briefing. Nvidia, AI, robotik, finansal raylar ve jeopolitik aynı sayfada.</div>
       </div>
-      <div class="mast-meta">G?ncellendi: {generated_at}</div>
+      <div class="mast-meta">Güncellendi: {generated_at}</div>
     </header>
 
     <section class="signal-row">
@@ -1221,7 +1221,7 @@ def _render_html(report: dict) -> str:
     <main class="editorial-grid">
       <section class="lead-column">
         <article class="lead-story">
-          <div class="kicker">G?n?n ?er?evesi</div>
+          <div class="kicker">Günün çerçevesi</div>
           <h1>{lead_title}</h1>
           <p class="lead-summary">{lead_summary}</p>
           <div class="lead-actions">
@@ -1230,21 +1230,21 @@ def _render_html(report: dict) -> str:
           </div>
           <div class="lead-meta">
             <div class="lead-source"><strong>{lead_source}</strong><br>{trend_line}</div>
-            <div class="lead-why"><strong>Bu neden ?nemli?</strong><br>{lead_reason}</div>
+            <div class="lead-why"><strong>Bu neden önemli?</strong><br>{lead_reason}</div>
           </div>
         </article>
 
         <section class="briefing-grid">
           <article class="brief-card">
-            <h2 class="section-title">Bug?n?n briefing sayfas?</h2>
-            <p class="section-copy">?nce hangi kap?ya bakman?z gerekti?ini burada s?k??t?rd?m. Ama? daha ?ok ba?l?k de?il, daha do?ru ilk okuma rotas?.</p>
+            <h2 class="section-title">Bugünün briefing sayfası</h2>
+            <p class="section-copy">Önce hangi kapıya bakmanız gerektiğini burada sıkıştırdım. Amaç daha çok başlık değil, daha doğru ilk okuma rotası.</p>
             <ol class="today-list">
               {today_stack}
             </ol>
           </article>
           <article class="brief-card">
             <h2 class="section-title">Siyasi radar</h2>
-            <p class="section-copy">Tarafs?z tarama i?in Reuters omurgas?n? koruyup bug?n?n ?ne ??kan siyasi ba?l?klar?n? ay?r?yorum.</p>
+            <p class="section-copy">Tarafsız tarama için Reuters omurgasını koruyup bugünün öne çıkan siyasi başlıklarını ayırıyorum.</p>
             <ul class="politics-list">
               {political_brief}
             </ul>
@@ -1253,8 +1253,8 @@ def _render_html(report: dict) -> str:
 
         <section>
           <div class="rail-top" style="margin-bottom: 12px;">
-            <h2 class="section-title" style="margin:0;">Se?ilmi? haberler</h2>
-            <div class="mast-meta" style="text-align:left;">Quartz benzeri daha editoryal, daha k?sa ve daha okunur ak??.</div>
+            <h2 class="section-title" style="margin:0;">Seçilmiş haberler</h2>
+            <div class="mast-meta" style="text-align:left;">Quartz benzeri daha editoryal, daha kısa ve daha okunur akış.</div>
           </div>
           <div class="story-grid">
             {headline_cards}
@@ -1266,7 +1266,7 @@ def _render_html(report: dict) -> str:
         <article class="rail-card">
           <div class="rail-top">
             <span class="rail-label">Piyasa panosu</span>
-            <span class="mast-meta">Invest ba?lant?s?</span>
+            <span class="mast-meta">Invest bağlantısı</span>
           </div>
           <h3>Fonlar ve ana izleme listesi</h3>
           <div class="market-stack">
@@ -1279,7 +1279,7 @@ def _render_html(report: dict) -> str:
             <span class="rail-label">Topic router</span>
             <span class="mast-meta">En iyi ilk durak</span>
           </div>
-          <h3>Konuya g?re do?ru kaynak</h3>
+          <h3>Konuya göre doğru kaynak</h3>
           <div class="route-stack">
             {router_cards}
           </div>
@@ -1287,8 +1287,8 @@ def _render_html(report: dict) -> str:
 
         <article class="rail-card">
           <div class="rail-top">
-            <span class="rail-label">Kaynak notlar?</span>
-            <span class="mast-meta">Sistem sa?l???</span>
+            <span class="rail-label">Kaynak notları</span>
+            <span class="mast-meta">Sistem sağlığı</span>
           </div>
           <h3>Feed durumu</h3>
           <ul class="error-list">
@@ -1298,7 +1298,7 @@ def _render_html(report: dict) -> str:
       </aside>
     </main>
 
-    <footer class="footer-note">Bu sayfa AI News motoru taraf?ndan otomatik ?retilir. Politik tarama m?mk?n oldu?unca Reuters merkezli, teknoloji ve strateji taraf? ise konu router mant???yla y?nlendirilir.</footer>
+    <footer class="footer-note">Bu sayfa AI News motoru tarafından otomatik üretilir. Politik tarama mümkün olduğunca Reuters merkezli, teknoloji ve strateji tarafı ise konu router mantığıyla yönlendirilir.</footer>
   </div>
 </body>
 </html>
