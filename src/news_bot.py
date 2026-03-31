@@ -2,6 +2,7 @@
 
 import json
 import html
+import os
 import re
 import subprocess
 from dataclasses import asdict, dataclass
@@ -14,9 +15,17 @@ from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree
 
-from config import DEFAULT_NEWS_BOT_CONFIG, DOCS_DIR, NEWS_STATE_JSON, OUTPUT_DIR
+from config import DEFAULT_NEWS_BOT_CONFIG, DOCS_DIR, NEWS_STATE_JSON, OUTPUT_DIR, PROJECT_ROOT
 
-INVEST_ANALYSIS_JSON = Path(r"C:\AI\Invest\output\analysis_payload.json")
+IS_WINDOWS = os.name == "nt"
+INVEST_ANALYSIS_CANDIDATES = (
+    Path(r"C:\AI\Invest\output\analysis_payload.json"),
+    PROJECT_ROOT / "data" / "invest_analysis_snapshot.json",
+)
+INVEST_HISTORY_CANDIDATES = (
+    Path(r"C:\AI\Invest\output\portfolio_history_1y_daily.csv"),
+    PROJECT_ROOT / "data" / "portfolio_history_1y_daily.csv",
+)
 TEFAS_HISTORY_URL = "https://www.tefas.gov.tr/api/DB/BindHistoryInfo"
 YAHOO_CHART_URL = "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
 TEFAS_HEADERS = {
@@ -282,6 +291,8 @@ def _fetch_feed_xml(url: str) -> bytes:
     except URLError as exc:
         if "unknown url type: https" not in str(exc).lower():
             raise
+    if not IS_WINDOWS:
+        raise URLError("PowerShell fallback is only available on Windows.")
     command = [
         "powershell",
         "-NoProfile",
@@ -476,35 +487,40 @@ def _market_state_lookup(previous_state: dict | None) -> dict[str, dict]:
 
 
 def _history_daily_change_by_code(instrument_code: str) -> float | None:
-    history_path = Path(r"C:\AI\Invest\output\portfolio_history_1y_daily.csv")
-    if not history_path.exists():
-        return None
-    rows: list[float] = []
-    try:
-        import csv
+    for history_path in INVEST_HISTORY_CANDIDATES:
+        if not history_path.exists():
+            continue
+        rows: list[float] = []
+        try:
+            import csv
 
-        with history_path.open("r", encoding="utf-8") as handle:
-            reader = csv.DictReader(handle)
-            for row in reader:
-                code = str(row.get("instrument_code") or "").upper()
-                close = row.get("close")
-                if code != instrument_code.upper() or not close:
-                    continue
-                rows.append(float(close))
-    except Exception:
-        return None
-    if len(rows) < 2 or not rows[-2]:
-        return None
-    return ((rows[-1] / rows[-2]) - 1.0) * 100
+            with history_path.open("r", encoding="utf-8") as handle:
+                reader = csv.DictReader(handle)
+                for row in reader:
+                    code = str(row.get("instrument_code") or "").upper()
+                    close = row.get("close")
+                    if code != instrument_code.upper() or not close:
+                        continue
+                    rows.append(float(close))
+        except Exception:
+            continue
+        if len(rows) < 2 or not rows[-2]:
+            continue
+        return ((rows[-1] / rows[-2]) - 1.0) * 100
+    return None
 
 
 def _load_invest_analysis() -> dict:
-    if not INVEST_ANALYSIS_JSON.exists():
-        return {}
-    try:
-        return json.loads(INVEST_ANALYSIS_JSON.read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError):
-        return {}
+    for path in INVEST_ANALYSIS_CANDIDATES:
+        if not path.exists():
+            continue
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        if isinstance(payload, dict):
+            return payload
+    return {}
 
 
 def _post_form(url: str, data: dict[str, str], headers: dict[str, str]) -> dict:
@@ -520,6 +536,8 @@ def _get_json(url: str, headers: dict[str, str]) -> dict:
         with urlopen(request, timeout=20) as response:
             return json.loads(response.read().decode("utf-8"))
     except Exception:
+        if not IS_WINDOWS:
+            raise
         command = [
             "powershell",
             "-NoProfile",
@@ -1036,8 +1054,9 @@ def _build_portfolio_performance() -> dict:
     tracked_return_pct = ((current_value / buy_amount) - 1.0) * 100 if buy_amount else None
 
     daily_return_pct = None
-    history_path = Path(r"C:\AI\Invest\output\portfolio_history_1y_daily.csv")
-    if history_path.exists():
+    for history_path in INVEST_HISTORY_CANDIDATES:
+        if not history_path.exists():
+            continue
         try:
             import csv
             from collections import defaultdict
@@ -1056,6 +1075,7 @@ def _build_portfolio_performance() -> dict:
                 previous = rows_by_date[dates[-2]]
                 if previous:
                     daily_return_pct = ((latest / previous) - 1.0) * 100
+                    break
         except Exception:
             daily_return_pct = None
 
