@@ -1,31 +1,60 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-03-31T17:53:10.267983+00:00
+Uretim zamani: 2026-03-31T18:09:10.751748+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-Bu calistirmada anlamli haber secilemedi.
+### 1. Humanoid completes live HMND PoC with SAP and Martur Fompak
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 25
+- Link: https://www.therobotreport.com/humanoid-completes-live-hmnd-poc-sap-martur-fompak/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, humanoid ekseninde öne çıkıyor.
 
-Muhtemel nedenler: feed erisim hatasi, eski haberler veya anahtar kelime filtresi.
+Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
+
+### 2. Visa’s stablecoin ally falls for Mastercard
+- Kaynak: Payments Dive
+- Kategoriler: Finansal Sistem
+- Onem skoru: 20
+- Link: https://www.paymentsdive.com/news/visas-stablecoin-ally-falls-for-mastercard/816093/
+- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, stablecoin ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
+
+### 3. AGIBOT rolls out 10,000th humanoid robot
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 19
+- Link: https://www.therobotreport.com/agibot-rolls-out-10000th-humanoid-robot/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
+
+### 4. Icarus Robotics to test its free-flying robot in the ISS with Voyager
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 17
+- Link: https://www.therobotreport.com/icarus-robotics-to-test-its-free-flying-robots-in-the-iss-with-voyager/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
 ## Trend Sinyali
 
-- Belirgin kategori ivmesi yok; haber akışı dengeli.
+- Robotik ivmesi artıyor (0 -> 3).
 
 ## Topic Router
 
-- Nvidia: Bloomberg Technology (yedek: Stratechery)
+- Robotik: The Robot Report (yedek: Bloomberg Technology)
+- Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
+- YZ Modelleri: The Information (yedek: Semafor Tech)
 - Jeopolitik: Reuters World (yedek: Foreign Affairs)
-- Markets: Bloomberg (yedek: Financial Times)
 
 ## Feed Notlari
 
-- Reuters World: b"Invoke-WebRequest : Uzak ad \xc3\xa7\xc3\xb6z\xc3\xbclemedi: 'feeds.reuters.com'\r\nAt line:1 char:141\r\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://feeds.re ...\r\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \r\n   eption\r\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand"
-- Reuters Business: b"Invoke-WebRequest : Uzak ad \xc3\xa7\xc3\xb6z\xc3\xbclemedi: 'feeds.reuters.com'\r\nAt line:1 char:141\r\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://feeds.re ...\r\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \r\n   eption\r\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand"
-- Reuters Technology: b"Invoke-WebRequest : Uzak ad \xc3\xa7\xc3\xb6z\xc3\xbclemedi: 'feeds.reuters.com'\r\nAt line:1 char:141\r\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://feeds.re ...\r\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \r\n   eption\r\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand"
-- TechCrunch: b"Invoke-WebRequest : Temel al\xc4\xb1nan ba\xc4\x9flant\xc4\xb1 kapat\xc4\xb1ld\xc4\xb1: Alma i\xc5\x9fleminde beklenmeyen hata olu\xc5\x9ftu.\r\nAt line:1 char:141\r\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://techcrun ...\r\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \r\n   eption\r\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand"
-- Quartz: b"Invoke-WebRequest : Temel al\xc4\xb1nan ba\xc4\x9flant\xc4\xb1 kapat\xc4\xb1ld\xc4\xb1: Alma i\xc5\x9fleminde beklenmeyen hata olu\xc5\x9ftu.\r\nAt line:1 char:141\r\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://qz.com/f ...\r\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \r\n   eption\r\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand"
-- AP World: b"Invoke-WebRequest : Temel al\xc4\xb1nan ba\xc4\x9flant\xc4\xb1 kapat\xc4\xb1ld\xc4\xb1: Alma i\xc5\x9fleminde beklenmeyen hata olu\xc5\x9ftu.\r\nAt line:1 char:141\r\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://apnews.c ...\r\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \r\n   eption\r\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand"
-- BBC World: <urlopen error [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı>
-- The Robot Report: b"Invoke-WebRequest : Temel al\xc4\xb1nan ba\xc4\x9flant\xc4\xb1 kapat\xc4\xb1ld\xc4\xb1: Alma i\xc5\x9fleminde beklenmeyen hata olu\xc5\x9ftu.\r\nAt line:1 char:141\r\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://www.ther ...\r\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \r\n   eption\r\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand"
-- Payments Dive: b"Invoke-WebRequest : Temel al\xc4\xb1nan ba\xc4\x9flant\xc4\xb1 kapat\xc4\xb1ld\xc4\xb1: Alma i\xc5\x9fleminde beklenmeyen hata olu\xc5\x9ftu.\r\nAt line:1 char:141\r\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://www.paym ...\r\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \r\n   eption\r\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand"
+- Reuters World: <urlopen error [Errno -2] Name or service not known>
+- Reuters Business: <urlopen error [Errno -2] Name or service not known>
+- Reuters Technology: <urlopen error [Errno -2] Name or service not known>
+- Quartz: not well-formed (invalid token): line 383, column 231
+- AP World: HTTP Error 404: Not Found

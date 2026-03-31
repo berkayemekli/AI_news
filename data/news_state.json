@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T17:31:15.756277+00:00",
+  "generated_at": "2026-03-31T18:09:10.751748+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -79,6 +79,7 @@
       "title": "Iran using children in security roles in war, reports and witnesses say",
       "link": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
       "summary": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "published_at": "Tue, 31 Mar 2026 12:56:45 GMT"
     },
     {
@@ -86,6 +87,7 @@
       "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
       "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
       "summary": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "published_at": "Tue, 31 Mar 2026 17:16:00 GMT"
     },
     {
@@ -93,6 +95,7 @@
       "title": "China bans storing cremated remains in empty 'bone ash apartments'",
       "link": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
       "summary": "China bans 'bone ash apartments' where mourners are storing cremated remains instead of cemeteries.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "published_at": "Tue, 31 Mar 2026 10:53:10 GMT"
     },
     {
@@ -100,9 +103,11 @@
       "title": "Palestinians convicted of lethal attacks face death penalty under new Israeli law",
       "link": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
       "summary": "The new law, passed on Monday, was pushed hard by the far-right and Security Minister Itamar Ben-Gvir.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "published_at": "Tue, 31 Mar 2026 17:30:05 GMT"
     }
   ],
+  "market_items": [],
   "trend_snapshot": {
     "macro": {
       "count": 0,
@@ -122,7 +127,7 @@
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (0 -> 3)."
   ],
   "topic_router": [
     {
@@ -206,11 +211,11 @@
     }
   ],
   "errors": [
-    "Reuters World: b\"Invoke-WebRequest : Uzak ad \\xc3\\xa7\\xc3\\xb6z\\xc3\\xbclemedi: 'feeds.reuters.com'\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://feeds.re ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\"",
-    "Reuters Business: b\"Invoke-WebRequest : Uzak ad \\xc3\\xa7\\xc3\\xb6z\\xc3\\xbclemedi: 'feeds.reuters.com'\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://feeds.re ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\"",
-    "Reuters Technology: b\"Invoke-WebRequest : Uzak ad \\xc3\\xa7\\xc3\\xb6z\\xc3\\xbclemedi: 'feeds.reuters.com'\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://feeds.re ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\"",
-    "Quartz: not well-formed (invalid token): line 367, column 231",
-    "AP World: b\"Invoke-WebRequest : \\xc4\\xb0stek durduruldu: Ba\\xc4\\x9flant\\xc4\\xb1 beklenmedik bir \\xc5\\x9fekilde kapat\\xc4\\xb1ld\\xc4\\xb1.\\r\\nAt line:1 char:141\\r\\n+ ... ng]::UTF8; (Invoke-WebRequest -UseBasicParsing -Uri 'https://apnews.c ...\\r\\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \\r\\n   eption\\r\\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\""
+    "Reuters World: <urlopen error [Errno -2] Name or service not known>",
+    "Reuters Business: <urlopen error [Errno -2] Name or service not known>",
+    "Reuters Technology: <urlopen error [Errno -2] Name or service not known>",
+    "Quartz: not well-formed (invalid token): line 383, column 231",
+    "AP World: HTTP Error 404: Not Found"
   ],
   "coverage_notes": {
     "objective": "Gerçekten önemli olanları seçmek ve günlük stratejik farkındalık yaratmak.",
