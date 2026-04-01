@@ -1,13 +1,13 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-03-31T18:40:31.808327+00:00
+Uretim zamani: 2026-04-01T07:18:07.242711+00:00
 
 ## Bugunun 5 Onemli Basligi
 
 ### 1. Humanoid completes live HMND PoC with SAP and Martur Fompak
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 25
+- Onem skoru: 24
 - Link: https://www.therobotreport.com/humanoid-completes-live-hmnd-poc-sap-martur-fompak/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, humanoid ekseninde öne çıkıyor.
 
@@ -22,23 +22,23 @@ Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha
 
 Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
 
-### 3. AGIBOT rolls out 10,000th humanoid robot
+### 3. Learn how to build reliable robots at scale in Robotics Summit keynote
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
 - Onem skoru: 19
+- Link: https://www.therobotreport.com/learn-how-build-reliable-robots-scale-robotics-summit-keynote/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+
+### 4. AGIBOT rolls out 10,000th humanoid robot
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 18
 - Link: https://www.therobotreport.com/agibot-rolls-out-10000th-humanoid-robot/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
-
-### 4. Icarus Robotics to test its free-flying robot in the ISS with Voyager
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 17
-- Link: https://www.therobotreport.com/icarus-robotics-to-test-its-free-flying-robots-in-the-iss-with-voyager/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
 ## Trend Sinyali
 
@@ -47,8 +47,8 @@ Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gerce
 ## Topic Router
 
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
-- Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
 - YZ Modelleri: The Information (yedek: Semafor Tech)
+- Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
 - Jeopolitik: Reuters World (yedek: Foreign Affairs)
 
 ## Feed Notlari
@@ -56,5 +56,4 @@ Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gerce
 - Reuters World: <urlopen error [Errno -2] Name or service not known>
 - Reuters Business: <urlopen error [Errno -2] Name or service not known>
 - Reuters Technology: <urlopen error [Errno -2] Name or service not known>
-- Quartz: not well-formed (invalid token): line 399, column 231
 - AP World: HTTP Error 404: Not Found

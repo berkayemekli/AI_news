@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T18:40:31.808327+00:00",
+  "generated_at": "2026-04-01T07:18:07.242711+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 25,
+      "score": 24,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, humanoid ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -40,6 +40,23 @@
     },
     {
       "source": "The Robot Report",
+      "title": "Learn how to build reliable robots at scale in Robotics Summit keynote",
+      "link": "https://www.therobotreport.com/learn-how-build-reliable-robots-scale-robotics-summit-keynote/",
+      "published_at": "Tue, 31 Mar 2026 21:10:23 +0000",
+      "summary": "In the opening panel of this year's Robotics Summit, learn how to create robots that are reliable and ready for commercial fleets.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
       "title": "AGIBOT rolls out 10,000th humanoid robot",
       "link": "https://www.therobotreport.com/agibot-rolls-out-10000th-humanoid-robot/",
       "published_at": "Tue, 31 Mar 2026 17:16:35 +0000",
@@ -48,28 +65,11 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Icarus Robotics to test its free-flying robot in the ISS with Voyager",
-      "link": "https://www.therobotreport.com/icarus-robotics-to-test-its-free-flying-robots-in-the-iss-with-voyager/",
-      "published_at": "Mon, 30 Mar 2026 14:00:35 +0000",
-      "summary": "Icarus Robotics hopes its free-flying robot will be able to do repetitive tasks for astronauts on the International Space Station.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
       ]
     }
   ],
@@ -88,23 +88,23 @@
       "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
       "summary": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 31 Mar 2026 17:16:00 GMT"
+      "published_at": "Tue, 31 Mar 2026 18:57:25 GMT"
     },
     {
       "source": "BBC World",
-      "title": "China bans storing cremated remains in empty 'bone ash apartments'",
-      "link": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
-      "summary": "China bans 'bone ash apartments' where mourners are storing cremated remains instead of cemeteries.",
+      "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
+      "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 31 Mar 2026 10:53:10 GMT"
+      "published_at": "Tue, 31 Mar 2026 21:08:35 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Palestinians convicted of lethal attacks face death penalty under new Israeli law",
-      "link": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The new law, passed on Monday, was pushed hard by the far-right and Security Minister Itamar Ben-Gvir.",
+      "title": "Judge temporarily halts construction of Trump's White House ballroom",
+      "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Republican-appointed judge ruled that Trump was a \"steward\" of the White House, not the owner.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 31 Mar 2026 17:30:05 GMT"
+      "published_at": "Tue, 31 Mar 2026 23:58:29 GMT"
     }
   ],
   "market_items": [],
@@ -114,12 +114,12 @@
       "avg_score": 0.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 16.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 20.3
+      "count": 4,
+      "avg_score": 19.5
     },
     "financial_system": {
       "count": 1,
@@ -133,13 +133,24 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 180,
+      "score": 214,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
       "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 78,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
       "topic": "payments",
@@ -153,20 +164,9 @@
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 46,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 26,
+      "score": 25,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -179,13 +179,24 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 180,
+      "score": 214,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
       "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 78,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
       "topic": "payments",
@@ -197,24 +208,12 @@
       "backup_url": "https://www.reuters.com/business/",
       "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 46,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     }
   ],
   "errors": [
     "Reuters World: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Business: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Technology: <urlopen error [Errno -2] Name or service not known>",
-    "Quartz: not well-formed (invalid token): line 399, column 231",
     "AP World: HTTP Error 404: Not Found"
   ],
   "coverage_notes": {
