@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-04-01T07:18:07.242711+00:00",
+  "generated_at": "2026-04-02T07:10:13.302518+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Top 10 robotics developments of March 2026",
+      "link": "https://www.therobotreport.com/top-10-robotics-developments-march-2026/",
+      "published_at": "Wed, 01 Apr 2026 17:27:55 +0000",
+      "summary": "Smart Factory & Automation World and NVIDIA GTC both brought an avalanche of new robotics and AI news in March 2026.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 25,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, factory ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "automation",
+        "factory",
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Humanoid completes live HMND PoC with SAP and Martur Fompak",
@@ -11,13 +30,30 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, humanoid ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
         "humanoid",
         "robot",
         "warehouse"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "PhAIL ranks top robotics foundation models on real hardware",
+      "link": "https://www.therobotreport.com/phail-ranks-robotics-foundation-models-real-hardware/",
+      "published_at": "Wed, 01 Apr 2026 15:09:53 +0000",
+      "summary": "Positronic Robotics has launched PhAIL, a benchmark evaluating physical AI models on commercial tasks using throughput and reliability metrics.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
       ]
     },
     {
@@ -30,81 +66,31 @@
       "categories": [
         "financial_system"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, stablecoin ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
         "stablecoin",
         "visa"
       ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Learn how to build reliable robots at scale in Robotics Summit keynote",
-      "link": "https://www.therobotreport.com/learn-how-build-reliable-robots-scale-robotics-summit-keynote/",
-      "published_at": "Tue, 31 Mar 2026 21:10:23 +0000",
-      "summary": "In the opening panel of this year's Robotics Summit, learn how to create robots that are reliable and ready for commercial fleets.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "AGIBOT rolls out 10,000th humanoid robot",
-      "link": "https://www.therobotreport.com/agibot-rolls-out-10000th-humanoid-robot/",
-      "published_at": "Tue, 31 Mar 2026 17:16:35 +0000",
-      "summary": "AGIBOT said it is transitioning from initial humanoid rollouts to multiple industries and sites worldwide.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot"
-      ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Iran using children in security roles in war, reports and witnesses say",
-      "link": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
-      "summary": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
+      "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
+      "link": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
+      "summary": "There were some glaring omissions in the president's primetime address, writes the BBC's Gary O'Donoghue.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 31 Mar 2026 12:56:45 GMT"
+      "published_at": "Thu, 02 Apr 2026 03:22:51 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
-      "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
-      "summary": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
+      "title": "US Supreme Court appears sceptical of Trump plan to limit birthright citizenship",
+      "link": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump attended the arguments in person, a rare move by a sitting president that underscores the high stakes of the case.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 31 Mar 2026 18:57:25 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
-      "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 31 Mar 2026 21:08:35 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Judge temporarily halts construction of Trump's White House ballroom",
-      "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Republican-appointed judge ruled that Trump was a \"steward\" of the White House, not the owner.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 31 Mar 2026 23:58:29 GMT"
+      "published_at": "Wed, 01 Apr 2026 22:00:17 GMT"
     }
   ],
   "market_items": [],
@@ -114,26 +100,26 @@
       "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 16.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 19.5
+      "count": 8,
+      "avg_score": 19.0
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 20.0
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (4 -> 8)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 214,
+      "score": 420,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -144,7 +130,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 78,
+      "score": 127,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -155,7 +141,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 63,
+      "score": 60,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -166,7 +152,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 25,
+      "score": 45,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -179,7 +165,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 214,
+      "score": 420,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -190,7 +176,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 78,
+      "score": 127,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -201,7 +187,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 63,
+      "score": 60,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
