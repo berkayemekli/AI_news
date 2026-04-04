@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T07:05:33.785326+00:00",
+  "generated_at": "2026-04-04T06:59:10.223167+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,11 +11,28 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, factory ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
         "factory",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "AES Maximo robot installs 100 megawatts of solar capacity",
+      "link": "https://www.therobotreport.com/aes-maximo-robot-installs-100-megawatts-of-solar-capacity/",
+      "published_at": "Fri, 03 Apr 2026 21:19:05 +0000",
+      "summary": "Maximo, a robotics startup incubated by energy company AES, has successfully deployed its solar panel installation robots at a site in California.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
         "robot",
         "robotics"
       ]
@@ -30,80 +47,63 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Qualcomm joins MassRobotics, to support startups with Dragonwing Robotics Hub",
-      "link": "https://www.therobotreport.com/qualcomm-joins-massrobotics-supports-startups-dragonwing-robotics-hub/",
-      "published_at": "Thu, 02 Apr 2026 21:14:19 +0000",
-      "summary": "Qualcomm has joined MassRobotics as a sponsor and will support startups with its Dragonwing collaborative developer hub.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "PickNik Robotics gives MoveIt Pro 9.0 enhanced perception-to-motion, teleop capabilities",
-      "link": "https://www.therobotreport.com/picknik-robotics-says-moveit-pro-9-0-enhanced-perception-to-motion-teleop-capabilities/",
-      "published_at": "Thu, 02 Apr 2026 13:00:36 +0000",
-      "summary": "MoveIt Pro 9.0 strengthens workflows for commercial cleaning, sanitation, and vehicle-washing robots, says PickNik.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
       "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
       ]
+    },
+    {
+      "source": "Payments Dive",
+      "title": "Card volume rises with digital boost",
+      "link": "https://www.paymentsdive.com/news/card-volume-rises-with-digital-boost/816600/",
+      "published_at": "Fri, 03 Apr 2026 11:17:00 -0400",
+      "summary": "Volume on Visa, Mastercard, American Express and Discover cards issued in the U.S. climbed 6.4% last year over 2024, with an assist from digital plays, according to Nilson Report’s publisher.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "categories": [
+        "financial_system"
+      ],
+      "score": 17,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, visa ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "mastercard",
+        "visa"
+      ]
     }
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "Is ANIP Undervalued? How to Read Its 9.3x Forward P/E",
-      "link": "https://qz.com/is-anip-undervalued-how-to-read-its-9-3x-forward-p-e",
-      "summary": "ANI Pharmaceuticals trades at just 9.3x forward earnings, far below peers - raising a key question: is this a bargain or a signal of execution risks ahead?",
+      "source": "BBC World",
+      "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
+      "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 03 Apr 2026 00:00:17 GMT"
+      "published_at": "Sat, 04 Apr 2026 02:52:09 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump removes US Attorney General Pam Bondi",
-      "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
+      "title": "Burkina Faso must 'forget' about democracy, military leader says",
+      "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Capt Ibrahim Traoré, who seized power in 2023, says democratic rule would not work for his country.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 03 Apr 2026 00:31:27 GMT"
+      "published_at": "Fri, 03 Apr 2026 11:11:42 GMT"
     },
     {
       "source": "BBC World",
-      "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
-      "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
+      "title": "French-owned ship passes through Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
+      "summary": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 02 Apr 2026 16:09:24 GMT"
+      "published_at": "Fri, 03 Apr 2026 17:45:46 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Iran war could make beer and bottled water pricier for Indians",
-      "link": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
+      "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
+      "link": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's new budget would cut non-defence spending by 10%, partly by slashing domestic programmes.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 02 Apr 2026 23:16:37 GMT"
+      "published_at": "Fri, 03 Apr 2026 15:45:25 GMT"
     }
   ],
   "market_items": [],
@@ -117,12 +117,12 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 8,
-      "avg_score": 18.0
+      "count": 7,
+      "avg_score": 17.7
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 17.0
     }
   },
   "trend_signals": [
@@ -132,7 +132,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 354,
+      "score": 310,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -143,7 +143,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 98,
+      "score": 77,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -152,33 +152,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 36,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 25,
+      "score": 24,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
       "backup_url": "https://stratechery.com/about/",
       "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
       "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 20,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 354,
+      "score": 310,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -189,7 +189,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 98,
+      "score": 77,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -198,15 +198,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 25,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 36,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
