@@ -1,59 +1,6 @@
 {
-  "generated_at": "2026-04-04T06:59:10.223167+00:00",
+  "generated_at": "2026-04-05T07:03:26.382395+00:00",
   "headlines": [
-    {
-      "source": "The Robot Report",
-      "title": "Top 10 robotics developments of March 2026",
-      "link": "https://www.therobotreport.com/top-10-robotics-developments-march-2026/",
-      "published_at": "Wed, 01 Apr 2026 17:27:55 +0000",
-      "summary": "Smart Factory & Automation World and NVIDIA GTC both brought an avalanche of new robotics and AI news in March 2026.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 23,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, factory ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "automation",
-        "factory",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "AES Maximo robot installs 100 megawatts of solar capacity",
-      "link": "https://www.therobotreport.com/aes-maximo-robot-installs-100-megawatts-of-solar-capacity/",
-      "published_at": "Fri, 03 Apr 2026 21:19:05 +0000",
-      "summary": "Maximo, a robotics startup incubated by energy company AES, has successfully deployed its solar panel installation robots at a site in California.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "PhAIL ranks top robotics foundation models on real hardware",
-      "link": "https://www.therobotreport.com/phail-ranks-robotics-foundation-models-real-hardware/",
-      "published_at": "Wed, 01 Apr 2026 15:09:53 +0000",
-      "summary": "Positronic Robotics has launched PhAIL, a benchmark evaluating physical AI models on commercial tasks using throughput and reliability metrics.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
     {
       "source": "Payments Dive",
       "title": "Card volume rises with digital boost",
@@ -64,7 +11,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, visa ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
@@ -75,35 +22,35 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
-      "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
+      "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
+      "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 04 Apr 2026 02:52:09 GMT"
+      "published_at": "Sat, 04 Apr 2026 21:29:46 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Burkina Faso must 'forget' about democracy, military leader says",
-      "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Capt Ibrahim Traoré, who seized power in 2023, says democratic rule would not work for his country.",
+      "title": "German males under 45 may need military approval for long stays abroad",
+      "link": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 03 Apr 2026 11:11:42 GMT"
+      "published_at": "Sat, 04 Apr 2026 21:16:42 GMT"
     },
     {
       "source": "BBC World",
-      "title": "French-owned ship passes through Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
-      "summary": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began.",
+      "title": "Russian attack on Ukraine market kills five",
+      "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 03 Apr 2026 17:45:46 GMT"
+      "published_at": "Sat, 04 Apr 2026 18:54:53 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
-      "link": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's new budget would cut non-defence spending by 10%, partly by slashing domestic programmes.",
+      "title": "World's oldest leader to get a deputy for first time in 43-year rule",
+      "link": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cameroon's President Paul Biya, 93, won his eighth successive term last year in a disputed election.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 03 Apr 2026 15:45:25 GMT"
+      "published_at": "Sat, 04 Apr 2026 18:30:58 GMT"
     }
   ],
   "market_items": [],
@@ -117,44 +64,35 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 7,
-      "avg_score": 17.7
+      "count": 0,
+      "avg_score": 0.0
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 17.0
+      "avg_score": 16.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik akışı yavaşladı (7 -> 0)."
   ],
   "topic_router": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 310,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 77,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 34,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    }
+  ],
+  "today_stack": [
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 36,
+      "score": 34,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -165,55 +103,33 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 24,
+      "score": 0,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
       "backup_url": "https://stratechery.com/about/",
       "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
       "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    }
-  ],
-  "today_stack": [
-    {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 310,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 77,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 36,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 0,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
     "Reuters World: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Business: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Technology: <urlopen error [Errno -2] Name or service not known>",
-    "AP World: HTTP Error 404: Not Found"
+    "Quartz: HTTP Error 404: Not Found",
+    "AP World: HTTP Error 404: Not Found",
+    "The Robot Report: HTTP Error 403: Forbidden"
   ],
   "coverage_notes": {
     "objective": "Gerçekten önemli olanları seçmek ve günlük stratejik farkındalık yaratmak.",
