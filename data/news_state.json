@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-04-07T07:13:50.446594+00:00",
+  "generated_at": "2026-04-08T07:16:37.547320+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Learn to build warehouse robots people enjoy working with at the Robotics Summit",
-      "link": "https://www.therobotreport.com/learn-to-build-warehouse-robots-people-enjoy-working-with-at-the-robotics-summit/",
-      "published_at": "Sat, 04 Apr 2026 13:00:04 +0000",
-      "summary": "At the Robotics Summit & Expo, Anthony Jules, Robust.AI, will explore what it takes to bring automation into complex warehouse environments.",
+      "title": "What Amazon saw in Fauna Robotics’ humanoid strategy",
+      "link": "https://www.therobotreport.com/what-amazon-saw-in-fauna-robotics-humanoid-strategy/",
+      "published_at": "Tue, 07 Apr 2026 15:07:00 +0000",
+      "summary": "Amazon did not acquire Fauna to ship a consumer humanoid. Sprout will not be walking around your living room folding laundry anytime soon.",
       "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 23,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "automation",
+        "humanoid",
         "robot",
-        "robotics",
-        "warehouse"
+        "robotics"
       ]
     },
     {
@@ -30,7 +29,24 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "OLogic to share the keys to balancing hardware and software at the Robotics Summit",
+      "link": "https://www.therobotreport.com/ologic-share-keys-balancing-hardware-software-robotics-summit/",
+      "published_at": "Tue, 07 Apr 2026 18:11:59 +0000",
+      "summary": "With real-world examples, the founder of OLogic will offer a roadmap for building robots that don't just work in the lab.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -40,36 +56,36 @@
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Little sign of breakthrough as Trump's Iran deadline nears",
-      "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
+      "source": "Quartz",
+      "title": "Oil falls below $100 and Dow futures soar 1,000 points on Iran ceasefire deal",
+      "link": "https://qz.com/trump-iran-war-ceasefire-deal-oil-prices-stocks-markets",
+      "summary": "Trump said he would suspend bombing operations against Iran in exchange for Tehran agreeing to reopen the Strait of Hormuz",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 06 Apr 2026 23:04:23 GMT"
+      "published_at": "Wed, 08 Apr 2026 02:30:47 GMT"
     },
     {
       "source": "BBC World",
-      "title": "JD Vance due in Hungary to back Orban's re-election bid",
-      "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
+      "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
+      "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+      "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 07 Apr 2026 01:45:41 GMT"
+      "published_at": "Wed, 08 Apr 2026 03:30:55 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Taiwan opposition leader makes first China visit since 2016",
-      "link": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
+      "title": "What we know about the two-week ceasefire between the US and Iran",
+      "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 07 Apr 2026 05:21:20 GMT"
+      "published_at": "Wed, 08 Apr 2026 02:58:55 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
-      "link": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Steve Hilton, who advised the former prime minster and hosted a Fox News show, is running as a Republican.",
+      "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+      "link": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
+      "summary": "He will serve out the rest of Marjorie Taylor Greene's term, which ends in January 2027.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 06 Apr 2026 18:55:45 GMT"
+      "published_at": "Wed, 08 Apr 2026 02:33:45 GMT"
     }
   ],
   "market_items": [],
@@ -83,8 +99,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 22.0
+      "count": 3,
+      "avg_score": 20.3
     },
     "financial_system": {
       "count": 0,
@@ -98,7 +114,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 140,
+      "score": 153,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -107,20 +123,9 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 24,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 24,
+      "score": 19,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -133,7 +138,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 140,
+      "score": 153,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,26 +147,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 24,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 24,
+      "score": 19,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
