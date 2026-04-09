@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T07:16:37.547320+00:00",
+  "generated_at": "2026-04-09T07:19:36.958302+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,10 +11,27 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Robotics Summit rolls out limited time National Robotics Week discount",
+      "link": "https://www.therobotreport.com/robotics-summit-rolls-out-limited-time-national-robotics-week-discount/",
+      "published_at": "Wed, 08 Apr 2026 19:26:20 +0000",
+      "summary": "To celebrate National Robotics Week, for a limited time, attendees can save on Full Conference Passes for the Robotics Summit & Expo.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
         "robot",
         "robotics"
       ]
@@ -29,7 +46,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -46,7 +63,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -57,11 +74,27 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Oil falls below $100 and Dow futures soar 1,000 points on Iran ceasefire deal",
-      "link": "https://qz.com/trump-iran-war-ceasefire-deal-oil-prices-stocks-markets",
-      "summary": "Trump said he would suspend bombing operations against Iran in exchange for Tehran agreeing to reopen the Strait of Hormuz",
+      "title": "Auna S.A.'s Risk-Sharing Strategy in Colombia Supports Revenue Growth",
+      "link": "https://qz.com/auna-s-a-s-risk-sharing-strategy-in-colombia-supports-revenue-growth",
+      "summary": "AUNA leans on risk-sharing models in Colombia, boosting revenues and cash flow while reducing exposure to government-intervened payors.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 08 Apr 2026 02:30:47 GMT"
+      "published_at": "Thu, 09 Apr 2026 00:31:29 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "AVNT Stock Trades at a Discounted Valuation: Is it a Buy Signal?",
+      "link": "https://qz.com/avnt-stock-trades-at-a-discounted-valuation-is-it-a-buy-signal",
+      "summary": "AVNT trades at a steep discount to peers, but with mixed demand and execution risks, investors must weigh margin delivery and deleveraging progress.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 09 Apr 2026 00:31:04 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+      "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 09 Apr 2026 01:59:34 GMT"
     },
     {
       "source": "BBC World",
@@ -70,22 +103,6 @@
       "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "published_at": "Wed, 08 Apr 2026 03:30:55 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "What we know about the two-week ceasefire between the US and Iran",
-      "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 08 Apr 2026 02:58:55 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
-      "link": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
-      "summary": "He will serve out the rest of Marjorie Taylor Greene's term, which ends in January 2027.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 08 Apr 2026 02:33:45 GMT"
     }
   ],
   "market_items": [],
@@ -99,8 +116,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 20.3
+      "count": 4,
+      "avg_score": 19.2
     },
     "financial_system": {
       "count": 0,
@@ -114,7 +131,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 153,
+      "score": 186,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -125,7 +142,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 19,
+      "score": 18,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -138,7 +155,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 153,
+      "score": 186,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -149,7 +166,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 19,
+      "score": 18,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
