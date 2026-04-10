@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T07:19:36.958302+00:00",
+  "generated_at": "2026-04-10T07:25:14.984969+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,10 +11,27 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Amazon CEO says robotics is key for faster delivery, lower costs",
+      "link": "https://www.therobotreport.com/amazon-ceo-says-robotics-key-faster-delivery-lower-costs/",
+      "published_at": "Thu, 09 Apr 2026 23:50:08 +0000",
+      "summary": "Amazon now has over 1 million robots operating in fulfillment centers, helping with stowing, picking, sorting, and intra-facility transport.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
         "robot",
         "robotics"
       ]
@@ -29,24 +46,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Tennibot launches Partner V2, its latest robotic tennis ball machine",
-      "link": "https://www.therobotreport.com/tennibot-launches-partner-v2-latest-robotic-tennis-ball-machine/",
-      "published_at": "Mon, 06 Apr 2026 23:39:40 +0000",
-      "summary": "Attendees at the Robotics Summit & Expo in Boston will get a chance to interact with Tennibot's technology firsthand.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -63,7 +63,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -73,36 +73,36 @@
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "Auna S.A.'s Risk-Sharing Strategy in Colombia Supports Revenue Growth",
-      "link": "https://qz.com/auna-s-a-s-risk-sharing-strategy-in-colombia-supports-revenue-growth",
-      "summary": "AUNA leans on risk-sharing models in Colombia, boosting revenues and cash flow while reducing exposure to government-intervened payors.",
+      "source": "BBC World",
+      "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+      "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 09 Apr 2026 00:31:29 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "AVNT Stock Trades at a Discounted Valuation: Is it a Buy Signal?",
-      "link": "https://qz.com/avnt-stock-trades-at-a-discounted-valuation-is-it-a-buy-signal",
-      "summary": "AVNT trades at a steep discount to peers, but with mixed demand and execution risks, investors must weigh margin delivery and deleveraging progress.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 09 Apr 2026 00:31:04 GMT"
+      "published_at": "Fri, 10 Apr 2026 02:10:44 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
-      "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
+      "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
+      "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss",
+      "summary": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 09 Apr 2026 01:59:34 GMT"
+      "published_at": "Fri, 10 Apr 2026 06:59:43 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
-      "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
-      "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
+      "title": "White House staff told not to place bets on prediction markets",
+      "link": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
+      "summary": "The gambling platforms have grown in popularity, with some users making wagers on conflicts.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 08 Apr 2026 03:30:55 GMT"
+      "published_at": "Fri, 10 Apr 2026 02:32:27 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia and Ukraine agree to truce for Orthodox Easter",
+      "link": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vladimir Putin announced the truce, which will last from Saturday afternoon on 11 April through Easter Sunday.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 09 Apr 2026 22:33:48 GMT"
     }
   ],
   "market_items": [],
@@ -117,7 +117,7 @@
     },
     "robotics": {
       "count": 4,
-      "avg_score": 19.2
+      "avg_score": 18.5
     },
     "financial_system": {
       "count": 0,
@@ -131,7 +131,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 186,
+      "score": 179,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -140,9 +140,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 20,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 18,
+      "score": 17,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -155,7 +166,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 186,
+      "score": 179,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -164,26 +175,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 20,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 18,
+      "score": 17,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 0,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
