@@ -1,20 +1,36 @@
 {
-  "generated_at": "2026-04-10T07:25:14.984969+00:00",
+  "generated_at": "2026-04-11T06:59:19.235744+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "What Amazon saw in Fauna Robotics’ humanoid strategy",
-      "link": "https://www.therobotreport.com/what-amazon-saw-in-fauna-robotics-humanoid-strategy/",
-      "published_at": "Tue, 07 Apr 2026 15:07:00 +0000",
-      "summary": "Amazon did not acquire Fauna to ship a consumer humanoid. Sprout will not be walking around your living room folding laundry anytime soon.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "title": "SCSP launches National Security Commission on Robotics for Advanced Manufacturing",
+      "link": "https://www.therobotreport.com/scsp-launches-national-security-commission-robotics-advanced-manufacturing/",
+      "published_at": "Fri, 10 Apr 2026 12:58:45 +0000",
+      "summary": "SCSP, the Special Competitive Studies Project, is leading study and U.S. policy recommendations on training, robotics and AI adoption, and supply chain resilience.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "MassRobotics to promote ecosystem growth at 2026 Robotics Summit & Expo",
+      "link": "https://www.therobotreport.com/massrobotics-to-show-and-promote-ecosystem-growth-at-the-2026-robotics-summit-expo/",
+      "published_at": "Fri, 10 Apr 2026 14:44:37 +0000",
+      "summary": "MassRobotics will spotlight resident, physical AI, and healthcare startups, as well as women in robotics and university teams at the 2026 Robotics Summit.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
         "robot",
         "robotics"
       ]
@@ -29,7 +45,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -46,23 +62,6 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "OLogic to share the keys to balancing hardware and software at the Robotics Summit",
-      "link": "https://www.therobotreport.com/ologic-share-keys-balancing-hardware-software-robotics-summit/",
-      "published_at": "Tue, 07 Apr 2026 18:11:59 +0000",
-      "summary": "With real-world examples, the founder of OLogic will offer a roadmap for building robots that don't just work in the lab.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
       "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
@@ -73,36 +72,36 @@
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
-      "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
+      "source": "Quartz",
+      "title": "Bear of the Day: AeroVironment (AVAV)",
+      "link": "https://qz.com/bear-of-the-day-aerovironment-avav",
+      "summary": "The company faces intense competitive pressures and is heavily dependent on the government for revenues.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 10 Apr 2026 02:10:44 GMT"
+      "published_at": "Sat, 11 Apr 2026 00:20:55 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
-      "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss",
-      "summary": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\".",
+      "title": "Lyse Doucet: Historic US-Iran talks must bridge deep distrust",
+      "link": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
+      "summary": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 10 Apr 2026 06:59:43 GMT"
+      "published_at": "Fri, 10 Apr 2026 23:46:49 GMT"
     },
     {
       "source": "BBC World",
-      "title": "White House staff told not to place bets on prediction markets",
-      "link": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
-      "summary": "The gambling platforms have grown in popularity, with some users making wagers on conflicts.",
+      "title": "Frontrunner for California governor denies sexual assault allegations",
+      "link": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
+      "summary": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 10 Apr 2026 02:32:27 GMT"
+      "published_at": "Sat, 11 Apr 2026 03:13:10 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Russia and Ukraine agree to truce for Orthodox Easter",
-      "link": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Vladimir Putin announced the truce, which will last from Saturday afternoon on 11 April through Easter Sunday.",
+      "title": "Melania Trump's speech propels Epstein crisis back to forefront",
+      "link": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "She has now placed herself squarely into the Epstein story and at odds with the administration, which wants to end the investigation.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 09 Apr 2026 22:33:48 GMT"
+      "published_at": "Sat, 11 Apr 2026 03:25:04 GMT"
     }
   ],
   "market_items": [],
@@ -117,7 +116,7 @@
     },
     "robotics": {
       "count": 4,
-      "avg_score": 18.5
+      "avg_score": 17.8
     },
     "financial_system": {
       "count": 0,
@@ -131,7 +130,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 179,
+      "score": 150,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,31 +141,20 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 20,
+      "score": 58,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 17,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 179,
+      "score": 150,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -177,7 +165,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 20,
+      "score": 58,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -186,15 +174,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 17,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [

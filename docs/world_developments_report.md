@@ -1,41 +1,41 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-04-10T07:25:14.984969+00:00
+Uretim zamani: 2026-04-11T06:59:19.235744+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. What Amazon saw in Fauna Robotics’ humanoid strategy
+### 1. SCSP launches National Security Commission on Robotics for Advanced Manufacturing
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 22
-- Link: https://www.therobotreport.com/what-amazon-saw-in-fauna-robotics-humanoid-strategy/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
+- Onem skoru: 20
+- Link: https://www.therobotreport.com/scsp-launches-national-security-commission-robotics-advanced-manufacturing/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
-Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 2. Amazon CEO says robotics is key for faster delivery, lower costs
+### 2. MassRobotics to promote ecosystem growth at 2026 Robotics Summit & Expo
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 19
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/massrobotics-to-show-and-promote-ecosystem-growth-at-the-2026-robotics-summit-expo/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+
+### 3. Amazon CEO says robotics is key for faster delivery, lower costs
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 17
 - Link: https://www.therobotreport.com/amazon-ceo-says-robotics-key-faster-delivery-lower-costs/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 3. Robotics Summit rolls out limited time National Robotics Week discount
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 17
-- Link: https://www.therobotreport.com/robotics-summit-rolls-out-limited-time-national-robotics-week-discount/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
-
-### 4. OLogic to share the keys to balancing hardware and software at the Robotics Summit
+### 4. Robotics Summit rolls out limited time National Robotics Week discount
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
 - Onem skoru: 16
-- Link: https://www.therobotreport.com/ologic-share-keys-balancing-hardware-software-robotics-summit/
+- Link: https://www.therobotreport.com/robotics-summit-rolls-out-limited-time-national-robotics-week-discount/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
@@ -48,7 +48,6 @@ Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gerce
 
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
 - YZ Modelleri: The Information (yedek: Semafor Tech)
-- Jeopolitik: Reuters World (yedek: Foreign Affairs)
 
 ## Feed Notlari
 
