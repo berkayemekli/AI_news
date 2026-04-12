@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T06:59:19.235744+00:00",
+  "generated_at": "2026-04-12T07:11:54.216262+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -28,7 +28,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -45,23 +45,6 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Robotics Summit rolls out limited time National Robotics Week discount",
-      "link": "https://www.therobotreport.com/robotics-summit-rolls-out-limited-time-national-robotics-week-discount/",
-      "published_at": "Wed, 08 Apr 2026 19:26:20 +0000",
-      "summary": "To celebrate National Robotics Week, for a limited time, attendees can save on Full Conference Passes for the Robotics Summit & Expo.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
       "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
@@ -73,35 +56,35 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Bear of the Day: AeroVironment (AVAV)",
-      "link": "https://qz.com/bear-of-the-day-aerovironment-avav",
-      "summary": "The company faces intense competitive pressures and is heavily dependent on the government for revenues.",
+      "title": "Government Contracts and Robust Liquidity Fuel Maximus' Growth",
+      "link": "https://qz.com/government-contracts-and-robust-liquidity-fuel-maximus-growth",
+      "summary": "MMS benefits from strong government partnerships, cash flow and dividend payouts, but regulatory risks and heavy government contract reliance dampen growth.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 11 Apr 2026 00:20:55 GMT"
+      "published_at": "Sun, 12 Apr 2026 00:01:27 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Lyse Doucet: Historic US-Iran talks must bridge deep distrust",
-      "link": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
-      "summary": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.",
+      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+      "link": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+      "summary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 10 Apr 2026 23:46:49 GMT"
+      "published_at": "Sun, 12 Apr 2026 04:20:37 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Frontrunner for California governor denies sexual assault allegations",
-      "link": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-      "summary": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
+      "title": "Why this disillusioned Trump voter spends hours searching Epstein files",
+      "link": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Many who support the president have expressed frustration with how Trump's former attorney general Pam Bondi handled the Epstein files.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 11 Apr 2026 03:13:10 GMT"
+      "published_at": "Sun, 12 Apr 2026 00:30:44 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Melania Trump's speech propels Epstein crisis back to forefront",
-      "link": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss",
-      "summary": "She has now placed herself squarely into the Epstein story and at odds with the administration, which wants to end the investigation.",
+      "title": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
+      "link": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ismail Omar Guelleh, 78, has extended his already 27-year rule in a poll boycotted by the main opposition candidates.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 11 Apr 2026 03:25:04 GMT"
+      "published_at": "Sat, 11 Apr 2026 09:42:39 GMT"
     }
   ],
   "market_items": [],
@@ -115,8 +98,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 17.8
+      "count": 3,
+      "avg_score": 17.3
     },
     "financial_system": {
       "count": 0,
@@ -130,7 +113,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 150,
+      "score": 110,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -141,7 +124,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 58,
+      "score": 55,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -154,7 +137,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 150,
+      "score": 110,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -165,7 +148,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 58,
+      "score": 55,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
