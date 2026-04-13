@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T07:11:54.216262+00:00",
+  "generated_at": "2026-04-13T08:00:23.065850+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -24,23 +24,6 @@
       "link": "https://www.therobotreport.com/massrobotics-to-show-and-promote-ecosystem-growth-at-the-2026-robotics-summit-expo/",
       "published_at": "Fri, 10 Apr 2026 14:44:37 +0000",
       "summary": "MassRobotics will spotlight resident, physical AI, and healthcare startups, as well as women in robotics and university teams at the 2026 Robotics Summit.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Amazon CEO says robotics is key for faster delivery, lower costs",
-      "link": "https://www.therobotreport.com/amazon-ceo-says-robotics-key-faster-delivery-lower-costs/",
-      "published_at": "Thu, 09 Apr 2026 23:50:08 +0000",
-      "summary": "Amazon now has over 1 million robots operating in fulfillment centers, helping with stowing, picking, sorting, and intra-facility transport.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -60,31 +43,31 @@
       "link": "https://qz.com/government-contracts-and-robust-liquidity-fuel-maximus-growth",
       "summary": "MMS benefits from strong government partnerships, cash flow and dividend payouts, but regulatory risks and heavy government contract reliance dampen growth.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 12 Apr 2026 00:01:27 GMT"
+      "published_at": "Mon, 13 Apr 2026 00:01:10 GMT"
     },
     {
       "source": "BBC World",
-      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
-      "link": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
-      "summary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
+      "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+      "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 12 Apr 2026 04:20:37 GMT"
+      "published_at": "Mon, 13 Apr 2026 06:25:29 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Why this disillusioned Trump voter spends hours searching Epstein files",
-      "link": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Many who support the president have expressed frustration with how Trump's former attorney general Pam Bondi handled the Epstein files.",
+      "title": "Trump's threat raises risks and leaves predicaments unchanged",
+      "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 12 Apr 2026 00:30:44 GMT"
+      "published_at": "Sun, 12 Apr 2026 22:57:22 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
-      "link": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ismail Omar Guelleh, 78, has extended his already 27-year rule in a poll boycotted by the main opposition candidates.",
+      "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
+      "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 11 Apr 2026 09:42:39 GMT"
+      "published_at": "Mon, 13 Apr 2026 05:24:51 GMT"
     }
   ],
   "market_items": [],
@@ -98,8 +81,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 17.3
+      "count": 2,
+      "avg_score": 17.0
     },
     "financial_system": {
       "count": 0,
@@ -113,7 +96,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 110,
+      "score": 72,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -124,7 +107,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 55,
+      "score": 36,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -137,7 +120,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 110,
+      "score": 72,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -148,7 +131,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 55,
+      "score": 36,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
