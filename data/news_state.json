@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-04-13T08:00:23.065850+00:00",
+  "generated_at": "2026-04-14T07:28:29.491734+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "SCSP launches National Security Commission on Robotics for Advanced Manufacturing",
-      "link": "https://www.therobotreport.com/scsp-launches-national-security-commission-robotics-advanced-manufacturing/",
-      "published_at": "Fri, 10 Apr 2026 12:58:45 +0000",
-      "summary": "SCSP, the Special Competitive Studies Project, is leading study and U.S. policy recommendations on training, robotics and AI adoption, and supply chain resilience.",
+      "title": "Locus Robotics launches Locus Array for fully autonomous fulfillment",
+      "link": "https://www.therobotreport.com/locus-robotics-launches-locus-array-for-fully-autonomous-fulfillment/",
+      "published_at": "Mon, 13 Apr 2026 16:38:52 +0000",
+      "summary": "Locus Array is designed to complete fulfillment workflows without manual intervention and is already in use at DHL and other customers.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "autonomous",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Pickle Robot to share lessons learned from taking robots out of the lab and into the field",
+      "link": "https://www.therobotreport.com/pickle-robot-to-share-lessons-learned-from-taking-robots-out-of-the-lab-and-into-the-field/",
+      "published_at": "Mon, 13 Apr 2026 21:01:11 +0000",
+      "summary": "At the Robotics Summit, Pickle Robot's founder and CTO will break down the lessons it learned in making warehouse robots commercially viable.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 22,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics",
+        "warehouse"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Transitive Robotics announces Transitive 2.0 open-source robotics framework",
+      "link": "https://www.therobotreport.com/transitive-robotics-announces-transitive-2-0-open-source-robotics-framework/",
+      "published_at": "Mon, 13 Apr 2026 17:49:00 +0000",
+      "summary": "Transitive 2.0 adds ClickHouse, Grafana, and Alertmanager, offering advanced storage and monitoring to help scale growing robot fleets.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -20,54 +56,53 @@
     },
     {
       "source": "The Robot Report",
-      "title": "MassRobotics to promote ecosystem growth at 2026 Robotics Summit & Expo",
-      "link": "https://www.therobotreport.com/massrobotics-to-show-and-promote-ecosystem-growth-at-the-2026-robotics-summit-expo/",
-      "published_at": "Fri, 10 Apr 2026 14:44:37 +0000",
-      "summary": "MassRobotics will spotlight resident, physical AI, and healthcare startups, as well as women in robotics and university teams at the 2026 Robotics Summit.",
+      "title": "AGIBOT launches Genie Studio Agent zero-code application platform for robots",
+      "link": "https://www.therobotreport.com/agibot-launches-genie-studio-agent-zero-code-application-platform-for-robots/",
+      "published_at": "Mon, 13 Apr 2026 22:37:20 +0000",
+      "summary": "AGIBOT said it designed Genie Studio Agent to provide a full lifecycle software infrastructure, from development to deployment.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "score": 15,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "robot"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Government Contracts and Robust Liquidity Fuel Maximus' Growth",
-      "link": "https://qz.com/government-contracts-and-robust-liquidity-fuel-maximus-growth",
-      "summary": "MMS benefits from strong government partnerships, cash flow and dividend payouts, but regulatory risks and heavy government contract reliance dampen growth.",
+      "title": "Can Carnival's Record Bookings Offset Fuel and Macro Headwinds?",
+      "link": "https://qz.com/can-carnival-s-record-bookings-offset-fuel-and-macro-headwinds",
+      "summary": "CCL's record 2026 bookings and rising onboard spend signal strong demand momentum, but a $500M fuel hit and uneven Europe trends threaten near-term upside.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 13 Apr 2026 00:01:10 GMT"
+      "published_at": "Tue, 14 Apr 2026 00:11:30 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
-      "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+      "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
+      "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Lebanese government go into peace talks with limited influence over the group.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 13 Apr 2026 06:25:29 GMT"
+      "published_at": "Mon, 13 Apr 2026 23:26:46 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump's threat raises risks and leaves predicaments unchanged",
-      "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
+      "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+      "link": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia has offered \"pragmatic\" relations, but Péter Magyar says he will not call Vladimir Putin himself.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 12 Apr 2026 22:57:22 GMT"
+      "published_at": "Mon, 13 Apr 2026 21:28:14 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
-      "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
+      "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
+      "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy's prime minister and the US president are close allies, but Trump has refused to apologise to the \"very weak\" Pope Leo XIV.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 13 Apr 2026 05:24:51 GMT"
+      "published_at": "Mon, 13 Apr 2026 17:32:43 GMT"
     }
   ],
   "market_items": [],
@@ -81,8 +116,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 17.0
+      "count": 4,
+      "avg_score": 19.8
     },
     "financial_system": {
       "count": 0,
@@ -90,13 +125,13 @@
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (2 -> 4)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 72,
+      "score": 198,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -107,20 +142,31 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 36,
+      "score": 41,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 39,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 72,
+      "score": 198,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -131,7 +177,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 36,
+      "score": 41,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -140,15 +186,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 0,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 39,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
