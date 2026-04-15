@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T07:28:29.491734+00:00",
+  "generated_at": "2026-04-15T07:28:56.146403+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -29,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -47,62 +47,46 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "AGIBOT launches Genie Studio Agent zero-code application platform for robots",
-      "link": "https://www.therobotreport.com/agibot-launches-genie-studio-agent-zero-code-application-platform-for-robots/",
-      "published_at": "Mon, 13 Apr 2026 22:37:20 +0000",
-      "summary": "AGIBOT said it designed Genie Studio Agent to provide a full lifecycle software infrastructure, from development to deployment.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 15,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Can Carnival's Record Bookings Offset Fuel and Macro Headwinds?",
-      "link": "https://qz.com/can-carnival-s-record-bookings-offset-fuel-and-macro-headwinds",
-      "summary": "CCL's record 2026 bookings and rising onboard spend signal strong demand momentum, but a $500M fuel hit and uneven Europe trends threaten near-term upside.",
+      "title": "HTZ Stock Trades at a Discounted Valuation: Is it a Buy Signal?",
+      "link": "https://qz.com/htz-stock-trades-at-a-discounted-valuation-is-it-a-buy-signal",
+      "summary": "HTZ is valued very cheaply, but its liquidity is falling below $1B. Whether the stock goes up depends on if it can hit its 2026 profit goals and what happens in",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 14 Apr 2026 00:11:30 GMT"
+      "published_at": "Wed, 15 Apr 2026 00:22:24 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
-      "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Lebanese government go into peace talks with limited influence over the group.",
+      "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
+      "link": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
+      "summary": "US Treasury Secretary said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 13 Apr 2026 23:26:46 GMT"
+      "published_at": "Tue, 14 Apr 2026 19:47:53 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
-      "link": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia has offered \"pragmatic\" relations, but Péter Magyar says he will not call Vladimir Putin himself.",
+      "title": "Watch: Vance heckled as he chides Pope",
+      "link": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Vice-President was speaking at a Turning Point USA event, where he said Pope Leo should \"be careful when he talks about matters of theology.\"",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 13 Apr 2026 21:28:14 GMT"
+      "published_at": "Wed, 15 Apr 2026 03:09:28 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
-      "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Italy's prime minister and the US president are close allies, but Trump has refused to apologise to the \"very weak\" Pope Leo XIV.",
+      "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
+      "link": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 13 Apr 2026 17:32:43 GMT"
+      "published_at": "Tue, 14 Apr 2026 15:04:09 GMT"
     }
   ],
   "market_items": [],
@@ -116,8 +100,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 19.8
+      "count": 3,
+      "avg_score": 20.0
     },
     "financial_system": {
       "count": 0,
@@ -125,13 +109,13 @@
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (2 -> 4)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 198,
+      "score": 171,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +126,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 41,
+      "score": 24,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,7 +137,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 39,
+      "score": 21,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -166,7 +150,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 198,
+      "score": 171,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -177,7 +161,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 41,
+      "score": 24,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -188,7 +172,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 39,
+      "score": 21,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
