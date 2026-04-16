@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T07:28:56.146403+00:00",
+  "generated_at": "2026-04-16T07:43:20.558883+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -29,12 +29,29 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics",
         "warehouse"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Tesla to share roadmap for building AMRs at Robotics Summit & Expo",
+      "link": "https://www.therobotreport.com/tesla-to-share-its-roadmap-for-building-and-scaling-amrs-at-the-robotics-summit-expo/",
+      "published_at": "Wed, 15 Apr 2026 15:33:41 +0000",
+      "summary": "Joshua Joseph, an AMR Deployment Engineer at Tesla, will present a roadmap for deploying AMRs in legacy manufacturing environments.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
       ]
     },
     {
@@ -47,7 +64,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -57,36 +74,36 @@
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "HTZ Stock Trades at a Discounted Valuation: Is it a Buy Signal?",
-      "link": "https://qz.com/htz-stock-trades-at-a-discounted-valuation-is-it-a-buy-signal",
-      "summary": "HTZ is valued very cheaply, but its liquidity is falling below $1B. Whether the stock goes up depends on if it can hit its 2026 profit goals and what happens in",
+      "source": "BBC World",
+      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+      "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 15 Apr 2026 00:22:24 GMT"
+      "published_at": "Wed, 15 Apr 2026 21:10:14 GMT"
     },
     {
       "source": "BBC World",
-      "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
-      "link": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Treasury Secretary said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
+      "title": "Frank Gardner: What is China's role in the Iran war?",
+      "link": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 14 Apr 2026 19:47:53 GMT"
+      "published_at": "Wed, 15 Apr 2026 18:54:06 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Watch: Vance heckled as he chides Pope",
-      "link": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Vice-President was speaking at a Turning Point USA event, where he said Pope Leo should \"be careful when he talks about matters of theology.\"",
+      "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
+      "link": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 15 Apr 2026 03:09:28 GMT"
+      "published_at": "Wed, 15 Apr 2026 11:25:09 GMT"
     },
     {
       "source": "BBC World",
-      "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
-      "link": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar.",
+      "title": "Nine killed in second Turkish school shooting in two days",
+      "link": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight students and one teacher died in the attack, according to Interior Minister Mustafa Cifci.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 14 Apr 2026 15:04:09 GMT"
+      "published_at": "Wed, 15 Apr 2026 20:10:49 GMT"
     }
   ],
   "market_items": [],
@@ -100,8 +117,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 20.0
+      "count": 4,
+      "avg_score": 18.8
     },
     "financial_system": {
       "count": 0,
@@ -115,7 +132,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 171,
+      "score": 201,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -126,7 +143,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 24,
+      "score": 23,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -137,7 +154,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 21,
+      "score": 20,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -150,7 +167,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 171,
+      "score": 201,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -161,7 +178,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 24,
+      "score": 23,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -172,7 +189,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 21,
+      "score": 20,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -185,6 +202,7 @@
     "Reuters World: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Business: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Technology: <urlopen error [Errno -2] Name or service not known>",
+    "Quartz: not well-formed (invalid token): line 131, column 172",
     "AP World: HTTP Error 404: Not Found"
   ],
   "coverage_notes": {
