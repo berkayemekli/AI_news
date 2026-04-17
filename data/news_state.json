@@ -1,40 +1,56 @@
 {
-  "generated_at": "2026-04-16T07:43:20.558883+00:00",
+  "generated_at": "2026-04-17T07:43:27.120539+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Locus Robotics launches Locus Array for fully autonomous fulfillment",
-      "link": "https://www.therobotreport.com/locus-robotics-launches-locus-array-for-fully-autonomous-fulfillment/",
-      "published_at": "Mon, 13 Apr 2026 16:38:52 +0000",
-      "summary": "Locus Array is designed to complete fulfillment workflows without manual intervention and is already in use at DHL and other customers.",
+      "title": "Skild acquires Fetch Robotics assets from Zebra",
+      "link": "https://www.therobotreport.com/skild-acquires-fetch-robotics-assets-from-zebra-automation/",
+      "published_at": "Thu, 16 Apr 2026 18:00:45 +0000",
+      "summary": "Skild AI acquires Zebra Technologies’ robotics arm to deploy its hardware-agnostic \"brain\" and automate end-to-end warehouse fulfillment.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 21,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics",
+        "warehouse"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Antioch raises funding to bring ‘software speed’ to robot development",
+      "link": "https://www.therobotreport.com/antioch-raises-funding-to-bring-software-speed-to-robot-development/",
+      "published_at": "Thu, 16 Apr 2026 15:00:33 +0000",
+      "summary": "Antioch has raised money to scale its team and apply simulation to accelerate robotics testing and validation.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "autonomous",
         "robot",
         "robotics"
       ]
     },
     {
       "source": "The Robot Report",
-      "title": "Pickle Robot to share lessons learned from taking robots out of the lab and into the field",
-      "link": "https://www.therobotreport.com/pickle-robot-to-share-lessons-learned-from-taking-robots-out-of-the-lab-and-into-the-field/",
-      "published_at": "Mon, 13 Apr 2026 21:01:11 +0000",
-      "summary": "At the Robotics Summit, Pickle Robot's founder and CTO will break down the lessons it learned in making warehouse robots commercially viable.",
+      "title": "AGIBOT deploys semi-humanoid robots in electronics manufacturing",
+      "link": "https://www.therobotreport.com/agibot-deploys-semi-humanoid-robots-in-electronics-manufacturing/",
+      "published_at": "Thu, 16 Apr 2026 22:32:56 +0000",
+      "summary": "Longcheer has integrated multiple AGIBOT G2 robots into its tablet production lines, and plans to deploy 100 by Q3 2026.",
       "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
       "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics",
-        "warehouse"
+        "humanoid",
+        "robot"
       ]
     },
     {
@@ -47,24 +63,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Transitive Robotics announces Transitive 2.0 open-source robotics framework",
-      "link": "https://www.therobotreport.com/transitive-robotics-announces-transitive-2-0-open-source-robotics-framework/",
-      "published_at": "Mon, 13 Apr 2026 17:49:00 +0000",
-      "summary": "Transitive 2.0 adds ClickHouse, Grafana, and Alertmanager, offering advanced storage and monitoring to help scale growing robot fleets.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 16,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -75,35 +74,35 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
-      "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
+      "title": "Trump's Lebanon ceasefire takes Israel by surprise",
+      "link": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Few Israelis see this truce as a way out of the conflict with Hezbollah, the BBC's Lucy Williamson writes.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 15 Apr 2026 21:10:14 GMT"
+      "published_at": "Thu, 16 Apr 2026 22:55:59 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Frank Gardner: What is China's role in the Iran war?",
-      "link": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
+      "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+      "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 15 Apr 2026 18:54:06 GMT"
+      "published_at": "Fri, 17 Apr 2026 06:25:34 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
-      "link": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump.",
+      "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+      "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 15 Apr 2026 11:25:09 GMT"
+      "published_at": "Thu, 16 Apr 2026 18:40:45 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Nine killed in second Turkish school shooting in two days",
-      "link": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eight students and one teacher died in the attack, according to Interior Minister Mustafa Cifci.",
+      "title": "Russia launches deadliest aerial attack in months, killing 18 in Ukraine",
+      "link": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Ukrainian drone attack killed two people in Russia, Moscow says, after an Orthodox Easter truce.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 15 Apr 2026 20:10:49 GMT"
+      "published_at": "Thu, 16 Apr 2026 15:20:59 GMT"
     }
   ],
   "market_items": [],
@@ -118,11 +117,11 @@
     },
     "robotics": {
       "count": 4,
-      "avg_score": 18.8
+      "avg_score": 19.2
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 17.0
     }
   },
   "trend_signals": [
@@ -132,7 +131,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 201,
+      "score": 184,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -143,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 23,
+      "score": 83,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -154,20 +153,31 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 20,
+      "score": 43,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 36,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 201,
+      "score": 184,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -178,7 +188,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 23,
+      "score": 83,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -189,7 +199,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 20,
+      "score": 43,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -202,7 +212,7 @@
     "Reuters World: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Business: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Technology: <urlopen error [Errno -2] Name or service not known>",
-    "Quartz: not well-formed (invalid token): line 131, column 172",
+    "Quartz: not well-formed (invalid token): line 181, column 197",
     "AP World: HTTP Error 404: Not Found"
   ],
   "coverage_notes": {
