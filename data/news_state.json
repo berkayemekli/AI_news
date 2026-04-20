@@ -1,76 +1,38 @@
 {
-  "generated_at": "2026-04-19T07:16:57.317171+00:00",
-  "headlines": [
-    {
-      "source": "TechCrunch",
-      "title": "AI chip startup Cerebras files for IPO",
-      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "published_at": "Sat, 18 Apr 2026 19:19:11 +0000",
-      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
-      "categories": [
-        "ai",
-        "technology"
-      ],
-      "score": 17,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "chip",
-        "data center",
-        "openai"
-      ]
-    },
-    {
-      "source": "Payments Dive",
-      "title": "Visa, Mastercard settle merchant claims",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-settle-merchant-claims/817693/",
-      "published_at": "Thu, 16 Apr 2026 10:31:00 -0400",
-      "summary": "About 65 retailers suing the networks over card swipe fees in a New York case have now settled claims.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
-      "categories": [
-        "financial_system"
-      ],
-      "score": 15,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, visa ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "mastercard",
-        "visa"
-      ]
-    }
-  ],
+  "generated_at": "2026-04-20T08:04:09.304592+00:00",
+  "headlines": [],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Mama Shelter and MOB Hotel named best affordable Paris hotels by the Michelin Guide",
-      "link": "https://qz.com/best-affordable-hotels-paris-michelin-guide",
-      "summary": "Nine hotels across the city that trade central location for personality, design and great neighborhoods",
+      "title": "6 of the best places to travel solo around Europe",
+      "link": "https://qz.com/6-best-places-to-travel-solo-europe",
+      "summary": "These six vibrant destinations are often cited for their safety, walkability, and solo-friendly experiences",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 18 Apr 2026 09:16:35 GMT"
+      "published_at": "Sun, 19 Apr 2026 14:41:23 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "3 oil stocks to watch after Trump's raid in Venezuela",
+      "link": "https://qz.com/3-oil-stocks-watch-venezuela-raid",
+      "summary": "With Venezuelan President Nicolas Maduro captured by U.S. forces, financial markets are already eyeing an oil repricing from a Venezuela supply rebound",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sun, 19 Apr 2026 14:12:38 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Pope says 'tyrants' speech was not aimed at Trump",
-      "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
+      "title": "Oil prices rise after Trump says Iranian ship seized",
+      "link": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 18 Apr 2026 16:44:39 GMT"
+      "published_at": "Mon, 20 Apr 2026 07:42:10 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
-      "link": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
-      "summary": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
+      "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+      "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 18 Apr 2026 21:27:56 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Building of Trump's White House ballroom can resume in full, appeals court says",
-      "link": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Construction at the White House is expected to continue until the next hearing, due in June.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 18 Apr 2026 19:18:40 GMT"
+      "published_at": "Sun, 19 Apr 2026 21:09:06 GMT"
     }
   ],
   "market_items": [],
@@ -80,16 +42,16 @@
       "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 17.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
       "count": 0,
       "avg_score": 0.0
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 15.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
@@ -99,7 +61,7 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 54,
+      "score": 0,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
@@ -108,33 +70,33 @@
       "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 52,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 0,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 32,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "markets",
+      "label": "Markets",
+      "score": 0,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 54,
+      "score": 0,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
@@ -143,26 +105,26 @@
       "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 52,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 0,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 32,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "markets",
+      "label": "Markets",
+      "score": 0,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "errors": [
