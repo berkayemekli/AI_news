@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-22T07:43:43.415015+00:00",
+  "generated_at": "2026-04-23T07:49:01.313434+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Cruz’ing through the terminal: A&K Robotics lands $8M for autonomous mobility",
+      "link": "https://www.therobotreport.com/cruzing-through-the-terminal-ak-robotics-lands-8m-for-autonomous-mobility/",
+      "published_at": "Wed, 22 Apr 2026 19:03:45 +0000",
+      "summary": "Investment is led by Business Development Bank of Canada’s Industrial Innovation Venture Fund and Vantage Futures to expand production and R&D capacity.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "autonomous",
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "AI robotics: Moving from the lab to the real-world factory floor",
@@ -11,10 +29,27 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle factory, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "factory",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "From EVs to robotics: Tesla targets 10M Optimus units with new Texas plant",
+      "link": "https://www.therobotreport.com/from-evs-to-robotics-tesla-targets-10m-optimus-units-with-new-texas-plant/",
+      "published_at": "Wed, 22 Apr 2026 21:49:12 +0000",
+      "summary": "Tesla begins Optimus production in Q2 2026, replacing Fremont’s legacy car lines, breaking ground in Texas as it scales toward a robotics-first future.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
         "robot",
         "robotics"
       ]
@@ -29,81 +64,47 @@
       "categories": [
         "financial_system"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
         "settlement",
         "visa"
       ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "German court rules in favor of Teradyne Robotics, issues injunction against Elite Robots",
-      "link": "https://www.therobotreport.com/german-court-rules-in-favor-of-teradyne-robotics-issues-injunction-against-elite-robots/",
-      "published_at": "Tue, 21 Apr 2026 15:50:01 +0000",
-      "summary": "Teradyne has obtained an injunction from a German court as it pursues a claim against Elite Robots for copying its UR cobot software.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Report finds that while 500k+ robots were installed last year, partner layer is still hard to map",
-      "link": "https://www.therobotreport.com/over-500k-robots-installed-last-year-integrator-layer-still-hard-map/",
-      "published_at": "Tue, 21 Apr 2026 10:07:02 +0000",
-      "summary": "Identifying the leading robotics vendors and regions is straightforward, but mapping integrator partners is not, found Georg Stieler.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Trump buys time for Iran deal after frantic day of diplomacy",
-      "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time",
+      "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
+      "link": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 22 Apr 2026 00:32:10 GMT"
+      "published_at": "Wed, 22 Apr 2026 21:23:25 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Iran sees mass redundancies from war with US and Israel",
-      "link": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
+      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+      "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 21 Apr 2026 16:05:51 GMT"
+      "published_at": "Thu, 23 Apr 2026 04:25:30 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
-      "link": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
+      "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
+      "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+      "summary": "US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 21 Apr 2026 16:13:27 GMT"
+      "published_at": "Thu, 23 Apr 2026 07:34:43 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
-      "link": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
-      "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv.",
+      "title": "Zambia's government takes possession of ex-president's body in repatriation row",
+      "link": "https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zambia authorities and Edgar Lungu's family are in a dispute over where former leader's remains should be buried.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 21 Apr 2026 16:25:44 GMT"
+      "published_at": "Wed, 22 Apr 2026 23:33:37 GMT"
     }
   ],
   "market_items": [],
@@ -117,22 +118,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 6,
+      "count": 10,
       "avg_score": 18.2
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 20.0
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (3 -> 6)."
+    "Robotik ivmesi artıyor (6 -> 10)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 252,
+      "score": 430,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -141,20 +142,9 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 78,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 59,
+      "score": 76,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -163,9 +153,20 @@
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 74,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 42,
+      "score": 40,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -178,7 +179,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 252,
+      "score": 430,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -187,33 +188,32 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 78,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 59,
+      "score": 76,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 74,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     }
   ],
   "errors": [
     "Reuters World: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Business: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Technology: <urlopen error [Errno -2] Name or service not known>",
-    "Quartz: not well-formed (invalid token): line 116, column 125",
     "AP World: HTTP Error 404: Not Found"
   ],
   "coverage_notes": {
