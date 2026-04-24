@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T07:49:01.313434+00:00",
+  "generated_at": "2026-04-24T08:00:26.962610+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -20,34 +20,34 @@
       ]
     },
     {
+      "source": "Payments Dive",
+      "title": "Visa, Mastercard face new suit over card fees",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-face-new-suit-over-card-fees/818294/",
+      "published_at": "Thu, 23 Apr 2026 10:15:00 -0400",
+      "summary": "Three plaintiffs say a 2019 settlement in card fee litigation should not give the card networks years of legal immunity for antitrust claims.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "categories": [
+        "financial_system"
+      ],
+      "score": 21,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "mastercard",
+        "settlement",
+        "visa"
+      ]
+    },
+    {
       "source": "The Robot Report",
-      "title": "AI robotics: Moving from the lab to the real-world factory floor",
-      "link": "https://www.therobotreport.com/ai-robotics-moving-from-the-lab-to-the-real-world-factory-floor/",
-      "published_at": "Tue, 21 Apr 2026 18:28:40 +0000",
-      "summary": "Learn the real-world infrastructure and effort required to deploy AI robotics from leaders at Universal Robots, PickNik, and Path Robotics.",
+      "title": "Pudu Robotics raises nearly $150M as it targets industrial applications",
+      "link": "https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/",
+      "published_at": "Thu, 23 Apr 2026 19:20:48 +0000",
+      "summary": "Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
       "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle factory, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "factory",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "From EVs to robotics: Tesla targets 10M Optimus units with new Texas plant",
-      "link": "https://www.therobotreport.com/from-evs-to-robotics-tesla-targets-10m-optimus-units-with-new-texas-plant/",
-      "published_at": "Wed, 22 Apr 2026 21:49:12 +0000",
-      "summary": "Tesla begins Optimus production in Q2 2026, replacing Fremont’s legacy car lines, breaking ground in Texas as it scales toward a robotics-first future.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -55,56 +55,55 @@
       ]
     },
     {
-      "source": "Payments Dive",
-      "title": "How the Visa-Mastercard card fee case may end",
-      "link": "https://www.paymentsdive.com/news/how-the-visa-mastercard-card-fee-case-may-end/817852/",
-      "published_at": "Mon, 20 Apr 2026 10:23:00 -0400",
-      "summary": "A federal court is likely to weigh how much a proposed settlement over interchange fees differs from a pact that was rejected two years ago.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Reliable Robotics raises funding for fully automated aircraft",
+      "link": "https://www.therobotreport.com/reliable-robotics-raises-funding-fully-automated-aircraft/",
+      "published_at": "Thu, 23 Apr 2026 12:58:58 +0000",
+      "summary": "Reliable Robotics has raised $160 million as it continues to develop and work toward FAA certification for its Reliable Autonomy System for civilian and military aircraft.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "financial_system"
+        "robotics"
       ],
-      "score": 19,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "mastercard",
-        "settlement",
-        "visa"
+        "robot",
+        "robotics"
       ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
-      "link": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
+      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+      "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 22 Apr 2026 21:23:25 GMT"
+      "published_at": "Fri, 24 Apr 2026 03:03:55 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
-      "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
+      "title": "US soldier charged after winning $400,000 betting on removal of Maduro",
+      "link": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Gannon Ken Van Dyke allegedly made trades on Polymarket on the basis of classified information, the justice department says.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 23 Apr 2026 04:25:30 GMT"
+      "published_at": "Fri, 24 Apr 2026 00:21:32 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
-      "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months.",
+      "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+      "link": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 23 Apr 2026 07:34:43 GMT"
+      "published_at": "Thu, 23 Apr 2026 20:45:51 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Zambia's government takes possession of ex-president's body in repatriation row",
-      "link": "https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Zambia authorities and Edgar Lungu's family are in a dispute over where former leader's remains should be buried.",
+      "title": "Woman killed by bear in Polish forest, son and local government say",
+      "link": "https://www.bbc.com/news/articles/c20qrg4dyr3o?at_medium=RSS&at_campaign=rss",
+      "summary": "In an extremely rare fatal encounter, the 58-year-old was killed as she was walking in a mountainous area, her son told rescuers.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 22 Apr 2026 23:33:37 GMT"
+      "published_at": "Thu, 23 Apr 2026 18:16:19 GMT"
     }
   ],
   "market_items": [],
@@ -118,22 +117,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 10,
-      "avg_score": 18.2
+      "count": 9,
+      "avg_score": 18.7
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 19.0
+      "avg_score": 21.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (6 -> 10)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 430,
+      "score": 398,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,20 +141,9 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 76,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 74,
+      "score": 101,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -164,9 +152,20 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 77,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 40,
+      "score": 44,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -179,7 +178,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 430,
+      "score": 398,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -188,26 +187,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 76,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 74,
+      "score": 101,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 77,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
