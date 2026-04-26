@@ -1,20 +1,19 @@
 {
-  "generated_at": "2026-04-25T07:12:56.076439+00:00",
+  "generated_at": "2026-04-26T07:26:36.507725+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Cruz’ing through the terminal: A&K Robotics lands $8M for autonomous mobility",
-      "link": "https://www.therobotreport.com/cruzing-through-the-terminal-ak-robotics-lands-8m-for-autonomous-mobility/",
-      "published_at": "Wed, 22 Apr 2026 19:03:45 +0000",
-      "summary": "Investment is led by Business Development Bank of Canada’s Industrial Innovation Venture Fund and Vantage Futures to expand production and R&D capacity.",
+      "title": "ABB Robotics launches PoWa cobot family targeting industrial tasks",
+      "link": "https://www.therobotreport.com/abb-robotics-launches-powa-cobot-family-targeting-industrial-tasks/",
+      "published_at": "Sat, 25 Apr 2026 13:00:56 +0000",
+      "summary": "ABB Robotics said its new PoWa family of cobots addresses a long‑standing gap in the market between traditional cobots.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "autonomous",
         "robot",
         "robotics"
       ]
@@ -29,7 +28,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -47,7 +46,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
@@ -57,15 +56,15 @@
     },
     {
       "source": "The Robot Report",
-      "title": "From sci-fi to reality: Physical AI’s future with Dr. Jan Liphardt",
-      "link": "https://www.therobotreport.com/from-sci-fi-to-reality-physical-ais-future-with-dr-jan-liphardt/",
-      "published_at": "Fri, 24 Apr 2026 21:36:04 +0000",
-      "summary": "Dr. Jan Liphardt discusses the impact of modular AI systems on robotics, emphasizing the importance of transparency and safety in human-robot interactions.",
+      "title": "Pudu Robotics raises nearly $150M as it targets industrial applications",
+      "link": "https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/",
+      "published_at": "Thu, 23 Apr 2026 19:20:48 +0000",
+      "summary": "Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -76,35 +75,35 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-      "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
-      "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
+      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+      "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 24 Apr 2026 16:04:29 GMT"
+      "published_at": "Sat, 25 Apr 2026 21:34:12 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
-      "link": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
-      "summary": "On Friday morning, souring relations between Europe and the United States reared its Medusa-like head again, writes the BBC's Europe editor.",
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 25 Apr 2026 00:10:51 GMT"
+      "published_at": "Sat, 25 Apr 2026 17:01:55 GMT"
     },
     {
       "source": "BBC World",
-      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-      "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
-      "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
+      "title": "Orbán steps down from Hungarian parliament after landslide defeat",
+      "link": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The outgoing prime minister will not take up his seat after leading his party back into opposition.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 24 Apr 2026 22:55:05 GMT"
+      "published_at": "Sat, 25 Apr 2026 19:22:31 GMT"
     },
     {
       "source": "BBC World",
-      "title": "China car giant BYD says it can thrive without US",
-      "link": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
-      "summary": "With the price of fuel rising China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels.",
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 24 Apr 2026 21:25:16 GMT"
+      "published_at": "Sat, 25 Apr 2026 12:29:37 GMT"
     }
   ],
   "market_items": [],
@@ -118,22 +117,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 9,
-      "avg_score": 18.6
+      "count": 7,
+      "avg_score": 18.0
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 20.0
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik akışı yavaşladı (9 -> 7)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 397,
+      "score": 287,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -144,7 +143,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 103,
+      "score": 118,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -155,7 +154,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 79,
+      "score": 59,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -164,22 +163,22 @@
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 42,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "markets",
+      "label": "Markets",
+      "score": 40,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 397,
+      "score": 287,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -190,7 +189,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 103,
+      "score": 118,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -201,7 +200,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 79,
+      "score": 59,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -214,7 +213,7 @@
     "Reuters World: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Business: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Technology: <urlopen error [Errno -2] Name or service not known>",
-    "Quartz: not well-formed (invalid token): line 179, column 125",
+    "Quartz: not well-formed (invalid token): line 290, column 125",
     "AP World: HTTP Error 404: Not Found"
   ],
   "coverage_notes": {
