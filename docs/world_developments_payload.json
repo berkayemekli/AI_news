@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T07:26:36.507725+00:00",
+  "generated_at": "2026-04-27T08:21:31.759847+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -28,7 +28,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -37,29 +37,11 @@
       ]
     },
     {
-      "source": "Payments Dive",
-      "title": "Visa, Mastercard face new suit over card fees",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-face-new-suit-over-card-fees/818294/",
-      "published_at": "Thu, 23 Apr 2026 10:15:00 -0400",
-      "summary": "Three plaintiffs say a 2019 settlement in card fee litigation should not give the card networks years of legal immunity for antitrust claims.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
-      "categories": [
-        "financial_system"
-      ],
-      "score": 19,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "mastercard",
-        "settlement",
-        "visa"
-      ]
-    },
-    {
       "source": "The Robot Report",
-      "title": "Pudu Robotics raises nearly $150M as it targets industrial applications",
-      "link": "https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/",
-      "published_at": "Thu, 23 Apr 2026 19:20:48 +0000",
-      "summary": "Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.",
+      "title": "Look back on 10 years of legged robots with Ghost Robotics at the Robotics Summit",
+      "link": "https://www.therobotreport.com/look-back-on-10-years-of-legged-robots-with-ghost-robotics-at-the-robotics-summit/",
+      "published_at": "Sun, 26 Apr 2026 13:00:00 +0000",
+      "summary": "At the summit, Gavin Kenneally, CEO and co-founder of Ghost Robotics, will share lessons from 10 years of deploying quadruped robots.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -70,40 +52,57 @@
         "robot",
         "robotics"
       ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "From sci-fi to reality: Physical AI’s future with Dr. Jan Liphardt",
+      "link": "https://www.therobotreport.com/from-sci-fi-to-reality-physical-ais-future-with-dr-jan-liphardt/",
+      "published_at": "Fri, 24 Apr 2026 21:36:04 +0000",
+      "summary": "Dr. Jan Liphardt discusses the impact of modular AI systems on robotics, emphasizing the importance of transparency and safety in human-robot interactions.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 16,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
-      "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+      "title": "Suspected gunman at Washington press dinner identified as 31-year-old Californian",
+      "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The man arrested at the event attended by President Trump has been named in US media as Cole Tomas Allen from California.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 25 Apr 2026 21:34:12 GMT"
+      "published_at": "Mon, 27 Apr 2026 02:31:26 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+      "title": "Oil prices rise as US-Iran peace talks stall",
+      "link": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump said on Saturday that the US had cancelled plans to send a team to Pakistan for negotiations.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 25 Apr 2026 17:01:55 GMT"
+      "published_at": "Mon, 27 Apr 2026 06:03:29 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Orbán steps down from Hungarian parliament after landslide defeat",
-      "link": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The outgoing prime minister will not take up his seat after leading his party back into opposition.",
+      "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
+      "link": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
+      "summary": "In a rare interview, Commander Robert Brovdi shared how his unit accounts for a third of all targets destroyed on the battlefield.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 25 Apr 2026 19:22:31 GMT"
+      "published_at": "Mon, 27 Apr 2026 05:03:39 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Seven dead in major Russian attack on Ukraine",
-      "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "title": "Mali defence minister killed as country hit by wave of rebel attacks",
+      "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
+      "summary": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 25 Apr 2026 12:29:37 GMT"
+      "published_at": "Sun, 26 Apr 2026 20:56:26 GMT"
     }
   ],
   "market_items": [],
@@ -117,22 +116,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 7,
-      "avg_score": 18.0
+      "count": 5,
+      "avg_score": 17.6
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 19.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (9 -> 7)."
+    "Robotik akışı yavaşladı (7 -> 5)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 287,
+      "score": 206,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -143,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 118,
+      "score": 57,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -154,7 +153,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 59,
+      "score": 20,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -165,7 +164,7 @@
     {
       "topic": "markets",
       "label": "Markets",
-      "score": 40,
+      "score": 20,
       "best_source": "Bloomberg",
       "best_url": "https://www.bloomberg.com/",
       "backup_source": "Financial Times",
@@ -178,7 +177,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 287,
+      "score": 206,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -189,7 +188,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 118,
+      "score": 57,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -200,7 +199,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 59,
+      "score": 20,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -213,7 +212,7 @@
     "Reuters World: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Business: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Technology: <urlopen error [Errno -2] Name or service not known>",
-    "Quartz: not well-formed (invalid token): line 290, column 125",
+    "Quartz: not well-formed (invalid token): line 417, column 125",
     "AP World: HTTP Error 404: Not Found"
   ],
   "coverage_notes": {
