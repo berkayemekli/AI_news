@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-27T08:21:31.759847+00:00",
+  "generated_at": "2026-04-28T08:23:02.908911+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "ABB Robotics launches PoWa cobot family targeting industrial tasks",
-      "link": "https://www.therobotreport.com/abb-robotics-launches-powa-cobot-family-targeting-industrial-tasks/",
-      "published_at": "Sat, 25 Apr 2026 13:00:56 +0000",
-      "summary": "ABB Robotics said its new PoWa family of cobots addresses a long‑standing gap in the market between traditional cobots.",
+      "title": "Learn about the latest advances in physical AI at the Robotics Summit",
+      "link": "https://www.therobotreport.com/learn-about-latest-advances-physical-ai-robotics-summit/",
+      "published_at": "Mon, 27 Apr 2026 20:28:38 +0000",
+      "summary": "The Robotics Summit & Expo will have an entire track of sessions focusing on how to apply artificial intelligence to robotics.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -20,28 +20,10 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Accenture, Vodafone, and SAP to pilot humanoid robots in the warehouse",
-      "link": "https://www.therobotreport.com/accenture-vodafone-and-sap-to-pilot-humanoid-robots-in-the-warehouse/",
-      "published_at": "Fri, 24 Apr 2026 18:51:50 +0000",
-      "summary": "The humanoids in the pilot are powered by Accenture’s Robot Brain solution, enabling them to interact naturally with human operators.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot",
-        "warehouse"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Look back on 10 years of legged robots with Ghost Robotics at the Robotics Summit",
-      "link": "https://www.therobotreport.com/look-back-on-10-years-of-legged-robots-with-ghost-robotics-at-the-robotics-summit/",
-      "published_at": "Sun, 26 Apr 2026 13:00:00 +0000",
-      "summary": "At the summit, Gavin Kenneally, CEO and co-founder of Ghost Robotics, will share lessons from 10 years of deploying quadruped robots.",
+      "title": "ABB Robotics launches PoWa cobot family targeting industrial tasks",
+      "link": "https://www.therobotreport.com/abb-robotics-launches-powa-cobot-family-targeting-industrial-tasks/",
+      "published_at": "Sat, 25 Apr 2026 13:00:56 +0000",
+      "summary": "ABB Robotics said its new PoWa family of cobots addresses a long‑standing gap in the market between traditional cobots.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -55,54 +37,62 @@
     },
     {
       "source": "The Robot Report",
-      "title": "From sci-fi to reality: Physical AI’s future with Dr. Jan Liphardt",
-      "link": "https://www.therobotreport.com/from-sci-fi-to-reality-physical-ais-future-with-dr-jan-liphardt/",
-      "published_at": "Fri, 24 Apr 2026 21:36:04 +0000",
-      "summary": "Dr. Jan Liphardt discusses the impact of modular AI systems on robotics, emphasizing the importance of transparency and safety in human-robot interactions.",
+      "title": "Look back on 10 years of legged robots with Ghost Robotics at the Robotics Summit",
+      "link": "https://www.therobotreport.com/look-back-on-10-years-of-legged-robots-with-ghost-robotics-at-the-robotics-summit/",
+      "published_at": "Sun, 26 Apr 2026 13:00:00 +0000",
+      "summary": "At the summit, Gavin Kenneally, CEO and co-founder of Ghost Robotics, will share lessons from 10 years of deploying quadruped robots.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 16,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "SquareMind raises $18M for robotic dermatology platform",
+      "link": "https://www.therobotreport.com/squaremind-raises-18m-dermatology-robotics-platform/",
+      "published_at": "Mon, 27 Apr 2026 21:05:25 +0000",
+      "summary": "Squaremind has raised funding to launch Swan, a robotic platform that automates full-body skin imaging for early cancer detection.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 15,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot"
       ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Suspected gunman at Washington press dinner identified as 31-year-old Californian",
-      "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man arrested at the event attended by President Trump has been named in US media as Cole Tomas Allen from California.",
+      "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
+      "link": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 27 Apr 2026 02:31:26 GMT"
+      "published_at": "Tue, 28 Apr 2026 00:41:48 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Oil prices rise as US-Iran peace talks stall",
-      "link": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump said on Saturday that the US had cancelled plans to send a team to Pakistan for negotiations.",
+      "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
+      "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+      "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 27 Apr 2026 06:03:29 GMT"
+      "published_at": "Tue, 28 Apr 2026 06:09:43 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
-      "link": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
-      "summary": "In a rare interview, Commander Robert Brovdi shared how his unit accounts for a third of all targets destroyed on the battlefield.",
+      "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+      "link": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 27 Apr 2026 05:03:39 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Mali defence minister killed as country hit by wave of rebel attacks",
-      "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
-      "summary": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 26 Apr 2026 20:56:26 GMT"
+      "published_at": "Tue, 28 Apr 2026 07:17:06 GMT"
     }
   ],
   "market_items": [],
@@ -116,8 +106,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 17.6
+      "count": 4,
+      "avg_score": 17.2
     },
     "financial_system": {
       "count": 0,
@@ -125,13 +115,13 @@
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (7 -> 5)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 206,
+      "score": 130,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +132,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 57,
+      "score": 55,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -151,20 +141,9 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 20,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
       "topic": "markets",
       "label": "Markets",
-      "score": 20,
+      "score": 19,
       "best_source": "Bloomberg",
       "best_url": "https://www.bloomberg.com/",
       "backup_source": "Financial Times",
@@ -177,7 +156,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 206,
+      "score": 130,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -188,7 +167,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 57,
+      "score": 55,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -197,22 +176,22 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 20,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "markets",
+      "label": "Markets",
+      "score": 19,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "errors": [
     "Reuters World: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Business: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Technology: <urlopen error [Errno -2] Name or service not known>",
-    "Quartz: not well-formed (invalid token): line 417, column 125",
+    "Quartz: not well-formed (invalid token): line 306, column 214",
     "AP World: HTTP Error 404: Not Found"
   ],
   "coverage_notes": {
