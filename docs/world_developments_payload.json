@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-04-28T08:23:02.908911+00:00",
+  "generated_at": "2026-04-29T08:13:33.646279+00:00",
   "headlines": [
+    {
+      "source": "Payments Dive",
+      "title": "Visa, Mastercard defend card fee settlement",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-defend-card-fee-settlement/818655/",
+      "published_at": "Tue, 28 Apr 2026 11:02:00 -0400",
+      "summary": "Large merchants argued in a Monday court hearing that card surcharges and discounts would pose significant burdens on their businesses.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "categories": [
+        "financial_system"
+      ],
+      "score": 21,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "mastercard",
+        "settlement",
+        "visa"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Flex and Teradyne expand partnership to scale physical AI",
+      "link": "https://www.therobotreport.com/flex-teradyne-expand-partnership-scale-physical-ai/",
+      "published_at": "Tue, 28 Apr 2026 22:58:07 +0000",
+      "summary": "Flex and Teradyne Robotics expanded their partnership to accelerate physical AI across global manufacturing facilities.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "Quantum computing is coming to a data center near you",
+      "link": "https://qz.com/quantum-coming-to-data-center-near-you-nvidia-ibm",
+      "published_at": "Tue, 28 Apr 2026 20:41:01 GMT",
+      "summary": "Quantum computers can solve problems that that classical machines can't. Companies like Nvidia and Microsoft have already built its infrastructure",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 18,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle data center, microsoft ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "data center",
+        "microsoft",
+        "nvidia"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Learn about the latest advances in physical AI at the Robotics Summit",
@@ -11,117 +66,75 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "ABB Robotics launches PoWa cobot family targeting industrial tasks",
-      "link": "https://www.therobotreport.com/abb-robotics-launches-powa-cobot-family-targeting-industrial-tasks/",
-      "published_at": "Sat, 25 Apr 2026 13:00:56 +0000",
-      "summary": "ABB Robotics said its new PoWa family of cobots addresses a long‑standing gap in the market between traditional cobots.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Look back on 10 years of legged robots with Ghost Robotics at the Robotics Summit",
-      "link": "https://www.therobotreport.com/look-back-on-10-years-of-legged-robots-with-ghost-robotics-at-the-robotics-summit/",
-      "published_at": "Sun, 26 Apr 2026 13:00:00 +0000",
-      "summary": "At the summit, Gavin Kenneally, CEO and co-founder of Ghost Robotics, will share lessons from 10 years of deploying quadruped robots.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
       "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
       ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "SquareMind raises $18M for robotic dermatology platform",
-      "link": "https://www.therobotreport.com/squaremind-raises-18m-dermatology-robotics-platform/",
-      "published_at": "Mon, 27 Apr 2026 21:05:25 +0000",
-      "summary": "Squaremind has raised funding to launch Swan, a robotic platform that automates full-body skin imaging for early cancer detection.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 15,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot"
-      ]
     }
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
-      "link": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible.",
+      "source": "Quartz",
+      "title": "Impulse COO Eric Romo discusses Rigel’s place in firm’s in-space mobility fleet",
+      "link": "https://qz.com/impulse-coo-on-rigel-place-in-firms-in-space-mobility-fleet",
+      "summary": "Impulse president and chief operating officer Eric Romo discusses Rigel’s place in firm’s in-space mobility fleet",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 28 Apr 2026 00:41:48 GMT"
+      "published_at": "Tue, 28 Apr 2026 20:20:13 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Flexcompute president Vera Yang talks 'breakthrough’ solution with Northrop Grumman",
+      "link": "https://qz.com/flexcompute-pres-breakthrough-solution-with-northrop-grumman",
+      "summary": "Flexcompute president and co-founder Vera Yang talks 'breakthrough’ solution with Northrop Grumman",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Tue, 28 Apr 2026 20:10:14 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
-      "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
-      "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+      "title": "Five takeaways from the King's historic address to Congress",
+      "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+      "summary": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 28 Apr 2026 06:09:43 GMT"
+      "published_at": "Wed, 29 Apr 2026 06:23:28 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
-      "link": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
+      "title": "Comey charged with threatening Trump's life in Instagram post",
+      "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 28 Apr 2026 07:17:06 GMT"
+      "published_at": "Wed, 29 Apr 2026 00:24:05 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 18.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 18.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 17.2
+      "count": 3,
+      "avg_score": 17.3
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 19.5
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Finansal Sistem ivmesi artıyor (0 -> 2)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 130,
+      "score": 110,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -130,9 +143,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 44,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 55,
+      "score": 38,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -141,22 +165,22 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 19,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 38,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 130,
+      "score": 110,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -165,33 +189,32 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 44,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 55,
+      "score": 38,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 19,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "errors": [
     "Reuters World: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Business: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Technology: <urlopen error [Errno -2] Name or service not known>",
-    "Quartz: not well-formed (invalid token): line 306, column 214",
     "AP World: HTTP Error 404: Not Found"
   ],
   "coverage_notes": {
