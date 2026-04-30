@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T08:13:33.646279+00:00",
+  "generated_at": "2026-04-30T08:19:31.477646+00:00",
   "headlines": [
     {
       "source": "Payments Dive",
@@ -11,7 +11,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
@@ -21,10 +21,10 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Flex and Teradyne expand partnership to scale physical AI",
-      "link": "https://www.therobotreport.com/flex-teradyne-expand-partnership-scale-physical-ai/",
-      "published_at": "Tue, 28 Apr 2026 22:58:07 +0000",
-      "summary": "Flex and Teradyne Robotics expanded their partnership to accelerate physical AI across global manufacturing facilities.",
+      "title": "XELA Robotics adds enhancements to uSkin sensor family ahead of Robotics Summit",
+      "link": "https://www.therobotreport.com/xela-robotics-adds-2-enhancements-uskin-sensor-family-ahead-robotics-summit/",
+      "published_at": "Wed, 29 Apr 2026 21:33:09 +0000",
+      "summary": "XELA Robotics will be showing its latest sensor technology at the Robotics Summit & Expo in Boston in May 2026.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -37,31 +37,28 @@
       ]
     },
     {
-      "source": "Quartz",
-      "title": "Quantum computing is coming to a data center near you",
-      "link": "https://qz.com/quantum-coming-to-data-center-near-you-nvidia-ibm",
-      "published_at": "Tue, 28 Apr 2026 20:41:01 GMT",
-      "summary": "Quantum computers can solve problems that that classical machines can't. Companies like Nvidia and Microsoft have already built its infrastructure",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Schaeffler plans to deploy 1,000 Hexagon humanoids by 2032",
+      "link": "https://www.therobotreport.com/schaeffler-plans-to-deploy-1000-hexagon-humanoids-2032/",
+      "published_at": "Wed, 29 Apr 2026 17:53:26 +0000",
+      "summary": "Schaeffler is deepening its investment in humanoid robots in production through partnerships with Hexagon and VinDynamics.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
-        "financial_system",
-        "macro",
-        "technology"
+        "robotics"
       ],
       "score": 18,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle data center, microsoft ekseninde öne çıkıyor.",
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "data center",
-        "microsoft",
-        "nvidia"
+        "humanoid",
+        "robot"
       ]
     },
     {
       "source": "The Robot Report",
-      "title": "Learn about the latest advances in physical AI at the Robotics Summit",
-      "link": "https://www.therobotreport.com/learn-about-latest-advances-physical-ai-robotics-summit/",
-      "published_at": "Mon, 27 Apr 2026 20:28:38 +0000",
-      "summary": "The Robotics Summit & Expo will have an entire track of sessions focusing on how to apply artificial intelligence to robotics.",
+      "title": "Flex and Teradyne expand partnership to scale physical AI",
+      "link": "https://www.therobotreport.com/flex-teradyne-expand-partnership-scale-physical-ai/",
+      "published_at": "Tue, 28 Apr 2026 22:58:07 +0000",
+      "summary": "Flex and Teradyne Robotics expanded their partnership to accelerate physical AI across global manufacturing facilities.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -77,64 +74,64 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Impulse COO Eric Romo discusses Rigel’s place in firm’s in-space mobility fleet",
-      "link": "https://qz.com/impulse-coo-on-rigel-place-in-firms-in-space-mobility-fleet",
-      "summary": "Impulse president and chief operating officer Eric Romo discusses Rigel’s place in firm’s in-space mobility fleet",
+      "title": "Ford is raising its full-year profit outlook after a $1.3 billion tariff refund",
+      "link": "https://qz.com/ford-q1-2026-earnings-tariff-refund-outlook-042926",
+      "summary": "The automaker's adjusted EBIT more than tripled year-over-year, and it lifted its full-year earnings guidance by $500 million at the midpoint",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 28 Apr 2026 20:20:13 GMT"
+      "published_at": "Wed, 29 Apr 2026 20:40:45 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Flexcompute president Vera Yang talks 'breakthrough’ solution with Northrop Grumman",
-      "link": "https://qz.com/flexcompute-pres-breakthrough-solution-with-northrop-grumman",
-      "summary": "Flexcompute president and co-founder Vera Yang talks 'breakthrough’ solution with Northrop Grumman",
+      "title": "DXC exec Chris Drumgoole explains how DXC OASIS helps companies as AI evolves",
+      "link": "https://qz.com/chris-drumgoole-dxc-oasis-helping-ai-evolution",
+      "summary": "DXC president Chris Drumgoole explains how DXC OASIS is helping companies navigate an increasingly AI-driven landscape",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 28 Apr 2026 20:10:14 GMT"
+      "published_at": "Wed, 29 Apr 2026 20:20:09 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Jerome Powell says he will remain on the Fed board after stepping down as chair",
+      "link": "https://qz.com/jerome-powell-fed-board-governor-stay-chairmanship-042926",
+      "summary": "It would be a blow to Trump, who has mounted a relentless pressure campaign against Powell and would be deprived of the chance to nominate someone to replace him",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Wed, 29 Apr 2026 19:20:40 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Five takeaways from the King's historic address to Congress",
-      "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
-      "summary": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
+      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 29 Apr 2026 06:23:28 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Comey charged with threatening Trump's life in Instagram post",
-      "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 29 Apr 2026 00:24:05 GMT"
+      "published_at": "Thu, 30 Apr 2026 08:10:37 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 18.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 18.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 17.3
+      "count": 5,
+      "avg_score": 17.0
     },
     "financial_system": {
       "count": 2,
-      "avg_score": 19.5
+      "avg_score": 18.0
     }
   },
   "trend_signals": [
-    "Finansal Sistem ivmesi artıyor (0 -> 2)."
+    "Robotik ivmesi artıyor (3 -> 5)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 110,
+      "score": 180,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -145,7 +142,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 44,
+      "score": 76,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -156,31 +153,20 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 38,
+      "score": 51,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 38,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 110,
+      "score": 180,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -191,7 +177,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 44,
+      "score": 76,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -202,7 +188,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 38,
+      "score": 51,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
