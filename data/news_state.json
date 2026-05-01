@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-04-30T08:19:31.477646+00:00",
+  "generated_at": "2026-05-01T08:09:21.888437+00:00",
   "headlines": [
+    {
+      "source": "Payments Dive",
+      "title": "Visa, Mastercard cite travel slowdown impact",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-cite-travel-slowdown-impact/819036/",
+      "published_at": "Thu, 30 Apr 2026 17:53:00 -0400",
+      "summary": "While the war in Iran is depressing travel and hurting income, the card networks are leaning into stablecoins to drive future revenue growth.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "categories": [
+        "financial_system"
+      ],
+      "score": 22,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, stablecoin ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "mastercard",
+        "stablecoin",
+        "visa"
+      ]
+    },
     {
       "source": "Payments Dive",
       "title": "Visa, Mastercard defend card fee settlement",
@@ -11,7 +29,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
@@ -21,15 +39,15 @@
     },
     {
       "source": "The Robot Report",
-      "title": "XELA Robotics adds enhancements to uSkin sensor family ahead of Robotics Summit",
-      "link": "https://www.therobotreport.com/xela-robotics-adds-2-enhancements-uskin-sensor-family-ahead-robotics-summit/",
-      "published_at": "Wed, 29 Apr 2026 21:33:09 +0000",
-      "summary": "XELA Robotics will be showing its latest sensor technology at the Robotics Summit & Expo in Boston in May 2026.",
+      "title": "Teradyne Robotics revenue rises at the start of 2026",
+      "link": "https://www.therobotreport.com/teradyne-robotics-revenue-rises-start-2026/",
+      "published_at": "Thu, 30 Apr 2026 18:24:44 +0000",
+      "summary": "Teradyne Robotics brought in $91 million in Q1 2026, with its AI products helping to boost robotics sales.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -46,63 +64,46 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Flex and Teradyne expand partnership to scale physical AI",
-      "link": "https://www.therobotreport.com/flex-teradyne-expand-partnership-scale-physical-ai/",
-      "published_at": "Tue, 28 Apr 2026 22:58:07 +0000",
-      "summary": "Flex and Teradyne Robotics expanded their partnership to accelerate physical AI across global manufacturing facilities.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Ford is raising its full-year profit outlook after a $1.3 billion tariff refund",
-      "link": "https://qz.com/ford-q1-2026-earnings-tariff-refund-outlook-042926",
-      "summary": "The automaker's adjusted EBIT more than tripled year-over-year, and it lifted its full-year earnings guidance by $500 million at the midpoint",
+      "title": "Oil surges to its highest level in years as Trump eyes an extended Iran blockade",
+      "link": "https://qz.com/brent-crude-four-year-high-iran-blockade-trump-043026",
+      "summary": "Brent crude touched $126 a barrel before pulling back, with oil prices now up about 60% from where they were before the U.S.-Israeli war against Iran",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 29 Apr 2026 20:40:45 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "DXC exec Chris Drumgoole explains how DXC OASIS helps companies as AI evolves",
-      "link": "https://qz.com/chris-drumgoole-dxc-oasis-helping-ai-evolution",
-      "summary": "DXC president Chris Drumgoole explains how DXC OASIS is helping companies navigate an increasingly AI-driven landscape",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 29 Apr 2026 20:20:09 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Jerome Powell says he will remain on the Fed board after stepping down as chair",
-      "link": "https://qz.com/jerome-powell-fed-board-governor-stay-chairmanship-042926",
-      "summary": "It would be a blow to Trump, who has mounted a relentless pressure campaign against Powell and would be deprived of the chance to nominate someone to replace him",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 29 Apr 2026 19:20:40 GMT"
+      "published_at": "Thu, 30 Apr 2026 17:50:42 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+      "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 30 Apr 2026 08:10:37 GMT"
+      "published_at": "Fri, 01 May 2026 04:11:53 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Venice Biennale jury resigns days before start of top art exhibition",
+      "link": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+      "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 30 Apr 2026 23:44:00 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "China scraps tariffs for all but one African nation",
+      "link": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
+      "summary": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 01 May 2026 00:02:57 GMT"
     }
   ],
   "market_items": [],
@@ -117,21 +118,21 @@
     },
     "robotics": {
       "count": 5,
-      "avg_score": 17.0
+      "avg_score": 16.4
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 18.0
+      "count": 3,
+      "avg_score": 18.7
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (3 -> 5)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 180,
+      "score": 174,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +143,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 76,
+      "score": 141,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -160,13 +161,24 @@
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 23,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 180,
+      "score": 174,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -177,7 +189,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 76,
+      "score": 141,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
