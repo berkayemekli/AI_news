@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-05-01T08:09:21.888437+00:00",
+  "generated_at": "2026-05-02T07:41:08.047639+00:00",
   "headlines": [
+    {
+      "source": "TechCrunch",
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "published_at": "Fri, 01 May 2026 16:02:36 +0000",
+      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "categories": [
+        "ai",
+        "technology"
+      ],
+      "score": 20,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "anthropic",
+        "microsoft",
+        "model",
+        "nvidia"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Top 10 robotics stories of April 2026",
+      "link": "https://www.therobotreport.com/top-10-robotics-stories-april-2026/",
+      "published_at": "Fri, 01 May 2026 19:16:43 +0000",
+      "summary": "In April 2026, prominent robotics companies hit technical milestones, raised large funding rounds, and took part in patent disputes.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "Payments Dive",
       "title": "Visa, Mastercard cite travel slowdown impact",
@@ -11,29 +49,11 @@
       "categories": [
         "financial_system"
       ],
-      "score": 22,
+      "score": 20,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, stablecoin ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
         "stablecoin",
-        "visa"
-      ]
-    },
-    {
-      "source": "Payments Dive",
-      "title": "Visa, Mastercard defend card fee settlement",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-defend-card-fee-settlement/818655/",
-      "published_at": "Tue, 28 Apr 2026 11:02:00 -0400",
-      "summary": "Large merchants argued in a Monday court hearing that card surcharges and discounts would pose significant burdens on their businesses.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
-      "categories": [
-        "financial_system"
-      ],
-      "score": 19,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "mastercard",
-        "settlement",
         "visa"
       ]
     },
@@ -47,63 +67,46 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Schaeffler plans to deploy 1,000 Hexagon humanoids by 2032",
-      "link": "https://www.therobotreport.com/schaeffler-plans-to-deploy-1000-hexagon-humanoids-2032/",
-      "published_at": "Wed, 29 Apr 2026 17:53:26 +0000",
-      "summary": "Schaeffler is deepening its investment in humanoid robots in production through partnerships with Hexagon and VinDynamics.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Oil surges to its highest level in years as Trump eyes an extended Iran blockade",
-      "link": "https://qz.com/brent-crude-four-year-high-iran-blockade-trump-043026",
-      "summary": "Brent crude touched $126 a barrel before pulling back, with oil prices now up about 60% from where they were before the U.S.-Israeli war against Iran",
+      "title": "Trump is raising tariffs on E.U.-made cars and trucks to 25%",
+      "link": "https://qz.com/trump-eu-car-truck-tariffs-25-percent-050126",
+      "summary": "The president claimed the bloc had failed to comply with a trade agreement, a charge E.U. officials rejected",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 30 Apr 2026 17:50:42 GMT"
+      "published_at": "Fri, 01 May 2026 17:30:46 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Spirit Airlines is preparing to shut down after a rescue deal collapsed",
+      "link": "https://qz.com/spirit-airlines-shutdown-rescue-deal-collapse-050126",
+      "summary": "A $500 million government lifeline that the budget carrier was counting on to stay in business has fallen through",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 01 May 2026 17:20:39 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
-      "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 01 May 2026 04:11:53 GMT"
+      "published_at": "Fri, 01 May 2026 22:35:07 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Venice Biennale jury resigns days before start of top art exhibition",
-      "link": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 30 Apr 2026 23:44:00 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "China scraps tariffs for all but one African nation",
-      "link": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
-      "summary": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 01 May 2026 00:02:57 GMT"
+      "published_at": "Sat, 02 May 2026 00:41:43 GMT"
     }
   ],
   "market_items": [],
@@ -113,16 +116,16 @@
       "avg_score": 0.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 20.0
     },
     "robotics": {
       "count": 5,
       "avg_score": 16.4
     },
     "financial_system": {
-      "count": 3,
-      "avg_score": 18.7
+      "count": 2,
+      "avg_score": 17.0
     }
   },
   "trend_signals": [
@@ -141,20 +144,9 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 141,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 51,
+      "score": 116,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -163,9 +155,20 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 93,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 23,
+      "score": 21,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -187,26 +190,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 141,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 51,
+      "score": 116,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 93,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
