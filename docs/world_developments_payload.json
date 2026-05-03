@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T07:41:08.047639+00:00",
+  "generated_at": "2026-05-03T07:59:31.027269+00:00",
   "headlines": [
     {
       "source": "TechCrunch",
@@ -12,7 +12,7 @@
         "ai",
         "technology"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
       "matched_keywords": [
         "ai",
@@ -32,7 +32,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -49,7 +49,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, stablecoin ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
@@ -59,23 +59,31 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Teradyne Robotics revenue rises at the start of 2026",
-      "link": "https://www.therobotreport.com/teradyne-robotics-revenue-rises-start-2026/",
-      "published_at": "Thu, 30 Apr 2026 18:24:44 +0000",
-      "summary": "Teradyne Robotics brought in $91 million in Q1 2026, with its AI products helping to boost robotics sales.",
+      "title": "Phase stability regulator based on two dynamic parameters for autonomous mobile robots",
+      "link": "https://www.therobotreport.com/phase-stability-regulator-based-two-dynamic-parameters-autonomous-mobile-robots/",
+      "published_at": "Sat, 02 May 2026 15:18:33 +0000",
+      "summary": "Autonomous mobile robots, or AMRs, can benefit from a phase regulator with two real-time signals, according to a researcher.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "score": 16,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "autonomous",
+        "robot"
       ]
     }
   ],
   "political_items": [
+    {
+      "source": "Quartz",
+      "title": "Best Rhine River cruises for 2026: Viking and AmaWaterways top U.S. News rankings",
+      "link": "https://qz.com/best-rhine-river-cruises-2026-us-news",
+      "summary": "From Amsterdam to Basel, these eight Rhine River cruises offer the best of Europe's most scenic waterway",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 02 May 2026 09:12:05 GMT"
+    },
     {
       "source": "Quartz",
       "title": "Trump is raising tariffs on E.U.-made cars and trucks to 25%",
@@ -94,19 +102,11 @@
     },
     {
       "source": "BBC World",
-      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-      "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+      "title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
+      "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 01 May 2026 22:35:07 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 02 May 2026 00:41:43 GMT"
+      "published_at": "Sun, 03 May 2026 04:09:34 GMT"
     }
   ],
   "market_items": [],
@@ -117,25 +117,25 @@
     },
     "technology": {
       "count": 1,
-      "avg_score": 20.0
+      "avg_score": 19.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 16.4
+      "count": 3,
+      "avg_score": 17.0
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 17.0
+      "count": 1,
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik akışı yavaşladı (5 -> 3)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 174,
+      "score": 108,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -146,7 +146,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 116,
+      "score": 97,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -157,7 +157,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 93,
+      "score": 60,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -168,7 +168,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 21,
+      "score": 20,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -181,7 +181,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 174,
+      "score": 108,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -192,7 +192,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 116,
+      "score": 97,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -203,7 +203,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 93,
+      "score": 60,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
