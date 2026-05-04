@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-05-03T07:59:31.027269+00:00",
+  "generated_at": "2026-05-04T08:26:56.646858+00:00",
   "headlines": [
-    {
-      "source": "TechCrunch",
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-      "published_at": "Fri, 01 May 2026 16:02:36 +0000",
-      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
-      "categories": [
-        "ai",
-        "technology"
-      ],
-      "score": 19,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "anthropic",
-        "microsoft",
-        "model",
-        "nvidia"
-      ]
-    },
     {
       "source": "The Robot Report",
       "title": "Top 10 robotics stories of April 2026",
@@ -32,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -40,21 +19,20 @@
       ]
     },
     {
-      "source": "Payments Dive",
-      "title": "Visa, Mastercard cite travel slowdown impact",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-cite-travel-slowdown-impact/819036/",
-      "published_at": "Thu, 30 Apr 2026 17:53:00 -0400",
-      "summary": "While the war in Iran is depressing travel and hurting income, the card networks are leaning into stablecoins to drive future revenue growth.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Why physical AI is the real manufacturing revolution",
+      "link": "https://www.therobotreport.com/why-physical-ai-is-real-manufacturing-revolution/",
+      "published_at": "Sun, 03 May 2026 12:45:29 +0000",
+      "summary": "Physical AI promises to transform manufacturing, but only if robotics developers and integrators avoid hype and address real scaling challenges, writes Fictiv.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "financial_system"
+        "robotics"
       ],
-      "score": 19,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, stablecoin ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "mastercard",
-        "stablecoin",
-        "visa"
+        "robot",
+        "robotics"
       ]
     },
     {
@@ -67,7 +45,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 16,
+      "score": 15,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -78,6 +56,22 @@
   "political_items": [
     {
       "source": "Quartz",
+      "title": "Best glamping resorts in America: Paws Up Montana and Under Canvas top the ranks",
+      "link": "https://qz.com/best-glamping-resorts-in-america",
+      "summary": "These ten glamping resorts trade the grunt work of camping for luxury beds, gourmet meals and serious scenery",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sun, 03 May 2026 09:12:34 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "The Fed under Jerome Powell didn't bend to Trump. It's Kevin Warsh's turn in the hot seat",
+      "link": "https://qz.com/federal-reserve-jerome-powell-kevin-warsh-trump-pressure",
+      "summary": "There are lingering doubts that Warsh will share Powell's backbone in defending the Fed against Trump's endless attempts to bring it under his control",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sun, 03 May 2026 09:10:51 GMT"
+    },
+    {
+      "source": "Quartz",
       "title": "Best Rhine River cruises for 2026: Viking and AmaWaterways top U.S. News rankings",
       "link": "https://qz.com/best-rhine-river-cruises-2026-us-news",
       "summary": "From Amsterdam to Basel, these eight Rhine River cruises offer the best of Europe's most scenic waterway",
@@ -85,28 +79,12 @@
       "published_at": "Sat, 02 May 2026 09:12:05 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Trump is raising tariffs on E.U.-made cars and trucks to 25%",
-      "link": "https://qz.com/trump-eu-car-truck-tariffs-25-percent-050126",
-      "summary": "The president claimed the bloc had failed to comply with a trade agreement, a charge E.U. officials rejected",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 01 May 2026 17:30:46 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Spirit Airlines is preparing to shut down after a rescue deal collapsed",
-      "link": "https://qz.com/spirit-airlines-shutdown-rescue-deal-collapse-050126",
-      "summary": "A $500 million government lifeline that the budget carrier was counting on to stay in business has fallen through",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 01 May 2026 17:20:39 GMT"
-    },
-    {
       "source": "BBC World",
-      "title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
-      "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
+      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+      "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 03 May 2026 04:09:34 GMT"
+      "published_at": "Sat, 02 May 2026 23:19:27 GMT"
     }
   ],
   "market_items": [],
@@ -116,20 +94,20 @@
       "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 19.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
       "count": 3,
       "avg_score": 17.0
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 19.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (5 -> 3)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
@@ -146,35 +124,13 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 97,
+      "score": 38,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 60,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 20,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
@@ -192,7 +148,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 97,
+      "score": 38,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -201,15 +157,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 60,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
