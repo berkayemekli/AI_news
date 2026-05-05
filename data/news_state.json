@@ -1,19 +1,20 @@
 {
-  "generated_at": "2026-05-04T08:26:56.646858+00:00",
+  "generated_at": "2026-05-05T08:06:21.715279+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Top 10 robotics stories of April 2026",
-      "link": "https://www.therobotreport.com/top-10-robotics-stories-april-2026/",
-      "published_at": "Fri, 01 May 2026 19:16:43 +0000",
-      "summary": "In April 2026, prominent robotics companies hit technical milestones, raised large funding rounds, and took part in patent disputes.",
+      "title": "ABB Robotics launches OmniVance autonomous surface finishing cell",
+      "link": "https://www.therobotreport.com/abb-robotics-launches-omnivance-autonomous-surface-finishing-cell/",
+      "published_at": "Mon, 04 May 2026 17:03:38 +0000",
+      "summary": "ABB Robotics said its new OmniVance Collaborative Surface Finishing Cell automates repetitive sanding and polishing tasks",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
+        "autonomous",
         "robot",
         "robotics"
       ]
@@ -28,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -45,7 +46,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 15,
+      "score": 14,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -56,35 +57,35 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Best glamping resorts in America: Paws Up Montana and Under Canvas top the ranks",
-      "link": "https://qz.com/best-glamping-resorts-in-america",
-      "summary": "These ten glamping resorts trade the grunt work of camping for luxury beds, gourmet meals and serious scenery",
+      "title": "Sen. Todd Young talks prediction market legislation at Semafor Summit",
+      "link": "https://qz.com/todd-young-talks-prediction-market-legislation-semafor",
+      "summary": "Senator Todd Young talks about prediction market legislation at the recent Semafor Summit",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 03 May 2026 09:12:34 GMT"
+      "published_at": "Mon, 04 May 2026 20:50:12 GMT"
     },
     {
       "source": "Quartz",
-      "title": "The Fed under Jerome Powell didn't bend to Trump. It's Kevin Warsh's turn in the hot seat",
-      "link": "https://qz.com/federal-reserve-jerome-powell-kevin-warsh-trump-pressure",
-      "summary": "There are lingering doubts that Warsh will share Powell's backbone in defending the Fed against Trump's endless attempts to bring it under his control",
+      "title": "Feuding over the Fed",
+      "link": "https://qz.com/trump-pressure-fed-chair-powell-successor-stalls",
+      "summary": "President Donald Trump intensifies his clash with Jerome Powell while nominee Kevin Warsh faces Senate gridlock",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 03 May 2026 09:10:51 GMT"
+      "published_at": "Mon, 04 May 2026 20:41:09 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Best Rhine River cruises for 2026: Viking and AmaWaterways top U.S. News rankings",
-      "link": "https://qz.com/best-rhine-river-cruises-2026-us-news",
-      "summary": "From Amsterdam to Basel, these eight Rhine River cruises offer the best of Europe's most scenic waterway",
+      "title": "OpenAI's president puts a dollar amount on his stake in the company",
+      "link": "https://qz.com/openai-greg-brockman-stake-30-billion-musk-trial-050426",
+      "summary": "The disclosure came during Brockman's opening day on the witness stand in the lawsuit Elon Musk has filed against OpenAI, Sam Altman, and Brockman",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 02 May 2026 09:12:05 GMT"
+      "published_at": "Mon, 04 May 2026 20:30:39 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+      "source": "Quartz",
+      "title": "Oil surges back to $115 and stocks fall as the market is back on a war footing",
+      "link": "https://qz.com/oil-prices-stocks-strait-of-hormuz-iran-uae-050426",
+      "summary": "Iranian attacks against the UAE compounded tensions that had been building over conflicting reports of military encounters in the Strait of Hormuz",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 02 May 2026 23:19:27 GMT"
+      "published_at": "Mon, 04 May 2026 20:10:43 GMT"
     }
   ],
   "market_items": [],
@@ -99,7 +100,7 @@
     },
     "robotics": {
       "count": 3,
-      "avg_score": 17.0
+      "avg_score": 18.3
     },
     "financial_system": {
       "count": 0,
@@ -113,7 +114,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 108,
+      "score": 141,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -124,7 +125,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 38,
+      "score": 43,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -137,7 +138,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 108,
+      "score": 141,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -148,7 +149,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 38,
+      "score": 43,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
