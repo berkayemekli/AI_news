@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T08:06:21.715279+00:00",
+  "generated_at": "2026-05-06T08:24:30.802402+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -21,15 +21,33 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Why physical AI is the real manufacturing revolution",
-      "link": "https://www.therobotreport.com/why-physical-ai-is-real-manufacturing-revolution/",
-      "published_at": "Sun, 03 May 2026 12:45:29 +0000",
-      "summary": "Physical AI promises to transform manufacturing, but only if robotics developers and integrators avoid hype and address real scaling challenges, writes Fictiv.",
+      "title": "Tutor Intelligence builds Data Factory to train robot AI in the real world",
+      "link": "https://www.therobotreport.com/tutor-intelligence-builds-data-factory-to-train-robot-ai-in-the-real-world/",
+      "published_at": "Tue, 05 May 2026 20:04:24 +0000",
+      "summary": "Tutor Intelligence is running 100 Sonny semi-humanoid robots in its headquarters while sharing technology and data with its Cassie mobile manipulator.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 21,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle factory, humanoid ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "factory",
+        "humanoid",
+        "robot"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "WaiV Robotics emerges from stealth to help drones take off and land at sea",
+      "link": "https://www.therobotreport.com/waiv-robotics-emerges-from-stealth-help-drones-take-off-land-at-sea/",
+      "published_at": "Tue, 05 May 2026 21:15:39 +0000",
+      "summary": "With $7.5 million in funding, WaiV Robotics is working to productize its drone landing system, and find OEM partners to work with.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -38,54 +56,54 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Phase stability regulator based on two dynamic parameters for autonomous mobile robots",
-      "link": "https://www.therobotreport.com/phase-stability-regulator-based-two-dynamic-parameters-autonomous-mobile-robots/",
-      "published_at": "Sat, 02 May 2026 15:18:33 +0000",
-      "summary": "Autonomous mobile robots, or AMRs, can benefit from a phase regulator with two real-time signals, according to a researcher.",
+      "title": "Hiroshi Fujiwara and Robert Little selected for 2026 Joseph F. Engelberger Robotics Awards",
+      "link": "https://www.therobotreport.com/hiroshi-fujiwara-robert-little-selected-2026-joseph-f-engelberger-robotics-awards/",
+      "published_at": "Tue, 05 May 2026 12:45:19 +0000",
+      "summary": "A3 honored Hiroshi Fujiwara and Robert Little with the 2026 Engelberger Awards for their transformative leadership and robotics application breakthroughs.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 14,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "autonomous",
-        "robot"
+        "robot",
+        "robotics"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Sen. Todd Young talks prediction market legislation at Semafor Summit",
-      "link": "https://qz.com/todd-young-talks-prediction-market-legislation-semafor",
-      "summary": "Senator Todd Young talks about prediction market legislation at the recent Semafor Summit",
+      "title": "Athene exec Sean Brennan discusses what retirees can do to spend confidently",
+      "link": "https://qz.com/athene-exec-on-what-retirees-can-do-to-spend-confidently",
+      "summary": "Athene CCO and co-president Sean Brennan discusses what retirees can do to spend confidently",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 04 May 2026 20:50:12 GMT"
+      "published_at": "Tue, 05 May 2026 20:00:12 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Feuding over the Fed",
-      "link": "https://qz.com/trump-pressure-fed-chair-powell-successor-stalls",
-      "summary": "President Donald Trump intensifies his clash with Jerome Powell while nominee Kevin Warsh faces Senate gridlock",
+      "source": "BBC World",
+      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
+      "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 04 May 2026 20:41:09 GMT"
+      "published_at": "Tue, 05 May 2026 11:38:03 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "OpenAI's president puts a dollar amount on his stake in the company",
-      "link": "https://qz.com/openai-greg-brockman-stake-30-billion-musk-trial-050426",
-      "summary": "The disclosure came during Brockman's opening day on the witness stand in the lawsuit Elon Musk has filed against OpenAI, Sam Altman, and Brockman",
+      "source": "BBC World",
+      "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
+      "link": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president said the operation has been paused after starting on Monday.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 04 May 2026 20:30:39 GMT"
+      "published_at": "Wed, 06 May 2026 02:23:36 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Oil surges back to $115 and stocks fall as the market is back on a war footing",
-      "link": "https://qz.com/oil-prices-stocks-strait-of-hormuz-iran-uae-050426",
-      "summary": "Iranian attacks against the UAE compounded tensions that had been building over conflicting reports of military encounters in the Strait of Hormuz",
+      "source": "BBC World",
+      "title": "IS families in Syria have booked tickets home to Australia, minister says",
+      "link": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The four women and nine children with links to Islamic State have spent years in a Syrian camp.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 04 May 2026 20:10:43 GMT"
+      "published_at": "Wed, 06 May 2026 01:47:48 GMT"
     }
   ],
   "market_items": [],
@@ -99,8 +117,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 18.3
+      "count": 5,
+      "avg_score": 19.8
     },
     "financial_system": {
       "count": 0,
@@ -108,13 +126,13 @@
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (3 -> 5)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 141,
+      "score": 254,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -125,20 +143,31 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 43,
+      "score": 85,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 19,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 141,
+      "score": 254,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -149,7 +178,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 43,
+      "score": 85,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -158,15 +187,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 0,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 19,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
