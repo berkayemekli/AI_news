@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-06T08:24:30.802402+00:00",
+  "generated_at": "2026-05-07T08:31:02.222248+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "1X begins production of NEO humanoids in California facility",
+      "link": "https://www.therobotreport.com/1x-begins-production-neo-humanoid-robots-at-hayward-california-facility/",
+      "published_at": "Wed, 06 May 2026 14:23:13 +0000",
+      "summary": "1X has launched full-scale production at its 'NEO factory,' bringing vertically integrated humanoid robot manufacturing to the U.S.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 23,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle factory, humanoid ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "factory",
+        "humanoid",
+        "robot"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "ABB Robotics launches OmniVance autonomous surface finishing cell",
@@ -11,12 +29,32 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
         "robot",
         "robotics"
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "Anthropic is tapping SpaceX's supercomputer to power more Claude users",
+      "link": "https://qz.com/anthropic-spacex-colossus-compute-deal-claude-050626",
+      "published_at": "Wed, 06 May 2026 20:00:31 GMT",
+      "summary": "The deal gives Anthropic access to more than 220,000 NVIDIA GPUs and will double rate limits for Claude Code users",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 21,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle anthropic, gpu ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "anthropic",
+        "gpu",
+        "nvidia"
       ]
     },
     {
@@ -29,110 +67,62 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle factory, humanoid ekseninde öne çıkıyor.",
       "matched_keywords": [
         "factory",
         "humanoid",
         "robot"
       ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "WaiV Robotics emerges from stealth to help drones take off and land at sea",
-      "link": "https://www.therobotreport.com/waiv-robotics-emerges-from-stealth-help-drones-take-off-land-at-sea/",
-      "published_at": "Tue, 05 May 2026 21:15:39 +0000",
-      "summary": "With $7.5 million in funding, WaiV Robotics is working to productize its drone landing system, and find OEM partners to work with.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 21,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Hiroshi Fujiwara and Robert Little selected for 2026 Joseph F. Engelberger Robotics Awards",
-      "link": "https://www.therobotreport.com/hiroshi-fujiwara-robert-little-selected-2026-joseph-f-engelberger-robotics-awards/",
-      "published_at": "Tue, 05 May 2026 12:45:19 +0000",
-      "summary": "A3 honored Hiroshi Fujiwara and Robert Little with the 2026 Engelberger Awards for their transformative leadership and robotics application breakthroughs.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
     }
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "Athene exec Sean Brennan discusses what retirees can do to spend confidently",
-      "link": "https://qz.com/athene-exec-on-what-retirees-can-do-to-spend-confidently",
-      "summary": "Athene CCO and co-president Sean Brennan discusses what retirees can do to spend confidently",
+      "source": "BBC World",
+      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+      "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 05 May 2026 20:00:12 GMT"
+      "published_at": "Thu, 07 May 2026 04:06:33 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
-      "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
+      "title": "Shell profits rise as Iran war pushes oil prices higher",
+      "link": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The energy giant reports profits of $6.92bn for the first three months of the year.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 05 May 2026 11:38:03 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
-      "link": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president said the operation has been paused after starting on Monday.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 06 May 2026 02:23:36 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "IS families in Syria have booked tickets home to Australia, minister says",
-      "link": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The four women and nine children with links to Islamic State have spent years in a Syrian camp.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 06 May 2026 01:47:48 GMT"
+      "published_at": "Thu, 07 May 2026 07:27:08 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 19.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 19.0
     },
     "robotics": {
       "count": 5,
-      "avg_score": 19.8
+      "avg_score": 20.2
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (3 -> 5)."
+    "Makro ivmesi artıyor (0 -> 2).",
+    "Teknoloji ivmesi artıyor (0 -> 2).",
+    "Finansal Sistem ivmesi artıyor (0 -> 2)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 254,
+      "score": 280,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -143,7 +133,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 85,
+      "score": 140,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -152,9 +142,20 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 44,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 19,
+      "score": 18,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -167,7 +168,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 254,
+      "score": 280,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -178,7 +179,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 85,
+      "score": 140,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -187,15 +188,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 19,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 44,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
