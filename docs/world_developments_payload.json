@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-05-07T08:31:02.222248+00:00",
+  "generated_at": "2026-05-08T07:27:31.650443+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Brightpick to outline the path to lights-out warehouses at Robotics Summit",
+      "link": "https://www.therobotreport.com/brightpick-zizka-outline-the-path-to-lights-out-warehouses-at-robotics-summit/",
+      "published_at": "Thu, 07 May 2026 12:45:32 +0000",
+      "summary": "Jan Zizka, co-founder and CEO of Brightpick, will outline a practical roadmap to more autonomous warehouse operations.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 25,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "autonomous",
+        "robot",
+        "robotics",
+        "warehouse"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "1X begins production of NEO humanoids in California facility",
@@ -11,7 +30,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle factory, humanoid ekseninde öne çıkıyor.",
       "matched_keywords": [
         "factory",
@@ -20,109 +39,105 @@
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "ABB Robotics launches OmniVance autonomous surface finishing cell",
-      "link": "https://www.therobotreport.com/abb-robotics-launches-omnivance-autonomous-surface-finishing-cell/",
-      "published_at": "Mon, 04 May 2026 17:03:38 +0000",
-      "summary": "ABB Robotics said its new OmniVance Collaborative Surface Finishing Cell automates repetitive sanding and polishing tasks",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "autonomous",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
       "source": "Quartz",
-      "title": "Anthropic is tapping SpaceX's supercomputer to power more Claude users",
-      "link": "https://qz.com/anthropic-spacex-colossus-compute-deal-claude-050626",
-      "published_at": "Wed, 06 May 2026 20:00:31 GMT",
-      "summary": "The deal gives Anthropic access to more than 220,000 NVIDIA GPUs and will double rate limits for Claude Code users",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "title": "OpenAI is launching 3 new real-time voice models for developers",
+      "link": "https://qz.com/openai-realtime-voice-models-developers-050726",
+      "published_at": "Thu, 07 May 2026 19:20:18 GMT",
+      "summary": "The models handle live reasoning, speech translation across 70+ languages, and real-time transcription via the Realtime API",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
       "categories": [
         "financial_system",
         "macro",
         "technology"
       ],
-      "score": 21,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle anthropic, gpu ekseninde öne çıkıyor.",
+      "score": 20,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, api ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "anthropic",
-        "gpu",
-        "nvidia"
+        "ai",
+        "api",
+        "model",
+        "openai"
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "Tutor Intelligence builds Data Factory to train robot AI in the real world",
-      "link": "https://www.therobotreport.com/tutor-intelligence-builds-data-factory-to-train-robot-ai-in-the-real-world/",
-      "published_at": "Tue, 05 May 2026 20:04:24 +0000",
-      "summary": "Tutor Intelligence is running 100 Sonny semi-humanoid robots in its headquarters while sharing technology and data with its Cassie mobile manipulator.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "source": "BBC World",
+      "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
+      "link": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 07 May 2026 23:11:35 GMT",
+      "summary": "Trump's deadline to the European Union came as a trade court ruled his global tariff policy violated US law.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "categories": [
-        "robotics"
+        "macro"
       ],
-      "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle factory, humanoid ekseninde öne çıkıyor.",
+      "score": 19,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle tariff, trade ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "factory",
-        "humanoid",
-        "robot"
+        "tariff",
+        "trade"
       ]
     }
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
-      "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
+      "source": "Quartz",
+      "title": "FDA authorizes fruit-flavored e-cigarettes for the first time",
+      "link": "https://qz.com/fda-fruit-flavored-e-cigarettes-authorized-glas-050726",
+      "summary": "The FDA greenlighted mango and blueberry vaping products from Los Angeles-based Glas Inc., marking a policy shift under the Trump administration",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 07 May 2026 04:06:33 GMT"
+      "published_at": "Thu, 07 May 2026 21:00:40 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "USC pres. Beong-Soo Kim on AI and future of higher education at Semafor Summit",
+      "link": "https://qz.com/usc-president-on-ai-and-future-of-higher-education-semafor",
+      "summary": "USC president Beong-Soo Kim talks about AI and the future of higher education at the Semafor Summit",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 07 May 2026 19:50:10 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Ticketmaster is slashing 350 jobs — 8% of its global workforce — in engineering and design",
+      "link": "https://qz.com/ticketmaster-layoffs-350-jobs-engineering-design-050726",
+      "summary": "The Live Nation subsidiary is cutting positions across 25 countries, primarily in engineering, product, and design, as its new global president reshapes the company",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 07 May 2026 18:20:32 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Shell profits rise as Iran war pushes oil prices higher",
-      "link": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The energy giant reports profits of $6.92bn for the first three months of the year.",
+      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 07 May 2026 07:27:08 GMT"
+      "published_at": "Fri, 08 May 2026 05:57:08 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
       "count": 2,
-      "avg_score": 19.0
+      "avg_score": 19.5
     },
     "technology": {
-      "count": 2,
-      "avg_score": 19.0
+      "count": 1,
+      "avg_score": 20.0
     },
     "robotics": {
       "count": 5,
-      "avg_score": 20.2
+      "avg_score": 20.0
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 19.0
+      "count": 1,
+      "avg_score": 20.0
     }
   },
   "trend_signals": [
-    "Makro ivmesi artıyor (0 -> 2).",
-    "Teknoloji ivmesi artıyor (0 -> 2).",
-    "Finansal Sistem ivmesi artıyor (0 -> 2)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 280,
+      "score": 305,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -133,7 +148,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 140,
+      "score": 102,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -142,33 +157,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 44,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 18,
+      "score": 83,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 21,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 280,
+      "score": 305,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -179,7 +194,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 140,
+      "score": 102,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -188,15 +203,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 44,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 83,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
