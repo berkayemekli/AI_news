@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T07:27:31.650443+00:00",
+  "generated_at": "2026-05-09T07:53:59.105753+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 25,
+      "score": 24,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -30,7 +30,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle factory, humanoid ekseninde öne çıkıyor.",
       "matched_keywords": [
         "factory",
@@ -39,105 +39,101 @@
       ]
     },
     {
-      "source": "Quartz",
-      "title": "OpenAI is launching 3 new real-time voice models for developers",
-      "link": "https://qz.com/openai-realtime-voice-models-developers-050726",
-      "published_at": "Thu, 07 May 2026 19:20:18 GMT",
-      "summary": "The models handle live reasoning, speech translation across 70+ languages, and real-time transcription via the Realtime API",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Why traditional robotics data collection is obsolete and what replaces it",
+      "link": "https://www.therobotreport.com/why-traditional-robotics-data-collection-is-obsolete-and-what-replaces-it/",
+      "published_at": "Fri, 08 May 2026 22:40:04 +0000",
+      "summary": "Eric Chan discusses Rhoda AI's innovative approach to robotics using video data for scalable, efficient learning.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "financial_system",
-        "macro",
-        "technology"
+        "robotics"
       ],
-      "score": 20,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, api ekseninde öne çıkıyor.",
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "ai",
-        "api",
-        "model",
-        "openai"
+        "robot",
+        "robotics"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
-      "link": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 07 May 2026 23:11:35 GMT",
-      "summary": "Trump's deadline to the European Union came as a trade court ruled his global tariff policy violated US law.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "source": "The Robot Report",
+      "title": "Learn how to successfully design hospital logistics robots at the Robotics Summit",
+      "link": "https://www.therobotreport.com/learn-how-to-successfully-design-hospital-logistics-robots-2026-robotics-summit/",
+      "published_at": "Fri, 08 May 2026 19:34:03 +0000",
+      "summary": "Experts from Rovex Technologies, SKA Robotics, and ST Engineering Aethon will discuss design considerations for hospital robotics.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "macro"
+        "robotics"
       ],
-      "score": 19,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle tariff, trade ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "tariff",
-        "trade"
+        "robot",
+        "robotics"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "FDA authorizes fruit-flavored e-cigarettes for the first time",
-      "link": "https://qz.com/fda-fruit-flavored-e-cigarettes-authorized-glas-050726",
-      "summary": "The FDA greenlighted mango and blueberry vaping products from Los Angeles-based Glas Inc., marking a policy shift under the Trump administration",
+      "title": "Nike allegedly passed tariff costs onto shoppers — but not the refunds",
+      "link": "https://qz.com/nike-consumers-tariff-refund-class-action-050826",
+      "summary": "Consumers allege Nike raised prices to offset $1 billion in tariffs but has made no commitment to return the money",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 07 May 2026 21:00:40 GMT"
+      "published_at": "Fri, 08 May 2026 20:40:35 GMT"
     },
     {
       "source": "Quartz",
-      "title": "USC pres. Beong-Soo Kim on AI and future of higher education at Semafor Summit",
-      "link": "https://qz.com/usc-president-on-ai-and-future-of-higher-education-semafor",
-      "summary": "USC president Beong-Soo Kim talks about AI and the future of higher education at the Semafor Summit",
+      "title": "Intel stocks jump after reaching preliminary chip manufacturing deal with Apple",
+      "link": "https://qz.com/intel-apple-chip-manufacturing-deal-050826",
+      "summary": "The U.S. government's 10% stake in Intel played a key role in bringing Apple to the table, with talks spanning more than a year",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 07 May 2026 19:50:10 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Ticketmaster is slashing 350 jobs — 8% of its global workforce — in engineering and design",
-      "link": "https://qz.com/ticketmaster-layoffs-350-jobs-engineering-design-050726",
-      "summary": "The Live Nation subsidiary is cutting positions across 25 countries, primarily in engineering, product, and design, as its new global president reshapes the company",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 07 May 2026 18:20:32 GMT"
+      "published_at": "Fri, 08 May 2026 18:50:24 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+      "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
+      "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 08 May 2026 05:57:08 GMT"
+      "published_at": "Fri, 08 May 2026 18:59:58 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 09 May 2026 06:13:30 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 2,
-      "avg_score": 19.5
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 20.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
       "count": 5,
       "avg_score": 20.0
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 20.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Makro akışı yavaşladı (2 -> 0)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 305,
+      "score": 282,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -146,20 +142,9 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 102,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 83,
+      "score": 25,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -168,22 +153,22 @@
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 21,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 20,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 305,
+      "score": 282,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -192,26 +177,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 102,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 83,
+      "score": 25,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 20,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     }
   ],
   "errors": [
