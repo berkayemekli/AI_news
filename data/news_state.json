@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-05-10T08:05:40.509973+00:00",
+  "generated_at": "2026-05-11T09:36:00.797247+00:00",
   "headlines": [
     {
-      "source": "The Robot Report",
-      "title": "Brightpick to outline the path to lights-out warehouses at Robotics Summit",
-      "link": "https://www.therobotreport.com/brightpick-zizka-outline-the-path-to-lights-out-warehouses-at-robotics-summit/",
-      "published_at": "Thu, 07 May 2026 12:45:32 +0000",
-      "summary": "Jan Zizka, co-founder and CEO of Brightpick, will outline a practical roadmap to more autonomous warehouse operations.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "source": "Payments Dive",
+      "title": "North and Visa team to elevate the payments game",
+      "link": "https://www.paymentsdive.com/spons/north-and-visa-team-to-elevate-the-payments-game/818908/",
+      "published_at": "Mon, 11 May 2026 05:00:00 -0400",
+      "summary": "North and Visa, two of the biggest names in fintech, have partnered to deliver next-level solutions that meet the demands of today's complex payments landscape.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system"
       ],
-      "score": 23,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "score": 22,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, payment ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "autonomous",
-        "robot",
-        "robotics",
-        "warehouse"
+        "fintech",
+        "payment",
+        "visa"
       ]
     },
     {
@@ -30,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -47,7 +46,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -64,7 +63,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -75,35 +74,35 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Nike allegedly passed tariff costs onto shoppers — but not the refunds",
-      "link": "https://qz.com/nike-consumers-tariff-refund-class-action-050826",
-      "summary": "Consumers allege Nike raised prices to offset $1 billion in tariffs but has made no commitment to return the money",
+      "title": "The top river cruises in Europe for 2026",
+      "link": "https://qz.com/top-river-cruises-europe-2026",
+      "summary": "From Rhine castle country to Douro wine valleys, Europe's best river cruises ranked by route and season",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 08 May 2026 20:40:35 GMT"
+      "published_at": "Sun, 10 May 2026 09:12:30 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+      "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 10 May 2026 00:46:07 GMT"
+      "published_at": "Mon, 11 May 2026 01:55:13 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Lebanon says Israeli strikes killed 39",
-      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+      "title": "Philippine VP Sara Duterte impeached for a second time",
+      "link": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 09 May 2026 21:23:14 GMT"
+      "published_at": "Mon, 11 May 2026 09:28:53 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
-      "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "summary": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
+      "title": "French national shows symptoms on return from hantavirus-hit ship",
+      "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 09 May 2026 14:36:21 GMT"
+      "published_at": "Mon, 11 May 2026 03:29:58 GMT"
     }
   ],
   "market_items": [],
@@ -117,12 +116,12 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 18.4
+      "count": 4,
+      "avg_score": 16.2
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 22.0
     }
   },
   "trend_signals": [
@@ -132,7 +131,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 242,
+      "score": 138,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -141,33 +140,33 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 92,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 37,
+      "score": 35,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 24,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 242,
+      "score": 138,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -176,26 +175,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 92,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 37,
+      "score": 35,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 24,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
