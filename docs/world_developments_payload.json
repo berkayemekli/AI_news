@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T09:36:00.797247+00:00",
+  "generated_at": "2026-05-12T08:36:48.118931+00:00",
   "headlines": [
     {
       "source": "Payments Dive",
@@ -11,7 +11,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, payment ekseninde öne çıkıyor.",
       "matched_keywords": [
         "fintech",
@@ -20,45 +20,31 @@
       ]
     },
     {
+      "source": "Quartz",
+      "title": "Satya Nadella took the stand in the Musk-OpenAI trial over Microsoft's early role in funding OpenAI",
+      "link": "https://qz.com/satya-nadella-testimony-musk-openai-trial-051126",
+      "published_at": "Mon, 11 May 2026 18:41:14 GMT",
+      "summary": "The Microsoft CEO said the company's partnership with OpenAI had a clear commercial element from the start, not a charitable one",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 17,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, microsoft ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "microsoft",
+        "openai"
+      ]
+    },
+    {
       "source": "The Robot Report",
       "title": "Cognex releases fully integrated AI-powered vision system for robotics",
       "link": "https://www.therobotreport.com/cognex-releases-fully-integrated-ai-powered-vision-system-robotics/",
       "published_at": "Sat, 09 May 2026 12:30:37 +0000",
       "summary": "The system combines Cognex-developed edge AI, advanced AI, and rule-based vision tools with a high-performance embedded compute.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Learn how to successfully design hospital logistics robots at the Robotics Summit",
-      "link": "https://www.therobotreport.com/learn-how-to-successfully-design-hospital-logistics-robots-2026-robotics-summit/",
-      "published_at": "Fri, 08 May 2026 19:34:03 +0000",
-      "summary": "Experts from Rovex Technologies, SKA Robotics, and ST Engineering Aethon will discuss design considerations for hospital robotics.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "QNX to bring hands-on demonstrations and new research to the Robotics Summit",
-      "link": "https://www.therobotreport.com/qnx-brings-hands-on-demonstrations-new-research-2026-robotics-summit/",
-      "published_at": "Fri, 08 May 2026 12:45:52 +0000",
-      "summary": "QNX encourages visitors to stop by Booth 307 at the Robotics Summit & Expo to see its demonstrations firsthand.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -74,75 +60,64 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "The top river cruises in Europe for 2026",
-      "link": "https://qz.com/top-river-cruises-europe-2026",
-      "summary": "From Rhine castle country to Douro wine valleys, Europe's best river cruises ranked by route and season",
+      "title": "Trump says Iran ceasefire is 'on life support' after dismissing a counteroffer as 'garbage'",
+      "link": "https://qz.com/trump-iran-ceasefire-life-support-counteroffer-051126",
+      "summary": "The diplomatic standoff has left the two sides without a clear path to reopening the Strait of Hormuz",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 10 May 2026 09:12:30 GMT"
+      "published_at": "Mon, 11 May 2026 18:41:25 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Trump is temporarily suspending beef import tariff quotas to fight record-high prices",
+      "link": "https://qz.com/trump-beef-import-tariff-quota-suspension-prices-051126",
+      "summary": "The administration plans to let more beef enter the U.S. at lower tariff rates, as ground beef prices have risen 40% over five years",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Mon, 11 May 2026 18:20:48 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-      "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
+      "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 11 May 2026 01:55:13 GMT"
+      "published_at": "Tue, 12 May 2026 00:59:12 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Philippine VP Sara Duterte impeached for a second time",
-      "link": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
-      "summary": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
+      "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+      "link": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 11 May 2026 09:28:53 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "French national shows symptoms on return from hantavirus-hit ship",
-      "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 11 May 2026 03:29:58 GMT"
+      "published_at": "Mon, 11 May 2026 23:20:53 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 17.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 17.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 16.2
+      "count": 1,
+      "avg_score": 16.0
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 22.0
+      "count": 2,
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik akışı yavaşladı (4 -> 1)."
   ],
   "topic_router": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 138,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 92,
+      "score": 88,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -153,31 +128,31 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 35,
+      "score": 53,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 34,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     }
   ],
   "today_stack": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 138,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 92,
+      "score": 88,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -188,13 +163,24 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 35,
+      "score": 53,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 34,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     }
   ],
   "errors": [
