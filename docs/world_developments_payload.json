@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-13T08:41:42.176165+00:00",
+  "generated_at": "2026-05-14T08:35:06.954429+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Bridging the gap: Profitability meets sustainability through physical AI",
+      "link": "https://www.therobotreport.com/bridging-gap-profitability-meets-sustainability-through-physical-ai/",
+      "published_at": "Wed, 13 May 2026 12:35:59 +0000",
+      "summary": "Join Ranpak’s Omar Asali at the Robotics Summit to learn how physical AI scales sustainable, profitable warehouse operations.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 21,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics",
+        "warehouse"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Comau and OMRON Robotics partner to offer robotics for more industries",
@@ -11,33 +29,12 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "Anthropic's Mythos AI is sending U.S. banks rushing to patch thousands of security holes",
-      "link": "https://qz.com/anthropic-mythos-ai-banks-patch-vulnerabilities-051226",
-      "published_at": "Tue, 12 May 2026 20:20:42 GMT",
-      "summary": "Large lenders with access to the model are finding hundreds to thousands of weaknesses in their systems and sharing findings with smaller banks",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 20,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "anthropic",
-        "model",
-        "u.s."
       ]
     },
     {
@@ -50,7 +47,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, payment ekseninde öne çıkıyor.",
       "matched_keywords": [
         "fintech",
@@ -60,10 +57,10 @@
     },
     {
       "source": "The Robot Report",
-      "title": "2026 RBR50 Robotics Innovation Awards",
-      "link": "https://www.therobotreport.com/rbr50-2026-report/",
-      "published_at": "Tue, 12 May 2026 13:10:00 +0000",
-      "summary": "We unveil the 2026 RBR50 Robotics Innovation Awards, including the Robot of the Year, Startup of the Year, Application of the Year, and Robots for Good honorees.",
+      "title": "Alva Industries to bring its frameless motor technology to the Robotics Summit",
+      "link": "https://www.therobotreport.com/alva-industries-brings-frameless-motor-technology-2026-robotics-summit/",
+      "published_at": "Wed, 13 May 2026 12:30:04 +0000",
+      "summary": "At the show, Alva will show SlimTorq, one of the thinnest and lightest frameless motors on the market.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -79,75 +76,64 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Oil prices are holding above $100 as the U.S.-Iran ceasefire teeters",
-      "link": "https://qz.com/oil-prices-iran-ceasefire-trump-hormuz-051226",
-      "summary": "Tehran has continued to assert its claim over the Strait of Hormuz, a chokepoint that typically carries around one-fifth of the world's oil supply",
+      "title": "Appeals court allows Trump to delay paying $83 million Carroll defamation award",
+      "link": "https://qz.com/trump-carroll-defamation-award-appeals-court-delay-051326",
+      "summary": "The 2nd Circuit granted a stay pending possible Supreme Court review, requiring Trump to post a $7.4 million bond",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 12 May 2026 20:20:45 GMT"
+      "published_at": "Wed, 13 May 2026 23:23:37 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Inflation surges to its highest level in almost 3 years",
-      "link": "https://qz.com/us-cpi-inflation-april-2026-energy-gas-prices-051226",
-      "summary": "Energy prices, driven by the war with Iran, accounted for more than 40% of the monthly increase as annual inflation reached 3.8%",
+      "title": "U.S. military sinks 6 Iranian boats as Iran attacks UAE, ships in Strait of Hormuz",
+      "link": "https://qz.com/us-military-sinks-iranian-boats-uae-attacks-strait-hormuz-051326",
+      "summary": "Iran launched missiles and drones at the UAE and commercial vessels as the U.S. launched Project Freedom to reopen the vital shipping lane",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 12 May 2026 20:20:41 GMT"
+      "published_at": "Wed, 13 May 2026 23:23:37 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "A decade on, Trump returns to a stronger and more assertive China",
-      "link": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says.",
+      "source": "Quartz",
+      "title": "FDA Commissioner Marty Makary resigns after clash with Trump over flavored vapes",
+      "link": "https://qz.com/fda-commissioner-marty-makary-resigns-flavored-vapes-051326",
+      "summary": "Makary stepped down after the FDA reversed course on fruit-flavored e-cigarettes following direct pressure from President Donald Trump",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 12 May 2026 22:07:51 GMT"
+      "published_at": "Wed, 13 May 2026 23:20:54 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
-      "link": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government hopes reforms will help young people enter the market, while critics say it will stifle supply.",
+      "source": "Quartz",
+      "title": "Shots fired at Philippine Senate amid standoff over ICC warrant",
+      "link": "https://qz.com/gunfire-philippine-senate-icc-arrest-dela-rosa-051326",
+      "summary": "ICC-indicted senator Ronald dela Rosa sheltered inside the chamber as the situation unfolded; there were no reported injuries",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 12 May 2026 20:28:03 GMT"
+      "published_at": "Wed, 13 May 2026 23:20:52 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 20.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 20.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 20.0
+      "count": 8,
+      "avg_score": 18.6
     },
     "financial_system": {
-      "count": 3,
-      "avg_score": 19.0
+      "count": 2,
+      "avg_score": 17.5
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (2 -> 8)."
   ],
   "topic_router": [
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 138,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 107,
+      "score": 358,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -156,44 +142,44 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 63,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 131,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 42,
+      "score": 81,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 22,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     }
   ],
   "today_stack": [
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 138,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 107,
+      "score": 358,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -202,15 +188,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 63,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 131,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 81,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
