@@ -1,110 +1,40 @@
 {
-  "generated_at": "2026-05-14T08:35:06.954429+00:00",
+  "generated_at": "2026-05-15T08:46:47.745579+00:00",
   "headlines": [
     {
-      "source": "The Robot Report",
-      "title": "Bridging the gap: Profitability meets sustainability through physical AI",
-      "link": "https://www.therobotreport.com/bridging-gap-profitability-meets-sustainability-through-physical-ai/",
-      "published_at": "Wed, 13 May 2026 12:35:59 +0000",
-      "summary": "Join Ranpak’s Omar Asali at the Robotics Summit to learn how physical AI scales sustainable, profitable warehouse operations.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 21,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics",
-        "warehouse"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Comau and OMRON Robotics partner to offer robotics for more industries",
-      "link": "https://www.therobotreport.com/comau-omron-robotics-partner-offer-robotics-more-industries/",
-      "published_at": "Tue, 12 May 2026 19:12:46 +0000",
-      "summary": "Comau and OMRON Robotics are combining robotics, control, and software capabilities in flexible automation for global customers.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 21,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "automation",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
       "source": "Payments Dive",
-      "title": "North and Visa team to elevate the payments game",
-      "link": "https://www.paymentsdive.com/spons/north-and-visa-team-to-elevate-the-payments-game/818908/",
-      "published_at": "Mon, 11 May 2026 05:00:00 -0400",
-      "summary": "North and Visa, two of the biggest names in fintech, have partnered to deliver next-level solutions that meet the demands of today's complex payments landscape.",
+      "title": "FIS discounts Pismo competition",
+      "link": "https://www.paymentsdive.com/news/fis-discounts-pismo-competition/819983/",
+      "published_at": "Tue, 12 May 2026 10:39:00 -0400",
+      "summary": "The payments processor and core tech provider doesn’t expect competition from that Visa business to make an impact.",
       "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
       "categories": [
         "financial_system"
       ],
-      "score": 19,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, payment ekseninde öne çıkıyor.",
+      "score": 15,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle payment, visa ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "fintech",
         "payment",
         "visa"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Alva Industries to bring its frameless motor technology to the Robotics Summit",
-      "link": "https://www.therobotreport.com/alva-industries-brings-frameless-motor-technology-2026-robotics-summit/",
-      "published_at": "Wed, 13 May 2026 12:30:04 +0000",
-      "summary": "At the show, Alva will show SlimTorq, one of the thinnest and lightest frameless motors on the market.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
       ]
     }
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "Appeals court allows Trump to delay paying $83 million Carroll defamation award",
-      "link": "https://qz.com/trump-carroll-defamation-award-appeals-court-delay-051326",
-      "summary": "The 2nd Circuit granted a stay pending possible Supreme Court review, requiring Trump to post a $7.4 million bond",
+      "source": "BBC World",
+      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+      "link": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 13 May 2026 23:23:37 GMT"
+      "published_at": "Thu, 14 May 2026 13:16:32 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "U.S. military sinks 6 Iranian boats as Iran attacks UAE, ships in Strait of Hormuz",
-      "link": "https://qz.com/us-military-sinks-iranian-boats-uae-attacks-strait-hormuz-051326",
-      "summary": "Iran launched missiles and drones at the UAE and commercial vessels as the U.S. launched Project Freedom to reopen the vital shipping lane",
+      "source": "BBC World",
+      "title": "'Floating armoury' ship reportedly seized by Iran",
+      "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+      "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 13 May 2026 23:23:37 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "FDA Commissioner Marty Makary resigns after clash with Trump over flavored vapes",
-      "link": "https://qz.com/fda-commissioner-marty-makary-resigns-flavored-vapes-051326",
-      "summary": "Makary stepped down after the FDA reversed course on fruit-flavored e-cigarettes following direct pressure from President Donald Trump",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 13 May 2026 23:20:54 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Shots fired at Philippine Senate amid standoff over ICC warrant",
-      "link": "https://qz.com/gunfire-philippine-senate-icc-arrest-dela-rosa-051326",
-      "summary": "ICC-indicted senator Ronald dela Rosa sheltered inside the chamber as the situation unfolded; there were no reported injuries",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 13 May 2026 23:20:52 GMT"
+      "published_at": "Thu, 14 May 2026 13:33:20 GMT"
     }
   ],
   "market_items": [],
@@ -118,79 +48,35 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 8,
-      "avg_score": 18.6
+      "count": 0,
+      "avg_score": 0.0
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 17.5
+      "count": 1,
+      "avg_score": 15.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (2 -> 8)."
+    "Robotik akışı yavaşladı (8 -> 0)."
   ],
   "topic_router": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 358,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 131,
+      "score": 48,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
       "backup_url": "https://www.reuters.com/business/",
       "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 81,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 22,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     }
   ],
   "today_stack": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 358,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 131,
+      "score": 48,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -199,9 +85,20 @@
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 81,
+      "score": 0,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -214,7 +111,8 @@
     "Reuters World: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Business: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Technology: <urlopen error [Errno -2] Name or service not known>",
-    "AP World: HTTP Error 404: Not Found"
+    "AP World: HTTP Error 404: Not Found",
+    "The Robot Report: HTTP Error 403: Forbidden"
   ],
   "coverage_notes": {
     "objective": "Gerçekten önemli olanları seçmek ve günlük stratejik farkındalık yaratmak.",
