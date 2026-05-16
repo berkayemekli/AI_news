@@ -1,110 +1,195 @@
 {
-  "generated_at": "2026-05-15T08:46:47.745579+00:00",
+  "generated_at": "2026-05-16T08:01:15.668889+00:00",
   "headlines": [
     {
-      "source": "Payments Dive",
-      "title": "FIS discounts Pismo competition",
-      "link": "https://www.paymentsdive.com/news/fis-discounts-pismo-competition/819983/",
-      "published_at": "Tue, 12 May 2026 10:39:00 -0400",
-      "summary": "The payments processor and core tech provider doesn’t expect competition from that Visa business to make an impact.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "source": "Quartz",
+      "title": "A double-win for American business",
+      "link": "https://qz.com/us-businesses-second-tariff-refund-wave-trump-tariffs-court-ruling",
+      "published_at": "Fri, 15 May 2026 20:20:56 GMT",
+      "summary": "Federal courts questioning Trump-era tariffs, raising the possibility that U.S. importers could see a second round of refunds",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "categories": [
-        "financial_system"
+        "financial_system",
+        "macro",
+        "technology"
       ],
-      "score": 15,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle payment, visa ekseninde öne çıkıyor.",
+      "score": 21,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, fed ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "payment",
-        "visa"
+        "ai",
+        "fed",
+        "tariff",
+        "u.s."
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "Global bond yields surge to multi-year highs on inflation fears and oil shock",
+      "link": "https://qz.com/global-bond-yields-surge-inflation-oil-prices-051526",
+      "published_at": "Fri, 15 May 2026 20:50:50 GMT",
+      "summary": "U.S. 30-year Treasury yields hit their highest since 2025 as Iran war energy costs compound hot inflation data",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 20,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle inflation, oil ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "inflation",
+        "oil",
+        "treasury",
+        "u.s."
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "Anthropic is closing in on a $30 billion raise that would make it more valuable than OpenAI",
+      "link": "https://qz.com/anthropic-30-billion-fundraising-900-billion-valuation-051526",
+      "published_at": "Fri, 15 May 2026 20:00:33 GMT",
+      "summary": "The deal comes just months after Anthropic raised $30 billion at a $350 billion valuation, and with both AI startups moving toward an IPO",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 18,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "anthropic",
+        "openai"
       ]
     }
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
-      "link": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
+      "source": "Quartz",
+      "title": "Fed Governor Stephen Miran resigns to make way for Kevin Warsh",
+      "link": "https://qz.com/fed-governor-stephen-miran-resigns-kevin-warsh-051526",
+      "summary": "Miran's term had technically expired in January, leaving his seat as the only available opening for the incoming Fed chair",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 14 May 2026 13:16:32 GMT"
+      "published_at": "Fri, 15 May 2026 21:05:30 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "'Floating armoury' ship reportedly seized by Iran",
-      "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
-      "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
+      "source": "Quartz",
+      "title": "Global bond yields surge to multi-year highs on inflation fears and oil shock",
+      "link": "https://qz.com/global-bond-yields-surge-inflation-oil-prices-051526",
+      "summary": "U.S. 30-year Treasury yields hit their highest since 2025 as Iran war energy costs compound hot inflation data",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 14 May 2026 13:33:20 GMT"
+      "published_at": "Fri, 15 May 2026 20:50:50 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Anthropic warns that unauthorized stock sales are void",
+      "link": "https://qz.com/anthropic-unauthorized-stock-sales-void-warning-051526",
+      "summary": "The AI startup named 8 platforms it says are not authorized to buy or sell its privately traded stock, ahead of a hotly anticipated IPO",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 15 May 2026 20:50:33 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "A double-win for American business",
+      "link": "https://qz.com/us-businesses-second-tariff-refund-wave-trump-tariffs-court-ruling",
+      "summary": "Federal courts questioning Trump-era tariffs, raising the possibility that U.S. importers could see a second round of refunds",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 15 May 2026 20:20:56 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 3,
+      "avg_score": 19.7
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 3,
+      "avg_score": 19.7
     },
     "robotics": {
       "count": 0,
       "avg_score": 0.0
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 15.0
+      "count": 3,
+      "avg_score": 19.7
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (8 -> 0)."
+    "Makro ivmesi artıyor (0 -> 3).",
+    "Teknoloji ivmesi artıyor (0 -> 3).",
+    "Finansal Sistem ivmesi artıyor (1 -> 3)."
   ],
   "topic_router": [
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 48,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    }
-  ],
-  "today_stack": [
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 48,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 0,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 0,
+      "score": 105,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 79,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "markets",
+      "label": "Markets",
+      "score": 63,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+    }
+  ],
+  "today_stack": [
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 105,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 79,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "markets",
+      "label": "Markets",
+      "score": 63,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "errors": [
