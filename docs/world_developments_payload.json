@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-05-16T08:01:15.668889+00:00",
+  "generated_at": "2026-05-17T08:18:56.426460+00:00",
   "headlines": [
-    {
-      "source": "Quartz",
-      "title": "A double-win for American business",
-      "link": "https://qz.com/us-businesses-second-tariff-refund-wave-trump-tariffs-court-ruling",
-      "published_at": "Fri, 15 May 2026 20:20:56 GMT",
-      "summary": "Federal courts questioning Trump-era tariffs, raising the possibility that U.S. importers could see a second round of refunds",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 21,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, fed ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "fed",
-        "tariff",
-        "u.s."
-      ]
-    },
     {
       "source": "Quartz",
       "title": "Global bond yields surge to multi-year highs on inflation fears and oil shock",
@@ -34,7 +13,7 @@
         "macro",
         "technology"
       ],
-      "score": 20,
+      "score": 18,
       "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle inflation, oil ekseninde öne çıkıyor.",
       "matched_keywords": [
         "inflation",
@@ -42,29 +21,17 @@
         "treasury",
         "u.s."
       ]
-    },
-    {
-      "source": "Quartz",
-      "title": "Anthropic is closing in on a $30 billion raise that would make it more valuable than OpenAI",
-      "link": "https://qz.com/anthropic-30-billion-fundraising-900-billion-valuation-051526",
-      "published_at": "Fri, 15 May 2026 20:00:33 GMT",
-      "summary": "The deal comes just months after Anthropic raised $30 billion at a $350 billion valuation, and with both AI startups moving toward an IPO",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 18,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "anthropic",
-        "openai"
-      ]
     }
   ],
   "political_items": [
+    {
+      "source": "Quartz",
+      "title": "The most delicious food tours across the U.S. right now",
+      "link": "https://qz.com/most-delicious-food-tours-across-us-2026",
+      "summary": "From New York's Chinatown dumpling crawl to a Bear-inspired bus tour through Chicago's best food neighborhoods",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 16 May 2026 09:12:26 GMT"
+    },
     {
       "source": "Quartz",
       "title": "Fed Governor Stephen Miran resigns to make way for Kevin Warsh",
@@ -88,80 +55,72 @@
       "summary": "The AI startup named 8 platforms it says are not authorized to buy or sell its privately traded stock, ahead of a hotly anticipated IPO",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "published_at": "Fri, 15 May 2026 20:50:33 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "A double-win for American business",
-      "link": "https://qz.com/us-businesses-second-tariff-refund-wave-trump-tariffs-court-ruling",
-      "summary": "Federal courts questioning Trump-era tariffs, raising the possibility that U.S. importers could see a second round of refunds",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 15 May 2026 20:20:56 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 3,
-      "avg_score": 19.7
+      "count": 1,
+      "avg_score": 18.0
     },
     "technology": {
-      "count": 3,
-      "avg_score": 19.7
+      "count": 1,
+      "avg_score": 18.0
     },
     "robotics": {
       "count": 0,
       "avg_score": 0.0
     },
     "financial_system": {
-      "count": 3,
-      "avg_score": 19.7
+      "count": 1,
+      "avg_score": 18.0
     }
   },
   "trend_signals": [
-    "Makro ivmesi artıyor (0 -> 3).",
-    "Teknoloji ivmesi artıyor (0 -> 3).",
-    "Finansal Sistem ivmesi artıyor (1 -> 3)."
+    "Makro akışı yavaşladı (3 -> 1).",
+    "Teknoloji akışı yavaşladı (3 -> 1).",
+    "Finansal Sistem akışı yavaşladı (3 -> 1)."
   ],
   "topic_router": [
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 105,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 79,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "markets",
       "label": "Markets",
-      "score": 63,
+      "score": 57,
       "best_source": "Bloomberg",
       "best_url": "https://www.bloomberg.com/",
       "backup_source": "Financial Times",
       "backup_url": "https://www.ft.com/markets",
       "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
       "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 38,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
+      "topic": "markets",
+      "label": "Markets",
+      "score": 57,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 105,
+      "score": 38,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -170,26 +129,15 @@
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 79,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 63,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
