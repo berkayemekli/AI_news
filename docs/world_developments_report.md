@@ -1,28 +1,22 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-05-17T08:18:56.426460+00:00
+Uretim zamani: 2026-05-18T09:59:02.415318+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Global bond yields surge to multi-year highs on inflation fears and oil shock
-- Kaynak: Quartz
-- Kategoriler: Finansal Sistem, Makro, Teknoloji
-- Onem skoru: 18
-- Link: https://qz.com/global-bond-yields-surge-inflation-oil-prices-051526
-- Bu seni neden ilgilendiriyor: Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle inflation, oil ekseninde öne çıkıyor.
+Bu calistirmada anlamli haber secilemedi.
 
-Turkce ozet: Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.
+Muhtemel nedenler: feed erisim hatasi, eski haberler veya anahtar kelime filtresi.
 
 ## Trend Sinyali
 
-- Makro akışı yavaşladı (3 -> 1).
-- Teknoloji akışı yavaşladı (3 -> 1).
-- Finansal Sistem akışı yavaşladı (3 -> 1).
+- Belirgin kategori ivmesi yok; haber akışı dengeli.
 
 ## Topic Router
 
-- Markets: Bloomberg (yedek: Financial Times)
+- Nvidia: Bloomberg Technology (yedek: Stratechery)
 - Jeopolitik: Reuters World (yedek: Foreign Affairs)
+- Markets: Bloomberg (yedek: Financial Times)
 
 ## Feed Notlari
 

@@ -1,133 +1,63 @@
 {
-  "generated_at": "2026-05-17T08:18:56.426460+00:00",
-  "headlines": [
-    {
-      "source": "Quartz",
-      "title": "Global bond yields surge to multi-year highs on inflation fears and oil shock",
-      "link": "https://qz.com/global-bond-yields-surge-inflation-oil-prices-051526",
-      "published_at": "Fri, 15 May 2026 20:50:50 GMT",
-      "summary": "U.S. 30-year Treasury yields hit their highest since 2025 as Iran war energy costs compound hot inflation data",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 18,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle inflation, oil ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "inflation",
-        "oil",
-        "treasury",
-        "u.s."
-      ]
-    }
-  ],
+  "generated_at": "2026-05-18T09:59:02.415318+00:00",
+  "headlines": [],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "The most delicious food tours across the U.S. right now",
-      "link": "https://qz.com/most-delicious-food-tours-across-us-2026",
-      "summary": "From New York's Chinatown dumpling crawl to a Bear-inspired bus tour through Chicago's best food neighborhoods",
+      "source": "BBC World",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 16 May 2026 09:12:26 GMT"
+      "published_at": "Mon, 18 May 2026 03:53:36 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Fed Governor Stephen Miran resigns to make way for Kevin Warsh",
-      "link": "https://qz.com/fed-governor-stephen-miran-resigns-kevin-warsh-051526",
-      "summary": "Miran's term had technically expired in January, leaving his seat as the only available opening for the incoming Fed chair",
+      "source": "BBC World",
+      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 15 May 2026 21:05:30 GMT"
+      "published_at": "Sun, 17 May 2026 23:02:56 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Global bond yields surge to multi-year highs on inflation fears and oil shock",
-      "link": "https://qz.com/global-bond-yields-surge-inflation-oil-prices-051526",
-      "summary": "U.S. 30-year Treasury yields hit their highest since 2025 as Iran war energy costs compound hot inflation data",
+      "source": "BBC World",
+      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+      "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 15 May 2026 20:50:50 GMT"
+      "published_at": "Sun, 17 May 2026 14:18:23 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Anthropic warns that unauthorized stock sales are void",
-      "link": "https://qz.com/anthropic-unauthorized-stock-sales-void-warning-051526",
-      "summary": "The AI startup named 8 platforms it says are not authorized to buy or sell its privately traded stock, ahead of a hotly anticipated IPO",
+      "source": "BBC World",
+      "title": "Taiwan will not provoke conflict nor give up sovereignty, says president",
+      "link": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
+      "summary": "Lai Ching-te made his first direct response to Trump and Xi's meeting where they discussed Taiwan independence.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 15 May 2026 20:50:33 GMT"
+      "published_at": "Mon, 18 May 2026 03:08:13 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 18.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 18.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
       "count": 0,
       "avg_score": 0.0
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 18.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Makro akışı yavaşladı (3 -> 1).",
-    "Teknoloji akışı yavaşladı (3 -> 1).",
-    "Finansal Sistem akışı yavaşladı (3 -> 1)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
-    {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 57,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 38,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    }
-  ],
-  "today_stack": [
-    {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 57,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 38,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
     {
       "topic": "nvidia",
       "label": "Nvidia",
@@ -138,6 +68,63 @@
       "backup_url": "https://stratechery.com/about/",
       "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
       "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 0,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "markets",
+      "label": "Markets",
+      "score": 0,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+    }
+  ],
+  "today_stack": [
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 0,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "markets",
+      "label": "Markets",
+      "score": 0,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "errors": [
