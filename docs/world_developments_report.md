@@ -1,15 +1,15 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-05-19T09:38:41.373230+00:00
+Uretim zamani: 2026-05-20T09:28:34.764657+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Berkshire's new CEO sold 16 stocks and tripled its Google stake in his first quarter
-- Kaynak: Quartz
-- Kategoriler: Finansal Sistem, Makro, Teknoloji
-- Onem skoru: 17
-- Link: https://qz.com/berkshire-hathaway-greg-abel-alphabet-google-stake-051826
-- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle google, mastercard ekseninde öne çıkıyor.
+### 1. Where stablecoin use is growing
+- Kaynak: Payments Dive
+- Kategoriler: Finansal Sistem
+- Onem skoru: 19
+- Link: https://www.paymentsdive.com/news/stablecoin-use-is-growing-cross-border-payments-genius-act/820566/
+- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle payment, settlement ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
 
@@ -20,7 +20,6 @@ Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestig
 ## Topic Router
 
 - Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
-- Markets: Bloomberg (yedek: Financial Times)
 
 ## Feed Notlari
 
