@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-05-20T09:28:34.764657+00:00",
+  "generated_at": "2026-05-21T09:37:07.902589+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Learn about the latest in logistics automation at the Robotics Summit",
+      "link": "https://www.therobotreport.com/learn-about-latest-logistics-automation-2026-robotics-summit/",
+      "published_at": "Tue, 19 May 2026 13:37:52 +0000",
+      "summary": "The 2026 Robotics Summit & Expo, which takes place May 27 and 28, will feature an entire session track focused on robots in logistics.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 21,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "automation",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "Nvidia posts record revenue as AI chip demand surges",
+      "link": "https://qz.com/nvidia-record-revenue-ai-chips-dividend-buyback-052026",
+      "published_at": "Wed, 20 May 2026 22:40:31 GMT",
+      "summary": "The chipmaker reported $81.6 billion in first-quarter sales and raised its quarterly dividend to 25 cents from 1 cent",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 21,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "chip",
+        "nvidia"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Inside Verobotics’ edge AI robotics deployment at NVIDIA’s Israel campus",
+      "link": "https://www.therobotreport.com/inside-verobotics-edge-ai-robotics-deployment-at-nvidias-israel-campus/",
+      "published_at": "Wed, 20 May 2026 20:39:52 +0000",
+      "summary": "Verobotics said its robot turns vertical surfaces from risky, one-off access zones into repeatable, data-rich robotic workspaces.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "Payments Dive",
       "title": "Where stablecoin use is growing",
@@ -11,7 +66,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle payment, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "payment",
@@ -23,88 +78,75 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "IRS settlement bars tax audits of Trump and his family",
-      "link": "https://qz.com/trump-irs-settlement-addendum-tax-audits-barred-052026",
-      "summary": "An addendum to a $1.8 billion DOJ settlement shields all Trump-related tax returns filed before this week from IRS enforcement",
+      "title": "It's wedding season. Here are the best European wedding destinations in 2026",
+      "link": "https://qz.com/best-european-wedding-destinations-2026",
+      "summary": "The best European destination wedding spots, from a Tuscan hillside estate to a caldera-edge terrace in Santorini",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 20 May 2026 03:30:43 GMT"
+      "published_at": "Thu, 21 May 2026 09:00:00 GMT"
     },
     {
       "source": "Quartz",
-      "title": "30-year Treasury yield hits highest level since 2007 as inflation fears deepen",
-      "link": "https://qz.com/30-year-treasury-yield-highest-2007-iran-inflation-052026",
-      "summary": "The 30-year yield touched 5.2% Tuesday as energy-driven price pressures and mounting deficits sent investors fleeing long-dated U.S. government debt",
+      "title": "DOJ creates $1.8 billion fund, drops IRS audits of Trump as part of lawsuit settlement",
+      "link": "https://qz.com/doj-anti-weaponization-fund-trump-irs-audit-settlement-052126",
+      "summary": "Acting Attorney General Todd Blanche signed an order barring the IRS from pursuing tax claims against President Trump, his family, and his businesses",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 20 May 2026 03:20:41 GMT"
+      "published_at": "Thu, 21 May 2026 00:43:02 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "U.S. military boards Iranian-flagged tanker in Gulf of Oman, the 5th vessel seized under blockade",
+      "link": "https://qz.com/us-military-boards-iranian-tanker-gulf-oman-052026",
+      "summary": "The M/T Celestial Sea was searched and redirected after being suspected of heading to an Iranian port amid stalled ceasefire negotiations",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Wed, 20 May 2026 22:06:24 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
-      "link": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
-      "summary": "Jeff Landry's visit to the territory, a semi-autonomous part of Denmark, has touched a nerve among some Greenlanders.",
+      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+      "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cuba's current president says the charges against Castro - including conspiracy to kill US nationals and destruction of aircraft - are a \"political manoeuvre\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 20 May 2026 03:49:24 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
-      "link": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 19 May 2026 18:05:26 GMT"
+      "published_at": "Thu, 21 May 2026 03:01:15 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 21.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 21.0
     },
     "robotics": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 4,
+      "avg_score": 18.2
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 19.0
+      "count": 2,
+      "avg_score": 19.5
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (0 -> 4)."
   ],
   "topic_router": [
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 60,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    }
-  ],
-  "today_stack": [
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 60,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 176,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 0,
+      "score": 63,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
@@ -113,23 +155,68 @@
       "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 0,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 57,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 41,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    }
+  ],
+  "today_stack": [
+    {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 176,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 63,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 57,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
     "Reuters World: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Business: <urlopen error [Errno -2] Name or service not known>",
     "Reuters Technology: <urlopen error [Errno -2] Name or service not known>",
-    "AP World: HTTP Error 404: Not Found",
-    "The Robot Report: HTTP Error 403: Forbidden"
+    "AP World: HTTP Error 404: Not Found"
   ],
   "coverage_notes": {
     "objective": "Gerçekten önemli olanları seçmek ve günlük stratejik farkındalık yaratmak.",
