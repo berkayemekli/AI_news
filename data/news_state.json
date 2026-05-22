@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:37:07.902589+00:00",
+  "generated_at": "2026-05-22T08:58:26.242912+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -20,23 +20,20 @@
       ]
     },
     {
-      "source": "Quartz",
-      "title": "Nvidia posts record revenue as AI chip demand surges",
-      "link": "https://qz.com/nvidia-record-revenue-ai-chips-dividend-buyback-052026",
-      "published_at": "Wed, 20 May 2026 22:40:31 GMT",
-      "summary": "The chipmaker reported $81.6 billion in first-quarter sales and raised its quarterly dividend to 25 cents from 1 cent",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Humanoid partners with Bosch, Schaeffler to scale robot production",
+      "link": "https://www.therobotreport.com/humanoid-partners-with-bosch-schaeffler-scale-robot-production/",
+      "published_at": "Thu, 21 May 2026 11:00:35 +0000",
+      "summary": "Humanoid is working with Bosch to make and distribute its HMND robot in Europe after also partnering with Siemens and Schaeffler.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
-        "financial_system",
-        "macro",
-        "technology"
+        "robotics"
       ],
-      "score": 21,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "ai",
-        "chip",
-        "nvidia"
+        "humanoid",
+        "robot"
       ]
     },
     {
@@ -49,7 +46,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -57,85 +54,84 @@
       ]
     },
     {
-      "source": "Payments Dive",
-      "title": "Where stablecoin use is growing",
-      "link": "https://www.paymentsdive.com/news/stablecoin-use-is-growing-cross-border-payments-genius-act/820566/",
-      "published_at": "Tue, 19 May 2026 06:35:05 -0400",
-      "summary": "Cross-border transactions, worker payments and intercompany settlements are emerging use cases for the digital asset, according to two reports.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Locus Array expands picking ability with Nexera Robotics’ NeuraGrasp",
+      "link": "https://www.therobotreport.com/locus-array-expands-picking-ability-with-nexera-robotics-neuragrip/",
+      "published_at": "Tue, 19 May 2026 12:42:29 +0000",
+      "summary": "Nexera Robotics' adaptive NeuraGrasp will enable the Locus Array mobile manipulator to pick many more e-commerce SKUs.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "financial_system"
+        "robotics"
       ],
-      "score": 18,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle payment, settlement ekseninde öne çıkıyor.",
+      "score": 16,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "payment",
-        "settlement",
-        "stablecoin"
+        "robot",
+        "robotics"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "It's wedding season. Here are the best European wedding destinations in 2026",
-      "link": "https://qz.com/best-european-wedding-destinations-2026",
-      "summary": "The best European destination wedding spots, from a Tuscan hillside estate to a caldera-edge terrace in Santorini",
+      "title": "Ramaswamy captures Ohio Republican governor nomination, sets up November clash with Amy Acton",
+      "link": "https://qz.com/ramaswamy-wins-ohio-gop-governor-primary-052226",
+      "summary": "Armed with a $25 million personal loan and a Trump endorsement, the ex-presidential contender and one-time DOGE co-leader enters the general election unopposed within his party",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 21 May 2026 09:00:00 GMT"
+      "published_at": "Fri, 22 May 2026 06:48:56 GMT"
     },
     {
       "source": "Quartz",
-      "title": "DOJ creates $1.8 billion fund, drops IRS audits of Trump as part of lawsuit settlement",
-      "link": "https://qz.com/doj-anti-weaponization-fund-trump-irs-audit-settlement-052126",
-      "summary": "Acting Attorney General Todd Blanche signed an order barring the IRS from pursuing tax claims against President Trump, his family, and his businesses",
+      "title": "Iran in talks with Oman on Strait of Hormuz toll system as diplomacy stalls",
+      "link": "https://qz.com/iran-oman-strait-hormuz-toll-talks-diplomacy-052226",
+      "summary": "Iran's newly created Persian Gulf Strait Authority has declared authority over strait passage as U.S.-Iran peace negotiations remain deadlocked",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 21 May 2026 00:43:02 GMT"
+      "published_at": "Fri, 22 May 2026 06:48:32 GMT"
     },
     {
       "source": "Quartz",
-      "title": "U.S. military boards Iranian-flagged tanker in Gulf of Oman, the 5th vessel seized under blockade",
-      "link": "https://qz.com/us-military-boards-iranian-tanker-gulf-oman-052026",
-      "summary": "The M/T Celestial Sea was searched and redirected after being suspected of heading to an Iranian port amid stalled ceasefire negotiations",
+      "title": "Miami arrest targets sister of GAESA leader, Cuba's top military business group",
+      "link": "https://qz.com/sister-gaesa-chief-arrested-miami-ice-052226",
+      "summary": "Before federal agents moved in this week, Secretary of State Marco Rubio had already stripped Adys Lastres Morera of her green card",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 20 May 2026 22:06:24 GMT"
+      "published_at": "Fri, 22 May 2026 06:47:07 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-      "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cuba's current president says the charges against Castro - including conspiracy to kill US nationals and destruction of aircraft - are a \"political manoeuvre\".",
+      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
+      "link": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 21 May 2026 03:01:15 GMT"
+      "published_at": "Fri, 22 May 2026 08:12:47 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 21.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 21.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 18.2
+      "count": 5,
+      "avg_score": 17.4
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 19.5
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (0 -> 4)."
+    "Finansal Sistem akışı yavaşladı (2 -> 0)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 176,
+      "score": 205,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -144,44 +140,33 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 63,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    },
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 57,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 41,
+      "score": 18,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 18,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 176,
+      "score": 205,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -190,26 +175,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 18,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 63,
+      "score": 18,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
       "backup_url": "https://stratechery.com/about/",
       "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
       "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    },
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 57,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
