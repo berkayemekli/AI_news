@@ -1,54 +1,55 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-05-22T08:58:26.242912+00:00
+Uretim zamani: 2026-05-23T08:15:45.271017+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Learn about the latest in logistics automation at the Robotics Summit
+### 1. Exploring PLC and robot integration with YRG Robotics Chris Elston
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 20
-- Link: https://www.therobotreport.com/learn-about-latest-logistics-automation-2026-robotics-summit/
+- Onem skoru: 23
+- Link: https://www.therobotreport.com/exploring-plc-and-robot-integration-with-yrg-robotics-chris-elston/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 2. Humanoid partners with Bosch, Schaeffler to scale robot production
+### 2. GE Vernova to acquire Robotech Automation to expand robotics integration
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 18
-- Link: https://www.therobotreport.com/humanoid-partners-with-bosch-schaeffler-scale-robot-production/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
-
-### 3. Inside Verobotics’ edge AI robotics deployment at NVIDIA’s Israel campus
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 17
-- Link: https://www.therobotreport.com/inside-verobotics-edge-ai-robotics-deployment-at-nvidias-israel-campus/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+- Onem skoru: 22
+- Link: https://www.therobotreport.com/ge-vernova-acquire-robotech-automation-expand-robotics-integration/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 4. Locus Array expands picking ability with Nexera Robotics’ NeuraGrasp
+### 3. Kevin Warsh is sworn in as chair of the Federal Reserve
+- Kaynak: Quartz
+- Kategoriler: Finansal Sistem, Makro, Teknoloji
+- Onem skoru: 22
+- Link: https://qz.com/kevin-warsh-sworn-in-federal-reserve-chair-052226
+- Bu seni neden ilgilendiriyor: Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, central bank ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.
+
+### 4. Robotics Summit keynote to present open foundation for AI-powered robots
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 16
-- Link: https://www.therobotreport.com/locus-array-expands-picking-ability-with-nexera-robotics-neuragrip/
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/robotics-summit-keynote-present-open-robotics-ai-foundation/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
 ## Trend Sinyali
 
-- Finansal Sistem akışı yavaşladı (2 -> 0).
+- Belirgin kategori ivmesi yok; haber akışı dengeli.
 
 ## Topic Router
 
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
 - YZ Modelleri: The Information (yedek: Semafor Tech)
-- Nvidia: Bloomberg Technology (yedek: Stratechery)
+- Jeopolitik: Reuters World (yedek: Foreign Affairs)
+- Markets: Bloomberg (yedek: Financial Times)
 
 ## Feed Notlari
 
