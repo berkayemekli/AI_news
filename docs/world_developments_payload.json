@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-23T08:15:45.271017+00:00",
+  "generated_at": "2026-05-24T08:26:51.608326+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Exploring PLC and robot integration with YRG Robotics Chris Elston",
+      "title": "Exploring PLC and robot integration with YRG Robotics’ Chris Elston",
       "link": "https://www.therobotreport.com/exploring-plc-and-robot-integration-with-yrg-robotics-chris-elston/",
       "published_at": "Sat, 23 May 2026 00:17:49 +0000",
-      "summary": "Chris Elston discusses PLC integration, Yamaha Robotics, and AI's future in automation, highlighting accessibility and innovation.",
+      "summary": "Chris Elston discusses PLC integration, Yamaha Robotics, and AI's role in advancing automation accessibility and innovation.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -29,33 +29,12 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "Kevin Warsh is sworn in as chair of the Federal Reserve",
-      "link": "https://qz.com/kevin-warsh-sworn-in-federal-reserve-chair-052226",
-      "published_at": "Fri, 22 May 2026 20:20:39 GMT",
-      "summary": "Warsh is taking over a divided central bank at a time of rising inflation and economic uncertainty",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 22,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, central bank ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "central bank",
-        "fed",
-        "inflation"
       ]
     },
     {
@@ -68,65 +47,82 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Humanoid partners with Bosch, Schaeffler to scale robot production",
+      "link": "https://www.therobotreport.com/humanoid-partners-with-bosch-schaeffler-scale-robot-production/",
+      "published_at": "Thu, 21 May 2026 11:00:35 +0000",
+      "summary": "Humanoid is working with Bosch to make and distribute its HMND robot in Europe after also partnering with Siemens and Schaeffler.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 16,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot"
       ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "At least 90 dead in Chinese coal mine explosion, state media reports",
-      "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 23 May 2026 06:37:29 GMT"
+      "published_at": "Sun, 24 May 2026 06:15:32 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+      "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 23 May 2026 07:44:14 GMT"
+      "published_at": "Sat, 23 May 2026 23:34:33 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, according to Volodymyr Zelensky.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 22 May 2026 15:18:30 GMT"
+      "published_at": "Sun, 24 May 2026 08:22:58 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Rubio visits India to sell energy as Iran oil shock persists",
+      "title": "Rubio meets Modi during India visit with energy high on agenda",
       "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The top US diplomat has made statements offering to support India’s energy needs - but should Delhi give in?",
+      "summary": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 23 May 2026 03:55:55 GMT"
+      "published_at": "Sat, 23 May 2026 11:55:39 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 22.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 22.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 19.2
+      "count": 4,
+      "avg_score": 18.8
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 22.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
@@ -136,7 +132,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 249,
+      "score": 202,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -147,42 +143,20 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 106,
+      "score": 62,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 46,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 23,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 249,
+      "score": 202,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -193,7 +167,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 106,
+      "score": 62,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -202,15 +176,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 46,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
