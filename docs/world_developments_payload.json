@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T08:26:51.608326+00:00",
+  "generated_at": "2026-05-25T10:01:07.267195+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -29,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -47,63 +47,46 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
       ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Humanoid partners with Bosch, Schaeffler to scale robot production",
-      "link": "https://www.therobotreport.com/humanoid-partners-with-bosch-schaeffler-scale-robot-production/",
-      "published_at": "Thu, 21 May 2026 11:00:35 +0000",
-      "summary": "Humanoid is working with Bosch to make and distribute its HMND robot in Europe after also partnering with Siemens and Schaeffler.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot"
-      ]
     }
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Suspect killed after opening fire on Secret Service near White House",
-      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+      "source": "Quartz",
+      "title": "Bond traders are surrendering to inflation fears. It's raising the stakes for Washington",
+      "link": "https://qz.com/bond-markets-treasury-yields-economy-fed-interest-rates-kevin-warsh",
+      "summary": "Bond markets are betting that inflation is here to stay, elevating the stakes for policymakers steering an economy under mounting strain",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 24 May 2026 06:15:32 GMT"
+      "published_at": "Mon, 25 May 2026 09:10:58 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-      "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
+      "title": "Deal with US not imminent, Iran says",
+      "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iranian foreign minister's comments come after the US secretary of state said an agreement could be announced on Monday.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 23 May 2026 23:34:33 GMT"
+      "published_at": "Mon, 25 May 2026 09:39:15 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Mon, 25 May 2026 08:38:44 GMT"
     },
     {
       "source": "BBC World",
       "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
       "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, according to Volodymyr Zelensky.",
+      "summary": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 24 May 2026 08:22:58 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Rubio meets Modi during India visit with energy high on agenda",
-      "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 23 May 2026 11:55:39 GMT"
+      "published_at": "Mon, 25 May 2026 04:45:13 GMT"
     }
   ],
   "market_items": [],
@@ -117,8 +100,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 18.8
+      "count": 3,
+      "avg_score": 18.7
     },
     "financial_system": {
       "count": 0,
@@ -132,7 +115,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 202,
+      "score": 160,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -143,7 +126,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 62,
+      "score": 59,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -156,7 +139,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 202,
+      "score": 160,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -167,7 +150,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 62,
+      "score": 59,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
