@@ -1,44 +1,22 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-05-25T10:01:07.267195+00:00
+Uretim zamani: 2026-05-26T09:52:24.325926+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Exploring PLC and robot integration with YRG Robotics’ Chris Elston
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 20
-- Link: https://www.therobotreport.com/exploring-plc-and-robot-integration-with-yrg-robotics-chris-elston/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.
+Bu calistirmada anlamli haber secilemedi.
 
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
-
-### 2. GE Vernova to acquire Robotech Automation to expand robotics integration
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 20
-- Link: https://www.therobotreport.com/ge-vernova-acquire-robotech-automation-expand-robotics-integration/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
-
-### 3. Robotics Summit keynote to present open foundation for AI-powered robots
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 16
-- Link: https://www.therobotreport.com/robotics-summit-keynote-present-open-robotics-ai-foundation/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+Muhtemel nedenler: feed erisim hatasi, eski haberler veya anahtar kelime filtresi.
 
 ## Trend Sinyali
 
-- Belirgin kategori ivmesi yok; haber akışı dengeli.
+- Robotik akışı yavaşladı (3 -> 0).
 
 ## Topic Router
 
-- Robotik: The Robot Report (yedek: Bloomberg Technology)
-- YZ Modelleri: The Information (yedek: Semafor Tech)
+- Nvidia: Bloomberg Technology (yedek: Stratechery)
+- Jeopolitik: Reuters World (yedek: Foreign Affairs)
+- Markets: Bloomberg (yedek: Financial Times)
 
 ## Feed Notlari
 
