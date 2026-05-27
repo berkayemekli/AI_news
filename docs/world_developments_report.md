@@ -1,22 +1,53 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-05-26T09:52:24.325926+00:00
+Uretim zamani: 2026-05-27T09:41:11.043694+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-Bu calistirmada anlamli haber secilemedi.
+### 1. How humanoids learn to read the room
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 24
+- Link: https://www.therobotreport.com/how-humanoids-learn-to-read-the-room-2/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
-Muhtemel nedenler: feed erisim hatasi, eski haberler veya anahtar kelime filtresi.
+Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
+
+### 2. A guide to everything happening at the 2026 Robotics Summit & Expo
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/a-guide-to-everything-happening-at-the-2026-robotics-summit-expo/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+
+### 3. Allient to demonstrate advanced motion control systems at 2026 Robotics Summit & Expo
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/allient-demonstrates-advanced-motion-control-systems-2026-robotics-summit-expo/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+
+### 4. IntBot and Certis Group partner to scale physical AI for enterprises across Singapore
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/intbot-certis-group-partner-scale-physical-ai-enterprises-across-singapore/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
 
 ## Trend Sinyali
 
-- Robotik akışı yavaşladı (3 -> 0).
+- Robotik ivmesi artıyor (0 -> 5).
 
 ## Topic Router
 
-- Nvidia: Bloomberg Technology (yedek: Stratechery)
-- Jeopolitik: Reuters World (yedek: Foreign Affairs)
-- Markets: Bloomberg (yedek: Financial Times)
+- Robotik: The Robot Report (yedek: Bloomberg Technology)
+- YZ Modelleri: The Information (yedek: Semafor Tech)
 
 ## Feed Notlari
 
