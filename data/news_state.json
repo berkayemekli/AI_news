@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T09:41:11.043694+00:00",
+  "generated_at": "2026-05-28T09:57:47.646462+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,12 +11,49 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot",
         "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "A guide to Day 1 of the 2026 Robotics Summit & Expo",
+      "link": "https://www.therobotreport.com/a-guide-to-day-1-of-the-2026-robotics-summit-expo/",
+      "published_at": "Wed, 27 May 2026 12:00:03 +0000",
+      "summary": "Today, the Robotics Summit & Expo will be full of insightful talks, hands-on robot demos, and interesting conversations.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "Jensen Huang pledges $150 billion a year in Taiwan as Nvidia breaks ground on new HQ",
+      "link": "https://qz.com/nvidia-jensen-huang-taiwan-headquarters-150-billion-052726",
+      "published_at": "Wed, 27 May 2026 19:30:31 GMT",
+      "summary": "The chip company's planned Constellation campus in Taipei will house 4,000 employees when it opens in 2030",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 18,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "chip",
+        "nvidia"
       ]
     },
     {
@@ -29,109 +66,75 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Allient to demonstrate advanced motion control systems at 2026 Robotics Summit & Expo",
-      "link": "https://www.therobotreport.com/allient-demonstrates-advanced-motion-control-systems-2026-robotics-summit-expo/",
-      "published_at": "Tue, 26 May 2026 13:01:55 +0000",
-      "summary": "Allient will exhibit and demonstrate a range of its motion and control technologies at the Robotics Summit & Expo in Boston this week.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "IntBot and Certis Group partner to scale physical AI for enterprises across Singapore",
-      "link": "https://www.therobotreport.com/intbot-certis-group-partner-scale-physical-ai-enterprises-across-singapore/",
-      "published_at": "Tue, 26 May 2026 13:00:30 +0000",
-      "summary": "Certis is collaborating with IntBot to add humanoids to its existing service robot offerings as the partners start to expand in Singapore.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot"
       ]
     }
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "Europe's most stunning natural and cultural landmarks, ranked",
-      "link": "https://qz.com/europes-most-stunning-natural-cultural-landmarks-ranked",
-      "summary": "From Lake Como's still Alpine reflections to a loggerhead turtle beach closer to Tunisia than to Rome",
+      "source": "BBC World",
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 26 May 2026 20:42:46 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "The most stunning villages in Europe, according to Travel + Leisure",
-      "link": "https://qz.com/most-stunning-villages-europe-travel-leisure",
-      "summary": "From Hallstatt's Alpine lake to a Cycladic island with Santorini's beauty and none of the crowds, Europe's most beautiful villages",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 26 May 2026 20:23:12 GMT"
+      "published_at": "Thu, 28 May 2026 08:43:19 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-      "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "summary": "At least three people were killed in the attack, which came despite a ceasefire with Hamas being in place.",
+      "title": "Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders",
+      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 27 May 2026 08:59:00 GMT"
+      "published_at": "Thu, 28 May 2026 08:45:44 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
-      "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
+      "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
+      "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+      "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 27 May 2026 04:07:27 GMT"
+      "published_at": "Thu, 28 May 2026 04:53:51 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
+      "link": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The A$2bn case, which centres on contamination at defence sites, is the largest ever brought by the government.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 28 May 2026 02:47:19 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 18.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 18.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 19.2
+      "count": 6,
+      "avg_score": 18.2
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 17.5
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (0 -> 5)."
+    "Finansal Sistem ivmesi artıyor (0 -> 2)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 227,
+      "score": 254,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,31 +145,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 19,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    }
-  ],
-  "today_stack": [
-    {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 227,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 19,
+      "score": 55,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -177,7 +156,53 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 0,
+      "score": 38,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 36,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    }
+  ],
+  "today_stack": [
+    {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 254,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 55,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 38,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
