@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:57:47.646462+00:00",
+  "generated_at": "2026-05-29T09:50:27.993319+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,10 +11,27 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Your guide to the last day of the 2026 Robotics Summit & Expo",
+      "link": "https://www.therobotreport.com/your-guide-to-the-last-day-of-the-2026-robotics-summit-expo/",
+      "published_at": "Thu, 28 May 2026 12:00:35 +0000",
+      "summary": "The fun continues in Boston for the second day of the Robotics Summit & Expo, which includes the Women in Robotics breakfast and more.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
         "robot",
         "robotics"
       ]
@@ -29,31 +46,11 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "Jensen Huang pledges $150 billion a year in Taiwan as Nvidia breaks ground on new HQ",
-      "link": "https://qz.com/nvidia-jensen-huang-taiwan-headquarters-150-billion-052726",
-      "published_at": "Wed, 27 May 2026 19:30:31 GMT",
-      "summary": "The chip company's planned Constellation campus in Taipei will house 4,000 employees when it opens in 2030",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 18,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "chip",
-        "nvidia"
       ]
     },
     {
@@ -66,7 +63,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -76,65 +73,57 @@
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Iran says it targeted American base after fresh US strikes",
-      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "source": "Quartz",
+      "title": "The most stunning villages in Europe, according to Travel + Leisure",
+      "link": "https://qz.com/most-stunning-villages-europe-travel-leisure",
+      "summary": "From Hallstatt's Alpine lake to a Cycladic island with Santorini's beauty and none of the crowds, Europe's most beautiful villages",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 28 May 2026 08:43:19 GMT"
+      "published_at": "Fri, 29 May 2026 09:13:02 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders",
-      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
+      "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+      "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 28 May 2026 08:45:44 GMT"
+      "published_at": "Fri, 29 May 2026 09:17:35 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
-      "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-      "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
+      "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
+      "link": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
+      "summary": "French students are taking their exams in baking schools, while red alerts are issued in Italy.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 28 May 2026 04:53:51 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
-      "link": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The A$2bn case, which centres on contamination at defence sites, is the largest ever brought by the government.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 28 May 2026 02:47:19 GMT"
+      "published_at": "Thu, 28 May 2026 23:36:01 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 18.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 18.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 6,
-      "avg_score": 18.2
+      "count": 7,
+      "avg_score": 17.3
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 17.5
+      "count": 1,
+      "avg_score": 16.0
     }
   },
   "trend_signals": [
-    "Finansal Sistem ivmesi artıyor (0 -> 2)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 254,
+      "score": 279,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -145,7 +134,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 55,
+      "score": 34,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -154,20 +143,9 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 38,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    },
-    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 36,
+      "score": 34,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -180,7 +158,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 254,
+      "score": 279,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -191,7 +169,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 55,
+      "score": 34,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -200,15 +178,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 38,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 34,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
