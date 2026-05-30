@@ -1,22 +1,41 @@
 {
-  "generated_at": "2026-05-29T09:50:27.993319+00:00",
+  "generated_at": "2026-05-30T08:25:41.660343+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "How humanoids learn to read the room",
-      "link": "https://www.therobotreport.com/how-humanoids-learn-to-read-the-room-2/",
-      "published_at": "Tue, 26 May 2026 20:34:47 +0000",
-      "summary": "Sponsored by Analog Devices Inc. Designing for a humanoid robot is one of the most complicated applications in robotics today. All on its own, a humanoid system has to manage movement, balance, vision and reactivity across a complex web of joints, sensors and data processing....",
+      "title": "NIST proposes a baseline performance benchmark for humanoid robots",
+      "link": "https://www.therobotreport.com/nist-proposes-a-baseline-performance-benchmark-for-humanoid-robots/",
+      "published_at": "Fri, 29 May 2026 14:24:18 +0000",
+      "summary": "NIST has proposed a standardized performance benchmark and testing procedures to help developers and evaluators of humanoids.",
       "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
-        "robot",
-        "robotics"
+        "robot"
+      ]
+    },
+    {
+      "source": "TechCrunch",
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "published_at": "Fri, 29 May 2026 17:27:13 +0000",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "categories": [
+        "ai",
+        "technology"
+      ],
+      "score": 17,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "chip",
+        "model",
+        "nvidia"
       ]
     },
     {
@@ -29,7 +48,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -46,23 +65,6 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "A guide to everything happening at the 2026 Robotics Summit & Expo",
-      "link": "https://www.therobotreport.com/a-guide-to-everything-happening-at-the-2026-robotics-summit-expo/",
-      "published_at": "Tue, 26 May 2026 12:00:32 +0000",
-      "summary": "Over the next two days, the Robotics Summit & Expo will bring thousands of attendees and hundreds of exhibitors to Boston.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
       "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
@@ -74,27 +76,35 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "The most stunning villages in Europe, according to Travel + Leisure",
-      "link": "https://qz.com/most-stunning-villages-europe-travel-leisure",
-      "summary": "From Hallstatt's Alpine lake to a Cycladic island with Santorini's beauty and none of the crowds, Europe's most beautiful villages",
+      "title": "The winners in Trump’s Venezuela",
+      "link": "https://qz.com/us-oil-companies-rushing-back-into-venezuela",
+      "summary": "Higher oil prices and a post-Maduro political reset are pushing U.S. energy firms to reconsider Venezuela",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 29 May 2026 09:13:02 GMT"
+      "published_at": "Fri, 29 May 2026 20:11:04 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "NYSE's Michael Reinking explains why S&P 500 is climbing amid Iran uncertainty",
+      "link": "https://qz.com/michael-reinking-sp500-climbing-iran-uncertainty",
+      "summary": "NYSE's Michael Reinking explains why S&P 500 is climbing amid Iran uncertainty",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 29 May 2026 18:30:13 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
-      "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-      "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
+      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+      "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 29 May 2026 09:17:35 GMT"
+      "published_at": "Sat, 30 May 2026 04:19:32 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
-      "link": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
-      "summary": "French students are taking their exams in baking schools, while red alerts are issued in Italy.",
+      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
+      "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 28 May 2026 23:36:01 GMT"
+      "published_at": "Fri, 29 May 2026 17:27:09 GMT"
     }
   ],
   "market_items": [],
@@ -104,26 +114,26 @@
       "avg_score": 0.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 17.0
     },
     "robotics": {
-      "count": 7,
-      "avg_score": 17.3
+      "count": 3,
+      "avg_score": 17.0
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 16.0
+      "avg_score": 15.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik akışı yavaşladı (7 -> 3)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 279,
+      "score": 108,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -134,7 +144,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 34,
+      "score": 52,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -143,9 +153,20 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 36,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    },
+    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 34,
+      "score": 32,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -158,7 +179,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 279,
+      "score": 108,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -169,7 +190,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 34,
+      "score": 52,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -178,15 +199,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 34,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 36,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
