@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T08:25:41.660343+00:00",
+  "generated_at": "2026-05-31T08:42:05.726630+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,31 +11,11 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot"
-      ]
-    },
-    {
-      "source": "TechCrunch",
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "published_at": "Fri, 29 May 2026 17:27:13 +0000",
-      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
-      "categories": [
-        "ai",
-        "technology"
-      ],
-      "score": 17,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "chip",
-        "model",
-        "nvidia"
       ]
     },
     {
@@ -44,23 +24,6 @@
       "link": "https://www.therobotreport.com/your-guide-to-the-last-day-of-the-2026-robotics-summit-expo/",
       "published_at": "Thu, 28 May 2026 12:00:35 +0000",
       "summary": "The fun continues in Boston for the second day of the Robotics Summit & Expo, which includes the Women in Robotics breakfast and more.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "A guide to Day 1 of the 2026 Robotics Summit & Expo",
-      "link": "https://www.therobotreport.com/a-guide-to-day-1-of-the-2026-robotics-summit-expo/",
-      "published_at": "Wed, 27 May 2026 12:00:03 +0000",
-      "summary": "Today, the Robotics Summit & Expo will be full of insightful talks, hands-on robot demos, and interesting conversations.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -75,36 +38,36 @@
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "The winners in Trump’s Venezuela",
-      "link": "https://qz.com/us-oil-companies-rushing-back-into-venezuela",
-      "summary": "Higher oil prices and a post-Maduro political reset are pushing U.S. energy firms to reconsider Venezuela",
+      "source": "BBC World",
+      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+      "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 29 May 2026 20:11:04 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "NYSE's Michael Reinking explains why S&P 500 is climbing amid Iran uncertainty",
-      "link": "https://qz.com/michael-reinking-sp500-climbing-iran-uncertainty",
-      "summary": "NYSE's Michael Reinking explains why S&P 500 is climbing amid Iran uncertainty",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 29 May 2026 18:30:13 GMT"
+      "published_at": "Sun, 31 May 2026 06:34:04 GMT"
     },
     {
       "source": "BBC World",
-      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-      "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
+      "title": "Ecuador accused of meddling in Colombian election with tariff vow",
+      "link": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ecuadorian leader Daniel Noboa offers to cancel tariffs after speaking to a right-wing presidential candidate ahead of Sunday's vote.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 30 May 2026 04:19:32 GMT"
+      "published_at": "Sat, 30 May 2026 20:40:07 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
-      "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
+      "title": "US, UK and Australia to develop underwater drone technology",
+      "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 29 May 2026 17:27:09 GMT"
+      "published_at": "Sat, 30 May 2026 12:16:26 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself",
+      "link": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Performers Young MC, Poison frontman Bret Michaels and country singer Martina McBride raised concerns the event will be political.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 30 May 2026 17:40:47 GMT"
     }
   ],
   "market_items": [],
@@ -114,72 +77,39 @@
       "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 17.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 17.0
+      "count": 2,
+      "avg_score": 16.5
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 15.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (7 -> 3)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 108,
+      "score": 70,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
       "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 52,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 36,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    },
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 32,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 108,
+      "score": 70,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -188,26 +118,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 52,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 36,
+      "score": 0,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
       "backup_url": "https://stratechery.com/about/",
       "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
       "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 0,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
