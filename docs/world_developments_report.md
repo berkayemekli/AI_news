@@ -1,26 +1,17 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-05-31T08:42:05.726630+00:00
+Uretim zamani: 2026-06-01T11:28:43.617532+00:00
 
 ## Bugunun 5 Onemli Basligi
 
 ### 1. NIST proposes a baseline performance benchmark for humanoid robots
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 17
+- Onem skoru: 16
 - Link: https://www.therobotreport.com/nist-proposes-a-baseline-performance-benchmark-for-humanoid-robots/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
-
-### 2. Your guide to the last day of the 2026 Robotics Summit & Expo
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 16
-- Link: https://www.therobotreport.com/your-guide-to-the-last-day-of-the-2026-robotics-summit-expo/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
 ## Trend Sinyali
 

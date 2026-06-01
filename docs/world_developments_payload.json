@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T08:42:05.726630+00:00",
+  "generated_at": "2026-06-01T11:28:43.617532+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,63 +11,46 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot"
       ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Your guide to the last day of the 2026 Robotics Summit & Expo",
-      "link": "https://www.therobotreport.com/your-guide-to-the-last-day-of-the-2026-robotics-summit-expo/",
-      "published_at": "Thu, 28 May 2026 12:00:35 +0000",
-      "summary": "The fun continues in Boston for the second day of the Robotics Summit & Expo, which includes the Women in Robotics breakfast and more.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
     }
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-      "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
+      "source": "Quartz",
+      "title": "Trump's face-lift for America's money",
+      "link": "https://qz.com/trumps-face-lift-for-americas-money",
+      "summary": "Treasury officials have begun preparing designs for a $250 bill featuring Donald Trump, a proposal that would require Congress to overturn a longstanding ban on living people appearing on U.S. currency.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 31 May 2026 06:34:04 GMT"
+      "published_at": "Sun, 31 May 2026 09:10:35 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Ecuador accused of meddling in Colombian election with tariff vow",
-      "link": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ecuadorian leader Daniel Noboa offers to cancel tariffs after speaking to a right-wing presidential candidate ahead of Sunday's vote.",
+      "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+      "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 30 May 2026 20:40:07 GMT"
+      "published_at": "Mon, 01 Jun 2026 09:32:04 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US, UK and Australia to develop underwater drone technology",
-      "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+      "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 30 May 2026 12:16:26 GMT"
+      "published_at": "Mon, 01 Jun 2026 05:33:18 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself",
-      "link": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Performers Young MC, Poison frontman Bret Michaels and country singer Martina McBride raised concerns the event will be political.",
+      "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+      "link": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The French Navy conducted the operation with the support of allies including the UK on Sunday.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 30 May 2026 17:40:47 GMT"
+      "published_at": "Mon, 01 Jun 2026 10:02:02 GMT"
     }
   ],
   "market_items": [],
@@ -81,8 +64,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 16.5
+      "count": 1,
+      "avg_score": 16.0
     },
     "financial_system": {
       "count": 0,
@@ -96,7 +79,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 70,
+      "score": 34,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -109,7 +92,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 70,
+      "score": 34,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
