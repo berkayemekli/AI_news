@@ -1,56 +1,108 @@
 {
-  "generated_at": "2026-06-01T11:28:43.617532+00:00",
+  "generated_at": "2026-06-02T10:19:53.008011+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "NIST proposes a baseline performance benchmark for humanoid robots",
-      "link": "https://www.therobotreport.com/nist-proposes-a-baseline-performance-benchmark-for-humanoid-robots/",
-      "published_at": "Fri, 29 May 2026 14:24:18 +0000",
-      "summary": "NIST has proposed a standardized performance benchmark and testing procedures to help developers and evaluators of humanoids.",
+      "title": "ANSCER Robotics closes Series A round for industrial material handling",
+      "link": "https://www.therobotreport.com/anscer-robotics-closes-series-a-round-industrial-material-handling/",
+      "published_at": "Mon, 01 Jun 2026 19:55:18 +0000",
+      "summary": "ANSCER Robotics has raised $5.4 million to scale its hybrid industrial automation robots in North America and globally.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 22,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "automation",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Learn about advances in robotic case and each picking",
+      "link": "https://www.therobotreport.com/learn-about-advances-robotic-case-each-picking-webinar/",
+      "published_at": "Mon, 01 Jun 2026 15:24:45 +0000",
+      "summary": "Experts from Locus Robotics, Nomagic, and RightHand Robotics will discuss progress in piece picking in this week's webinar.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "NVIDIA releases new and updated tools for physical AI developers",
+      "link": "https://www.therobotreport.com/nvidia-releases-new-updated-tools-physical-ai-gtc-taipei-computex/",
+      "published_at": "Mon, 01 Jun 2026 21:27:16 +0000",
+      "summary": "NVIDIA has released open-source physical AI agent skills and tools, as well as an Isaac GR00T humanoid reference robot.",
       "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 16,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot"
       ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Top 10 robotics stories of May 2026",
+      "link": "https://www.therobotreport.com/top-10-robotics-stories-of-may-2026/",
+      "published_at": "Mon, 01 Jun 2026 18:04:55 +0000",
+      "summary": "May 2026 was a busy month full of robotics news, and it was topped off by the Robotics Summit & Expo in Boston.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
     }
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "Trump's face-lift for America's money",
-      "link": "https://qz.com/trumps-face-lift-for-americas-money",
-      "summary": "Treasury officials have begun preparing designs for a $250 bill featuring Donald Trump, a proposal that would require Congress to overturn a longstanding ban on living people appearing on U.S. currency.",
+      "source": "BBC World",
+      "title": "Massive Russian attack on cities across Ukraine kills at least 18 people",
+      "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "An eight-year-old boy and a woman pulled from the rubble of an apartment block are among those killed, officials say.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 31 May 2026 09:10:35 GMT"
+      "published_at": "Tue, 02 Jun 2026 10:16:12 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
-      "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
+      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "summary": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 01 Jun 2026 09:32:04 GMT"
+      "published_at": "Tue, 02 Jun 2026 07:31:10 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
-      "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
+      "title": "Why Myanmar president's India visit is being closely watched",
+      "link": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss",
+      "summary": "Myanmar is seeking to broaden diplomatic engagement after years of international criticism and isolation.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 01 Jun 2026 05:33:18 GMT"
+      "published_at": "Tue, 02 Jun 2026 08:29:20 GMT"
     },
     {
       "source": "BBC World",
-      "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
-      "link": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The French Navy conducted the operation with the support of allies including the UK on Sunday.",
+      "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
+      "link": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
+      "summary": "The leader of Denmark's Social Democratic Party is forming a centre-left coalition minority government, giving her a third term as prime minister.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 01 Jun 2026 10:02:02 GMT"
+      "published_at": "Tue, 02 Jun 2026 01:19:15 GMT"
     }
   ],
   "market_items": [],
@@ -64,8 +116,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 1,
-      "avg_score": 16.0
+      "count": 4,
+      "avg_score": 19.0
     },
     "financial_system": {
       "count": 0,
@@ -73,26 +125,13 @@
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (1 -> 4)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 34,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    }
-  ],
-  "today_stack": [
-    {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 34,
+      "score": 183,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -101,26 +140,61 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 42,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 0,
+      "score": 19,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
       "backup_url": "https://stratechery.com/about/",
       "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
       "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    }
+  ],
+  "today_stack": [
+    {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 183,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 0,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 42,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 19,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
