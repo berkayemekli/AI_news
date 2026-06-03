@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T10:19:53.008011+00:00",
+  "generated_at": "2026-06-03T10:54:41.301816+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,10 +11,44 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "2026 Robotics Summit & Expo Recap",
+      "link": "https://www.therobotreport.com/2026-robotics-summit-expo-recap/",
+      "published_at": "Tue, 02 Jun 2026 19:15:57 +0000",
+      "summary": "Listen to the podcast this week as The Robot Report editorial staff recaps the recent Robotics Summit & Expo from Boston.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "FORT Robotics acquires Mapless AI to expand teleop capabilities",
+      "link": "https://www.therobotreport.com/fort-robotics-acquires-mapless-ai-to-expand-teleop-capabilities/",
+      "published_at": "Tue, 02 Jun 2026 17:46:58 +0000",
+      "summary": "While FORT has traditionally worked with technology in industrial environments, Mapless AI brings experience in more unstructured settings.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
         "robot",
         "robotics"
       ]
@@ -29,41 +63,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "NVIDIA releases new and updated tools for physical AI developers",
-      "link": "https://www.therobotreport.com/nvidia-releases-new-updated-tools-physical-ai-gtc-taipei-computex/",
-      "published_at": "Mon, 01 Jun 2026 21:27:16 +0000",
-      "summary": "NVIDIA has released open-source physical AI agent skills and tools, as well as an Isaac GR00T humanoid reference robot.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Top 10 robotics stories of May 2026",
-      "link": "https://www.therobotreport.com/top-10-robotics-stories-of-may-2026/",
-      "published_at": "Mon, 01 Jun 2026 18:04:55 +0000",
-      "summary": "May 2026 was a busy month full of robotics news, and it was topped off by the Robotics Summit & Expo in Boston.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -74,35 +74,35 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Massive Russian attack on cities across Ukraine kills at least 18 people",
-      "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
-      "summary": "An eight-year-old boy and a woman pulled from the rubble of an apartment block are among those killed, officials say.",
+      "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
+      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kuwait says one person is dead after drones hit civilian buildings including its international airport.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 02 Jun 2026 10:16:12 GMT"
+      "published_at": "Wed, 03 Jun 2026 10:29:46 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
-      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "summary": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
+      "title": "Seven killed after drone hits bus in Russia-controlled part of Ukraine",
+      "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The bus was travelling between Moscow and Simferopol, in Russian-occupied Crimea, an official says.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 02 Jun 2026 07:31:10 GMT"
+      "published_at": "Wed, 03 Jun 2026 10:31:50 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Why Myanmar president's India visit is being closely watched",
-      "link": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss",
-      "summary": "Myanmar is seeking to broaden diplomatic engagement after years of international criticism and isolation.",
+      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+      "link": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 02 Jun 2026 08:29:20 GMT"
+      "published_at": "Tue, 02 Jun 2026 23:33:34 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
-      "link": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
-      "summary": "The leader of Denmark's Social Democratic Party is forming a centre-left coalition minority government, giving her a third term as prime minister.",
+      "title": "Trump administration drops $1.8bn 'anti-weaponisation' fund",
+      "link": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
+      "summary": "Acting Attorney General Todd Blanche's announcement to abandon the fund comes amid pushback from top Republican lawmakers.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 02 Jun 2026 01:19:15 GMT"
+      "published_at": "Wed, 03 Jun 2026 00:16:09 GMT"
     }
   ],
   "market_items": [],
@@ -116,8 +116,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 19.0
+      "count": 6,
+      "avg_score": 18.0
     },
     "financial_system": {
       "count": 0,
@@ -125,13 +125,13 @@
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (1 -> 4)."
+    "Robotik ivmesi artıyor (4 -> 6)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 183,
+      "score": 250,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 42,
+      "score": 59,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,7 +153,7 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 19,
+      "score": 18,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
@@ -166,7 +166,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 183,
+      "score": 250,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -177,7 +177,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 42,
+      "score": 59,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -188,7 +188,7 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 19,
+      "score": 18,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
