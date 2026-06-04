@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-03T10:54:41.301816+00:00",
+  "generated_at": "2026-06-04T09:52:59.634504+00:00",
   "headlines": [
+    {
+      "source": "Payments Dive",
+      "title": "Visa-Mastercard swipe fee fund has paid $414M",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-swipe-fee-fund-has-paid-414m/821869/",
+      "published_at": "Wed, 03 Jun 2026 10:37:00 -0400",
+      "summary": "Payouts to merchants from a $5.5 billion settlement fund ponied up by the card networks began this year, with a second distribution in the offing.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "categories": [
+        "financial_system"
+      ],
+      "score": 21,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "mastercard",
+        "settlement",
+        "visa"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "ANSCER Robotics closes Series A round for industrial material handling",
@@ -11,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -21,10 +39,10 @@
     },
     {
       "source": "The Robot Report",
-      "title": "2026 Robotics Summit & Expo Recap",
-      "link": "https://www.therobotreport.com/2026-robotics-summit-expo-recap/",
-      "published_at": "Tue, 02 Jun 2026 19:15:57 +0000",
-      "summary": "Listen to the podcast this week as The Robot Report editorial staff recaps the recent Robotics Summit & Expo from Boston.",
+      "title": "Boston University team wins MassRobotics Form & Function Challenge at Robotics Summit",
+      "link": "https://www.therobotreport.com/boston-university-team-wins-massrobotics-form-function-challenge-2026-robotics-summit/",
+      "published_at": "Wed, 03 Jun 2026 12:15:45 +0000",
+      "summary": "MassRobotics awarded prizes to university teams and showcased healthcare innovators, physical AI developers, and startups.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -38,32 +56,15 @@
     },
     {
       "source": "The Robot Report",
-      "title": "FORT Robotics acquires Mapless AI to expand teleop capabilities",
-      "link": "https://www.therobotreport.com/fort-robotics-acquires-mapless-ai-to-expand-teleop-capabilities/",
-      "published_at": "Tue, 02 Jun 2026 17:46:58 +0000",
-      "summary": "While FORT has traditionally worked with technology in industrial environments, Mapless AI brings experience in more unstructured settings.",
+      "title": "RoboBusiness 2026 opens call for speakers",
+      "link": "https://www.therobotreport.com/robobusiness-2026-opens-call-for-speakers/",
+      "published_at": "Wed, 03 Jun 2026 13:26:34 +0000",
+      "summary": "RoboBusiness 2026, the premier event for developers of commercial robotics and those building robotics businesses, is seeking expert speakers.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
       "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Learn about advances in robotic case and each picking",
-      "link": "https://www.therobotreport.com/learn-about-advances-robotic-case-each-picking-webinar/",
-      "published_at": "Mon, 01 Jun 2026 15:24:45 +0000",
-      "summary": "Experts from Locus Robotics, Nomagic, and RightHand Robotics will discuss progress in piece picking in this week's webinar.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -73,36 +74,36 @@
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
-      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kuwait says one person is dead after drones hit civilian buildings including its international airport.",
+      "source": "Quartz",
+      "title": "Sophos’ Raja Patel at Tomorrow’s Titans on helping small businesses stay safe",
+      "link": "https://qz.com/sophos-tomorrows-titans-on-helping-small-businesses-stay-safe",
+      "summary": "Sophos president Raja Patel at Tomorrow’s Titans on helping small businesses stay safe",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 03 Jun 2026 10:29:46 GMT"
+      "published_at": "Wed, 03 Jun 2026 21:00:34 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Seven killed after drone hits bus in Russia-controlled part of Ukraine",
-      "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The bus was travelling between Moscow and Simferopol, in Russian-occupied Crimea, an official says.",
+      "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
+      "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 03 Jun 2026 10:31:50 GMT"
+      "published_at": "Thu, 04 Jun 2026 07:23:41 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-      "link": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
+      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+      "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 02 Jun 2026 23:33:34 GMT"
+      "published_at": "Wed, 03 Jun 2026 20:28:01 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump administration drops $1.8bn 'anti-weaponisation' fund",
-      "link": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
-      "summary": "Acting Attorney General Todd Blanche's announcement to abandon the fund comes amid pushback from top Republican lawmakers.",
+      "title": "Grab what you can while you can: The new reality in the South China Sea",
+      "link": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
+      "summary": "After years of watching China create land to back its expansive claims, others are doing the same.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 03 Jun 2026 00:16:09 GMT"
+      "published_at": "Wed, 03 Jun 2026 22:00:21 GMT"
     }
   ],
   "market_items": [],
@@ -116,22 +117,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 6,
-      "avg_score": 18.0
+      "count": 8,
+      "avg_score": 17.2
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 21.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (4 -> 6)."
+    "Robotik ivmesi artıyor (6 -> 8)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 250,
+      "score": 313,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +143,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 59,
+      "score": 97,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -151,22 +152,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 18,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 44,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 19,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 250,
+      "score": 313,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -177,7 +189,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 59,
+      "score": 97,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -186,15 +198,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 18,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 44,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
