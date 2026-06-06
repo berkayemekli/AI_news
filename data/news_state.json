@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T09:42:47.639356+00:00",
+  "generated_at": "2026-06-06T08:30:38.184627+00:00",
   "headlines": [
     {
       "source": "Payments Dive",
@@ -11,7 +11,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
@@ -21,10 +21,10 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Can surgical robots fly? SS Innovations discusses challenges, solutions",
-      "link": "https://www.therobotreport.com/can-surgical-robots-fly-ss-innovations-discusses-challenges-solutions/",
-      "published_at": "Thu, 04 Jun 2026 20:21:33 +0000",
-      "summary": "The robotics developer is focusing on providing emergency care in active war zones and beyond.",
+      "title": "GENISOM AI debuts deployable robotics platforms at ICRA 2026",
+      "link": "https://www.therobotreport.com/genisom-ai-debuts-deployable-robotics-platforms-icra-2026/",
+      "published_at": "Fri, 05 Jun 2026 15:30:40 +0000",
+      "summary": "At ICRA 2026, GENISOM AI may have been new to many international attendees — but it is not a concept-stage robotics startup.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -38,15 +38,15 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Boston University team wins MassRobotics Form & Function Challenge at Robotics Summit",
-      "link": "https://www.therobotreport.com/boston-university-team-wins-massrobotics-form-function-challenge-2026-robotics-summit/",
-      "published_at": "Wed, 03 Jun 2026 12:15:45 +0000",
-      "summary": "MassRobotics awarded prizes to university teams and showcased healthcare innovators, physical AI developers, and startups.",
+      "title": "Why deterministic real-time systems are more critical than ever in robotics",
+      "link": "https://www.therobotreport.com/qnx-why-deterministic-real-time-systems-are-more-critical-than-ever-robotics/",
+      "published_at": "Fri, 05 Jun 2026 18:49:11 +0000",
+      "summary": "Winston Leung discusses the role of QNX role in robotics and AI, focusing on safety, innovation, and industry trends.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -55,10 +55,10 @@
     },
     {
       "source": "The Robot Report",
-      "title": "RoboBusiness 2026 opens call for speakers",
-      "link": "https://www.therobotreport.com/robobusiness-2026-opens-call-for-speakers/",
-      "published_at": "Wed, 03 Jun 2026 13:26:34 +0000",
-      "summary": "RoboBusiness 2026, the premier event for developers of commercial robotics and those building robotics businesses, is seeking expert speakers.",
+      "title": "Can surgical robots fly? SS Innovations discusses challenges, solutions",
+      "link": "https://www.therobotreport.com/can-surgical-robots-fly-ss-innovations-discusses-challenges-solutions/",
+      "published_at": "Thu, 04 Jun 2026 20:21:33 +0000",
+      "summary": "The robotics developer is focusing on providing emergency care in active war zones and beyond.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -74,35 +74,35 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "2028’s AI moment",
+      "title": "2028’s AI moment is already here",
       "link": "https://qz.com/ai-2028-campaign-issue",
       "summary": "Potential Democratic and Republican candidates are beginning to stake out positions on A.I. ahead of the 2028 election",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 05 Jun 2026 09:11:01 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "A Broadcom earnings miss and Iran strikes on a U.S. ally ended the market's record run",
-      "link": "https://qz.com/broadcom-earnings-miss-iran-strikes-tech-stocks-060426",
-      "summary": "Broadcom stock dropped 13% after the chipmaker's earnings fell short of expectations. Broader chip stocks also took a hit",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 04 Jun 2026 21:10:45 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Klarna CEO Sebastian Siemiatkowski talks company evolution at Money2020 Europe",
-      "link": "https://qz.com/klarna-ceo-talks-company-evolution-money2020-europe",
-      "summary": "Klarna CEO Sebastian Siemiatkowski talks company evolution at Money2020 Europe",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 04 Jun 2026 21:10:08 GMT"
+      "published_at": "Fri, 05 Jun 2026 18:20:50 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 05 Jun 2026 08:03:23 GMT"
+      "published_at": "Sat, 06 Jun 2026 06:16:28 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+      "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 05 Jun 2026 18:16:15 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+      "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 06 Jun 2026 07:06:43 GMT"
     }
   ],
   "market_items": [],
@@ -117,21 +117,21 @@
     },
     "robotics": {
       "count": 5,
-      "avg_score": 16.8
+      "avg_score": 17.0
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 20.0
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (8 -> 5)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 178,
+      "score": 180,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 56,
+      "score": 75,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,7 +153,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 42,
+      "score": 40,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -164,7 +164,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 37,
+      "score": 35,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -177,7 +177,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 178,
+      "score": 180,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -188,7 +188,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 56,
+      "score": 75,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -199,7 +199,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 42,
+      "score": 40,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
