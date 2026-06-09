@@ -1,44 +1,55 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-06-08T10:49:23.782864+00:00
+Uretim zamani: 2026-06-09T09:39:02.686484+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Robots can enhance manufacturing workers rather than replace them
+### 1. Visa-Mastercard fund will report claims status
+- Kaynak: Payments Dive
+- Kategoriler: Finansal Sistem
+- Onem skoru: 21
+- Link: https://www.paymentsdive.com/news/visa-mastercard-fund-will-report-claims-status/822186/
+- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
+
+### 2. Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
+- Onem skoru: 20
+- Link: https://www.therobotreport.com/daimon-robotics-and-galbot-jointly-launches-robomni-for-benchmarking-tactile-perception-and-dexterous-manipulation/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+
+### 3. How Visa targets B2B payments
+- Kaynak: Payments Dive
+- Kategoriler: Finansal Sistem
 - Onem skoru: 17
-- Link: https://www.therobotreport.com/robots-can-enhance-manufacturing-workers-rather-than-replace-them/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+- Link: https://www.paymentsdive.com/news/how-visa-targets-b2b-payments/822241/
+- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle payment, visa ekseninde öne çıkıyor.
 
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
 
-### 2. GENISOM AI debuts deployable robotics platforms at ICRA 2026
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 16
-- Link: https://www.therobotreport.com/genisom-ai-debuts-deployable-robotics-platforms-icra-2026/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+### 4. OpenAI files for IPO, joining Anthropic in a $2 trillion AI listing race
+- Kaynak: Quartz
+- Kategoriler: Finansal Sistem, Makro, Teknoloji
+- Onem skoru: 17
+- Link: https://qz.com/openai-confidential-ipo-filing-sec-060826
+- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.
 
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
-
-### 3. Why deterministic real-time systems are more critical than ever in robotics
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 16
-- Link: https://www.therobotreport.com/qnx-why-deterministic-real-time-systems-are-more-critical-than-ever-robotics/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+Turkce ozet: Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.
 
 ## Trend Sinyali
 
-- Belirgin kategori ivmesi yok; haber akışı dengeli.
+- Finansal Sistem ivmesi artıyor (0 -> 3).
 
 ## Topic Router
 
-- Robotik: The Robot Report (yedek: Bloomberg Technology)
 - YZ Modelleri: The Information (yedek: Semafor Tech)
+- Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
+- Robotik: The Robot Report (yedek: Bloomberg Technology)
+- Jeopolitik: Reuters World (yedek: Foreign Affairs)
 
 ## Feed Notlari
 
