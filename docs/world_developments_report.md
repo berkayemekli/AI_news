@@ -1,54 +1,54 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-06-09T09:39:02.686484+00:00
+Uretim zamani: 2026-06-10T09:55:45.326338+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Visa-Mastercard fund will report claims status
+### 1. Court approves Visa-Mastercard settlement
 - Kaynak: Payments Dive
 - Kategoriler: Finansal Sistem
-- Onem skoru: 21
+- Onem skoru: 23
+- Link: https://www.paymentsdive.com/news/court-approves-visa-mastercard-settlement/822440/
+- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
+
+### 2. Visa-Mastercard fund will report claims status
+- Kaynak: Payments Dive
+- Kategoriler: Finansal Sistem
+- Onem skoru: 20
 - Link: https://www.paymentsdive.com/news/visa-mastercard-fund-will-report-claims-status/822186/
 - Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
 
-### 2. Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation
+### 3. Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 20
+- Onem skoru: 19
 - Link: https://www.therobotreport.com/daimon-robotics-and-galbot-jointly-launches-robomni-for-benchmarking-tactile-perception-and-dexterous-manipulation/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 3. How Visa targets B2B payments
-- Kaynak: Payments Dive
-- Kategoriler: Finansal Sistem
-- Onem skoru: 17
-- Link: https://www.paymentsdive.com/news/how-visa-targets-b2b-payments/822241/
-- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle payment, visa ekseninde öne çıkıyor.
+### 4. Effort to establish a National Commission on Robotics advances in Congress
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/effort-establish-national-commission-on-robotics-advances-congress/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
-Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
-
-### 4. OpenAI files for IPO, joining Anthropic in a $2 trillion AI listing race
-- Kaynak: Quartz
-- Kategoriler: Finansal Sistem, Makro, Teknoloji
-- Onem skoru: 17
-- Link: https://qz.com/openai-confidential-ipo-filing-sec-060826
-- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
 ## Trend Sinyali
 
-- Finansal Sistem ivmesi artıyor (0 -> 3).
+- Belirgin kategori ivmesi yok; haber akışı dengeli.
 
 ## Topic Router
 
-- YZ Modelleri: The Information (yedek: Semafor Tech)
 - Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
+- YZ Modelleri: The Information (yedek: Semafor Tech)
 - Jeopolitik: Reuters World (yedek: Foreign Affairs)
 
 ## Feed Notlari
