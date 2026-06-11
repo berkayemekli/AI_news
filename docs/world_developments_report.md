@@ -1,53 +1,53 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-06-10T09:55:45.326338+00:00
+Uretim zamani: 2026-06-11T10:19:44.859179+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Court approves Visa-Mastercard settlement
+### 1. NEURA Robotics to raise up to $1.4B in Series C funding for physical AI
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 26
+- Link: https://www.therobotreport.com/neura-robotics-raise-up-1-4b-in-series-c-funding-physical-ai/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
+
+### 2. 4 reasons the Visa-Mastercard pact survived
 - Kaynak: Payments Dive
 - Kategoriler: Finansal Sistem
 - Onem skoru: 23
+- Link: https://www.paymentsdive.com/news/4-reasons-the-visa-mastercard-pact-survived/822503/
+- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
+
+### 3. Court approves Visa-Mastercard settlement
+- Kaynak: Payments Dive
+- Kategoriler: Finansal Sistem
+- Onem skoru: 22
 - Link: https://www.paymentsdive.com/news/court-approves-visa-mastercard-settlement/822440/
 - Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
 
-### 2. Visa-Mastercard fund will report claims status
+### 4. Visa-Mastercard fund will report claims status
 - Kaynak: Payments Dive
 - Kategoriler: Finansal Sistem
-- Onem skoru: 20
+- Onem skoru: 19
 - Link: https://www.paymentsdive.com/news/visa-mastercard-fund-will-report-claims-status/822186/
 - Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
 
-### 3. Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 19
-- Link: https://www.therobotreport.com/daimon-robotics-and-galbot-jointly-launches-robomni-for-benchmarking-tactile-perception-and-dexterous-manipulation/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
-
-### 4. Effort to establish a National Commission on Robotics advances in Congress
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 18
-- Link: https://www.therobotreport.com/effort-establish-national-commission-on-robotics-advances-congress/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
-
 ## Trend Sinyali
 
-- Belirgin kategori ivmesi yok; haber akışı dengeli.
+- Robotik ivmesi artıyor (3 -> 5).
 
 ## Topic Router
 
-- Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
+- Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
 - YZ Modelleri: The Information (yedek: Semafor Tech)
 - Jeopolitik: Reuters World (yedek: Foreign Affairs)
 
