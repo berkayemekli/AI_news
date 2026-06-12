@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T10:19:44.859179+00:00",
+  "generated_at": "2026-06-12T10:08:26.237096+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 26,
+      "score": 25,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -29,7 +29,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
@@ -47,7 +47,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
@@ -56,48 +56,55 @@
       ]
     },
     {
-      "source": "Payments Dive",
-      "title": "Visa-Mastercard fund will report claims status",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-fund-will-report-claims-status/822186/",
-      "published_at": "Mon, 08 Jun 2026 07:52:35 -0400",
-      "summary": "Merchants will be able to monitor the status of claims under a quarterly reporting system for their $5.5 billion settlement with Visa and Mastercard.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Inside XRZero-G0, a new 2,000-hour open dataset for robotics research",
+      "link": "https://www.therobotreport.com/inside-xrzero-g0-a-new-2000-hour-open-dataset-for-robotics-research/",
+      "published_at": "Thu, 11 Jun 2026 12:30:14 +0000",
+      "summary": "X Square Robot has open-sourced XRZero-G0, a framework that reduces real-robot training data requirements by up to 20x.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "financial_system"
+        "robotics"
       ],
-      "score": 19,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "mastercard",
-        "settlement",
-        "visa"
+        "robot",
+        "robotics"
       ]
     }
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "US and Iran exchange strikes across Middle East for second day in a row",
-      "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
+      "source": "Quartz",
+      "title": "Phoenix Financial founder Suzanne Porske on oil market impact of Iran conflict",
+      "link": "https://qz.com/phoenix-financial-founder-on-oil-market-impact-of-iran-conflict",
+      "summary": "Phoenix Financial founder Suzanne Porske on oil market impact of Iran conflict",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 11 Jun 2026 10:07:25 GMT"
+      "published_at": "Thu, 11 Jun 2026 20:50:10 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Three Indian sailors killed in US strike on oil tanker",
-      "link": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military had attacked the Palau-flagged tanker on Wednesday after accusing it of not complying with directions.",
+      "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+      "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says reports of a deal are \"speculative\" after the US president says a \"great settlement\" to end the conflict has been reached.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 11 Jun 2026 08:07:34 GMT"
+      "published_at": "Fri, 12 Jun 2026 08:09:37 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump says 'I love the inflation' as US prices rise at fastest rate in three years",
-      "link": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president later said he had meant that he actually loved that inflation was not higher.",
+      "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
+      "link": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 11 Jun 2026 09:14:13 GMT"
+      "published_at": "Thu, 11 Jun 2026 20:22:16 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why the economics make this the craziest World Cup ever",
+      "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+      "summary": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 11 Jun 2026 23:07:52 GMT"
     }
   ],
   "market_items": [],
@@ -112,21 +119,21 @@
     },
     "robotics": {
       "count": 5,
-      "avg_score": 19.2
+      "avg_score": 18.4
     },
     "financial_system": {
-      "count": 4,
-      "avg_score": 19.8
+      "count": 2,
+      "avg_score": 21.5
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (3 -> 5)."
+    "Finansal Sistem akışı yavaşladı (4 -> 2)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 229,
+      "score": 220,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -135,20 +142,9 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 182,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 142,
+      "score": 102,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -157,9 +153,20 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 90,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 66,
+      "score": 45,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -172,7 +179,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 229,
+      "score": 220,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -181,26 +188,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 182,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 142,
+      "score": 102,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 90,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
