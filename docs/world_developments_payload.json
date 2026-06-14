@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-06-13T08:55:08.500027+00:00",
+  "generated_at": "2026-06-14T09:30:17.137657+00:00",
   "headlines": [
-    {
-      "source": "The Robot Report",
-      "title": "NEURA Robotics to raise up to $1.4B in Series C funding for physical AI",
-      "link": "https://www.therobotreport.com/neura-robotics-raise-up-1-4b-in-series-c-funding-physical-ai/",
-      "published_at": "Wed, 10 Jun 2026 16:06:09 +0000",
-      "summary": "NEURA Robotics plans to expand its platforms for robot learning and global production of humanoids and other systems.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 24,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot",
-        "robotics"
-      ]
-    },
     {
       "source": "The Robot Report",
       "title": "Robotics Summit panel explores the state of humanoid robot design",
@@ -29,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -49,7 +31,7 @@
         "macro",
         "technology"
       ],
-      "score": 23,
+      "score": 21,
       "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
       "matched_keywords": [
         "ai",
@@ -60,25 +42,37 @@
       ]
     },
     {
-      "source": "TechCrunch",
-      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "published_at": "Fri, 12 Jun 2026 16:23:25 +0000",
-      "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public ma...",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Windows for robots: Edge AI expands usability",
+      "link": "https://www.therobotreport.com/computers-software-windows-utility-robots/",
+      "published_at": "Sat, 13 Jun 2026 12:30:52 +0000",
+      "summary": "Before Windows, only engineers and computer scientists could work with computers. Edge AI is causing a similar accessibility shift for robotics.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "ai",
-        "technology"
+        "robotics"
       ],
-      "score": 23,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "ai",
-        "anthropic",
-        "google",
-        "microsoft",
-        "nvidia",
-        "openai"
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "MassRobotics announces the winners of 2026 Robotics Medal and Rising Star awards",
+      "link": "https://www.therobotreport.com/massrobotics-announces-winners-2026-robotics-medal-rising-star-awards/",
+      "published_at": "Fri, 12 Jun 2026 21:46:47 +0000",
+      "summary": "Allison Okamura and Ayoung Kim won MassRobotics' 2026 Robotics Medal and Rising Star Medal, which honor women in robotics.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 17,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
       ]
     }
   ],
@@ -93,40 +87,56 @@
     },
     {
       "source": "BBC World",
-      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
-      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's comments come as Iran says an exact date has not been decided.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 13 Jun 2026 00:51:20 GMT"
+      "published_at": "Sun, 14 Jun 2026 07:55:16 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+      "link": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+      "summary": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 13 Jun 2026 23:19:52 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's name removed from Kennedy Center after court order",
+      "link": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 13 Jun 2026 17:00:23 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
       "count": 1,
-      "avg_score": 23.0
+      "avg_score": 21.0
     },
     "technology": {
-      "count": 2,
-      "avg_score": 23.0
+      "count": 1,
+      "avg_score": 21.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 20.0
+      "count": 4,
+      "avg_score": 18.5
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 22.0
+      "count": 1,
+      "avg_score": 21.0
     }
   },
   "trend_signals": [
-    "Teknoloji ivmesi artıyor (0 -> 2)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 260,
+      "score": 180,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -137,7 +147,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 204,
+      "score": 102,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -148,31 +158,20 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 66,
+      "score": 40,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 44,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 260,
+      "score": 180,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -183,7 +182,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 204,
+      "score": 102,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -194,7 +193,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 66,
+      "score": 40,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
