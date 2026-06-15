@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-14T09:30:17.137657+00:00",
+  "generated_at": "2026-06-15T12:08:15.694010+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Modernizing the global economy with industrial robotics is needed but not inevitable",
+      "link": "https://www.therobotreport.com/modernizing-global-economy-industrial-robotics-needed-not-inevitable/",
+      "published_at": "Sun, 14 Jun 2026 14:30:31 +0000",
+      "summary": "While service robotics adoption grows, industrial automation faces greater demand and bigger obstacles, notes a columnist.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 22,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "automation",
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Robotics Summit panel explores the state of humanoid robot design",
@@ -11,34 +29,12 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "Anthropic is pulling its two newest AI models after a U.S. government directive",
-      "link": "https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226",
-      "published_at": "Sat, 13 Jun 2026 02:30:38 GMT",
-      "summary": "Anthropic said the directive from the federal government offered no explanation of the underlying national security rationale",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 21,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "anthropic",
-        "fed",
-        "model",
-        "u.s."
       ]
     },
     {
@@ -51,7 +47,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -68,7 +64,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -79,54 +75,54 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Anthropic is pulling its two newest AI models after a U.S. government directive",
-      "link": "https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226",
-      "summary": "Anthropic said the directive from the federal government offered no explanation of the underlying national security rationale",
+      "title": "New Fed chair is caught between a bond market demanding rate hikes and a president demanding cuts",
+      "link": "https://qz.com/kevin-warsh-fed-chair-rate-hikes-trump-bond-market-fomc-061526",
+      "summary": "Warsh's first press conference as Fed chair will be scrutinized for signals on whether he'll prioritize fighting inflation or placate the White House",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 13 Jun 2026 02:30:38 GMT"
+      "published_at": "Mon, 15 Jun 2026 11:55:14 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's comments come as Iran says an exact date has not been decided.",
+      "source": "Quartz",
+      "title": "Elizabeth Warren is demanding Trump clarify plans to raise Social Security's retirement age",
+      "link": "https://qz.com/elizabeth-warren-trump-social-security-retirement-age-061526",
+      "summary": "The letter cites a new trustees report projecting the retirement trust fund will run dry in 2032, accelerated by Trump's tax bill",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 14 Jun 2026 07:55:16 GMT"
+      "published_at": "Mon, 15 Jun 2026 11:50:36 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-      "link": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-      "summary": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
+      "source": "Quartz",
+      "title": "Trump threatens France with 100% wine tariffs unless it drops its tax on U.S. tech companies",
+      "link": "https://qz.com/trump-france-wine-tariffs-tech-tax-g7-061526",
+      "summary": "Trump said he told Emmanuel Macron to scrap the 3% digital services tax or face duties on $2 billion in annual French wine exports to the U.S.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 13 Jun 2026 23:19:52 GMT"
+      "published_at": "Mon, 15 Jun 2026 11:40:36 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "Trump's name removed from Kennedy Center after court order",
-      "link": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
+      "source": "Quartz",
+      "title": "Anthropic is racing to lift export controls that forced its most powerful AI models offline",
+      "link": "https://qz.com/anthropic-staff-washington-export-controls-fable-mythos-061526",
+      "summary": "The company dispatched senior security researchers to meet with government officials after the Trump administration forced its two most powerful models offline",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 13 Jun 2026 17:00:23 GMT"
+      "published_at": "Mon, 15 Jun 2026 11:30:34 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 21.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 21.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
       "count": 4,
-      "avg_score": 18.5
+      "avg_score": 19.2
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 21.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
@@ -136,7 +132,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 180,
+      "score": 208,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -147,7 +143,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 102,
+      "score": 18,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -158,7 +154,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 40,
+      "score": 17,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -171,7 +167,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 180,
+      "score": 208,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -182,7 +178,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 102,
+      "score": 18,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -193,7 +189,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 40,
+      "score": 17,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
