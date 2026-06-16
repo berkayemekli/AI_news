@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T12:08:15.694010+00:00",
+  "generated_at": "2026-06-16T11:06:49.018021+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -21,18 +21,17 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Robotics Summit panel explores the state of humanoid robot design",
-      "link": "https://www.therobotreport.com/robotics-summit-panel-explores-state-humanoid-robot-design/",
-      "published_at": "Fri, 12 Jun 2026 20:40:37 +0000",
-      "summary": "At the Robotics Summit & Expo, experts weighed in on humanoid robotics today — and the ability to achieve a $20,000 price point tomorrow.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "title": "PSYONIC partners with ABB Robotics to apply human touch to robot dexterity",
+      "link": "https://www.therobotreport.com/psyonic-abb-robotics-partner-apply-human-touch-data-robot-dexterity/",
+      "published_at": "Tue, 16 Jun 2026 04:01:53 +0000",
+      "summary": "PSYONIC is combining its Ability Hand with ABB Robotics' GoFa cobot arm to apply data from prosthetics users to robotic grasping.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "humanoid",
         "robot",
         "robotics"
       ]
@@ -43,23 +42,6 @@
       "link": "https://www.therobotreport.com/computers-software-windows-utility-robots/",
       "published_at": "Sat, 13 Jun 2026 12:30:52 +0000",
       "summary": "Before Windows, only engineers and computer scientists could work with computers. Edge AI is causing a similar accessibility shift for robotics.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "MassRobotics announces the winners of 2026 Robotics Medal and Rising Star awards",
-      "link": "https://www.therobotreport.com/massrobotics-announces-winners-2026-robotics-medal-rising-star-awards/",
-      "published_at": "Fri, 12 Jun 2026 21:46:47 +0000",
-      "summary": "Allison Okamura and Ayoung Kim won MassRobotics' 2026 Robotics Medal and Rising Star Medal, which honor women in robotics.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -75,35 +57,19 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "New Fed chair is caught between a bond market demanding rate hikes and a president demanding cuts",
+      "title": "New Fed chair Kevin Warsh is caught between a rock and a hard place",
       "link": "https://qz.com/kevin-warsh-fed-chair-rate-hikes-trump-bond-market-fomc-061526",
-      "summary": "Warsh's first press conference as Fed chair will be scrutinized for signals on whether he'll prioritize fighting inflation or placate the White House",
+      "summary": "Bond markets want the Fed to hike interest rates. The president wants the central bank to slash rates. Kevin Warsh is caught in the middle",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 15 Jun 2026 11:55:14 GMT"
+      "published_at": "Mon, 15 Jun 2026 20:10:32 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Elizabeth Warren is demanding Trump clarify plans to raise Social Security's retirement age",
-      "link": "https://qz.com/elizabeth-warren-trump-social-security-retirement-age-061526",
-      "summary": "The letter cites a new trustees report projecting the retirement trust fund will run dry in 2032, accelerated by Trump's tax bill",
+      "source": "BBC World",
+      "title": "Iran deal presents political nightmare for Netanyahu",
+      "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 15 Jun 2026 11:50:36 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Trump threatens France with 100% wine tariffs unless it drops its tax on U.S. tech companies",
-      "link": "https://qz.com/trump-france-wine-tariffs-tech-tax-g7-061526",
-      "summary": "Trump said he told Emmanuel Macron to scrap the 3% digital services tax or face duties on $2 billion in annual French wine exports to the U.S.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 15 Jun 2026 11:40:36 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Anthropic is racing to lift export controls that forced its most powerful AI models offline",
-      "link": "https://qz.com/anthropic-staff-washington-export-controls-fable-mythos-061526",
-      "summary": "The company dispatched senior security researchers to meet with government officials after the Trump administration forced its two most powerful models offline",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 15 Jun 2026 11:30:34 GMT"
+      "published_at": "Tue, 16 Jun 2026 03:40:36 GMT"
     }
   ],
   "market_items": [],
@@ -117,8 +83,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 19.2
+      "count": 3,
+      "avg_score": 18.7
     },
     "financial_system": {
       "count": 0,
@@ -132,7 +98,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 208,
+      "score": 140,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -143,31 +109,20 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 18,
+      "score": 17,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 17,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 208,
+      "score": 140,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -178,7 +133,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 18,
+      "score": 17,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -187,15 +142,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 17,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
