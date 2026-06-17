@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-16T11:06:49.018021+00:00",
+  "generated_at": "2026-06-17T10:51:16.614626+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Kawasaki Robotics to debut RL030N physical AI platform at Automate",
+      "link": "https://www.therobotreport.com/kawasaki-robotics-debut-rl030n-physical-ai-platform-automate/",
+      "published_at": "Tue, 16 Jun 2026 13:59:25 +0000",
+      "summary": "Kawasaki Robotics says its 8-DoF robot, Pulseboard inspection tech, and other systems will show its vision for intelligent automation.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 22,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "automation",
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Modernizing the global economy with industrial robotics is needed but not inevitable",
@@ -11,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -21,15 +39,15 @@
     },
     {
       "source": "The Robot Report",
-      "title": "PSYONIC partners with ABB Robotics to apply human touch to robot dexterity",
-      "link": "https://www.therobotreport.com/psyonic-abb-robotics-partner-apply-human-touch-data-robot-dexterity/",
-      "published_at": "Tue, 16 Jun 2026 04:01:53 +0000",
-      "summary": "PSYONIC is combining its Ability Hand with ABB Robotics' GoFa cobot arm to apply data from prosthetics users to robotic grasping.",
+      "title": "Built Robotics, Penn xLAB to develop physical AI for construction",
+      "link": "https://www.therobotreport.com/xlab-and-built-robotics-partner-to-advance-construction/",
+      "published_at": "Tue, 16 Jun 2026 11:04:11 +0000",
+      "summary": "xLAB and Built Robotics partner to capture additional data, advancing AI models to improve construction site safety.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -37,58 +55,77 @@
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "Windows for robots: Edge AI expands usability",
-      "link": "https://www.therobotreport.com/computers-software-windows-utility-robots/",
-      "published_at": "Sat, 13 Jun 2026 12:30:52 +0000",
-      "summary": "Before Windows, only engineers and computer scientists could work with computers. Edge AI is causing a similar accessibility shift for robotics.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "Quartz",
+      "title": "Visa exec says ‘AI is transforming everything we do’ at Visa Payments Forum",
+      "link": "https://qz.com/visa-exec-says-ai-is-transforming-everything-we-do",
+      "published_at": "Tue, 16 Jun 2026 21:20:12 GMT",
+      "summary": "Visa exec says ‘AI is transforming everything we do’ at Visa Payments Forum",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system",
+        "macro",
+        "technology"
       ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle ai, payment ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "ai",
+        "payment",
+        "visa"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "New Fed chair Kevin Warsh is caught between a rock and a hard place",
-      "link": "https://qz.com/kevin-warsh-fed-chair-rate-hikes-trump-bond-market-fomc-061526",
-      "summary": "Bond markets want the Fed to hike interest rates. The president wants the central bank to slash rates. Kevin Warsh is caught in the middle",
+      "title": "The government wants a piece of the AI book",
+      "link": "https://qz.com/us-government-ai-equity-stakes-public-wealth-fund",
+      "summary": "The Trump administration is weighing AI equity stakes and a public wealth fund that could send returns to Americans, and critics see potential bailout",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 15 Jun 2026 20:10:32 GMT"
+      "published_at": "Wed, 17 Jun 2026 09:11:16 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Iran deal presents political nightmare for Netanyahu",
-      "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
+      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+      "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+      "summary": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 16 Jun 2026 03:40:36 GMT"
+      "published_at": "Wed, 17 Jun 2026 10:01:42 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Equatorial Guinea government resigns after failing to meet targets",
+      "link": "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The vice-president says the government had barely reached 10% of its targets, without specifying them.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Wed, 17 Jun 2026 09:52:52 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+      "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Wed, 17 Jun 2026 09:46:31 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 18.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 18.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 18.7
+      "count": 4,
+      "avg_score": 19.2
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 18.0
     }
   },
   "trend_signals": [
@@ -98,7 +135,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 140,
+      "score": 206,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -109,20 +146,31 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 17,
+      "score": 80,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 57,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 140,
+      "score": 206,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -133,7 +181,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 17,
+      "score": 80,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -142,15 +190,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 0,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 57,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
