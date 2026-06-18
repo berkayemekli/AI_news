@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T10:51:16.614626+00:00",
+  "generated_at": "2026-06-18T10:17:43.738528+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,131 +11,131 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Modernizing the global economy with industrial robotics is needed but not inevitable",
-      "link": "https://www.therobotreport.com/modernizing-global-economy-industrial-robotics-needed-not-inevitable/",
-      "published_at": "Sun, 14 Jun 2026 14:30:31 +0000",
-      "summary": "While service robotics adoption grows, industrial automation faces greater demand and bigger obstacles, notes a columnist.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "automation",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Built Robotics, Penn xLAB to develop physical AI for construction",
-      "link": "https://www.therobotreport.com/xlab-and-built-robotics-partner-to-advance-construction/",
-      "published_at": "Tue, 16 Jun 2026 11:04:11 +0000",
-      "summary": "xLAB and Built Robotics partner to capture additional data, advancing AI models to improve construction site safety.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
         "robot",
         "robotics"
       ]
     },
     {
       "source": "Quartz",
-      "title": "Visa exec says ‘AI is transforming everything we do’ at Visa Payments Forum",
-      "link": "https://qz.com/visa-exec-says-ai-is-transforming-everything-we-do",
-      "published_at": "Tue, 16 Jun 2026 21:20:12 GMT",
-      "summary": "Visa exec says ‘AI is transforming everything we do’ at Visa Payments Forum",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "title": "The Fed held interest rates steady in Kevin Warsh's first meeting as chair. Rate hikes could be coming",
+      "link": "https://qz.com/federal-reserve-rates-steady-kevin-warsh-first-fomc-meeting-061726",
+      "published_at": "Wed, 17 Jun 2026 19:40:29 GMT",
+      "summary": "Central bank officials telegraphed that their next move might be a rate hike, not a cut, as inflation has hit its highest level in years",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "categories": [
         "financial_system",
         "macro",
         "technology"
       ],
-      "score": 18,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle ai, payment ekseninde öne çıkıyor.",
+      "score": 21,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, central bank ekseninde öne çıkıyor.",
       "matched_keywords": [
         "ai",
-        "payment",
-        "visa"
+        "central bank",
+        "fed",
+        "inflation"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Autonomique deploys semi-humanoid robots and AI at Canadian Tier 1",
+      "link": "https://www.therobotreport.com/autonomique-deploys-semi-humanoid-robots-canadian-tier-1/",
+      "published_at": "Wed, 17 Jun 2026 14:00:34 +0000",
+      "summary": "Autonomique has moved its AI-powered robots from pilot to production at F&P Mfg., with plans for deployment across F-tech's global network.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Evaluating humanoids for surface finishing applications",
+      "link": "https://www.therobotreport.com/evaluating-humanoids-for-surface-finishing-applications/",
+      "published_at": "Wed, 17 Jun 2026 16:02:57 +0000",
+      "summary": "Most manufacturing applications aim to reduce cycle time to improve throughput. Using general-purpose industrial robots that transcend human constraints is often an attractive option.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
+      "title": "The best theme parks in Europe",
+      "link": "https://qz.com/best-theme-parks-europe",
+      "summary": "From Tivoli's hand-braked wooden coaster that inspired Disney to a Dutch fairy-tale park where the end-of-night fountain show brings tears of joy",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 18 Jun 2026 09:12:10 GMT"
+    },
+    {
+      "source": "Quartz",
       "title": "The government wants a piece of the AI book",
       "link": "https://qz.com/us-government-ai-equity-stakes-public-wealth-fund",
       "summary": "The Trump administration is weighing AI equity stakes and a public wealth fund that could send returns to Americans, and critics see potential bailout",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 17 Jun 2026 09:11:16 GMT"
+      "published_at": "Wed, 17 Jun 2026 21:40:54 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
-      "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
-      "summary": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
+      "source": "Quartz",
+      "title": "25 novels that were controversial when published and why",
+      "link": "https://qz.com/controversial-novels-banned-censored-history",
+      "summary": "From banned books to court battles, these novels shook readers, governments, and publishers — and in many cases changed what literature was allowed to say",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 17 Jun 2026 10:01:42 GMT"
+      "published_at": "Wed, 17 Jun 2026 18:08:36 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "Equatorial Guinea government resigns after failing to meet targets",
-      "link": "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The vice-president says the government had barely reached 10% of its targets, without specifying them.",
+      "source": "Quartz",
+      "title": "Trump says talks with Anthropic are 'going fine' as its powerful AI models remain offline",
+      "link": "https://qz.com/trump-anthropic-negotiations-fable-mythos-shutdown-061726",
+      "summary": "The administration's ban on foreign access to Anthropic's Fable 5 and Mythos 5 prompted the company to shut off access to those models for all customers",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 17 Jun 2026 09:52:52 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
-      "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 17 Jun 2026 09:46:31 GMT"
+      "published_at": "Wed, 17 Jun 2026 17:30:33 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
       "count": 1,
-      "avg_score": 18.0
+      "avg_score": 21.0
     },
     "technology": {
       "count": 1,
-      "avg_score": 18.0
+      "avg_score": 21.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 19.2
+      "count": 6,
+      "avg_score": 18.0
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 18.0
+      "avg_score": 21.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (4 -> 6)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 206,
+      "score": 250,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -146,7 +146,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 80,
+      "score": 137,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -155,22 +155,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 57,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 44,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "markets",
+      "label": "Markets",
+      "score": 44,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 206,
+      "score": 250,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -181,7 +192,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 80,
+      "score": 137,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -190,15 +201,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 57,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 44,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
