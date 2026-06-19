@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-18T10:17:43.738528+00:00",
+  "generated_at": "2026-06-19T10:22:44.259777+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Richtech Robotics launches livestream for ADAM AI-powered humanoid",
+      "link": "https://www.therobotreport.com/richtech-robotics-launches-livestream-adam-ai-powered-humanoid/",
+      "published_at": "Thu, 18 Jun 2026 12:30:22 +0000",
+      "summary": "Online users will be able to engage with service robot ADAM, which uses NVIDIA technology, says Richtech Robotics.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 26,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Kawasaki Robotics to debut RL030N physical AI platform at Automate",
@@ -11,33 +29,12 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "The Fed held interest rates steady in Kevin Warsh's first meeting as chair. Rate hikes could be coming",
-      "link": "https://qz.com/federal-reserve-rates-steady-kevin-warsh-first-fomc-meeting-061726",
-      "published_at": "Wed, 17 Jun 2026 19:40:29 GMT",
-      "summary": "Central bank officials telegraphed that their next move might be a rate hike, not a cut, as inflation has hit its highest level in years",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 21,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, central bank ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "central bank",
-        "fed",
-        "inflation"
       ]
     },
     {
@@ -50,7 +47,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -67,7 +64,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -77,65 +74,65 @@
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "The best theme parks in Europe",
-      "link": "https://qz.com/best-theme-parks-europe",
-      "summary": "From Tivoli's hand-braked wooden coaster that inspired Disney to a Dutch fairy-tale park where the end-of-night fountain show brings tears of joy",
+      "source": "BBC World",
+      "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
+      "link": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
+      "summary": "Lebanon meanwhile says 18 people were killed in clashes in the south and the IDF reports four soldiers killed, despite a truce meant to be in place in the country.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 18 Jun 2026 09:12:10 GMT"
+      "published_at": "Fri, 19 Jun 2026 09:38:44 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "The government wants a piece of the AI book",
-      "link": "https://qz.com/us-government-ai-equity-stakes-public-wealth-fund",
-      "summary": "The Trump administration is weighing AI equity stakes and a public wealth fund that could send returns to Americans, and critics see potential bailout",
+      "source": "BBC World",
+      "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
+      "link": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes a day after the US and Iran signed a deal to end their conflict, including fighting in Lebanon.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 17 Jun 2026 21:40:54 GMT"
+      "published_at": "Fri, 19 Jun 2026 10:12:21 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "25 novels that were controversial when published and why",
-      "link": "https://qz.com/controversial-novels-banned-censored-history",
-      "summary": "From banned books to court battles, these novels shook readers, governments, and publishers — and in many cases changed what literature was allowed to say",
+      "source": "BBC World",
+      "title": "What Iran and US get from deal and why both could struggle to keep it",
+      "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 17 Jun 2026 18:08:36 GMT"
+      "published_at": "Thu, 18 Jun 2026 20:04:40 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Trump says talks with Anthropic are 'going fine' as its powerful AI models remain offline",
-      "link": "https://qz.com/trump-anthropic-negotiations-fable-mythos-shutdown-061726",
-      "summary": "The administration's ban on foreign access to Anthropic's Fable 5 and Mythos 5 prompted the company to shut off access to those models for all customers",
+      "source": "BBC World",
+      "title": "Zimbabwe MPs pass bill to extend president's time in power",
+      "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
+      "summary": "The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 17 Jun 2026 17:30:33 GMT"
+      "published_at": "Fri, 19 Jun 2026 08:03:32 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 21.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
       "count": 1,
-      "avg_score": 21.0
+      "avg_score": 16.0
     },
     "robotics": {
       "count": 6,
-      "avg_score": 18.0
+      "avg_score": 18.8
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 21.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (4 -> 6)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 250,
+      "score": 286,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -146,7 +143,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 137,
+      "score": 153,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -155,33 +152,22 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 44,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 44,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 95,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 250,
+      "score": 286,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -192,7 +178,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 137,
+      "score": 153,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -201,15 +187,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 44,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 95,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
