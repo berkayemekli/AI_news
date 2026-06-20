@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T10:22:44.259777+00:00",
+  "generated_at": "2026-06-20T08:52:27.993874+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 26,
+      "score": 25,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -21,18 +21,17 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Kawasaki Robotics to debut RL030N physical AI platform at Automate",
-      "link": "https://www.therobotreport.com/kawasaki-robotics-debut-rl030n-physical-ai-platform-automate/",
-      "published_at": "Tue, 16 Jun 2026 13:59:25 +0000",
-      "summary": "Kawasaki Robotics says its 8-DoF robot, Pulseboard inspection tech, and other systems will show its vision for intelligent automation.",
+      "title": "U.S. robotics industry saw double-digit growth in 2025, says IFR",
+      "link": "https://www.therobotreport.com/u-s-robotics-industry-saw-double-digit-growth-in-2025-says-ifr/",
+      "published_at": "Fri, 19 Jun 2026 12:45:52 +0000",
+      "summary": "The IFR said robust growth in the food industry and other non-manufacturing sectors drove this recovery in the U.S. robotics industry.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "automation",
         "robot",
         "robotics"
       ]
@@ -47,7 +46,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -64,7 +63,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -75,35 +74,35 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
-      "link": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanon meanwhile says 18 people were killed in clashes in the south and the IDF reports four soldiers killed, despite a truce meant to be in place in the country.",
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 19 Jun 2026 09:38:44 GMT"
+      "published_at": "Fri, 19 Jun 2026 19:27:12 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
-      "link": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes a day after the US and Iran signed a deal to end their conflict, including fighting in Lebanon.",
+      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+      "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+      "summary": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 19 Jun 2026 10:12:21 GMT"
+      "published_at": "Fri, 19 Jun 2026 19:36:10 GMT"
     },
     {
       "source": "BBC World",
-      "title": "What Iran and US get from deal and why both could struggle to keep it",
-      "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+      "link": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 18 Jun 2026 20:04:40 GMT"
+      "published_at": "Fri, 19 Jun 2026 21:46:07 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Zimbabwe MPs pass bill to extend president's time in power",
-      "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
-      "summary": "The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.",
+      "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
+      "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+      "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 19 Jun 2026 08:03:32 GMT"
+      "published_at": "Sat, 20 Jun 2026 02:33:30 GMT"
     }
   ],
   "market_items": [],
@@ -113,12 +112,12 @@
       "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 16.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 6,
-      "avg_score": 18.8
+      "count": 5,
+      "avg_score": 18.2
     },
     "financial_system": {
       "count": 0,
@@ -132,7 +131,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 286,
+      "score": 218,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -143,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 153,
+      "score": 96,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -154,7 +153,7 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 95,
+      "score": 26,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
@@ -167,7 +166,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 286,
+      "score": 218,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -178,7 +177,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 153,
+      "score": 96,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -189,7 +188,7 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 95,
+      "score": 26,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
