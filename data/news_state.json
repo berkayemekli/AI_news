@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-22T11:49:11.632449+00:00",
+  "generated_at": "2026-06-23T09:34:38.731992+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics",
-      "link": "https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/",
-      "published_at": "Sat, 20 Jun 2026 14:00:30 +0000",
-      "summary": "The Navy's industrial base review identified a projected need for 174,000 new workers. GrayMatter says robotics can fill this gap.",
+      "title": "FORT and NVIDIA launch AI-driven Outside-In Safety blueprint",
+      "link": "https://www.therobotreport.com/fort-and-nvidia-launch-ai-driven-outside-in-safety-blueprint/",
+      "published_at": "Mon, 22 Jun 2026 22:38:31 +0000",
+      "summary": "FORT Robotics and NVIDIA launch Outside-In Safety, using external sensors to improve autonomous robot productivity and worker safety.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 25,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -20,104 +20,124 @@
       ]
     },
     {
+      "source": "The Robot Report",
+      "title": "Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities",
+      "link": "https://www.therobotreport.com/bear-robotics-acquires-kinisi-robotics-to-boost-its-physical-ai-capabilities/",
+      "published_at": "Mon, 22 Jun 2026 19:13:14 +0000",
+      "summary": "Kinisi's KR1 humanoid robot, its Bristol-based engineering team, and its physical AI capabilities will be integrated into Bear Robotics.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
       "source": "Quartz",
-      "title": "Bank of America now expects three Fed rate hikes this year. A month ago it expected zero.",
-      "link": "https://qz.com/us-stock-futures-iran-peace-talks-oil-prices-062226",
-      "published_at": "Mon, 22 Jun 2026 11:40:26 GMT",
-      "summary": "Brent crude slipped below $80 a barrel Monday after mediators said the U.S. and Iran had agreed on a roadmap to a deal within 60 days",
+      "title": "The U.S. waived sanction on Iranian oil as part of its deal with Tehran to end the war",
+      "link": "https://qz.com/us-treasury-iran-oil-sanctions-waiver-ceasefire-deal-062226",
+      "published_at": "Tue, 23 Jun 2026 00:30:30 GMT",
+      "summary": "The temporary general license allows the production, delivery, and sale of Iranian crude oil and petroleum products through mid-August",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "categories": [
         "financial_system",
         "macro",
         "technology"
       ],
-      "score": 18,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, fed ekseninde öne çıkıyor.",
+      "score": 22,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, oil ekseninde öne çıkıyor.",
       "matched_keywords": [
         "ai",
-        "fed",
+        "oil",
+        "sanction",
         "u.s."
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "U.S. robotics industry saw double-digit growth in 2025, says IFR",
-      "link": "https://www.therobotreport.com/u-s-robotics-industry-saw-double-digit-growth-in-2025-says-ifr/",
-      "published_at": "Fri, 19 Jun 2026 12:45:52 +0000",
-      "summary": "The IFR said robust growth in the food industry and other non-manufacturing sectors drove this recovery in the U.S. robotics industry.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "Payments Dive",
+      "title": "Visa, Mastercard fend off fee foes",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-fend-off-fee-foes/823395/",
+      "published_at": "Mon, 22 Jun 2026 10:45:00 -0400",
+      "summary": "Despite the passage of state legislation and a federal court settlement aimed at taming credit and debit card fees, the card networks and their issuers prevailed in the first half of this year.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system"
       ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "score": 21,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "mastercard",
+        "settlement",
+        "visa"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Bank of America now expects three Fed rate hikes this year. A month ago it expected zero.",
-      "link": "https://qz.com/us-stock-futures-iran-peace-talks-oil-prices-062226",
-      "summary": "Brent crude slipped below $80 a barrel Monday after mediators said the U.S. and Iran had agreed on a roadmap to a deal within 60 days",
+      "title": "The AI race, interrupted",
+      "link": "https://qz.com/why-anthropics-most-powerful-ai-models-were-pulled-offline",
+      "summary": "Anthropic’s top AI models were pulled offline after a Trump administration export control order. Here’s what happened",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 22 Jun 2026 11:40:26 GMT"
+      "published_at": "Tue, 23 Jun 2026 09:11:14 GMT"
     },
     {
       "source": "Quartz",
-      "title": "DOJ refused to swear in writing that Trump's 'anti-weaponization' fund is dead",
-      "link": "https://qz.com/doj-anti-weaponization-fund-written-declaration-separation-powers-062226",
-      "summary": "The Justice Department told a federal judge that compelling sworn statements from senior officials raises \"serious separation of powers concerns\"",
+      "title": "The most incredible food markets in Europe right now",
+      "link": "https://qz.com/most-incredible-food-markets-europe",
+      "summary": "From Bologna's medieval lanes of mortadella and fresh pasta to a Rotterdam market hall whose ceiling is a giant mural of fruit and vegetables",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 22 Jun 2026 11:30:32 GMT"
+      "published_at": "Tue, 23 Jun 2026 09:00:05 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Trump says he no longer views Anthropic as a national security threat",
-      "link": "https://qz.com/trump-anthropic-national-security-threat-062226",
-      "summary": "The president said Anthropic CEO Dario Amodei responded \"very quickly\" to an export control directive restricting foreign access to two AI models",
+      "title": "The U.S. waived sanction on Iranian oil as part of its deal with Tehran to end the war",
+      "link": "https://qz.com/us-treasury-iran-oil-sanctions-waiver-ceasefire-deal-062226",
+      "summary": "The temporary general license allows the production, delivery, and sale of Iranian crude oil and petroleum products through mid-August",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 22 Jun 2026 11:30:31 GMT"
+      "published_at": "Tue, 23 Jun 2026 00:30:30 GMT"
     },
     {
       "source": "BBC World",
-      "title": "First round of US-Iran talks ends with encouraging progress, mediators say",
-      "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.",
+      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+      "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 22 Jun 2026 10:46:45 GMT"
+      "published_at": "Tue, 23 Jun 2026 05:39:17 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
       "count": 1,
-      "avg_score": 18.0
+      "avg_score": 22.0
     },
     "technology": {
       "count": 1,
-      "avg_score": 18.0
+      "avg_score": 22.0
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 18.5
+      "count": 5,
+      "avg_score": 21.2
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 18.0
+      "count": 2,
+      "avg_score": 21.5
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (2 -> 5)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 100,
+      "score": 314,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -126,9 +146,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 135,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 41,
+      "score": 108,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -137,22 +168,22 @@
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 36,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 45,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 100,
+      "score": 314,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -161,26 +192,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 41,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 36,
+      "score": 135,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 108,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [

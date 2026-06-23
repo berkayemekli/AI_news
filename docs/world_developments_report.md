@@ -1,45 +1,55 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-06-22T11:49:11.632449+00:00
+Uretim zamani: 2026-06-23T09:34:38.731992+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics
+### 1. FORT and NVIDIA launch AI-driven Outside-In Safety blueprint
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 21
-- Link: https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/
+- Onem skoru: 25
+- Link: https://www.therobotreport.com/fort-and-nvidia-launch-ai-driven-outside-in-safety-blueprint/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 2. Bank of America now expects three Fed rate hikes this year. A month ago it expected zero.
+### 2. Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 24
+- Link: https://www.therobotreport.com/bear-robotics-acquires-kinisi-robotics-to-boost-its-physical-ai-capabilities/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
+
+### 3. The U.S. waived sanction on Iranian oil as part of its deal with Tehran to end the war
 - Kaynak: Quartz
 - Kategoriler: Finansal Sistem, Makro, Teknoloji
-- Onem skoru: 18
-- Link: https://qz.com/us-stock-futures-iran-peace-talks-oil-prices-062226
-- Bu seni neden ilgilendiriyor: Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, fed ekseninde öne çıkıyor.
+- Onem skoru: 22
+- Link: https://qz.com/us-treasury-iran-oil-sanctions-waiver-ceasefire-deal-062226
+- Bu seni neden ilgilendiriyor: Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, oil ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.
 
-### 3. U.S. robotics industry saw double-digit growth in 2025, says IFR
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 16
-- Link: https://www.therobotreport.com/u-s-robotics-industry-saw-double-digit-growth-in-2025-says-ifr/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+### 4. Visa, Mastercard fend off fee foes
+- Kaynak: Payments Dive
+- Kategoriler: Finansal Sistem
+- Onem skoru: 21
+- Link: https://www.paymentsdive.com/news/visa-mastercard-fend-off-fee-foes/823395/
+- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.
 
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
 
 ## Trend Sinyali
 
-- Belirgin kategori ivmesi yok; haber akışı dengeli.
+- Robotik ivmesi artıyor (2 -> 5).
 
 ## Topic Router
 
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
-- Jeopolitik: Reuters World (yedek: Foreign Affairs)
 - YZ Modelleri: The Information (yedek: Semafor Tech)
+- Jeopolitik: Reuters World (yedek: Foreign Affairs)
+- Nvidia: Bloomberg Technology (yedek: Stratechery)
 
 ## Feed Notlari
 
