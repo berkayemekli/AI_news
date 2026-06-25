@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-24T09:24:43.471161+00:00",
+  "generated_at": "2026-06-25T08:58:04.910433+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Humanoid maker Agility Robotics to go public through SPAC merger",
+      "link": "https://www.therobotreport.com/humanoid-maker-agility-robotics-go-public-through-spac-merger/",
+      "published_at": "Wed, 24 Jun 2026 13:26:36 +0000",
+      "summary": "Agility Robotics will merge with Churchill Capital Corp XI, raising $620 million to advance Digit v5 and fulfill growing customer orders.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Mantis Robotics launches dual-arm, fenceless robot",
+      "link": "https://www.therobotreport.com/mantis-robotics-launches-dual-arm-fenceless-robot/",
+      "published_at": "Wed, 24 Jun 2026 12:30:07 +0000",
+      "summary": "Mantis said the robot allows for new flexibility in how to configure automation in complex, real-world environments.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "automation",
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities",
@@ -11,28 +47,10 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Deep dive into ARM’s physical AI and robotics strategies with Drew Henry",
-      "link": "https://www.therobotreport.com/deep-dive-into-arms-physical-ai-and-robotics-strategies-with-drew-henry/",
-      "published_at": "Wed, 24 Jun 2026 00:12:04 +0000",
-      "summary": "ARM’s Drew Henry discusses the future of physical AI, robotics, and autonomous systems built for real-world constraints.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 23,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "autonomous",
         "robot",
         "robotics"
       ]
@@ -47,27 +65,10 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "ExRobotics launches UL-certified inspection robot for hazardous environments",
-      "link": "https://www.therobotreport.com/exrobotics-launches-ul-certified-inspection-robot-for-hazardous-environments/",
-      "published_at": "Tue, 23 Jun 2026 23:00:45 +0000",
-      "summary": "ExRobotics says its ExR-2.5 inspection robot is certified for safe operations in explosive environments in North America.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 21,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
         "robot",
         "robotics"
       ]
@@ -76,64 +77,64 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "There's one renewable that Trump won't cut",
-      "link": "https://qz.com/geothermal-energy-renewable-trump-tax-credits",
-      "summary": "Geothermal tax credits will remain intact for years, giving developers policy certainty that the rest of the renewables industry can only dream about",
+      "title": "The AI race, interrupted",
+      "link": "https://qz.com/why-anthropics-most-powerful-ai-models-were-pulled-offline",
+      "summary": "Anthropic’s top AI models were pulled offline after a Trump administration export control order. Here’s what happened",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 23 Jun 2026 23:41:05 GMT"
+      "published_at": "Wed, 24 Jun 2026 22:20:56 GMT"
     },
     {
       "source": "Quartz",
-      "title": "AI meets ICE",
-      "link": "https://qz.com/ai-ice-trump-digital-surveillance",
-      "summary": "Agencies at every level of government are buying AI-powered surveillance tools. These tools increasingly watch everyone, and not always accurately",
+      "title": "Oil falls below $70 a barrel. Trump says Big Oil needs to cut gas prices faster",
+      "link": "https://qz.com/trump-doj-probe-oil-companies-gas-prices-062426",
+      "summary": "The president accused companies of \"gouging\" consumers as crude oil fell below $70 a barrel for the first time since early March",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 23 Jun 2026 23:21:02 GMT"
+      "published_at": "Wed, 24 Jun 2026 16:00:43 GMT"
     },
     {
       "source": "BBC World",
-      "title": "France braces for another day of sweltering heat as Europe heatwave spreads",
+      "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
       "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The heatwave is expected to spread to other parts of western Europe on Wednesday, before extending eastwards over the weekend.",
+      "summary": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 24 Jun 2026 08:48:34 GMT"
+      "published_at": "Wed, 24 Jun 2026 21:39:18 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-      "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The resolution passed on Tuesday was largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+      "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+      "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+      "summary": "But the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 24 Jun 2026 03:57:59 GMT"
+      "published_at": "Thu, 25 Jun 2026 00:51:28 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 17.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 17.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 7,
-      "avg_score": 20.1
+      "count": 8,
+      "avg_score": 20.5
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 18.5
+      "count": 1,
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (5 -> 7)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 387,
+      "score": 480,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -144,7 +145,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 184,
+      "score": 156,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,33 +154,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 65,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 56,
+      "score": 36,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 42,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 387,
+      "score": 480,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -190,7 +191,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 184,
+      "score": 156,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -199,15 +200,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 56,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 65,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
