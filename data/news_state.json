@@ -1,30 +1,12 @@
 {
-  "generated_at": "2026-06-27T08:33:17.176459+00:00",
+  "generated_at": "2026-06-28T08:48:16.339183+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Humanoid maker Agility Robotics to go public through SPAC merger",
-      "link": "https://www.therobotreport.com/humanoid-maker-agility-robotics-go-public-through-spac-merger/",
-      "published_at": "Wed, 24 Jun 2026 13:26:36 +0000",
-      "summary": "Agility Robotics will merge with Churchill Capital Corp XI, raising $620 million to advance Digit v5 and fulfill growing customer orders.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Mantis Robotics launches dual-arm, fenceless robot",
-      "link": "https://www.therobotreport.com/mantis-robotics-launches-dual-arm-fenceless-robot/",
-      "published_at": "Wed, 24 Jun 2026 12:30:07 +0000",
-      "summary": "Mantis said the robot allows for new flexibility in how to configure automation in complex, real-world environments.",
+      "title": "We know how to build smarter robots. Now, we need to learn smarter ways to test them",
+      "link": "https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/",
+      "published_at": "Sat, 27 Jun 2026 13:00:47 +0000",
+      "summary": "Atharv Kolhar, a staff test automation engineer at Figure AI, says the robotics industry needs a testing philosophy that scales alongside autonomy.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -38,50 +20,66 @@
       ]
     },
     {
-      "source": "Quartz",
-      "title": "The Fed's Neel Kashkari is now penciling in an interest rate hike this year",
-      "link": "https://qz.com/minneapolis-fed-kashkari-rate-hike-2026-062626",
-      "published_at": "Fri, 26 Jun 2026 17:40:32 GMT",
-      "summary": "The Minneapolis Fed president cited broad inflationary pressures, including oil price disruptions and AI data center buildout",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "source": "The Robot Report",
+      "title": "General Intuition raises $320M to use video game data to train robots",
+      "link": "https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/",
+      "published_at": "Fri, 26 Jun 2026 18:38:36 +0000",
+      "summary": "General Intuition is using video game clips with embedded action labels to speed up AI training for robotics.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "financial_system",
-        "macro",
-        "technology"
+        "robotics"
       ],
-      "score": 22,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, data center ekseninde öne çıkıyor.",
+      "score": 17,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "ai",
-        "data center",
-        "fed",
-        "inflation",
-        "oil"
+        "robot",
+        "robotics"
       ]
     },
     {
-      "source": "TechCrunch",
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "published_at": "Fri, 26 Jun 2026 17:43:22 +0000",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies bu...",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "source": "The Robot Report",
+      "title": "ARM Institute expands RoboticsCareer.org into physical AI",
+      "link": "https://www.therobotreport.com/arm-institute-launches-physical-ai-focused-expansion-roboticscareer-org/",
+      "published_at": "Thu, 25 Jun 2026 12:30:20 +0000",
+      "summary": "RoboticsCareer.org now lists the growing job opportunities in physical AI and enables employers to connect to qualified talent.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "ai",
-        "technology"
+        "robotics"
       ],
-      "score": 20,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
+      "score": 16,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "ai",
-        "chip",
-        "google",
-        "nvidia",
-        "openai"
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "How compact cobot integration enhances autonomous mobile robot applications",
+      "link": "https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/",
+      "published_at": "Sat, 27 Jun 2026 12:35:55 +0000",
+      "summary": "Cobots are quickly shaping the future of warehousing, with their use rising 10-fold from 2018 to 2025, Kassow said.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 16,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "autonomous",
+        "robot"
       ]
     }
   ],
   "political_items": [
+    {
+      "source": "Quartz",
+      "title": "The expensive twist in Trump's campaign against wind energy",
+      "link": "https://qz.com/trump-buyback-wind-projects",
+      "summary": "The administration is carrying out a buyback campaign with the federal government paying energy developers to abandon their wind projects and invest in fossil fuels",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 27 Jun 2026 09:10:41 GMT"
+    },
     {
       "source": "Quartz",
       "title": "Trump accuses Iran of 'foolish violation' of ceasefire after attack in Strait of Hormuz",
@@ -91,57 +89,49 @@
       "published_at": "Fri, 26 Jun 2026 19:40:25 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "OpenAI is limiting its new AI models to 'trusted partners' at the government's request",
-      "link": "https://qz.com/openai-gpt-56-trusted-partners-us-government-request-062626",
-      "summary": "The company plans to make GPT-5.6 Sol, Terra, and Luna broadly available in the coming weeks, but says the vetting process shouldn't become the long-term default",
+      "source": "BBC World",
+      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 26 Jun 2026 18:20:39 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "The Fed's Neel Kashkari is now penciling in an interest rate hike this year",
-      "link": "https://qz.com/minneapolis-fed-kashkari-rate-hike-2026-062626",
-      "summary": "The Minneapolis Fed president cited broad inflationary pressures, including oil price disruptions and AI data center buildout",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 26 Jun 2026 17:40:32 GMT"
+      "published_at": "Sun, 28 Jun 2026 04:54:50 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US strikes Iran after attack on cargo ship",
-      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+      "summary": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 27 Jun 2026 08:25:43 GMT"
+      "published_at": "Sat, 27 Jun 2026 20:48:16 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 22.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 2,
-      "avg_score": 21.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
       "count": 5,
-      "avg_score": 19.0
+      "avg_score": 17.2
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 22.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Teknoloji akışı yavaşladı (2 -> 0)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 246,
+      "score": 205,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -152,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 165,
+      "score": 91,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -161,33 +151,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 86,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 17,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 44,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 17,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 246,
+      "score": 205,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -198,7 +188,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 165,
+      "score": 91,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -207,15 +197,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 86,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 17,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
