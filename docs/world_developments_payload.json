@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T08:48:16.339183+00:00",
+  "generated_at": "2026-06-29T10:53:30.843217+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -21,27 +21,27 @@
     },
     {
       "source": "The Robot Report",
-      "title": "General Intuition raises $320M to use video game data to train robots",
-      "link": "https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/",
-      "published_at": "Fri, 26 Jun 2026 18:38:36 +0000",
-      "summary": "General Intuition is using video game clips with embedded action labels to speed up AI training for robotics.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "title": "AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment",
+      "link": "https://www.therobotreport.com/agibot-produces-15000th-robot-marking-milestone-embodied-ai-deployment/",
+      "published_at": "Sun, 28 Jun 2026 09:00:12 +0000",
+      "summary": "AGIBOT has rolled out 15,000 wheeled semi-humanoid robots as it moves from embodied AI from development and production to deployment.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
       "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "humanoid",
+        "robot"
       ]
     },
     {
       "source": "The Robot Report",
-      "title": "ARM Institute expands RoboticsCareer.org into physical AI",
-      "link": "https://www.therobotreport.com/arm-institute-launches-physical-ai-focused-expansion-roboticscareer-org/",
-      "published_at": "Thu, 25 Jun 2026 12:30:20 +0000",
-      "summary": "RoboticsCareer.org now lists the growing job opportunities in physical AI and enables employers to connect to qualified talent.",
+      "title": "General Intuition raises $320M to use video game data to train robots",
+      "link": "https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/",
+      "published_at": "Fri, 26 Jun 2026 18:38:36 +0000",
+      "summary": "General Intuition is using video game clips with embedded action labels to speed up AI training for robotics.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -63,7 +63,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 16,
+      "score": 15,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -74,35 +74,35 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "The expensive twist in Trump's campaign against wind energy",
-      "link": "https://qz.com/trump-buyback-wind-projects",
-      "summary": "The administration is carrying out a buyback campaign with the federal government paying energy developers to abandon their wind projects and invest in fossil fuels",
+      "title": "AI is great if you're an electrician",
+      "link": "https://qz.com/ai-data-center-boom-electricians-skilled-trades",
+      "summary": "The AI data center boom is creating an unprecedented demand for electricians and skilled trades, pushing wages higher and reshaping career paths",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 27 Jun 2026 09:10:41 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Trump accuses Iran of 'foolish violation' of ceasefire after attack in Strait of Hormuz",
-      "link": "https://qz.com/trump-iran-ceasefire-violation-drone-strike-strait-hormuz-062626",
-      "summary": "The incident has threatened a fragile diplomatic arrangement reached between Washington and Tehran to end the war",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 26 Jun 2026 19:40:25 GMT"
+      "published_at": "Sun, 28 Jun 2026 09:10:48 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 28 Jun 2026 04:54:50 GMT"
+      "published_at": "Mon, 29 Jun 2026 04:52:17 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
-      "summary": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
+      "title": "Pakistani strikes kill dozens in Afghanistan",
+      "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Taliban government says civilians were killed, while Pakistan maintains they targeted militants.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 27 Jun 2026 20:48:16 GMT"
+      "published_at": "Mon, 29 Jun 2026 08:15:29 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Korea football coach quits as president calls for probe into World Cup loss",
+      "link": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Korea was eliminated after missing out on a spot among the eight best third-placed teams.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Mon, 29 Jun 2026 07:18:14 GMT"
     }
   ],
   "market_items": [],
@@ -117,7 +117,7 @@
     },
     "robotics": {
       "count": 5,
-      "avg_score": 17.2
+      "avg_score": 16.6
     },
     "financial_system": {
       "count": 0,
@@ -125,13 +125,13 @@
     }
   },
   "trend_signals": [
-    "Teknoloji akışı yavaşladı (2 -> 0)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 205,
+      "score": 198,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 91,
+      "score": 88,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,7 +153,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 17,
+      "score": 16,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -164,7 +164,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 17,
+      "score": 16,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -177,7 +177,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 205,
+      "score": 198,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -188,7 +188,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 91,
+      "score": 88,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -199,7 +199,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 17,
+      "score": 16,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
