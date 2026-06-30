@@ -1,42 +1,42 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-06-29T10:53:30.843217+00:00
+Uretim zamani: 2026-06-30T09:30:30.195801+00:00
 
 ## Bugunun 5 Onemli Basligi
 
 ### 1. We know how to build smarter robots. Now, we need to learn smarter ways to test them
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 21
+- Onem skoru: 20
 - Link: https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 2. AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment
+### 2. Insights behind Kinisi’s acquisition by Bear Robotics
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 17
-- Link: https://www.therobotreport.com/agibot-produces-15000th-robot-marking-milestone-embodied-ai-deployment/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
-
-### 3. General Intuition raises $320M to use video game data to train robots
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 16
-- Link: https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/
+- Onem skoru: 19
+- Link: https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 4. How compact cobot integration enhances autonomous mobile robot applications
+### 3. BMW Group deploys Figure 03 humanoid after tests with previous version
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 15
-- Link: https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
+
+### 4. MBody AI expands service robotics operations to eleven states and Canada
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/mbody-ai-expands-service-robotics-operations-eleven-states-canada/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 

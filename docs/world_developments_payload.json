@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T10:53:30.843217+00:00",
+  "generated_at": "2026-06-30T09:30:30.195801+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -21,32 +21,15 @@
     },
     {
       "source": "The Robot Report",
-      "title": "AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment",
-      "link": "https://www.therobotreport.com/agibot-produces-15000th-robot-marking-milestone-embodied-ai-deployment/",
-      "published_at": "Sun, 28 Jun 2026 09:00:12 +0000",
-      "summary": "AGIBOT has rolled out 15,000 wheeled semi-humanoid robots as it moves from embodied AI from development and production to deployment.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "General Intuition raises $320M to use video game data to train robots",
-      "link": "https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/",
-      "published_at": "Fri, 26 Jun 2026 18:38:36 +0000",
-      "summary": "General Intuition is using video game clips with embedded action labels to speed up AI training for robotics.",
+      "title": "Insights behind Kinisi’s acquisition by Bear Robotics",
+      "link": "https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/",
+      "published_at": "Mon, 29 Jun 2026 22:29:11 +0000",
+      "summary": "Brennand Pierce, founder and CEO of Kinisi Robotics, discusses the company's approach to physical AI and its acquisition by Bear Robotics.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 16,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -55,54 +38,71 @@
     },
     {
       "source": "The Robot Report",
-      "title": "How compact cobot integration enhances autonomous mobile robot applications",
-      "link": "https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/",
-      "published_at": "Sat, 27 Jun 2026 12:35:55 +0000",
-      "summary": "Cobots are quickly shaping the future of warehousing, with their use rising 10-fold from 2018 to 2025, Kassow said.",
+      "title": "BMW Group deploys Figure 03 humanoid after tests with previous version",
+      "link": "https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/",
+      "published_at": "Mon, 29 Jun 2026 17:45:53 +0000",
+      "summary": "The Figure 02 robot supported the production of more than 30,000 BMW X3 vehicles over 11 months in South Carolina.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "MBody AI expands service robotics operations to eleven states and Canada",
+      "link": "https://www.therobotreport.com/mbody-ai-expands-service-robotics-operations-eleven-states-canada/",
+      "published_at": "Mon, 29 Jun 2026 15:41:42 +0000",
+      "summary": "MBody AI has deployed its hardware-agnostic Orchestrator platform to Florida and California, with a pilot in Ontario.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 15,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "autonomous",
-        "robot"
+        "robot",
+        "robotics"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "AI is great if you're an electrician",
-      "link": "https://qz.com/ai-data-center-boom-electricians-skilled-trades",
-      "summary": "The AI data center boom is creating an unprecedented demand for electricians and skilled trades, pushing wages higher and reshaping career paths",
+      "title": "The U.S. and Iran agreed to stop shooting — for now. Tech stocks are bouncing. It's been a rough June",
+      "link": "https://qz.com/stock-futures-nasdaq-sp500-us-iran-hostilities-pause-062926",
+      "summary": "A weekend of back-and-forth military exchanges between Washington and Tehran had put broader peace negotiations at risk",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 28 Jun 2026 09:10:48 GMT"
+      "published_at": "Mon, 29 Jun 2026 17:20:25 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
+      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "People in areas devastated by twin earthquakes say they need more support from the government.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 29 Jun 2026 04:52:17 GMT"
+      "published_at": "Tue, 30 Jun 2026 03:53:48 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Pakistani strikes kill dozens in Afghanistan",
-      "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Taliban government says civilians were killed, while Pakistan maintains they targeted militants.",
+      "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
+      "link": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 29 Jun 2026 08:15:29 GMT"
+      "published_at": "Tue, 30 Jun 2026 09:08:52 GMT"
     },
     {
       "source": "BBC World",
-      "title": "South Korea football coach quits as president calls for probe into World Cup loss",
-      "link": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
-      "summary": "South Korea was eliminated after missing out on a spot among the eight best third-placed teams.",
+      "title": "Manhunt under way after bomb injures Ukrainian oligarch and family in Monaco",
+      "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 29 Jun 2026 07:18:14 GMT"
+      "published_at": "Tue, 30 Jun 2026 09:08:43 GMT"
     }
   ],
   "market_items": [],
@@ -116,8 +116,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 16.6
+      "count": 6,
+      "avg_score": 17.5
     },
     "financial_system": {
       "count": 0,
@@ -131,7 +131,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 198,
+      "score": 243,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 88,
+      "score": 92,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,7 +153,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 16,
+      "score": 34,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -164,7 +164,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 16,
+      "score": 15,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -177,7 +177,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 198,
+      "score": 243,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -188,7 +188,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 88,
+      "score": 92,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -199,7 +199,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 16,
+      "score": 34,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
