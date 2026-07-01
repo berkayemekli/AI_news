@@ -1,35 +1,34 @@
 {
-  "generated_at": "2026-06-30T09:30:30.195801+00:00",
+  "generated_at": "2026-07-01T09:41:16.524757+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "We know how to build smarter robots. Now, we need to learn smarter ways to test them",
-      "link": "https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/",
-      "published_at": "Sat, 27 Jun 2026 13:00:47 +0000",
-      "summary": "Atharv Kolhar, a staff test automation engineer at Figure AI, says the robotics industry needs a testing philosophy that scales alongside autonomy.",
+      "title": "Soft, robotic cells from morph embed physical AI into hardware",
+      "link": "https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/",
+      "published_at": "Tue, 30 Jun 2026 12:30:35 +0000",
+      "summary": "morph launched a physically intelligent soft robotics platform that designs and manufactures what it calls “soft robotic cells.”",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
       "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "automation",
         "robot",
         "robotics"
       ]
     },
     {
       "source": "The Robot Report",
-      "title": "Insights behind Kinisi’s acquisition by Bear Robotics",
-      "link": "https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/",
-      "published_at": "Mon, 29 Jun 2026 22:29:11 +0000",
-      "summary": "Brennand Pierce, founder and CEO of Kinisi Robotics, discusses the company's approach to physical AI and its acquisition by Bear Robotics.",
+      "title": "X Square Robot brings its valuation to $2.8B with four consecutive funding rounds",
+      "link": "https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/",
+      "published_at": "Tue, 30 Jun 2026 19:49:05 +0000",
+      "summary": "X Square Robots' system combines foundation models, robotics hardware, a data pipeline system, and real-world deployments.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -46,7 +45,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -55,15 +54,15 @@
     },
     {
       "source": "The Robot Report",
-      "title": "MBody AI expands service robotics operations to eleven states and Canada",
-      "link": "https://www.therobotreport.com/mbody-ai-expands-service-robotics-operations-eleven-states-canada/",
-      "published_at": "Mon, 29 Jun 2026 15:41:42 +0000",
-      "summary": "MBody AI has deployed its hardware-agnostic Orchestrator platform to Florida and California, with a pilot in Ontario.",
+      "title": "Insights behind Kinisi’s acquisition by Bear Robotics",
+      "link": "https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/",
+      "published_at": "Mon, 29 Jun 2026 22:29:11 +0000",
+      "summary": "Brennand Pierce, founder and CEO of Kinisi Robotics, discusses the company's approach to physical AI and its acquisition by Bear Robotics.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -74,35 +73,35 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "The U.S. and Iran agreed to stop shooting — for now. Tech stocks are bouncing. It's been a rough June",
-      "link": "https://qz.com/stock-futures-nasdaq-sp500-us-iran-hostilities-pause-062926",
-      "summary": "A weekend of back-and-forth military exchanges between Washington and Tehran had put broader peace negotiations at risk",
+      "title": "Bolivia mobilizes troops, bulldozers under 90-day emergency decree",
+      "link": "https://qz.com/bolivia-state-emergency-protest-roadblocks-062026",
+      "summary": "A 50-day blockade crisis forced Paz to send the military and heavy equipment to reopen roads as cities ran critically low on food, fuel, and medicine",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 29 Jun 2026 17:20:25 GMT"
+      "published_at": "Tue, 30 Jun 2026 20:24:20 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Cleveland Fed president says AI spending is fueling inflation — and warns of interest rate hikes",
+      "link": "https://qz.com/cleveland-fed-hammack-ai-inflation-rate-hikes-063026",
+      "summary": "Beth Hammack cited \"insatiable\" demand for AI infrastructure as a price pressure and said higher rates may be required to bring inflation back to target",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Tue, 30 Jun 2026 19:00:33 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "People in areas devastated by twin earthquakes say they need more support from the government.",
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 30 Jun 2026 03:53:48 GMT"
+      "published_at": "Wed, 01 Jul 2026 07:30:53 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
-      "link": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
+      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 30 Jun 2026 09:08:52 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Manhunt under way after bomb injures Ukrainian oligarch and family in Monaco",
-      "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 30 Jun 2026 09:08:43 GMT"
+      "published_at": "Wed, 01 Jul 2026 05:32:26 GMT"
     }
   ],
   "market_items": [],
@@ -116,8 +115,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 6,
-      "avg_score": 17.5
+      "count": 5,
+      "avg_score": 18.2
     },
     "financial_system": {
       "count": 0,
@@ -131,7 +130,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 243,
+      "score": 192,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +141,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 92,
+      "score": 78,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,31 +152,20 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 34,
+      "score": 60,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 15,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 243,
+      "score": 192,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -188,7 +176,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 92,
+      "score": 78,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -199,7 +187,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 34,
+      "score": 60,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
