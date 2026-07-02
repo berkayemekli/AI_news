@@ -1,53 +1,57 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-07-01T09:41:16.524757+00:00
+Uretim zamani: 2026-07-02T08:52:11.730835+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Soft, robotic cells from morph embed physical AI into hardware
+### 1. Card networks, banks, fintechs partner on ‘low-cost’ stablecoin
+- Kaynak: Payments Dive
+- Kategoriler: Finansal Sistem
+- Onem skoru: 27
+- Link: https://www.paymentsdive.com/news/stablecoin-open-standard-bridge-abrams-bny-stripe-mastercard-visa-coinbase-adyen/824223/
+- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, mastercard ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
+
+### 2. Top 10 robotics developments of June 2026
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 20
-- Link: https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
-
-### 2. X Square Robot brings its valuation to $2.8B with four consecutive funding rounds
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 20
-- Link: https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
-
-### 3. BMW Group deploys Figure 03 humanoid after tests with previous version
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 17
-- Link: https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/
+- Onem skoru: 24
+- Link: https://www.therobotreport.com/top-10-robotic-stories-june-2026/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
 
-### 4. Insights behind Kinisi’s acquisition by Bear Robotics
+### 3. Alex Karp says something has 'gone completely wrong' with how OpenAI and Anthropic charge for AI
+- Kaynak: Quartz
+- Kategoriler: Finansal Sistem, Makro, Teknoloji
+- Onem skoru: 19
+- Link: https://qz.com/palantir-karp-openai-anthropic-token-pricing-enterprises-070126
+- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.
+
+### 4. Soft, robotic cells from morph embed physical AI into hardware
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 17
-- Link: https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/
+- Onem skoru: 19
+- Link: https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
 ## Trend Sinyali
 
-- Belirgin kategori ivmesi yok; haber akışı dengeli.
+- Makro ivmesi artıyor (0 -> 2).
+- Teknoloji ivmesi artıyor (0 -> 2).
+- Robotik ivmesi artıyor (5 -> 7).
+- Finansal Sistem ivmesi artıyor (0 -> 3).
 
 ## Topic Router
 
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
 - YZ Modelleri: The Information (yedek: Semafor Tech)
+- Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
 - Jeopolitik: Reuters World (yedek: Foreign Affairs)
 
 ## Feed Notlari

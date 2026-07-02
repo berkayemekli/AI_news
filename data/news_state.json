@@ -1,6 +1,64 @@
 {
-  "generated_at": "2026-07-01T09:41:16.524757+00:00",
+  "generated_at": "2026-07-02T08:52:11.730835+00:00",
   "headlines": [
+    {
+      "source": "Payments Dive",
+      "title": "Card networks, banks, fintechs partner on ‘low-cost’ stablecoin",
+      "link": "https://www.paymentsdive.com/news/stablecoin-open-standard-bridge-abrams-bny-stripe-mastercard-visa-coinbase-adyen/824223/",
+      "published_at": "Wed, 01 Jul 2026 10:52:00 -0400",
+      "summary": "Visa, Mastercard, Klarna and MoneyGram were among the companies that lent their backing to a digital asset launched Tuesday by Open Standard.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "categories": [
+        "financial_system"
+      ],
+      "score": 27,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, mastercard ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "fintech",
+        "mastercard",
+        "stablecoin",
+        "visa"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Top 10 robotics developments of June 2026",
+      "link": "https://www.therobotreport.com/top-10-robotic-stories-june-2026/",
+      "published_at": "Wed, 01 Jul 2026 16:10:57 +0000",
+      "summary": "Humanoid robots made many headlines in June 2026, whether it be for companies going public, new deployments, or hitting production milestones.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "Alex Karp says something has 'gone completely wrong' with how OpenAI and Anthropic charge for AI",
+      "link": "https://qz.com/palantir-karp-openai-anthropic-token-pricing-enterprises-070126",
+      "published_at": "Wed, 01 Jul 2026 17:30:35 GMT",
+      "summary": "The Palantir CEO said the token-based model has left enterprise customers frustrated and empty-handed",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 19,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "anthropic",
+        "model",
+        "openai"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Soft, robotic cells from morph embed physical AI into hardware",
@@ -11,58 +69,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "X Square Robot brings its valuation to $2.8B with four consecutive funding rounds",
-      "link": "https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/",
-      "published_at": "Tue, 30 Jun 2026 19:49:05 +0000",
-      "summary": "X Square Robots' system combines foundation models, robotics hardware, a data pipeline system, and real-world deployments.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "BMW Group deploys Figure 03 humanoid after tests with previous version",
-      "link": "https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/",
-      "published_at": "Mon, 29 Jun 2026 17:45:53 +0000",
-      "summary": "The Figure 02 robot supported the production of more than 30,000 BMW X3 vehicles over 11 months in South Carolina.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Insights behind Kinisi’s acquisition by Bear Robotics",
-      "link": "https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/",
-      "published_at": "Mon, 29 Jun 2026 22:29:11 +0000",
-      "summary": "Brennand Pierce, founder and CEO of Kinisi Robotics, discusses the company's approach to physical AI and its acquisition by Bear Robotics.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -73,64 +80,67 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Bolivia mobilizes troops, bulldozers under 90-day emergency decree",
-      "link": "https://qz.com/bolivia-state-emergency-protest-roadblocks-062026",
-      "summary": "A 50-day blockade crisis forced Paz to send the military and heavy equipment to reopen roads as cities ran critically low on food, fuel, and medicine",
+      "title": "The U.S. is skipping USMCA renewal, pushing North American trade into rolling annual talks",
+      "link": "https://qz.com/us-usmca-renewal-annual-reviews-canada-mexico-070126",
+      "summary": "Trade Representative Jamieson Greer said the U.S. is \"not prepared to rubber stamp the agreement,\" opening a 10-year review window before the pact expires",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 30 Jun 2026 20:24:20 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Cleveland Fed president says AI spending is fueling inflation — and warns of interest rate hikes",
-      "link": "https://qz.com/cleveland-fed-hammack-ai-inflation-rate-hikes-063026",
-      "summary": "Beth Hammack cited \"insatiable\" demand for AI infrastructure as a price pressure and said higher rates may be required to bring inflation back to target",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 30 Jun 2026 19:00:33 GMT"
+      "published_at": "Wed, 01 Jul 2026 16:40:39 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump made more than $1bn from crypto in first year back in office",
-      "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+      "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+      "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+      "summary": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 01 Jul 2026 07:30:53 GMT"
+      "published_at": "Wed, 01 Jul 2026 22:36:43 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+      "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+      "link": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 01 Jul 2026 05:32:26 GMT"
+      "published_at": "Wed, 01 Jul 2026 22:13:03 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "US blocks long-term renewal of North American trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+      "summary": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Wed, 01 Jul 2026 18:56:36 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 18.5
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 18.5
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 18.2
+      "count": 7,
+      "avg_score": 18.3
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 3,
+      "avg_score": 21.3
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Makro ivmesi artıyor (0 -> 2).",
+    "Teknoloji ivmesi artıyor (0 -> 2).",
+    "Robotik ivmesi artıyor (5 -> 7).",
+    "Finansal Sistem ivmesi artıyor (0 -> 3)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 192,
+      "score": 295,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -141,7 +151,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 78,
+      "score": 173,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -150,9 +160,20 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 112,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 60,
+      "score": 76,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -165,7 +186,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 192,
+      "score": 295,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -176,7 +197,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 78,
+      "score": 173,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -185,15 +206,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 60,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 112,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
