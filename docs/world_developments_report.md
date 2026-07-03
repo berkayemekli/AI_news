@@ -1,13 +1,13 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-07-02T08:52:11.730835+00:00
+Uretim zamani: 2026-07-03T09:14:24.280673+00:00
 
 ## Bugunun 5 Onemli Basligi
 
 ### 1. Card networks, banks, fintechs partner on ‘low-cost’ stablecoin
 - Kaynak: Payments Dive
 - Kategoriler: Finansal Sistem
-- Onem skoru: 27
+- Onem skoru: 26
 - Link: https://www.paymentsdive.com/news/stablecoin-open-standard-bridge-abrams-bny-stripe-mastercard-visa-coinbase-adyen/824223/
 - Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, mastercard ekseninde öne çıkıyor.
 
@@ -16,25 +16,25 @@ Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestig
 ### 2. Top 10 robotics developments of June 2026
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 24
+- Onem skoru: 23
 - Link: https://www.therobotreport.com/top-10-robotic-stories-june-2026/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
 
-### 3. Alex Karp says something has 'gone completely wrong' with how OpenAI and Anthropic charge for AI
-- Kaynak: Quartz
-- Kategoriler: Finansal Sistem, Makro, Teknoloji
-- Onem skoru: 19
-- Link: https://qz.com/palantir-karp-openai-anthropic-token-pricing-enterprises-070126
-- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.
+### 3. Luxonis closes Series A round to scale physical AI perception layer
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 22
+- Link: https://www.therobotreport.com/luxonis-closes-series-a-round-to-scale-physical-ai-perception-layer/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.
 
-Turkce ozet: Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
 ### 4. Soft, robotic cells from morph embed physical AI into hardware
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 19
+- Onem skoru: 18
 - Link: https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
@@ -42,16 +42,16 @@ Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gerce
 
 ## Trend Sinyali
 
-- Makro ivmesi artıyor (0 -> 2).
-- Teknoloji ivmesi artıyor (0 -> 2).
-- Robotik ivmesi artıyor (5 -> 7).
-- Finansal Sistem ivmesi artıyor (0 -> 3).
+- Makro akışı yavaşladı (2 -> 0).
+- Teknoloji akışı yavaşladı (2 -> 0).
+- Robotik akışı yavaşladı (7 -> 5).
+- Finansal Sistem akışı yavaşladı (3 -> 1).
 
 ## Topic Router
 
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
-- YZ Modelleri: The Information (yedek: Semafor Tech)
 - Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
+- YZ Modelleri: The Information (yedek: Semafor Tech)
 - Jeopolitik: Reuters World (yedek: Foreign Affairs)
 
 ## Feed Notlari
