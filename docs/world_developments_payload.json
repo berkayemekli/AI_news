@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T09:14:24.280673+00:00",
+  "generated_at": "2026-07-04T08:33:22.549921+00:00",
   "headlines": [
     {
       "source": "Payments Dive",
@@ -11,7 +11,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 26,
+      "score": 25,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, mastercard ekseninde öne çıkıyor.",
       "matched_keywords": [
         "fintech",
@@ -30,7 +30,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -48,7 +48,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -58,15 +58,15 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Soft, robotic cells from morph embed physical AI into hardware",
-      "link": "https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/",
-      "published_at": "Tue, 30 Jun 2026 12:30:35 +0000",
-      "summary": "morph launched a physically intelligent soft robotics platform that designs and manufactures what it calls “soft robotic cells.”",
+      "title": "In Robotics, Ruggedization Is No Longer Optional",
+      "link": "https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/",
+      "published_at": "Wed, 01 Jul 2026 18:44:05 +0000",
+      "summary": "As autonomy moves beyond controlled environments, ruggedized design is becoming a prerequisite for reliable robotic operations.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -76,12 +76,20 @@
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-      "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.",
+      "source": "Quartz",
+      "title": "20 animals that look like nothing else on Earth",
+      "link": "https://qz.com/animals-that-look-designed-but-werent",
+      "summary": "Evolution, millions of years of selection pressure, and the specific ingenuity of survival have produced animals who are still being studied and imitated by researchers",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 02 Jul 2026 23:15:22 GMT"
+      "published_at": "Fri, 03 Jul 2026 22:34:28 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 04 Jul 2026 07:52:55 GMT"
     },
     {
       "source": "BBC World",
@@ -89,15 +97,15 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
       "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 03 Jul 2026 08:50:21 GMT"
+      "published_at": "Sat, 04 Jul 2026 04:12:06 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
-      "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-      "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 03 Jul 2026 06:42:14 GMT"
+      "published_at": "Fri, 03 Jul 2026 10:23:32 GMT"
     }
   ],
   "market_items": [],
@@ -111,25 +119,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 19.6
+      "count": 3,
+      "avg_score": 19.7
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 26.0
+      "avg_score": 25.0
     }
   },
   "trend_signals": [
-    "Makro akışı yavaşladı (2 -> 0).",
-    "Teknoloji akışı yavaşladı (2 -> 0).",
-    "Robotik akışı yavaşladı (7 -> 5).",
-    "Finansal Sistem akışı yavaşladı (3 -> 1)."
+    "Robotik akışı yavaşladı (5 -> 3)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 253,
+      "score": 169,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -140,7 +145,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 108,
+      "score": 104,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -151,31 +156,20 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 61,
+      "score": 22,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 38,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 253,
+      "score": 169,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -186,7 +180,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 108,
+      "score": 104,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -197,7 +191,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 61,
+      "score": 22,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
