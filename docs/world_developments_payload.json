@@ -1,43 +1,6 @@
 {
-  "generated_at": "2026-07-04T08:33:22.549921+00:00",
+  "generated_at": "2026-07-05T08:49:23.819232+00:00",
   "headlines": [
-    {
-      "source": "Payments Dive",
-      "title": "Card networks, banks, fintechs partner on ‘low-cost’ stablecoin",
-      "link": "https://www.paymentsdive.com/news/stablecoin-open-standard-bridge-abrams-bny-stripe-mastercard-visa-coinbase-adyen/824223/",
-      "published_at": "Wed, 01 Jul 2026 10:52:00 -0400",
-      "summary": "Visa, Mastercard, Klarna and MoneyGram were among the companies that lent their backing to a digital asset launched Tuesday by Open Standard.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
-      "categories": [
-        "financial_system"
-      ],
-      "score": 25,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, mastercard ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "fintech",
-        "mastercard",
-        "stablecoin",
-        "visa"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Top 10 robotics developments of June 2026",
-      "link": "https://www.therobotreport.com/top-10-robotic-stories-june-2026/",
-      "published_at": "Wed, 01 Jul 2026 16:10:57 +0000",
-      "summary": "Humanoid robots made many headlines in June 2026, whether it be for companies going public, new deployments, or hitting production milestones.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot",
-        "robotics"
-      ]
-    },
     {
       "source": "The Robot Report",
       "title": "Luxonis closes Series A round to scale physical AI perception layer",
@@ -48,27 +11,10 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "In Robotics, Ruggedization Is No Longer Optional",
-      "link": "https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/",
-      "published_at": "Wed, 01 Jul 2026 18:44:05 +0000",
-      "summary": "As autonomy moves beyond controlled environments, ruggedized design is becoming a prerequisite for reliable robotic operations.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
         "robot",
         "robotics"
       ]
@@ -85,27 +31,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+      "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 04 Jul 2026 07:52:55 GMT"
+      "published_at": "Sun, 05 Jul 2026 08:24:32 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Iran begins public mourning for Ayatollah killed in February",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
-      "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 04 Jul 2026 04:12:06 GMT"
+      "published_at": "Sat, 04 Jul 2026 18:41:25 GMT"
     },
     {
       "source": "BBC World",
-      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-      "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-      "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+      "title": "Chinese underground church figure Jin Mingri freed from prison",
+      "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 03 Jul 2026 10:23:32 GMT"
+      "published_at": "Sun, 05 Jul 2026 05:58:21 GMT"
     }
   ],
   "market_items": [],
@@ -119,22 +65,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 19.7
+      "count": 1,
+      "avg_score": 20.0
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 25.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (5 -> 3)."
+    "Robotik akışı yavaşladı (3 -> 1)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 169,
+      "score": 63,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -143,20 +89,9 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 104,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 22,
+      "score": 21,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -169,7 +104,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 169,
+      "score": 63,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -178,26 +113,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 104,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 22,
+      "score": 21,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
