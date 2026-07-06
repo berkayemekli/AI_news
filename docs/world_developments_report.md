@@ -1,26 +1,22 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-07-05T08:49:23.819232+00:00
+Uretim zamani: 2026-07-06T10:14:51.944610+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Luxonis closes Series A round to scale physical AI perception layer
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 20
-- Link: https://www.therobotreport.com/luxonis-closes-series-a-round-to-scale-physical-ai-perception-layer/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.
+Bu calistirmada anlamli haber secilemedi.
 
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+Muhtemel nedenler: feed erisim hatasi, eski haberler veya anahtar kelime filtresi.
 
 ## Trend Sinyali
 
-- Robotik akışı yavaşladı (3 -> 1).
+- Belirgin kategori ivmesi yok; haber akışı dengeli.
 
 ## Topic Router
 
-- Robotik: The Robot Report (yedek: Bloomberg Technology)
-- YZ Modelleri: The Information (yedek: Semafor Tech)
+- Nvidia: Bloomberg Technology (yedek: Stratechery)
+- Jeopolitik: Reuters World (yedek: Foreign Affairs)
+- Markets: Bloomberg (yedek: Financial Times)
 
 ## Feed Notlari
 
