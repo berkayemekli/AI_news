@@ -1,38 +1,90 @@
 {
-  "generated_at": "2026-07-06T10:14:51.944610+00:00",
-  "headlines": [],
+  "generated_at": "2026-07-07T09:36:43.701829+00:00",
+  "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Boston Dynamics brings its legged robots to the FIFA World Cup",
+      "link": "https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/",
+      "published_at": "Mon, 06 Jul 2026 20:45:48 +0000",
+      "summary": "Around the 2026 FIFA World Cup, Hyundai and Boston Dynamics have taught footwork to the Atlas humanoid, while the Spot robot is on patrol.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Kraken Robotics acquires Covelya Group for $615M",
+      "link": "https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/",
+      "published_at": "Mon, 06 Jul 2026 21:00:54 +0000",
+      "summary": "Covelya Group expands Kraken Robotics' product offerings and total addressable market in subsea technology.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "RoboBusiness 2026 call for speakers closes soon",
+      "link": "https://www.therobotreport.com/robobusiness-2026-opens-call-for-speakers/",
+      "published_at": "Mon, 06 Jul 2026 13:26:34 +0000",
+      "summary": "RoboBusiness 2026, the premier event for developers of commercial robotics and those building robotics businesses, is seeking expert speakers.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    }
+  ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "The best places to drink coffee in Costa Rica",
-      "link": "https://qz.com/best-places-drink-coffee-costa-rica",
-      "summary": "From Escalante's density of direct-trade cafés in San José's most energetic neighborhood to Finca Rosa Blanca's plantation hotel",
+      "title": "20 popular objects that were designed for an entirely different purpose",
+      "link": "https://qz.com/popular-objects-designed-for-different-purposes",
+      "summary": "Many recognizable products found in modern households and offices were originally engineered to solve entirely unrelated industrial, military, or medical problems before consumer adaptation",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 06 Jul 2026 09:13:15 GMT"
+      "published_at": "Mon, 06 Jul 2026 19:25:54 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Ukraine warns of interceptor missile shortage as 14 killed in Kyiv region",
-      "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+      "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 06 Jul 2026 09:35:43 GMT"
+      "published_at": "Tue, 07 Jul 2026 04:18:19 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+      "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+      "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Mon, 06 Jul 2026 23:55:53 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France",
       "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
       "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 05 Jul 2026 23:31:04 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
-      "link": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 05 Jul 2026 22:01:43 GMT"
+      "published_at": "Tue, 07 Jul 2026 06:28:56 GMT"
     }
   ],
   "market_items": [],
@@ -46,8 +98,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 3,
+      "avg_score": 18.0
     },
     "financial_system": {
       "count": 0,
@@ -55,35 +107,35 @@
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (0 -> 3)."
   ],
   "topic_router": [
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 0,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 114,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 0,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 19,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
       "topic": "markets",
       "label": "Markets",
-      "score": 0,
+      "score": 19,
       "best_source": "Bloomberg",
       "best_url": "https://www.bloomberg.com/",
       "backup_source": "Financial Times",
@@ -94,31 +146,31 @@
   ],
   "today_stack": [
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 0,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 114,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 0,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 19,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
       "topic": "markets",
       "label": "Markets",
-      "score": 0,
+      "score": 19,
       "best_source": "Bloomberg",
       "best_url": "https://www.bloomberg.com/",
       "backup_source": "Financial Times",
