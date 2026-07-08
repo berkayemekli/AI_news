@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-07-07T09:36:43.701829+00:00",
+  "generated_at": "2026-07-08T08:23:53.240072+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "ABB Robotics includes vSLAM navigation in F712 autonomous forklift",
+      "link": "https://www.therobotreport.com/abb-robotics-includes-vslam-navigation-f712-autonomous-forklift/",
+      "published_at": "Tue, 07 Jul 2026 20:24:24 +0000",
+      "summary": "The Flexley Stacy F712 forklift uses vision to navigate, works with other robots, and complies with safety standards, says ABB Robotics.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 23,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "autonomous",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Tesollo initiates IPO process while developing humanoid hands",
+      "link": "https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/",
+      "published_at": "Tue, 07 Jul 2026 13:17:40 +0000",
+      "summary": "Tesollo, a South Korean robotic hand specialist, has officially begun preparations for its initial public offering.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Boston Dynamics brings its legged robots to the FIFA World Cup",
@@ -11,7 +46,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -28,24 +63,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "RoboBusiness 2026 call for speakers closes soon",
-      "link": "https://www.therobotreport.com/robobusiness-2026-opens-call-for-speakers/",
-      "published_at": "Mon, 06 Jul 2026 13:26:34 +0000",
-      "summary": "RoboBusiness 2026, the premier event for developers of commercial robotics and those building robotics businesses, is seeking expert speakers.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -56,35 +74,35 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "20 popular objects that were designed for an entirely different purpose",
-      "link": "https://qz.com/popular-objects-designed-for-different-purposes",
-      "summary": "Many recognizable products found in modern households and offices were originally engineered to solve entirely unrelated industrial, military, or medical problems before consumer adaptation",
+      "title": "Things are getting worse in the Strait of Hormuz — again",
+      "link": "https://qz.com/iran-qatari-tanker-saudi-oil-ship-strait-hormuz-070726",
+      "summary": "New attacks, the largest number of such incidents since a U.S.-Iran interim deal took effect, pushed oil prices up more than 3%",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 06 Jul 2026 19:25:54 GMT"
+      "published_at": "Tue, 07 Jul 2026 19:30:35 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
+      "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 07 Jul 2026 04:18:19 GMT"
+      "published_at": "Wed, 08 Jul 2026 08:11:50 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
-      "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+      "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+      "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 06 Jul 2026 23:55:53 GMT"
+      "published_at": "Wed, 08 Jul 2026 03:22:46 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France",
-      "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+      "title": "Nato allies announce £37bn for new missile project",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 07 Jul 2026 06:28:56 GMT"
+      "published_at": "Wed, 08 Jul 2026 05:57:53 GMT"
     }
   ],
   "market_items": [],
@@ -98,8 +116,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 18.0
+      "count": 5,
+      "avg_score": 18.4
     },
     "financial_system": {
       "count": 0,
@@ -107,13 +125,13 @@
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (0 -> 3)."
+    "Robotik ivmesi artıyor (3 -> 5)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 114,
+      "score": 218,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -124,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 19,
+      "score": 18,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -135,7 +153,7 @@
     {
       "topic": "markets",
       "label": "Markets",
-      "score": 19,
+      "score": 18,
       "best_source": "Bloomberg",
       "best_url": "https://www.bloomberg.com/",
       "backup_source": "Financial Times",
@@ -148,7 +166,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 114,
+      "score": 218,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -159,7 +177,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 19,
+      "score": 18,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -170,7 +188,7 @@
     {
       "topic": "markets",
       "label": "Markets",
-      "score": 19,
+      "score": 18,
       "best_source": "Bloomberg",
       "best_url": "https://www.bloomberg.com/",
       "backup_source": "Financial Times",
