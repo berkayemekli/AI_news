@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T08:23:53.240072+00:00",
+  "generated_at": "2026-07-09T09:40:12.542789+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,10 +11,44 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "NVIDIA and Hugging Face bring new models and frameworks to LeRobot",
+      "link": "https://www.therobotreport.com/nvidia-hugging-face-bring-new-models-frameworks-lerobot/",
+      "published_at": "Wed, 08 Jul 2026 22:49:50 +0000",
+      "summary": "Hugging Face LeRobot is an open-source robotics library for training, running, and sharing robot datasets, models, policies, and workflows.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "ENCY Software and Stäubli Robotics partner to simplify robot programming",
+      "link": "https://www.therobotreport.com/ency-software-staubli-robotics-partner-simplify-robot-programming/",
+      "published_at": "Wed, 08 Jul 2026 15:02:53 +0000",
+      "summary": "ENCY Software and Stäubli Robotics have signed a global agreement to make robot programming more intuitive, faster, and more accessible.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
         "robot",
         "robotics"
       ]
@@ -29,72 +63,38 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Boston Dynamics brings its legged robots to the FIFA World Cup",
-      "link": "https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/",
-      "published_at": "Mon, 06 Jul 2026 20:45:48 +0000",
-      "summary": "Around the 2026 FIFA World Cup, Hyundai and Boston Dynamics have taught footwork to the Atlas humanoid, while the Spot robot is on patrol.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
       "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Kraken Robotics acquires Covelya Group for $615M",
-      "link": "https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/",
-      "published_at": "Mon, 06 Jul 2026 21:00:54 +0000",
-      "summary": "Covelya Group expands Kraken Robotics' product offerings and total addressable market in subsea technology.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
       ]
     }
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "Things are getting worse in the Strait of Hormuz — again",
-      "link": "https://qz.com/iran-qatari-tanker-saudi-oil-ship-strait-hormuz-070726",
-      "summary": "New attacks, the largest number of such incidents since a U.S.-Iran interim deal took effect, pushed oil prices up more than 3%",
+      "source": "BBC World",
+      "title": "US and Iran trade strikes for second night in a row",
+      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Traffic through the Strait of Hormuz has dropped 'dramatically' since the lastest attacks began.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 07 Jul 2026 19:30:35 GMT"
+      "published_at": "Thu, 09 Jul 2026 09:25:43 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
+      "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+      "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+      "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 08 Jul 2026 08:11:50 GMT"
+      "published_at": "Wed, 08 Jul 2026 17:18:14 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-      "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
+      "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
+      "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 08 Jul 2026 03:22:46 GMT"
+      "published_at": "Wed, 08 Jul 2026 20:40:11 GMT"
     },
     {
       "source": "BBC World",
@@ -116,8 +116,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 18.4
+      "count": 7,
+      "avg_score": 17.6
     },
     "financial_system": {
       "count": 0,
@@ -125,13 +125,13 @@
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (3 -> 5)."
+    "Robotik ivmesi artıyor (5 -> 7)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 218,
+      "score": 282,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 18,
+      "score": 57,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -151,22 +151,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 18,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 20,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 19,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 218,
+      "score": 282,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -177,7 +188,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 18,
+      "score": 57,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -186,15 +197,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 18,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 20,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
