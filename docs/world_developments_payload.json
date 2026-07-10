@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T09:40:12.542789+00:00",
+  "generated_at": "2026-07-10T09:30:44.288318+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -21,117 +21,123 @@
     },
     {
       "source": "The Robot Report",
-      "title": "NVIDIA and Hugging Face bring new models and frameworks to LeRobot",
-      "link": "https://www.therobotreport.com/nvidia-hugging-face-bring-new-models-frameworks-lerobot/",
-      "published_at": "Wed, 08 Jul 2026 22:49:50 +0000",
-      "summary": "Hugging Face LeRobot is an open-source robotics library for training, running, and sharing robot datasets, models, policies, and workflows.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "ENCY Software and Stäubli Robotics partner to simplify robot programming",
-      "link": "https://www.therobotreport.com/ency-software-staubli-robotics-partner-simplify-robot-programming/",
-      "published_at": "Wed, 08 Jul 2026 15:02:53 +0000",
-      "summary": "ENCY Software and Stäubli Robotics have signed a global agreement to make robot programming more intuitive, faster, and more accessible.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Tesollo initiates IPO process while developing humanoid hands",
-      "link": "https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/",
-      "published_at": "Tue, 07 Jul 2026 13:17:40 +0000",
-      "summary": "Tesollo, a South Korean robotic hand specialist, has officially begun preparations for its initial public offering.",
+      "title": "Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery",
+      "link": "https://www.therobotreport.com/beyond-da-vinci-why-versatile-humanoid-robots-are-next-frontier-surgery/",
+      "published_at": "Thu, 09 Jul 2026 12:30:47 +0000",
+      "summary": "For the first time, teleoperated humanoid robots successfully performed surgeries during a UC San Diego preclinical trial.",
       "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot"
       ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "ForSight Robotics’ road to performing a fully robotic cataract surgery",
+      "link": "https://www.therobotreport.com/forsight-robotics-road-to-performing-a-fully-robotic-cataracts-surgery/",
+      "published_at": "Thu, 09 Jul 2026 21:14:06 +0000",
+      "summary": "ForSight Robotics' JASPER Platform assists surgeons with cataract surgeries, while still leaving the power in the surgeon's hands.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "Meta is taking on Anthropic and OpenAI in the AI coding market",
+      "link": "https://qz.com/meta-muse-spark-api-developers-paid-anthropic-openai-070926",
+      "published_at": "Thu, 09 Jul 2026 21:00:41 GMT",
+      "summary": "The Muse Spark 1.1 model is priced at $1.25 per million input tokens and $4.25 per million output tokens, with $20 in free credits to start",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 19,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "anthropic",
+        "model",
+        "openai"
+      ]
     }
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "US and Iran trade strikes for second night in a row",
-      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Traffic through the Strait of Hormuz has dropped 'dramatically' since the lastest attacks began.",
+      "source": "Quartz",
+      "title": "Goldman Sachs is banning employees from betting on prediction markets",
+      "link": "https://qz.com/goldman-sachs-prediction-markets-ban-employees-insider-trading-070926",
+      "summary": "The bank updated its personal trading policy to prohibit event contracts tied to elections, macroeconomic data, and Goldman itself",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 09 Jul 2026 09:25:43 GMT"
+      "published_at": "Thu, 09 Jul 2026 21:12:06 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
-      "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-      "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
+      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 08 Jul 2026 17:18:14 GMT"
+      "published_at": "Thu, 09 Jul 2026 23:18:18 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
+      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+      "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 08 Jul 2026 20:40:11 GMT"
+      "published_at": "Thu, 09 Jul 2026 20:47:41 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Nato allies announce £37bn for new missile project",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
+      "title": "China lands reusable rocket for first time, state media says",
+      "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+      "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 08 Jul 2026 05:57:53 GMT"
+      "published_at": "Fri, 10 Jul 2026 06:44:21 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 4,
+      "avg_score": 18.5
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 4,
+      "avg_score": 18.5
     },
     "robotics": {
       "count": 7,
-      "avg_score": 17.6
+      "avg_score": 18.3
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 4,
+      "avg_score": 18.5
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (5 -> 7)."
+    "Makro ivmesi artıyor (0 -> 4).",
+    "Teknoloji ivmesi artıyor (0 -> 4).",
+    "Finansal Sistem ivmesi artıyor (0 -> 4)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 282,
+      "score": 291,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +148,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 57,
+      "score": 193,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,7 +159,7 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 20,
+      "score": 153,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
@@ -164,7 +170,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 19,
+      "score": 76,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -177,7 +183,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 282,
+      "score": 291,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -188,7 +194,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 57,
+      "score": 193,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -199,7 +205,7 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 20,
+      "score": 153,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
