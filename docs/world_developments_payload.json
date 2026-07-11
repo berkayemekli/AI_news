@@ -1,20 +1,42 @@
 {
-  "generated_at": "2026-07-10T09:30:44.288318+00:00",
+  "generated_at": "2026-07-11T07:51:26.168902+00:00",
   "headlines": [
     {
+      "source": "Quartz",
+      "title": "Meta launched AI models to compete with OpenAI and Anthropic. The stock erased a year's worth of losses",
+      "link": "https://qz.com/meta-stock-ai-models-iris-chip-071026",
+      "published_at": "Fri, 10 Jul 2026 18:50:31 GMT",
+      "summary": "Meta launched Muse Image and Muse Spark 1.1 this week while revealing plans to manufacture its first in-house AI chip in September",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 25,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "anthropic",
+        "chip",
+        "model",
+        "openai"
+      ]
+    },
+    {
       "source": "The Robot Report",
-      "title": "ABB Robotics includes vSLAM navigation in F712 autonomous forklift",
-      "link": "https://www.therobotreport.com/abb-robotics-includes-vslam-navigation-f712-autonomous-forklift/",
-      "published_at": "Tue, 07 Jul 2026 20:24:24 +0000",
-      "summary": "The Flexley Stacy F712 forklift uses vision to navigate, works with other robots, and complies with safety standards, says ABB Robotics.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "title": "AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots",
+      "link": "https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/",
+      "published_at": "Fri, 10 Jul 2026 19:44:55 +0000",
+      "summary": "Shenzhen’s Ai2 Robotics raised $735 million at a $2.8 billion valuation, backed by state, corporate, and financial giants.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "autonomous",
+        "humanoid",
         "robot",
         "robotics"
       ]
@@ -29,7 +51,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -46,98 +68,75 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "Meta is taking on Anthropic and OpenAI in the AI coding market",
-      "link": "https://qz.com/meta-muse-spark-api-developers-paid-anthropic-openai-070926",
-      "published_at": "Thu, 09 Jul 2026 21:00:41 GMT",
-      "summary": "The Muse Spark 1.1 model is priced at $1.25 per million input tokens and $4.25 per million output tokens, with $20 in free credits to start",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 19,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "anthropic",
-        "model",
-        "openai"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Goldman Sachs is banning employees from betting on prediction markets",
-      "link": "https://qz.com/goldman-sachs-prediction-markets-ban-employees-insider-trading-070926",
-      "summary": "The bank updated its personal trading policy to prohibit event contracts tied to elections, macroeconomic data, and Goldman itself",
+      "title": "Apple is suing OpenAI, saying it stole trade secrets",
+      "link": "https://qz.com/apple-sues-openai-trade-secrets-tang-tan-071026",
+      "summary": "Apple's lawsuit, which names two former Apple employees who now work for OpenAI as defendants, represents a dramatic escalation of tensions between the two companies",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 09 Jul 2026 21:12:06 GMT"
+      "published_at": "Sat, 11 Jul 2026 00:40:46 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Trump won't sign a bipartisan housing bill. It's becoming law anyway",
+      "link": "https://qz.com/trump-housing-bill-21st-century-road-act-law-071026",
+      "summary": "The president announced he will not sign the 21st Century ROAD to Housing Act, citing Senate Republicans' failure to pass an unrelated election bill",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 10 Jul 2026 18:50:37 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
+      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 09 Jul 2026 23:18:18 GMT"
+      "published_at": "Sat, 11 Jul 2026 04:56:33 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-      "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 09 Jul 2026 20:47:41 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "China lands reusable rocket for first time, state media says",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 10 Jul 2026 06:44:21 GMT"
+      "published_at": "Fri, 10 Jul 2026 13:53:11 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 4,
-      "avg_score": 18.5
+      "count": 3,
+      "avg_score": 20.0
     },
     "technology": {
-      "count": 4,
-      "avg_score": 18.5
+      "count": 3,
+      "avg_score": 20.0
     },
     "robotics": {
       "count": 7,
-      "avg_score": 18.3
+      "avg_score": 18.6
     },
     "financial_system": {
-      "count": 4,
-      "avg_score": 18.5
+      "count": 3,
+      "avg_score": 20.0
     }
   },
   "trend_signals": [
-    "Makro ivmesi artıyor (0 -> 4).",
-    "Teknoloji ivmesi artıyor (0 -> 4).",
-    "Finansal Sistem ivmesi artıyor (0 -> 4)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 291,
+      "score": 299,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -148,7 +147,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 193,
+      "score": 257,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -159,7 +158,7 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 153,
+      "score": 81,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
@@ -170,7 +169,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 76,
+      "score": 53,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -183,7 +182,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 291,
+      "score": 299,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -194,7 +193,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 193,
+      "score": 257,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -205,7 +204,7 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 153,
+      "score": 81,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
