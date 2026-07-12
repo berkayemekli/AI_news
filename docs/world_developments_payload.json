@@ -1,28 +1,6 @@
 {
-  "generated_at": "2026-07-11T07:51:26.168902+00:00",
+  "generated_at": "2026-07-12T08:12:55.827116+00:00",
   "headlines": [
-    {
-      "source": "Quartz",
-      "title": "Meta launched AI models to compete with OpenAI and Anthropic. The stock erased a year's worth of losses",
-      "link": "https://qz.com/meta-stock-ai-models-iris-chip-071026",
-      "published_at": "Fri, 10 Jul 2026 18:50:31 GMT",
-      "summary": "Meta launched Muse Image and Muse Spark 1.1 this week while revealing plans to manufacture its first in-house AI chip in September",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 25,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "anthropic",
-        "chip",
-        "model",
-        "openai"
-      ]
-    },
     {
       "source": "The Robot Report",
       "title": "AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots",
@@ -33,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -51,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -68,7 +46,24 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Why robotics teams need virtual gyms before deployment",
+      "link": "https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/",
+      "published_at": "Sat, 11 Jul 2026 12:36:16 +0000",
+      "summary": "To address environmental and task variability, robots can benefit from 'virtual gyms' to bridge the sim-to-real gap, says SoftServe.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -79,6 +74,14 @@
   "political_items": [
     {
       "source": "Quartz",
+      "title": "Bargains and questions: Trump's mysterious promotion of ‘Freedom Fuel’",
+      "link": "https://qz.com/freedom-fuel-trump",
+      "summary": "The establishment of the Freedom Fuel network is shrouded in mystery so far. It's unclear who is managing the company and how it obtains fuel",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 11 Jul 2026 09:10:42 GMT"
+    },
+    {
+      "source": "Quartz",
       "title": "Apple is suing OpenAI, saying it stole trade secrets",
       "link": "https://qz.com/apple-sues-openai-trade-secrets-tang-tan-071026",
       "summary": "Apple's lawsuit, which names two former Apple employees who now work for OpenAI as defendants, represents a dramatic escalation of tensions between the two companies",
@@ -86,57 +89,51 @@
       "published_at": "Sat, 11 Jul 2026 00:40:46 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Trump won't sign a bipartisan housing bill. It's becoming law anyway",
-      "link": "https://qz.com/trump-housing-bill-21st-century-road-act-law-071026",
-      "summary": "The president announced he will not sign the 21st Century ROAD to Housing Act, citing Senate Republicans' failure to pass an unrelated election bill",
+      "source": "BBC World",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 10 Jul 2026 18:50:37 GMT"
+      "published_at": "Sun, 12 Jul 2026 06:49:46 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+      "title": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The influential politician has just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 11 Jul 2026 04:56:33 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-      "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 10 Jul 2026 13:53:11 GMT"
+      "published_at": "Sun, 12 Jul 2026 07:33:12 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 3,
-      "avg_score": 20.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 3,
-      "avg_score": 20.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 7,
-      "avg_score": 18.6
+      "count": 6,
+      "avg_score": 18.3
     },
     "financial_system": {
-      "count": 3,
-      "avg_score": 20.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Makro akışı yavaşladı (3 -> 0).",
+    "Teknoloji akışı yavaşladı (3 -> 0).",
+    "Finansal Sistem akışı yavaşladı (3 -> 0)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 299,
+      "score": 256,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -147,7 +144,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 257,
+      "score": 42,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -156,20 +153,9 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 81,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 53,
+      "score": 17,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -182,7 +168,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 299,
+      "score": 256,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -193,7 +179,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 257,
+      "score": 42,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -202,15 +188,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 81,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 17,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
