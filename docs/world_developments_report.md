@@ -1,40 +1,40 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-07-12T08:12:55.827116+00:00
+Uretim zamani: 2026-07-13T09:21:23.235735+00:00
 
 ## Bugunun 5 Onemli Basligi
 
 ### 1. AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 23
+- Onem skoru: 22
 - Link: https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
 
-### 2. Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery
+### 2. STEM education in the classroom, introducing BotBall
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 18
-- Link: https://www.therobotreport.com/beyond-da-vinci-why-versatile-humanoid-robots-are-next-frontier-surgery/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
-
-### 3. ForSight Robotics’ road to performing a fully robotic cataract surgery
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 18
-- Link: https://www.therobotreport.com/forsight-robotics-road-to-performing-a-fully-robotic-cataracts-surgery/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+- Onem skoru: 22
+- Link: https://www.therobotreport.com/stem-education-classroom-introducing-botball/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+
+### 3. What tech companies actually mean when they say they're challenging Nvidia
+- Kaynak: Quartz
+- Kategoriler: Finansal Sistem, Makro, Teknoloji
+- Onem skoru: 19
+- Link: https://qz.com/challenging-nvidia-chip-competition-meaning-inference-training-070626
+- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.
 
 ### 4. Why robotics teams need virtual gyms before deployment
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 18
+- Onem skoru: 17
 - Link: https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
@@ -42,15 +42,13 @@ Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gerce
 
 ## Trend Sinyali
 
-- Makro akışı yavaşladı (3 -> 0).
-- Teknoloji akışı yavaşladı (3 -> 0).
-- Finansal Sistem akışı yavaşladı (3 -> 0).
+- Robotik akışı yavaşladı (6 -> 4).
 
 ## Topic Router
 
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
 - YZ Modelleri: The Information (yedek: Semafor Tech)
-- Jeopolitik: Reuters World (yedek: Foreign Affairs)
+- Nvidia: Bloomberg Technology (yedek: Stratechery)
 
 ## Feed Notlari
 
