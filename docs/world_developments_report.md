@@ -1,40 +1,31 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-07-13T09:21:23.235735+00:00
+Uretim zamani: 2026-07-14T07:59:28.077114+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 22
-- Link: https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
+### 1. A Fed governor warned a rate hike might be coming — but said the central bank shouldn't overreact
+- Kaynak: Quartz
+- Kategoriler: Finansal Sistem, Makro, Teknoloji
+- Onem skoru: 21
+- Link: https://qz.com/fed-waller-rate-hike-inflation-warning-071326
+- Bu seni neden ilgilendiriyor: Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, central bank ekseninde öne çıkıyor.
 
-Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
+Turkce ozet: Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.
 
 ### 2. STEM education in the classroom, introducing BotBall
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 22
+- Onem skoru: 21
 - Link: https://www.therobotreport.com/stem-education-classroom-introducing-botball/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 3. What tech companies actually mean when they say they're challenging Nvidia
-- Kaynak: Quartz
-- Kategoriler: Finansal Sistem, Makro, Teknoloji
-- Onem skoru: 19
-- Link: https://qz.com/challenging-nvidia-chip-competition-meaning-inference-training-070626
-- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.
-
-### 4. Why robotics teams need virtual gyms before deployment
+### 3. Why robotics teams need virtual gyms before deployment
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 17
+- Onem skoru: 16
 - Link: https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
@@ -42,13 +33,14 @@ Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gerce
 
 ## Trend Sinyali
 
-- Robotik akışı yavaşladı (6 -> 4).
+- Robotik akışı yavaşladı (4 -> 2).
 
 ## Topic Router
 
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
+- Jeopolitik: Reuters World (yedek: Foreign Affairs)
 - YZ Modelleri: The Information (yedek: Semafor Tech)
-- Nvidia: Bloomberg Technology (yedek: Stratechery)
+- Markets: Bloomberg (yedek: Financial Times)
 
 ## Feed Notlari
 

@@ -1,22 +1,25 @@
 {
-  "generated_at": "2026-07-13T09:21:23.235735+00:00",
+  "generated_at": "2026-07-14T07:59:28.077114+00:00",
   "headlines": [
     {
-      "source": "The Robot Report",
-      "title": "AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots",
-      "link": "https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/",
-      "published_at": "Fri, 10 Jul 2026 19:44:55 +0000",
-      "summary": "Shenzhen’s Ai2 Robotics raised $735 million at a $2.8 billion valuation, backed by state, corporate, and financial giants.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "source": "Quartz",
+      "title": "A Fed governor warned a rate hike might be coming — but said the central bank shouldn't overreact",
+      "link": "https://qz.com/fed-waller-rate-hike-inflation-warning-071326",
+      "published_at": "Mon, 13 Jul 2026 18:40:40 GMT",
+      "summary": "Christopher Waller said a hot core inflation reading this week could prompt the FOMC to consider tightening policy at its late-July meeting",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "categories": [
-        "robotics"
+        "financial_system",
+        "macro",
+        "technology"
       ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "score": 21,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, central bank ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "humanoid",
-        "robot",
-        "robotics"
+        "ai",
+        "central bank",
+        "fed",
+        "inflation"
       ]
     },
     {
@@ -29,32 +32,12 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "What tech companies actually mean when they say they're challenging Nvidia",
-      "link": "https://qz.com/challenging-nvidia-chip-competition-meaning-inference-training-070626",
-      "published_at": "Mon, 13 Jul 2026 01:51:08 GMT",
-      "summary": "Company after company has lined up to challenge Nvidia's grip on AI chips. No two of them are actually chasing the same prize",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 19,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "chip",
-        "nvidia"
       ]
     },
     {
@@ -67,7 +50,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -78,64 +61,64 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Bargains and questions: Trump's mysterious promotion of ‘Freedom Fuel’",
-      "link": "https://qz.com/freedom-fuel-trump",
-      "summary": "The establishment of the Freedom Fuel network is shrouded in mystery so far. It's unclear who is managing the company and how it obtains fuel",
+      "title": "These are the 10 most impressive national parks in China",
+      "link": "https://qz.com/most-impressive-national-parks-china",
+      "summary": "From Jiuzhaigou's gem-toned lakes and staggered waterfalls to Hua Shan's wooden planks bolted to a sheer cliff above a 2,000-meter drop",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 11 Jul 2026 09:10:42 GMT"
+      "published_at": "Mon, 13 Jul 2026 20:43:23 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Apple is suing OpenAI, saying it stole trade secrets",
-      "link": "https://qz.com/apple-sues-openai-trade-secrets-tang-tan-071026",
-      "summary": "Apple's lawsuit, which names two former Apple employees who now work for OpenAI as defendants, represents a dramatic escalation of tensions between the two companies",
+      "title": "Gotta catch them all (for the military)",
+      "link": "https://qz.com/pokemon-go-ai-data-military-drones-10-years",
+      "summary": "Pokémon Go's millions of players built one of the world's richest visual datasets now powering AI, delivery robots and even military drone technology",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 11 Jul 2026 00:40:46 GMT"
+      "published_at": "Mon, 13 Jul 2026 20:30:54 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
+      "source": "Quartz",
+      "title": "Oil surges and stocks sink as Trump reinstates the Iran blockade",
+      "link": "https://qz.com/oil-prices-trump-iran-blockade-strait-hormuz-toll-071326",
+      "summary": "Trump's announcement followed a weekend of renewed strikes between the U.S. and Iran, and came as tanker traffic through the Strait of Hormuz has collapsed",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 12 Jul 2026 22:08:07 GMT"
+      "published_at": "Mon, 13 Jul 2026 19:53:23 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
-      "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The veteran Republican says he will not return to work \"quite yet\", in his first statement following weeks of speculation about his health.",
+      "source": "Quartz",
+      "title": "Trump declares the U.S. the 'Guardian of the Strait of Hormuz.' Iran says no",
+      "link": "https://qz.com/trump-iran-blockade-strait-hormuz-20-percent-toll-071326",
+      "summary": "Iran declared the strait closed and vowed to block American interference as fresh U.S. strikes hit dozens of targets",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 12 Jul 2026 23:41:00 GMT"
+      "published_at": "Mon, 13 Jul 2026 19:50:28 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
       "count": 1,
-      "avg_score": 19.0
+      "avg_score": 21.0
     },
     "technology": {
       "count": 1,
-      "avg_score": 19.0
+      "avg_score": 21.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 19.2
+      "count": 2,
+      "avg_score": 18.5
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 19.0
+      "avg_score": 21.0
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (6 -> 4)."
+    "Robotik akışı yavaşladı (4 -> 2)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 208,
+      "score": 100,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -144,9 +127,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 44,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 60,
+      "score": 22,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -155,22 +149,22 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 60,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "markets",
+      "label": "Markets",
+      "score": 22,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 208,
+      "score": 100,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -179,26 +173,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 44,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 60,
+      "score": 22,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 60,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
