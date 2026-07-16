@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T08:04:57.961266+00:00",
+  "generated_at": "2026-07-16T08:08:15.228007+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 25,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -21,44 +21,24 @@
     },
     {
       "source": "Quartz",
-      "title": "Fed Chair Kevin Warsh vows to make 5 years of high inflation 'a thing of the past'",
-      "link": "https://qz.com/fed-chair-kevin-warsh-congressional-testimony-inflation-071426",
-      "published_at": "Tue, 14 Jul 2026 20:00:38 GMT",
-      "summary": "Warsh called inflation \"a tax on the American people\" in his first appearance before Congress as the central bank's leader",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "title": "The U.S. struck Iran again overnight. Chip stocks are rising anyway",
+      "link": "https://qz.com/chip-stocks-asml-earnings-iran-us-strikes-071526",
+      "published_at": "Wed, 15 Jul 2026 21:00:31 GMT",
+      "summary": "ASML raised its sales outlook for the second time this year, lifting semiconductor stocks even as oil prices climbed on renewed U.S.-Iran clashes",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
       "categories": [
         "financial_system",
         "macro",
         "technology"
       ],
-      "score": 21,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, central bank ekseninde öne çıkıyor.",
+      "score": 23,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
       "matched_keywords": [
         "ai",
-        "central bank",
-        "fed",
-        "inflation"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "Kevin Warsh promises to defeat 5 years of stubborn inflation as he comes to Congress",
-      "link": "https://qz.com/fed-chair-kevin-warsh-inflation-congress-testimony-071426",
-      "published_at": "Tue, 14 Jul 2026 20:00:29 GMT",
-      "summary": "The Fed chair told lawmakers that the central bank will not accept persistently elevated inflation, framing a return to price stability as a non-negotiable goal",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 21,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, central bank ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "central bank",
-        "fed",
-        "inflation"
+        "chip",
+        "oil",
+        "semiconductor",
+        "u.s."
       ]
     },
     {
@@ -71,47 +51,64 @@
       "categories": [
         "financial_system"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
         "settlement",
         "visa"
       ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Walden Robotics launches at $1.1B valuation for general-purpose robots",
+      "link": "https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/",
+      "published_at": "Wed, 15 Jul 2026 20:04:03 +0000",
+      "summary": "Leading technology companies have invested in Walden Robotics, which emerged from stealth as it develops full-stack physical AI.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Oil prices are surging to a one-month high as the U.S. reinstates its Iran blockade",
-      "link": "https://qz.com/oil-prices-iran-naval-blockade-strait-hormuz-071426",
-      "summary": "Brent crude rose above $87 a barrel as fresh U.S.-Iran strikes and tanker attacks stoked fears over Hormuz supply flows",
+      "title": "America is building 3,000 data centers. The economics aren't as great as they seem",
+      "link": "https://qz.com/data-center-construction-permanent-jobs-cliff-071026",
+      "summary": "Cities trade tax breaks for a fraction of the jobs data centers promise. That's because construction crews that build them move on within months",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 14 Jul 2026 20:20:42 GMT"
+      "published_at": "Wed, 15 Jul 2026 21:01:24 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Fed Chair Kevin Warsh vows to make 5 years of high inflation 'a thing of the past'",
-      "link": "https://qz.com/fed-chair-kevin-warsh-congressional-testimony-inflation-071426",
-      "summary": "Warsh called inflation \"a tax on the American people\" in his first appearance before Congress as the central bank's leader",
+      "title": "America spent decades telling students to go to college. Now it needs trades workers",
+      "link": "https://qz.com/college-for-all-vocational-decline-trades-shortage-071026",
+      "summary": "Forty years of federal policy pushed students toward college. Now the country doesn't have enough electricians to wire its data centers",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 14 Jul 2026 20:00:38 GMT"
+      "published_at": "Wed, 15 Jul 2026 21:01:17 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Kevin Warsh promises to defeat 5 years of stubborn inflation as he comes to Congress",
-      "link": "https://qz.com/fed-chair-kevin-warsh-inflation-congress-testimony-071426",
-      "summary": "The Fed chair told lawmakers that the central bank will not accept persistently elevated inflation, framing a return to price stability as a non-negotiable goal",
+      "title": "AI is great if you're an electrician",
+      "link": "https://qz.com/ai-data-center-boom-electricians-skilled-trades",
+      "summary": "The AI data center boom is creating an unprecedented demand for electricians and skilled trades, pushing wages higher and reshaping career paths",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 14 Jul 2026 20:00:29 GMT"
+      "published_at": "Wed, 15 Jul 2026 21:01:17 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
+      "source": "Quartz",
+      "title": "Trade school enrollment is booming. It's mostly a demographic mirage",
+      "link": "https://qz.com/trade-school-enrollment-1421-percent-gen-z-explained-071026",
+      "summary": "Trade school enrollment only jumped because Gen Z got old enough to attend. Apprenticeship programs still can't absorb demand for electricians",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 15 Jul 2026 06:47:25 GMT"
+      "published_at": "Wed, 15 Jul 2026 21:01:05 GMT"
     }
   ],
   "market_items": [],
@@ -121,26 +118,26 @@
       "avg_score": 21.0
     },
     "technology": {
-      "count": 2,
-      "avg_score": 21.0
+      "count": 3,
+      "avg_score": 19.7
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 22.5
+      "count": 4,
+      "avg_score": 19.8
     },
     "financial_system": {
       "count": 3,
-      "avg_score": 21.0
+      "avg_score": 20.7
     }
   },
   "trend_signals": [
-    "Finansal Sistem ivmesi artıyor (1 -> 3)."
+    "Robotik ivmesi artıyor (2 -> 4)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 141,
+      "score": 190,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -149,20 +146,9 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 110,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 66,
+      "score": 177,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -171,22 +157,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 44,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 68,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 62,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 141,
+      "score": 190,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -195,26 +192,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 110,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 66,
+      "score": 177,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 68,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
