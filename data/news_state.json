@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T08:08:15.228007+00:00",
+  "generated_at": "2026-07-17T08:05:54.229016+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,34 +11,12 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "The U.S. struck Iran again overnight. Chip stocks are rising anyway",
-      "link": "https://qz.com/chip-stocks-asml-earnings-iran-us-strikes-071526",
-      "published_at": "Wed, 15 Jul 2026 21:00:31 GMT",
-      "summary": "ASML raised its sales outlook for the second time this year, lifting semiconductor stocks even as oil prices climbed on renewed U.S.-Iran clashes",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 23,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "chip",
-        "oil",
-        "semiconductor",
-        "u.s."
       ]
     },
     {
@@ -51,7 +29,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
@@ -69,75 +47,94 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Agility outlines six recommendations for U.S. humanoid robot policies",
+      "link": "https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/",
+      "published_at": "Wed, 15 Jul 2026 18:58:29 +0000",
+      "summary": "Peggy Johnson, CEO of Agility, said the U.S. needs a policy framework that can strengthen what's already working for the humanoid industry.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 17,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "America is building 3,000 data centers. The economics aren't as great as they seem",
-      "link": "https://qz.com/data-center-construction-permanent-jobs-cliff-071026",
-      "summary": "Cities trade tax breaks for a fraction of the jobs data centers promise. That's because construction crews that build them move on within months",
+      "title": "Trump Media is selling Wall Street faster access to Trump's market-moving posts",
+      "link": "https://qz.com/trump-media-truth-social-api-wall-street-traders-071626",
+      "summary": "A new product will effectively allow Trump's company to sell early access to the president's market-moving posts",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 15 Jul 2026 21:01:24 GMT"
+      "published_at": "Fri, 17 Jul 2026 01:20:36 GMT"
     },
     {
       "source": "Quartz",
-      "title": "America spent decades telling students to go to college. Now it needs trades workers",
-      "link": "https://qz.com/college-for-all-vocational-decline-trades-shortage-071026",
-      "summary": "Forty years of federal policy pushed students toward college. Now the country doesn't have enough electricians to wire its data centers",
+      "title": "Dallas Fed president calls for higher interest rates to finish the inflation fight",
+      "link": "https://qz.com/dallas-fed-logan-higher-interest-rates-inflation-071626",
+      "summary": "Lorie Logan said inflation does not appear headed back to 2% and that modest rate increases would better balance the Fed's dual mandate",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 15 Jul 2026 21:01:17 GMT"
+      "published_at": "Thu, 16 Jul 2026 19:50:33 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "AI is great if you're an electrician",
-      "link": "https://qz.com/ai-data-center-boom-electricians-skilled-trades",
-      "summary": "The AI data center boom is creating an unprecedented demand for electricians and skilled trades, pushing wages higher and reshaping career paths",
+      "source": "BBC World",
+      "title": "US launches new strikes as Iran says civilian infrastructure hit",
+      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 15 Jul 2026 21:01:17 GMT"
+      "published_at": "Fri, 17 Jul 2026 07:00:31 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Trade school enrollment is booming. It's mostly a demographic mirage",
-      "link": "https://qz.com/trade-school-enrollment-1421-percent-gen-z-explained-071026",
-      "summary": "Trade school enrollment only jumped because Gen Z got old enough to attend. Apprenticeship programs still can't absorb demand for electricians",
+      "source": "BBC World",
+      "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 15 Jul 2026 21:01:05 GMT"
+      "published_at": "Fri, 17 Jul 2026 04:08:27 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 2,
-      "avg_score": 21.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 3,
-      "avg_score": 19.7
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
       "count": 4,
-      "avg_score": 19.8
+      "avg_score": 18.8
     },
     "financial_system": {
-      "count": 3,
-      "avg_score": 20.7
+      "count": 1,
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (2 -> 4)."
+    "Makro akışı yavaşladı (2 -> 0).",
+    "Teknoloji akışı yavaşladı (3 -> 0).",
+    "Finansal Sistem akışı yavaşladı (3 -> 1)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 190,
+      "score": 181,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -148,7 +145,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 177,
+      "score": 58,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -157,33 +154,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 68,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    },
-    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 62,
+      "score": 40,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
       "backup_url": "https://www.reuters.com/business/",
       "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 20,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 190,
+      "score": 181,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -194,7 +191,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 177,
+      "score": 58,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -203,15 +200,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 68,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 40,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
