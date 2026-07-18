@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-17T08:05:54.229016+00:00",
+  "generated_at": "2026-07-18T07:46:01.081805+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Key to Humanoid Progress: Managing the Power Behind the Robots",
-      "link": "https://www.therobotreport.com/key-to-humanoid-progress-managing-the-power-behind-the-robots/",
-      "published_at": "Tue, 14 Jul 2026 21:38:28 +0000",
-      "summary": "Murata Power Solutions' John Quinlan on how advanced robotics converts, distributes and controls on-board power from battery to actuator.",
+      "title": "Weave Robotics launches Isaac, its first mobile humanoid robot",
+      "link": "https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/",
+      "published_at": "Fri, 17 Jul 2026 17:35:02 +0000",
+      "summary": "Weave Robotics has listed the features of its Isaac wheeled bimanual manipulator robot for household and office use.",
       "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 26,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -21,20 +21,37 @@
     },
     {
       "source": "Payments Dive",
-      "title": "Visa-Mastercard payouts inch forward",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-payouts-inch-forward-merchants-interchange-litigation/825191/",
-      "published_at": "Tue, 14 Jul 2026 11:35:35 -0400",
-      "summary": "A court official appointed for the swipe fee settlement is working through about 40,000 merchant claims issues, based on a quarterly update.",
+      "title": "Visa, Stripe join AI protocol project",
+      "link": "https://www.paymentsdive.com/news/visa-stripe-join-ai-protocol-project/825499/",
+      "published_at": "Fri, 17 Jul 2026 09:48:00 -0400",
+      "summary": "A pack of major fintechs have joined a nonprofit seeking to standardize how payments are sent online using artificial intelligence and software.",
       "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
       "categories": [
         "financial_system"
       ],
-      "score": 19,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
+      "score": 21,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, payment ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "mastercard",
-        "settlement",
+        "fintech",
+        "payment",
         "visa"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Founder of Maximo discusses how robotics is accelerating solar construction",
+      "link": "https://www.therobotreport.com/transforming-solar-construction-through-robotics-deise-yumi-asami-maximo/",
+      "published_at": "Fri, 17 Jul 2026 19:17:39 +0000",
+      "summary": "Maximo founder Deise Yumi Asami discusses the process of automating solar construction with robotics.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
       ]
     },
     {
@@ -47,63 +64,46 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Agility outlines six recommendations for U.S. humanoid robot policies",
-      "link": "https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/",
-      "published_at": "Wed, 15 Jul 2026 18:58:29 +0000",
-      "summary": "Peggy Johnson, CEO of Agility, said the U.S. needs a policy framework that can strengthen what's already working for the humanoid industry.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Trump Media is selling Wall Street faster access to Trump's market-moving posts",
-      "link": "https://qz.com/trump-media-truth-social-api-wall-street-traders-071626",
-      "summary": "A new product will effectively allow Trump's company to sell early access to the president's market-moving posts",
+      "title": "America spent decades telling students to go to college. Now it needs trades workers",
+      "link": "https://qz.com/college-for-all-vocational-decline-trades-shortage-071026",
+      "summary": "Forty years of federal policy pushed students toward college. Now the country doesn't have enough electricians to wire its data centers",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 17 Jul 2026 01:20:36 GMT"
+      "published_at": "Fri, 17 Jul 2026 23:11:03 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Dallas Fed president calls for higher interest rates to finish the inflation fight",
-      "link": "https://qz.com/dallas-fed-logan-higher-interest-rates-inflation-071626",
-      "summary": "Lorie Logan said inflation does not appear headed back to 2% and that modest rate increases would better balance the Fed's dual mandate",
+      "title": "The 10 best places to visit in China in 2026",
+      "link": "https://qz.com/best-places-visit-china-2026",
+      "summary": "From the Forbidden City's 500 years of imperial seclusion to Yangshuo's 900 rock-climbing routes above karst peaks along the Li River",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 16 Jul 2026 19:50:33 GMT"
+      "published_at": "Fri, 17 Jul 2026 20:03:52 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "20 places in Europe that are still affordable, still beautiful, and not overrun",
+      "link": "https://qz.com/affordable-uncrowded-europe-destinations-2026",
+      "summary": "From Balkan hill towns to Baltic university cities, these 20 European destinations offer beauty and value without the crowds",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 17 Jul 2026 19:36:10 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US launches new strikes as Iran says civilian infrastructure hit",
-      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 17 Jul 2026 07:00:31 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 17 Jul 2026 04:08:27 GMT"
+      "published_at": "Sat, 18 Jul 2026 01:29:47 GMT"
     }
   ],
   "market_items": [],
@@ -117,30 +117,39 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
+      "count": 5,
       "avg_score": 18.8
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 19.0
+      "avg_score": 21.0
     }
   },
   "trend_signals": [
-    "Makro akışı yavaşladı (2 -> 0).",
-    "Teknoloji akışı yavaşladı (3 -> 0).",
-    "Finansal Sistem akışı yavaşladı (3 -> 1)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 181,
+      "score": 225,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
       "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 88,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
       "topic": "ai_models",
@@ -154,20 +163,9 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 40,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 20,
+      "score": 22,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -180,13 +178,24 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 181,
+      "score": 225,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
       "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 88,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
       "topic": "ai_models",
@@ -198,17 +207,6 @@
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 40,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
