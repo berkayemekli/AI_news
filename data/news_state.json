@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T07:46:01.081805+00:00",
+  "generated_at": "2026-07-19T08:12:08.879341+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 26,
+      "score": 25,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -29,7 +29,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, payment ekseninde öne çıkıyor.",
       "matched_keywords": [
         "fintech",
@@ -47,24 +47,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Walden Robotics launches at $1.1B valuation for general-purpose robots",
-      "link": "https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/",
-      "published_at": "Wed, 15 Jul 2026 20:04:03 +0000",
-      "summary": "Leading technology companies have invested in Walden Robotics, which emerged from stealth as it develops full-stack physical AI.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -73,6 +56,14 @@
     }
   ],
   "political_items": [
+    {
+      "source": "Quartz",
+      "title": "America is building 3,000 data centers. The economics aren't as great as they seem",
+      "link": "https://qz.com/data-center-construction-permanent-jobs-cliff-071026",
+      "summary": "Cities trade tax breaks for a fraction of the jobs data centers promise. That's because construction crews that build them move on within months",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 18 Jul 2026 14:11:15 GMT"
+    },
     {
       "source": "Quartz",
       "title": "America spent decades telling students to go to college. Now it needs trades workers",
@@ -90,20 +81,12 @@
       "published_at": "Fri, 17 Jul 2026 20:03:52 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "20 places in Europe that are still affordable, still beautiful, and not overrun",
-      "link": "https://qz.com/affordable-uncrowded-europe-destinations-2026",
-      "summary": "From Balkan hill towns to Baltic university cities, these 20 European destinations offer beauty and value without the crowds",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 17 Jul 2026 19:36:10 GMT"
-    },
-    {
       "source": "BBC World",
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 18 Jul 2026 01:29:47 GMT"
+      "published_at": "Sun, 19 Jul 2026 05:10:57 GMT"
     }
   ],
   "market_items": [],
@@ -117,22 +100,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 18.8
+      "count": 2,
+      "avg_score": 21.0
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 21.0
+      "avg_score": 20.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik akışı yavaşladı (5 -> 2)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 225,
+      "score": 114,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -143,7 +126,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 88,
+      "score": 84,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -154,7 +137,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 58,
+      "score": 21,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -165,7 +148,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 22,
+      "score": 21,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -178,7 +161,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 225,
+      "score": 114,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -189,7 +172,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 88,
+      "score": 84,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -200,7 +183,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 58,
+      "score": 21,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",

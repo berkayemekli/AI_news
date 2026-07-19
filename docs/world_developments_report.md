@@ -1,13 +1,13 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-07-18T07:46:01.081805+00:00
+Uretim zamani: 2026-07-19T08:12:08.879341+00:00
 
 ## Bugunun 5 Onemli Basligi
 
 ### 1. Weave Robotics launches Isaac, its first mobile humanoid robot
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 26
+- Onem skoru: 25
 - Link: https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
@@ -16,7 +16,7 @@ Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha
 ### 2. Visa, Stripe join AI protocol project
 - Kaynak: Payments Dive
 - Kategoriler: Finansal Sistem
-- Onem skoru: 21
+- Onem skoru: 20
 - Link: https://www.paymentsdive.com/news/visa-stripe-join-ai-protocol-project/825499/
 - Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, payment ekseninde öne çıkıyor.
 
@@ -25,24 +25,15 @@ Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestig
 ### 3. Founder of Maximo discusses how robotics is accelerating solar construction
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 18
+- Onem skoru: 17
 - Link: https://www.therobotreport.com/transforming-solar-construction-through-robotics-deise-yumi-asami-maximo/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
-
-### 4. Walden Robotics launches at $1.1B valuation for general-purpose robots
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 18
-- Link: https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
 ## Trend Sinyali
 
-- Belirgin kategori ivmesi yok; haber akışı dengeli.
+- Robotik akışı yavaşladı (5 -> 2).
 
 ## Topic Router
 
