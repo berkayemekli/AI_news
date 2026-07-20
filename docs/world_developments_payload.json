@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-19T08:12:08.879341+00:00",
+  "generated_at": "2026-07-20T08:53:24.495220+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "How to avoid the teleoperation trap in robotics development",
+      "link": "https://www.therobotreport.com/how-to-avoid-teleoperation-trap-robotics-development/",
+      "published_at": "Sun, 19 Jul 2026 12:30:25 +0000",
+      "summary": "Teleoperation is necessary for training humanoid robots, but reinforcement learning and simulation are still necessary, says Flexion's CEO.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Weave Robotics launches Isaac, its first mobile humanoid robot",
@@ -11,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 25,
+      "score": 24,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -29,7 +47,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, payment ekseninde öne çıkıyor.",
       "matched_keywords": [
         "fintech",
@@ -47,7 +65,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -65,28 +83,28 @@
       "published_at": "Sat, 18 Jul 2026 14:11:15 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "America spent decades telling students to go to college. Now it needs trades workers",
-      "link": "https://qz.com/college-for-all-vocational-decline-trades-shortage-071026",
-      "summary": "Forty years of federal policy pushed students toward college. Now the country doesn't have enough electricians to wire its data centers",
+      "source": "BBC World",
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 17 Jul 2026 23:11:03 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "The 10 best places to visit in China in 2026",
-      "link": "https://qz.com/best-places-visit-china-2026",
-      "summary": "From the Forbidden City's 500 years of imperial seclusion to Yangshuo's 900 rock-climbing routes above karst peaks along the Li River",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 17 Jul 2026 20:03:52 GMT"
+      "published_at": "Sun, 19 Jul 2026 19:45:12 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+      "title": "Food delivery rider wins China's top literary prize",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 19 Jul 2026 05:10:57 GMT"
+      "published_at": "Mon, 20 Jul 2026 03:53:07 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sun, 19 Jul 2026 07:47:02 GMT"
     }
   ],
   "market_items": [],
@@ -100,22 +118,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 21.0
+      "count": 3,
+      "avg_score": 21.3
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 20.0
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (5 -> 2)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 114,
+      "score": 184,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -126,7 +144,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 84,
+      "score": 80,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -137,7 +155,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 21,
+      "score": 45,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -148,7 +166,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 21,
+      "score": 20,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -161,7 +179,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 114,
+      "score": 184,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -172,7 +190,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 84,
+      "score": 80,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -183,7 +201,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 21,
+      "score": 45,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
