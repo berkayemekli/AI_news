@@ -1,6 +1,29 @@
 {
-  "generated_at": "2026-07-21T08:23:48.911981+00:00",
+  "generated_at": "2026-07-22T08:24:27.113130+00:00",
   "headlines": [
+    {
+      "source": "Quartz",
+      "title": "Bessent is threatening to sanction China for stealing U.S. AI model capabilities",
+      "link": "https://qz.com/bessent-china-ai-sanctions-distillation-072126",
+      "published_at": "Tue, 21 Jul 2026 18:20:27 GMT",
+      "summary": "The Treasury secretary said the U.S. is finding watermarks of American large language models on Chinese AI systems",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 26,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, china ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "china",
+        "model",
+        "sanction",
+        "treasury",
+        "u.s."
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "How to avoid the teleoperation trap in robotics development",
@@ -11,7 +34,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -21,83 +44,100 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Building robots for unpredictable, infrastructure-free environments",
-      "link": "https://www.therobotreport.com/building-robots-for-unpredictable-infrastructure-free-environments/",
-      "published_at": "Mon, 20 Jul 2026 18:39:57 +0000",
-      "summary": "Real-world robotics success requires building infrastructure-free systems that thrive in unpredictable, harsh outdoor environments.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "title": "U.K.-based Humanoid secures $152M in Series A funding",
+      "link": "https://www.therobotreport.com/uk-based-humanoid-secures-152m-in-series-a-funding/",
+      "published_at": "Tue, 21 Jul 2026 23:43:12 +0000",
+      "summary": "Humanoid said it has reached a $1.35 billion valuation as it scales its AI-driven industrial robots and expands commercial deployments.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 21,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Generative Bionics unveils humanoid robot with full-body tactile sensing",
+      "link": "https://www.therobotreport.com/generative-bionics-unveils-humanoid-robot-with-full-body-tactile-sensing/",
+      "published_at": "Tue, 21 Jul 2026 19:44:26 +0000",
+      "summary": "Generative Bionics said its Gene.01 humanoid is fully sensorized, helping it quickly anticipate human presence and respond.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
       "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "humanoid",
+        "robot"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "The green jet fuel that never showed up",
-      "link": "https://qz.com/iran-oil-scare-exposed-aviation-sustainable-fuel-problem",
-      "summary": "The recent Iran oil shock briefly sent jet fuel prices soaring, revealing how little sustainable aviation fuel is actually available",
+      "title": "Bessent is threatening to sanction China for stealing U.S. AI model capabilities",
+      "link": "https://qz.com/bessent-china-ai-sanctions-distillation-072126",
+      "summary": "The Treasury secretary said the U.S. is finding watermarks of American large language models on Chinese AI systems",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 20 Jul 2026 20:51:03 GMT"
+      "published_at": "Tue, 21 Jul 2026 18:20:27 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Trump administration is seizing control of who can access frontier AI models",
-      "link": "https://qz.com/trump-white-house-ai-model-access-anthropic-openai-072026",
-      "summary": "A new clearinghouse program would put the White House in charge of approving which companies and entities can use the most powerful AI systems",
+      "title": "China's Moonshot AI is seeking a $50 billion valuation in pre-IPO funding talks",
+      "link": "https://qz.com/moonshot-ai-pre-ipo-funding-50-billion-valuation-072126",
+      "summary": "The Chinese AI startup plans to open discussions in August on a final fundraising round before a Hong Kong listing as soon as this year",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 20 Jul 2026 20:50:28 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Gas prices are back at $4 a gallon as U.S.-Iran attacks resume",
-      "link": "https://qz.com/gas-prices-four-dollars-gallon-iran-war-072026",
-      "summary": "The national average climbed 13 cents from a week ago, with diesel now at $5.11 a gallon and oil topping $90 a barrel",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 20 Jul 2026 18:30:41 GMT"
+      "published_at": "Tue, 21 Jul 2026 18:10:28 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 21 Jul 2026 07:56:13 GMT"
+      "published_at": "Wed, 22 Jul 2026 05:37:43 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight on Tuesday.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Wed, 22 Jul 2026 08:07:12 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 26.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 26.0
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 20.5
+      "count": 4,
+      "avg_score": 19.5
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 26.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (2 -> 4)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 110,
+      "score": 187,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -108,20 +148,31 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 24,
+      "score": 118,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 81,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 110,
+      "score": 187,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -132,7 +183,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 24,
+      "score": 118,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -141,15 +192,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 0,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 81,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
