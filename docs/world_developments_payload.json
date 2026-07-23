@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-07-22T08:24:27.113130+00:00",
+  "generated_at": "2026-07-23T08:25:19.163680+00:00",
   "headlines": [
     {
-      "source": "Quartz",
-      "title": "Bessent is threatening to sanction China for stealing U.S. AI model capabilities",
-      "link": "https://qz.com/bessent-china-ai-sanctions-distillation-072126",
-      "published_at": "Tue, 21 Jul 2026 18:20:27 GMT",
-      "summary": "The Treasury secretary said the U.S. is finding watermarks of American large language models on Chinese AI systems",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 26,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, china ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "china",
-        "model",
-        "sanction",
-        "treasury",
-        "u.s."
-      ]
-    },
-    {
       "source": "The Robot Report",
-      "title": "How to avoid the teleoperation trap in robotics development",
-      "link": "https://www.therobotreport.com/how-to-avoid-teleoperation-trap-robotics-development/",
-      "published_at": "Sun, 19 Jul 2026 12:30:25 +0000",
-      "summary": "Teleoperation is necessary for training humanoid robots, but reinforcement learning and simulation are still necessary, says Flexion's CEO.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "title": "Report shares the state of physical AI and robotics",
+      "link": "https://www.therobotreport.com/physical-ai-and-robotics/",
+      "published_at": "Wed, 22 Jul 2026 20:48:30 +0000",
+      "summary": "A report looks at how physical AI is increasingly enabling autonomous systems to perceive their environments, make decisions, and act in the real world.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "score": 23,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "humanoid",
+        "autonomous",
         "robot",
         "robotics"
       ]
@@ -52,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -69,75 +46,92 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Building robots for unpredictable, infrastructure-free environments",
+      "link": "https://www.therobotreport.com/building-robots-for-unpredictable-infrastructure-free-environments/",
+      "published_at": "Mon, 20 Jul 2026 18:39:57 +0000",
+      "summary": "Real-world robotics success requires building infrastructure-free systems that thrive in unpredictable, harsh outdoor environments.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 16,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Bessent is threatening to sanction China for stealing U.S. AI model capabilities",
-      "link": "https://qz.com/bessent-china-ai-sanctions-distillation-072126",
-      "summary": "The Treasury secretary said the U.S. is finding watermarks of American large language models on Chinese AI systems",
+      "title": "China stopped chasing Silicon Valley",
+      "link": "https://qz.com/why-chinas-artificial-intelligence-race-no-longer-looks-like-second-place",
+      "summary": "China’s ecosystem now emphasizes open-source models and massive adoption, challenging how the world measures leadership in artificial intelligence",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 21 Jul 2026 18:20:27 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "China's Moonshot AI is seeking a $50 billion valuation in pre-IPO funding talks",
-      "link": "https://qz.com/moonshot-ai-pre-ipo-funding-50-billion-valuation-072126",
-      "summary": "The Chinese AI startup plans to open discussions in August on a final fundraising round before a Hong Kong listing as soon as this year",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 21 Jul 2026 18:10:28 GMT"
+      "published_at": "Wed, 22 Jul 2026 21:11:12 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 22 Jul 2026 05:37:43 GMT"
+      "published_at": "Thu, 23 Jul 2026 03:48:27 GMT"
     },
     {
       "source": "BBC World",
-      "title": "More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight on Tuesday.",
+      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+      "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 22 Jul 2026 08:07:12 GMT"
+      "published_at": "Thu, 23 Jul 2026 00:15:12 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 23 Jul 2026 06:15:35 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 26.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 26.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
       "count": 4,
-      "avg_score": 19.5
+      "avg_score": 18.8
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 26.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (2 -> 4)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 187,
+      "score": 182,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -148,31 +142,20 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 118,
+      "score": 62,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 81,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 187,
+      "score": 182,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -183,7 +166,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 118,
+      "score": 62,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -192,15 +175,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 81,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
