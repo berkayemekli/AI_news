@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-23T08:25:19.163680+00:00",
+  "generated_at": "2026-07-24T08:23:44.419023+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Holiday Robotics raises $105M for its FRIDAY wheeled humanoid",
+      "link": "https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/",
+      "published_at": "Thu, 23 Jul 2026 20:45:47 +0000",
+      "summary": "Holiday's robot features a wheel-based mobile base, an upper body for dexterous manipulation, and hot-swappable batteries.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 25,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Uber co-founder raises $1.7B for new robotics startup ATOMS",
+      "link": "https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/",
+      "published_at": "Thu, 23 Jul 2026 18:53:11 +0000",
+      "summary": "Travis Kalanick, the former CEO of Uber, said with ATOMS, he hopes to create physical automation to transform industry.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 22,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "automation",
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Report shares the state of physical AI and robotics",
@@ -11,7 +47,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -21,49 +57,15 @@
     },
     {
       "source": "The Robot Report",
-      "title": "U.K.-based Humanoid secures $152M in Series A funding",
-      "link": "https://www.therobotreport.com/uk-based-humanoid-secures-152m-in-series-a-funding/",
-      "published_at": "Tue, 21 Jul 2026 23:43:12 +0000",
-      "summary": "Humanoid said it has reached a $1.35 billion valuation as it scales its AI-driven industrial robots and expands commercial deployments.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Generative Bionics unveils humanoid robot with full-body tactile sensing",
-      "link": "https://www.therobotreport.com/generative-bionics-unveils-humanoid-robot-with-full-body-tactile-sensing/",
-      "published_at": "Tue, 21 Jul 2026 19:44:26 +0000",
-      "summary": "Generative Bionics said its Gene.01 humanoid is fully sensorized, helping it quickly anticipate human presence and respond.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Building robots for unpredictable, infrastructure-free environments",
-      "link": "https://www.therobotreport.com/building-robots-for-unpredictable-infrastructure-free-environments/",
-      "published_at": "Mon, 20 Jul 2026 18:39:57 +0000",
-      "summary": "Real-world robotics success requires building infrastructure-free systems that thrive in unpredictable, harsh outdoor environments.",
+      "title": "AMD unveils Kria module for real-time control, unified memory for robots",
+      "link": "https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots/",
+      "published_at": "Thu, 23 Jul 2026 18:30:56 +0000",
+      "summary": "AMD has launched the Ryzen AI Embedded X100 and Kria AI SoM, bringing unified memory and real-time control to challenge NVIDIA in robotics.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 16,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -73,36 +75,36 @@
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "China stopped chasing Silicon Valley",
-      "link": "https://qz.com/why-chinas-artificial-intelligence-race-no-longer-looks-like-second-place",
-      "summary": "China’s ecosystem now emphasizes open-source models and massive adoption, challenging how the world measures leadership in artificial intelligence",
+      "source": "BBC World",
+      "title": "US hits dozens of trading partners with new wave of tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 22 Jul 2026 21:11:12 GMT"
+      "published_at": "Fri, 24 Jul 2026 07:12:13 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 23 Jul 2026 03:48:27 GMT"
+      "published_at": "Thu, 23 Jul 2026 17:58:02 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-      "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
+      "title": "India's 'cockroach' protesters and government to hold talks as stalemate continues",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The meeting comes hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 23 Jul 2026 00:15:12 GMT"
+      "published_at": "Fri, 24 Jul 2026 06:30:34 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+      "title": "Ukraine's ousted defence minister insists on being reinstated",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 23 Jul 2026 06:15:35 GMT"
+      "published_at": "Thu, 23 Jul 2026 17:37:59 GMT"
     }
   ],
   "market_items": [],
@@ -116,8 +118,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 18.8
+      "count": 6,
+      "avg_score": 20.3
     },
     "financial_system": {
       "count": 0,
@@ -125,13 +127,13 @@
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (4 -> 6)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 182,
+      "score": 327,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,31 +144,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 62,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    }
-  ],
-  "today_stack": [
-    {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 182,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 62,
+      "score": 128,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -177,7 +155,42 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 0,
+      "score": 21,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    }
+  ],
+  "today_stack": [
+    {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 327,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 128,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 21,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
