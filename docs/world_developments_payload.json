@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-07-24T08:23:44.419023+00:00",
+  "generated_at": "2026-07-25T08:02:26.311210+00:00",
   "headlines": [
+    {
+      "source": "Quartz",
+      "title": "Trump vows new tariffs on the E.U. after Brussels fines Google $1 billion",
+      "link": "https://qz.com/trump-tariffs-eu-google-fine-digital-markets-act-072426",
+      "published_at": "Fri, 24 Jul 2026 18:00:28 GMT",
+      "summary": "The president said the U.S. will launch a trade probe under Section 301 and expects \"substantial\" tariffs on the bloc",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 25,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, google ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "google",
+        "tariff",
+        "trade",
+        "u.s."
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Holiday Robotics raises $105M for its FRIDAY wheeled humanoid",
@@ -11,7 +33,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 25,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -29,7 +51,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -47,27 +69,10 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "AMD unveils Kria module for real-time control, unified memory for robots",
-      "link": "https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots/",
-      "published_at": "Thu, 23 Jul 2026 18:30:56 +0000",
-      "summary": "AMD has launched the Ryzen AI Embedded X100 and Kria AI SoM, bringing unified memory and real-time control to challenge NVIDIA in robotics.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
         "robot",
         "robotics"
       ]
@@ -75,65 +80,65 @@
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "US hits dozens of trading partners with new wave of tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+      "source": "Quartz",
+      "title": "Samsung and SK Hynix are set to announce major memory chip deals with U.S. tech firms",
+      "link": "https://qz.com/samsung-sk-hynix-memory-chip-supply-deals-us-tech-072426",
+      "summary": "South Korea's presidential policy chief says the agreements will involve \"very large\" figures and include long-term supply contracts and strategic investment partnerships",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 24 Jul 2026 07:12:13 GMT"
+      "published_at": "Fri, 24 Jul 2026 18:10:25 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Trump vows new tariffs on the E.U. after Brussels fines Google $1 billion",
+      "link": "https://qz.com/trump-tariffs-eu-google-fine-digital-markets-act-072426",
+      "summary": "The president said the U.S. will launch a trade probe under Section 301 and expects \"substantial\" tariffs on the bloc",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 24 Jul 2026 18:00:28 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 23 Jul 2026 17:58:02 GMT"
+      "published_at": "Fri, 24 Jul 2026 23:01:06 GMT"
     },
     {
       "source": "BBC World",
-      "title": "India's 'cockroach' protesters and government to hold talks as stalemate continues",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The meeting comes hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 24 Jul 2026 06:30:34 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ukraine's ousted defence minister insists on being reinstated",
-      "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 23 Jul 2026 17:37:59 GMT"
+      "published_at": "Fri, 24 Jul 2026 22:49:59 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 25.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 25.0
     },
     "robotics": {
       "count": 6,
-      "avg_score": 20.3
+      "avg_score": 19.8
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 25.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (4 -> 6)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 327,
+      "score": 317,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -144,7 +149,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 128,
+      "score": 151,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,9 +158,20 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 52,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 21,
+      "score": 20,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
@@ -168,7 +184,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 327,
+      "score": 317,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -179,7 +195,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 128,
+      "score": 151,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -188,15 +204,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 21,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 52,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
