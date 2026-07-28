@@ -1,6 +1,23 @@
 {
-  "generated_at": "2026-07-27T09:46:38.535596+00:00",
+  "generated_at": "2026-07-28T08:29:49.242211+00:00",
   "headlines": [
+    {
+      "source": "Payments Dive",
+      "title": "Mastercard bolsters scam defense",
+      "link": "https://www.paymentsdive.com/news/mastercard-bolsters-scam-defense/826259/",
+      "published_at": "Mon, 27 Jul 2026 12:06:00 -0400",
+      "summary": "The card network and rival Visa are each pursuing new rules to induce merchants and their banks to join the fight against fraud.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "categories": [
+        "financial_system"
+      ],
+      "score": 19,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, visa ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "mastercard",
+        "visa"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Magmotor makes motors for a changing world for 150+ years",
@@ -11,41 +28,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "How time series databases unlock real-time data for robotics",
-      "link": "https://www.therobotreport.com/how-time-series-databases-unlock-real-time-data-for-robotics/",
-      "published_at": "Fri, 24 Jul 2026 16:28:39 +0000",
-      "summary": "Discover how time series databases help robotics teams manage high-volume sensor data, power AI insights, and keep systems running at scale.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI",
-      "link": "https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai/",
-      "published_at": "Fri, 24 Jul 2026 12:30:42 +0000",
-      "summary": "NEURA Robotics has partnered with a German university for NEURA Gym RWTH Aachen, one of 10 facilities for training physical AI.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 16,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -56,35 +39,35 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+      "title": "The cocaine superhighway from Ecuador to Europe - BBC reports on the gangs and police fightback",
+      "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 27 Jul 2026 06:48:02 GMT"
+      "published_at": "Tue, 28 Jul 2026 05:01:19 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Infantino tells Fifa critics to 'meditate, pray or watch football'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifa president Gianni Infantino tells critics to \"meditate, pray or watch a football match\" instead of \"spreading hate and false rumours\" about him and the World Cup.",
+      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 27 Jul 2026 08:07:28 GMT"
+      "published_at": "Mon, 27 Jul 2026 21:10:56 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
-      "summary": "Javier Milei made the comments while in Brazil at a rally to launch the campaign of right-wing presidential candidate Flávio Bolsonaro.",
+      "title": "China's new challenge as natural disasters strike - fake AI videos",
+      "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 27 Jul 2026 01:35:51 GMT"
+      "published_at": "Mon, 27 Jul 2026 22:07:23 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Australian court upholds racial discrimination ruling against Pauline Hanson",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k5v9202wo?at_medium=RSS&at_campaign=rss",
-      "summary": "One Nation leader loses bid to overturn ruling that she racially discriminated against Senator Mehreen Faruqi.",
+      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 27 Jul 2026 06:14:06 GMT"
+      "published_at": "Mon, 27 Jul 2026 16:33:05 GMT"
     }
   ],
   "market_items": [],
@@ -98,22 +81,33 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 16.7
+      "count": 1,
+      "avg_score": 17.0
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (5 -> 3)."
+    "Robotik akışı yavaşladı (3 -> 1)."
   ],
   "topic_router": [
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 40,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 106,
+      "score": 36,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -124,20 +118,42 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 34,
+      "score": 20,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 20,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 40,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 106,
+      "score": 36,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -148,24 +164,13 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 34,
+      "score": 20,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 0,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
