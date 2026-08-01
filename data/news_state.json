@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-31T08:45:40.222733+00:00",
+  "generated_at": "2026-08-01T08:16:00.730375+00:00",
   "headlines": [
     {
-      "source": "The Robot Report",
-      "title": "How integrated actuators improve humanoid robot joint performance and system integration",
-      "link": "https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration/",
-      "published_at": "Tue, 28 Jul 2026 13:25:37 +0000",
-      "summary": "Humanoid robots have become an important area of research in robotics, attracting attention from universities, research institutions, and technology companies.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "source": "Payments Dive",
+      "title": "Why fintechs may skirt the US",
+      "link": "https://www.paymentsdive.com/news/why-fintechs-may-skirt-the-us/826668/",
+      "published_at": "Fri, 31 Jul 2026 10:16:00 -0400",
+      "summary": "“There are clear signs that leading payments players and fintechs may be pulling out of the U.S. to prioritize other, more ‘open banking-friendly’ regions,” writes one financial software executive.",
+      "summary_tr": "Bu haber, odeme ve finans altyapisinda oyuncular arasindaki rekabetin yeniden sekillendigini gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system"
       ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "score": 20,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle banking, fintech ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "humanoid",
-        "robot",
-        "robotics"
+        "banking",
+        "fintech",
+        "payment"
       ]
     },
     {
@@ -29,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -38,15 +38,15 @@
     },
     {
       "source": "The Robot Report",
-      "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026",
+      "title": "5 Physical AI infrastructure platforms shaping robotics in 2026",
       "link": "https://www.therobotreport.com/5-physical-ai-infrastructure-platforms-shaping-robotics-in-2026/",
       "published_at": "Thu, 30 Jul 2026 20:01:22 +0000",
-      "summary": "From accelerated computing and simulation to data operations, open-source tooling, validation engineering, and continuous learning, these five platforms represent distinct control points in the emerging physical AI stack. For most of the modern AI boom, infrastructure had a si...",
+      "summary": "These five platforms address different challenges and provide the basis for the emerging physical AI tech stack, according to Lightwheel.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -63,7 +63,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -74,35 +74,35 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-      "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+      "title": "Fifa scraps controversial World Cup investment plan",
+      "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+      "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 31 Jul 2026 07:03:29 GMT"
+      "published_at": "Sat, 01 Aug 2026 05:42:31 GMT"
     },
     {
       "source": "BBC World",
-      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
-      "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 31 Jul 2026 04:25:49 GMT"
+      "published_at": "Sat, 01 Aug 2026 07:21:46 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Why limited war with the US may suit Iran better than peace",
-      "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 30 Jul 2026 17:26:01 GMT"
+      "published_at": "Sat, 01 Aug 2026 02:21:29 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Uefa to boycott World Cups if Fifa plans approved",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-      "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 30 Jul 2026 16:47:40 GMT"
+      "published_at": "Fri, 31 Jul 2026 14:26:07 GMT"
     }
   ],
   "market_items": [],
@@ -116,22 +116,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 8,
-      "avg_score": 17.8
+      "count": 6,
+      "avg_score": 16.5
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 20.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (5 -> 8)."
+    "Robotik akışı yavaşladı (8 -> 6)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 323,
+      "score": 210,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 73,
+      "score": 86,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,7 +153,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 19,
+      "score": 81,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -164,7 +164,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 17,
+      "score": 38,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -177,7 +177,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 323,
+      "score": 210,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -188,7 +188,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 73,
+      "score": 86,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -199,7 +199,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 19,
+      "score": 81,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
