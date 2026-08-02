@@ -1,6 +1,23 @@
 {
-  "generated_at": "2026-08-01T08:16:00.730375+00:00",
+  "generated_at": "2026-08-02T08:20:27.112477+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Top 10 robotics stories of July 2026",
+      "link": "https://www.therobotreport.com/top-10-robotics-stories-july-2026/",
+      "published_at": "Sat, 01 Aug 2026 12:00:30 +0000",
+      "summary": "In July, large funding rounds, new approaches to robot training, and new robot models drew our readers attention.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "Payments Dive",
       "title": "Why fintechs may skirt the US",
@@ -11,29 +28,12 @@
       "categories": [
         "financial_system"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle banking, fintech ekseninde öne çıkıyor.",
       "matched_keywords": [
         "banking",
         "fintech",
         "payment"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Experts react to FCC limits on U.S. imports of new humanoid and mobile robots",
-      "link": "https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/",
-      "published_at": "Wed, 29 Jul 2026 14:11:19 +0000",
-      "summary": "The FCC has banned some foreign humanoids, which industry experts say could help U.S. industry but hinder innovation.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot"
       ]
     },
     {
@@ -46,7 +46,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -63,7 +63,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -74,35 +74,35 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Fifa scraps controversial World Cup investment plan",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
-      "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+      "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 01 Aug 2026 05:42:31 GMT"
+      "published_at": "Sun, 02 Aug 2026 06:24:01 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 01 Aug 2026 07:21:46 GMT"
+      "published_at": "Sun, 02 Aug 2026 00:55:16 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 01 Aug 2026 02:21:29 GMT"
+      "published_at": "Sat, 01 Aug 2026 23:03:35 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 31 Jul 2026 14:26:07 GMT"
+      "published_at": "Sat, 01 Aug 2026 22:23:20 GMT"
     }
   ],
   "market_items": [],
@@ -116,22 +116,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 6,
-      "avg_score": 16.5
+      "count": 5,
+      "avg_score": 16.0
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 20.0
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (8 -> 6)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 210,
+      "score": 170,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 86,
+      "score": 106,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,7 +153,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 81,
+      "score": 77,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -164,7 +164,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 38,
+      "score": 35,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -177,7 +177,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 210,
+      "score": 170,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -188,7 +188,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 86,
+      "score": 106,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -199,7 +199,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 81,
+      "score": 77,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
