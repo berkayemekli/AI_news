@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-08-04T08:32:10.534303+00:00",
+  "generated_at": "2026-08-05T08:31:30.086303+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Humanoids won’t scale on factory floors until costs drop",
+      "link": "https://www.therobotreport.com/humanoids-wont-scale-on-factory-floors-until-costs-drop/",
+      "published_at": "Tue, 04 Aug 2026 15:15:10 +0000",
+      "summary": "The race to commercialize humanoids is on. What’s left to prove is that humanoid robots can beat the economics of the automation manufacturers are already running.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 25,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, factory ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "automation",
+        "factory",
+        "humanoid",
+        "robot"
+      ]
+    },
+    {
+      "source": "Payments Dive",
+      "title": "FIS seeks to sell parts of capital markets unit",
+      "link": "https://www.paymentsdive.com/news/fis-seeks-to-sell-parts-of-capital-markets-unit/826952/",
+      "published_at": "Tue, 04 Aug 2026 10:48:00 -0400",
+      "summary": "The banking and payments services company floated the plan to offload pieces of the business after sales declined for that segment.",
+      "summary_tr": "Bu haber, odeme ve finans altyapisinda oyuncular arasindaki rekabetin yeniden sekillendigini gosteriyor.",
+      "categories": [
+        "financial_system"
+      ],
+      "score": 19,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle api, banking ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "api",
+        "banking",
+        "payment"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "igus launches energy chain with 600-degree rotation for industrial robots",
@@ -11,7 +48,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -28,40 +65,6 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Top 10 robotics stories of July 2026",
-      "link": "https://www.therobotreport.com/top-10-robotics-stories-july-2026/",
-      "published_at": "Sat, 01 Aug 2026 12:00:30 +0000",
-      "summary": "In July, large funding rounds, new approaches to robot training, and new robot models drew our readers attention.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
-      "link": "https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/",
-      "published_at": "Sun, 02 Aug 2026 12:31:32 +0000",
-      "summary": "Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
       "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
@@ -73,35 +76,27 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "EU calls for stronger borders after Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-      "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 03 Aug 2026 21:43:10 GMT"
+      "published_at": "Wed, 05 Aug 2026 03:44:30 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Analysis: Trump challenged by cold reality from top allies",
-      "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
-      "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 04 Aug 2026 00:02:40 GMT"
+      "published_at": "Wed, 05 Aug 2026 00:19:04 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
       "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
+      "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 04 Aug 2026 07:42:56 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 03 Aug 2026 19:42:55 GMT"
+      "published_at": "Tue, 04 Aug 2026 11:19:01 GMT"
     }
   ],
   "market_items": [],
@@ -116,11 +111,11 @@
     },
     "robotics": {
       "count": 5,
-      "avg_score": 18.2
+      "avg_score": 18.6
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
@@ -130,7 +125,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 192,
+      "score": 248,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -139,9 +134,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 60,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 96,
+      "score": 54,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -150,22 +156,22 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 19,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "markets",
+      "label": "Markets",
+      "score": 20,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 192,
+      "score": 248,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -174,26 +180,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 60,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 96,
+      "score": 54,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 19,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
