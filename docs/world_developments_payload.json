@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T08:31:30.086303+00:00",
+  "generated_at": "2026-08-06T08:31:51.796108+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 25,
+      "score": 24,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, factory ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -21,82 +21,91 @@
       ]
     },
     {
+      "source": "The Robot Report",
+      "title": "Moove raises $250M to build infrastructure for autonomous vehicles",
+      "link": "https://www.therobotreport.com/moove-raises-250m-to-build-infrastructure-for-autonomous-vehicles/",
+      "published_at": "Wed, 05 Aug 2026 16:53:38 +0000",
+      "summary": "The funding will support Moove's expansion of its autonomous fleet ownership and robotics-first depot infrastructure “Nests.”",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "autonomous",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
       "source": "Payments Dive",
-      "title": "FIS seeks to sell parts of capital markets unit",
-      "link": "https://www.paymentsdive.com/news/fis-seeks-to-sell-parts-of-capital-markets-unit/826952/",
-      "published_at": "Tue, 04 Aug 2026 10:48:00 -0400",
-      "summary": "The banking and payments services company floated the plan to offload pieces of the business after sales declined for that segment.",
-      "summary_tr": "Bu haber, odeme ve finans altyapisinda oyuncular arasindaki rekabetin yeniden sekillendigini gosteriyor.",
+      "title": "Visa, Mastercard join another stablecoin group",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-join-another-stablecoin-group/827078/",
+      "published_at": "Wed, 05 Aug 2026 10:44:00 -0400",
+      "summary": "The card networks are keeping their options open with respect to stablecoin communities, locking arms with Circle on its latest effort.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
       "categories": [
         "financial_system"
       ],
-      "score": 19,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle api, banking ekseninde öne çıkıyor.",
+      "score": 21,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, stablecoin ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "api",
-        "banking",
-        "payment"
+        "mastercard",
+        "stablecoin",
+        "visa"
       ]
     },
     {
       "source": "The Robot Report",
-      "title": "igus launches energy chain with 600-degree rotation for industrial robots",
-      "link": "https://www.therobotreport.com/igus-launches-energy-chain-600-degree-rotation-industrial-robots/",
-      "published_at": "Mon, 03 Aug 2026 21:06:07 +0000",
-      "summary": "igus says its new twisterchain energy chain provides cable management for challenging industrial robotics applications such as palletizing.",
+      "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
+      "link": "https://www.therobotreport.com/avnet-and-weston-robot-partner-to-launch-edge-ai-inspection-platform/",
+      "published_at": "Wed, 05 Aug 2026 19:10:05 +0000",
+      "summary": "Avnet and Weston Robot have partnered to launch an AI-powered autonomous inspection platform for complex industrial environments.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
-      "link": "https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators/",
-      "published_at": "Mon, 03 Aug 2026 17:17:46 +0000",
-      "summary": "This Phase I award is only part of HEBI Robotics' roadmap. The company also plans to continue developing its existing actuation hardware.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
+        "autonomous",
+        "robot"
       ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 05 Aug 2026 03:44:30 GMT"
+      "published_at": "Thu, 06 Aug 2026 05:00:54 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-      "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+      "title": "Infantino sorry for errors but stays Fifa president",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 05 Aug 2026 00:19:04 GMT"
+      "published_at": "Wed, 05 Aug 2026 21:37:08 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-      "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 04 Aug 2026 11:19:01 GMT"
+      "published_at": "Thu, 06 Aug 2026 01:19:59 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigerian security forces rescue more than 300 abductees",
+      "link": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government says the rescue is the country's largest single-day operation by joint security forces.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 06 Aug 2026 04:35:33 GMT"
     }
   ],
   "market_items": [],
@@ -110,12 +119,12 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 18.6
+      "count": 6,
+      "avg_score": 19.7
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 19.0
+      "count": 2,
+      "avg_score": 19.5
     }
   },
   "trend_signals": [
@@ -125,7 +134,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 248,
+      "score": 323,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -136,7 +145,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 60,
+      "score": 123,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -147,7 +156,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 54,
+      "score": 63,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -158,7 +167,7 @@
     {
       "topic": "markets",
       "label": "Markets",
-      "score": 20,
+      "score": 19,
       "best_source": "Bloomberg",
       "best_url": "https://www.bloomberg.com/",
       "backup_source": "Financial Times",
@@ -171,7 +180,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 248,
+      "score": 323,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -182,7 +191,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 60,
+      "score": 123,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -193,7 +202,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 54,
+      "score": 63,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
