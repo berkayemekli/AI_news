@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T08:31:51.796108+00:00",
+  "generated_at": "2026-08-07T07:11:17.981477+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, factory ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -30,7 +30,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -48,7 +48,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, stablecoin ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
@@ -58,54 +58,54 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
-      "link": "https://www.therobotreport.com/avnet-and-weston-robot-partner-to-launch-edge-ai-inspection-platform/",
-      "published_at": "Wed, 05 Aug 2026 19:10:05 +0000",
-      "summary": "Avnet and Weston Robot have partnered to launch an AI-powered autonomous inspection platform for complex industrial environments.",
+      "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
+      "link": "https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics/",
+      "published_at": "Thu, 06 Aug 2026 20:19:29 +0000",
+      "summary": "The latest agreement expands HII's HYPER Program, which Path Robotics and GrayMatter Robotics joined earlier this year.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "autonomous",
-        "robot"
+        "robot",
+        "robotics"
       ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 06 Aug 2026 05:00:54 GMT"
+      "published_at": "Fri, 07 Aug 2026 00:34:14 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
+      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 05 Aug 2026 21:37:08 GMT"
+      "published_at": "Fri, 07 Aug 2026 01:57:02 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 06 Aug 2026 01:19:59 GMT"
+      "published_at": "Thu, 06 Aug 2026 18:53:51 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Nigerian security forces rescue more than 300 abductees",
-      "link": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The government says the rescue is the country's largest single-day operation by joint security forces.",
+      "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
+      "link": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 06 Aug 2026 04:35:33 GMT"
+      "published_at": "Thu, 06 Aug 2026 17:36:07 GMT"
     }
   ],
   "market_items": [],
@@ -120,11 +120,11 @@
     },
     "robotics": {
       "count": 6,
-      "avg_score": 19.7
+      "avg_score": 19.2
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 19.5
+      "count": 1,
+      "avg_score": 20.0
     }
   },
   "trend_signals": [
@@ -134,7 +134,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 323,
+      "score": 314,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -145,7 +145,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 123,
+      "score": 63,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -156,31 +156,20 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 63,
+      "score": 42,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 19,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 323,
+      "score": 314,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -191,7 +180,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 123,
+      "score": 63,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -202,7 +191,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 63,
+      "score": 42,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
