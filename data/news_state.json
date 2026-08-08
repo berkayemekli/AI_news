@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-08-07T07:11:17.981477+00:00",
+  "generated_at": "2026-08-08T06:46:57.496548+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Humanoids won’t scale on factory floors until costs drop",
-      "link": "https://www.therobotreport.com/humanoids-wont-scale-on-factory-floors-until-costs-drop/",
-      "published_at": "Tue, 04 Aug 2026 15:15:10 +0000",
-      "summary": "The race to commercialize humanoids is on. What’s left to prove is that humanoid robots can beat the economics of the automation manufacturers are already running.",
+      "title": "Avatar Robotics raises seed round to address industrial labor constraints",
+      "link": "https://www.therobotreport.com/avatar-robotics-raises-6-5-m-seed-round-address-industrial-labor-constraints/",
+      "published_at": "Fri, 07 Aug 2026 19:57:22 +0000",
+      "summary": "Avatar Robotics raised $6.5 million in funding to scale humanoid robots and remote teleoperation across industrial supply chains.",
       "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 23,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, factory ekseninde öne çıkıyor.",
+      "score": 27,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "automation",
-        "factory",
         "humanoid",
-        "robot"
+        "robot",
+        "robotics"
       ]
     },
     {
@@ -30,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -48,7 +47,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, stablecoin ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
@@ -66,7 +65,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -76,36 +75,36 @@
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+      "source": "Quartz",
+      "title": "Trump imposes 15% tariff and price floors on solar panel materials to counter China",
+      "link": "https://qz.com/trump-tariff-price-floors-polysilicon-solar-panels-080726",
+      "summary": "The measures, which take effect December 4, also set minimum import prices ranging from $21 per kilogram for raw polysilicon to $0.38 per watt for solar modules",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 07 Aug 2026 00:34:14 GMT"
+      "published_at": "Fri, 07 Aug 2026 20:40:44 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Trump warned that Congress is trying to regulate the AI industry 'out of business'",
+      "link": "https://qz.com/trump-congress-ai-regulation-nist-guidelines-080726",
+      "summary": "NIST separately proposed new federal guidelines Friday for evaluating AI systems, asking for public comment",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 07 Aug 2026 20:40:33 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 07 Aug 2026 01:57:02 GMT"
+      "published_at": "Sat, 08 Aug 2026 06:12:56 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 06 Aug 2026 18:53:51 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-      "link": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 06 Aug 2026 17:36:07 GMT"
+      "published_at": "Sat, 08 Aug 2026 00:02:49 GMT"
     }
   ],
   "market_items": [],
@@ -119,12 +118,12 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 6,
-      "avg_score": 19.2
+      "count": 7,
+      "avg_score": 18.4
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 20.0
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
@@ -134,7 +133,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 314,
+      "score": 323,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -143,9 +142,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 85,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 63,
+      "score": 60,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -154,22 +164,22 @@
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 42,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 17,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 314,
+      "score": 323,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -178,26 +188,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 63,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 42,
+      "score": 85,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 60,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
