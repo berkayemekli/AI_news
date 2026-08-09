@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T06:46:57.496548+00:00",
+  "generated_at": "2026-08-09T06:51:56.276568+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 27,
+      "score": 25,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -21,38 +21,19 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Moove raises $250M to build infrastructure for autonomous vehicles",
-      "link": "https://www.therobotreport.com/moove-raises-250m-to-build-infrastructure-for-autonomous-vehicles/",
-      "published_at": "Wed, 05 Aug 2026 16:53:38 +0000",
-      "summary": "The funding will support Moove's expansion of its autonomous fleet ownership and robotics-first depot infrastructure “Nests.”",
+      "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
+      "link": "https://www.therobotreport.com/experts-look-ahead-at-the-next-20-years-of-robotics-at-robobusiness/",
+      "published_at": "Sat, 08 Aug 2026 12:30:52 +0000",
+      "summary": "At Robobusiness, leaders in robotics will explore the technologies, opportunities, and challenges that will shape the next twenty years.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "autonomous",
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "Payments Dive",
-      "title": "Visa, Mastercard join another stablecoin group",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-join-another-stablecoin-group/827078/",
-      "published_at": "Wed, 05 Aug 2026 10:44:00 -0400",
-      "summary": "The card networks are keeping their options open with respect to stablecoin communities, locking arms with Circle on its latest effort.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
-      "categories": [
-        "financial_system"
-      ],
-      "score": 19,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, stablecoin ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "mastercard",
-        "stablecoin",
-        "visa"
       ]
     },
     {
@@ -65,15 +46,48 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
       ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Building robots that survive the warehouse",
+      "link": "https://www.therobotreport.com/building-robots-that-survive-warehouse/",
+      "published_at": "Fri, 07 Aug 2026 22:01:38 +0000",
+      "summary": "Nomagic says its real moat is production data, because the messiness of real warehouses is where robots either prove themselves or fail.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 14,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, warehouse ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "warehouse"
+      ]
     }
   ],
   "political_items": [
+    {
+      "source": "Quartz",
+      "title": "The 6 best European universities you can actually stay at this summer",
+      "link": "https://qz.com/best-european-universities-stay-summer",
+      "summary": "From a night inside Oxford's Christ Church to a room in Barcelona's Gothic quarter, six European universities that open their doors to summer guests",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 08 Aug 2026 09:12:05 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "The 7 best U.S. cities for veterans and military families in 2026",
+      "link": "https://qz.com/best-us-cities-veterans-military-families-2026",
+      "summary": "A close-knit community matters for many military buyers. Veterans United ranks the seven best U.S. cities for veterans to call home",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 08 Aug 2026 09:11:54 GMT"
+    },
     {
       "source": "Quartz",
       "title": "Trump imposes 15% tariff and price floors on solar panel materials to counter China",
@@ -89,22 +103,6 @@
       "summary": "NIST separately proposed new federal guidelines Friday for evaluating AI systems, asking for public comment",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "published_at": "Fri, 07 Aug 2026 20:40:33 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 08 Aug 2026 06:12:56 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 08 Aug 2026 00:02:49 GMT"
     }
   ],
   "market_items": [],
@@ -118,22 +116,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 7,
-      "avg_score": 18.4
+      "count": 5,
+      "avg_score": 17.4
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 19.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik akışı yavaşladı (7 -> 5)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 323,
+      "score": 210,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -144,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 85,
+      "score": 41,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,20 +151,9 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 60,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 17,
+      "score": 15,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -179,7 +166,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 323,
+      "score": 210,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -190,7 +177,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 85,
+      "score": 41,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -199,15 +186,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 60,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 15,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
