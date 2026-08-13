@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:25:16.025581+00:00",
+  "generated_at": "2026-08-13T07:22:25.638233+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -21,15 +21,32 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Analog Devices returns as strategic sponsor to aid MassRobotics startups",
-      "link": "https://www.therobotreport.com/analog-devices-returns-strategic-sponsor-aid-massrobotics-startups/",
-      "published_at": "Sun, 09 Aug 2026 12:30:42 +0000",
-      "summary": "Analog Devices Inc. is supporting MassRobotics startups with Analog Garage and participating in events including RoboBusiness.",
+      "title": "Celona launches Orion agentic wireless platform built for physical AI and robotics",
+      "link": "https://www.therobotreport.com/celona-launches-orion-agentic-wireless-platform-built-for-physical-ai-robotics/",
+      "published_at": "Wed, 12 Aug 2026 12:00:08 +0000",
+      "summary": "Celona launched Celona Orion, a unified agentic platform merging private 5G, Wi-Fi, cellular, and satellite into one network for physical AI.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 16,
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Q2 2026 robotics demand increased across industries, reports A3",
+      "link": "https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3/",
+      "published_at": "Wed, 12 Aug 2026 14:18:56 +0000",
+      "summary": "A3 said that Q2 2026 robotics orders in food, electronics, and healthcare helped offset soft demand from automotive manufacturing.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -46,63 +63,46 @@
       "categories": [
         "financial_system"
       ],
-      "score": 16,
+      "score": 15,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle payment, visa ekseninde öne çıkıyor.",
       "matched_keywords": [
         "payment",
         "visa"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Webinar to discuss safety and scaling robot fleets in the warehouse",
-      "link": "https://www.therobotreport.com/webinar-to-discuss-safety-scaling-robot-fleets-warehouse/",
-      "published_at": "Tue, 11 Aug 2026 14:34:31 +0000",
-      "summary": "Industry experts will discuss how to scale mobile robots in the warehouse while maintaining both safety and productivity.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 15,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, warehouse ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "warehouse"
       ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-      "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 12 Aug 2026 03:44:55 GMT"
+      "published_at": "Thu, 13 Aug 2026 04:55:58 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-      "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+      "title": "Australian army whistleblower released on parole after more than two years in jail",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
+      "summary": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 12 Aug 2026 00:14:42 GMT"
+      "published_at": "Thu, 13 Aug 2026 02:23:39 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-      "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 11 Aug 2026 21:14:56 GMT"
+      "published_at": "Thu, 13 Aug 2026 03:28:56 GMT"
     },
     {
       "source": "BBC World",
-      "title": "New Zealand PM survives second leadership challenge ahead of election",
-      "link": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Christopher Luxon says he has \"full support\" of his party, after a vote of confidence 12 weeks before a general election.",
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 12 Aug 2026 02:51:02 GMT"
+      "published_at": "Wed, 12 Aug 2026 22:58:45 GMT"
     }
   ],
   "market_items": [],
@@ -116,12 +116,12 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 18.3
+      "count": 4,
+      "avg_score": 18.8
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 16.0
+      "avg_score": 15.0
     }
   },
   "trend_signals": [
@@ -131,7 +131,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 141,
+      "score": 182,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +142,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 59,
+      "score": 56,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -151,20 +151,20 @@
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 50,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 55,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
       "topic": "markets",
       "label": "Markets",
-      "score": 50,
+      "score": 48,
       "best_source": "Bloomberg",
       "best_url": "https://www.bloomberg.com/",
       "backup_source": "Financial Times",
@@ -177,7 +177,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 141,
+      "score": 182,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -188,7 +188,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 59,
+      "score": 56,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -197,15 +197,15 @@
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 50,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 55,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     }
   ],
   "errors": [
