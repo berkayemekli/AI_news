@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:19:58.671727+00:00",
+  "generated_at": "2026-08-15T06:33:22.771768+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,10 +11,27 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Robots on Wall Street: Non-traditional paths to public markets for robotics companies",
+      "link": "https://www.therobotreport.com/robots-on-wall-street-non-traditional-paths-public-markets-robotics-companies/",
+      "published_at": "Fri, 14 Aug 2026 12:30:40 +0000",
+      "summary": "Agility’s SPAC deal shows there is no one route to a robotics public listing, with SPAC mergers, reverse mergers, and traditional IPOs offering different advantages.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
         "robot",
         "robotics"
       ]
@@ -29,7 +46,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -46,47 +63,30 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Q2 2026 robotics demand increased across industries, reports A3",
-      "link": "https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3/",
-      "published_at": "Wed, 12 Aug 2026 14:18:56 +0000",
-      "summary": "A3 said that Q2 2026 robotics orders in food, electronics, and healthcare helped offset soft demand from automotive manufacturing.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
       ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 14 Aug 2026 03:09:48 GMT"
+      "published_at": "Sat, 15 Aug 2026 00:01:53 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-      "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-      "summary": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
+      "title": "France's top court blocks social media ban for under-15s",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 13 Aug 2026 15:50:49 GMT"
+      "published_at": "Fri, 14 Aug 2026 16:35:06 GMT"
     }
   ],
   "market_items": [],
@@ -101,7 +101,7 @@
     },
     "robotics": {
       "count": 5,
-      "avg_score": 18.2
+      "avg_score": 18.8
     },
     "financial_system": {
       "count": 0,
@@ -115,7 +115,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 217,
+      "score": 222,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -126,7 +126,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 71,
+      "score": 54,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -135,22 +135,22 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 14,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "markets",
+      "label": "Markets",
+      "score": 21,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 217,
+      "score": 222,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -161,7 +161,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 71,
+      "score": 54,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -170,15 +170,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 14,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "markets",
+      "label": "Markets",
+      "score": 21,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "errors": [
