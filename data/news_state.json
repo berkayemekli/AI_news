@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-18T06:38:14.246185+00:00",
+  "generated_at": "2026-08-19T06:38:44.178300+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market",
+      "link": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/",
+      "published_at": "Tue, 18 Aug 2026 12:49:41 +0000",
+      "summary": "Automotive suppliers Unichem and R&Y are working with Loomia to develop tactile sensors for automotive and robotics applications.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Gravis Robotics raises $200M for autonomous construction",
@@ -11,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -20,50 +38,33 @@
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
-      "link": "https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/",
-      "published_at": "Mon, 17 Aug 2026 21:15:46 +0000",
-      "summary": "Diligent is now rolling out Moxi 2.0 to health systems including Endeavor Health Edward Hospital and Children’s Hospital Los Angeles.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "BBC World",
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 19 Aug 2026 03:56:35 GMT",
+      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "categories": [
-        "robotics"
+        "macro"
       ],
       "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle tariff, trade ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "tariff",
+        "trade"
       ]
     },
     {
       "source": "The Robot Report",
-      "title": "How Generalist uses human demonstration data for robot learning",
-      "link": "https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/",
-      "published_at": "Mon, 17 Aug 2026 19:32:31 +0000",
-      "summary": "Research around the Universal Manipulation Interface is enabling Generalist, Walden Robotics, and others to turn data into robot behaviors.",
+      "title": "FORT Robotics to take safety stack public via SPAC merger",
+      "link": "https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/",
+      "published_at": "Tue, 18 Aug 2026 15:24:13 +0000",
+      "summary": "FORT Robotics said it expects valuation of more than $500 million as it lists on Nasdaq with plans to accelerate safety software development.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "How robotics is revolutionizing stroke rehabilitation",
-      "link": "https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/",
-      "published_at": "Sun, 16 Aug 2026 12:30:18 +0000",
-      "summary": "Eyal Samuel Shachar, the CEO of Bioxtreme, says the growing synergy of robotics, AI, and human-centered care will improve patient outcomes.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -74,50 +75,50 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Russia warns UK over supplying drones to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 18 Aug 2026 04:59:25 GMT"
+      "published_at": "Wed, 19 Aug 2026 04:44:41 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Watch: Why has Trump shifted on North Korea?",
-      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 17 Aug 2026 23:42:38 GMT"
+      "published_at": "Wed, 19 Aug 2026 03:56:35 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Norway's king admitted to hospital and put on sick leave",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
+      "title": "South Korea shortens war games with US, citing Washington request",
+      "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 17 Aug 2026 21:34:26 GMT"
+      "published_at": "Wed, 19 Aug 2026 05:53:53 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 17 Aug 2026 19:25:05 GMT"
+      "published_at": "Tue, 18 Aug 2026 13:13:54 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
+      "count": 1,
+      "avg_score": 19.0
+    },
+    "technology": {
       "count": 0,
       "avg_score": 0.0
     },
-    "technology": {
-      "count": 1,
-      "avg_score": 16.0
-    },
     "robotics": {
       "count": 6,
-      "avg_score": 18.0
+      "avg_score": 18.8
     },
     "financial_system": {
       "count": 0,
@@ -125,13 +126,13 @@
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (3 -> 6)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 235,
+      "score": 285,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -140,20 +141,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 68,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 99,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 58,
+      "score": 78,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -162,22 +163,22 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 43,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "markets",
+      "label": "Markets",
+      "score": 25,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 235,
+      "score": 285,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -186,20 +187,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 68,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 99,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 58,
+      "score": 78,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
