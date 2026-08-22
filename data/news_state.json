@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:40:39.601723+00:00",
+  "generated_at": "2026-08-22T06:35:00.528215+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 26,
+      "score": 25,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -26,24 +26,6 @@
       "link": "https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/",
       "published_at": "Wed, 19 Aug 2026 18:01:43 +0000",
       "summary": "Now that Unitree Robotics has made its IPO, which humanoid robotics companies will follow in its footsteps?",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 23,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market",
-      "link": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/",
-      "published_at": "Tue, 18 Aug 2026 12:49:41 +0000",
-      "summary": "Automotive suppliers Unichem and R&Y are working with Loomia to develop tactile sensors for automotive and robotics applications.",
       "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
@@ -66,10 +48,27 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch",
+      "link": "https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/",
+      "published_at": "Fri, 21 Aug 2026 19:57:24 +0000",
+      "summary": "The Women in Robotics Lunch at RoboBusiness is an opportunity to form new connections and deepen relationships.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
         "robot",
         "robotics"
       ]
@@ -78,19 +77,27 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 20 Aug 2026 18:55:14 GMT"
+      "published_at": "Sat, 22 Aug 2026 04:46:33 GMT"
     },
     {
       "source": "BBC World",
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 20 Aug 2026 23:16:45 GMT"
+      "published_at": "Fri, 21 Aug 2026 05:00:57 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 22 Aug 2026 05:15:58 GMT"
     },
     {
       "source": "BBC World",
@@ -99,14 +106,6 @@
       "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "published_at": "Fri, 21 Aug 2026 05:47:32 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-      "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 20 Aug 2026 22:01:26 GMT"
     }
   ],
   "market_items": [],
@@ -120,8 +119,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 6,
-      "avg_score": 20.7
+      "count": 7,
+      "avg_score": 19.4
     },
     "financial_system": {
       "count": 0,
@@ -129,13 +128,13 @@
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (8 -> 6)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 383,
+      "score": 382,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -146,7 +145,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 83,
+      "score": 100,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -157,31 +156,20 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 44,
+      "score": 43,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 23,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 383,
+      "score": 382,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -192,7 +180,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 83,
+      "score": 100,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -203,7 +191,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 44,
+      "score": 43,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
