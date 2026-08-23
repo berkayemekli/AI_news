@@ -1,61 +1,6 @@
 {
-  "generated_at": "2026-08-22T06:35:00.528215+00:00",
+  "generated_at": "2026-08-23T06:36:12.309011+00:00",
   "headlines": [
-    {
-      "source": "The Robot Report",
-      "title": "Pudu Robotics launches new MP2000 autonomous forklift",
-      "link": "https://www.therobotreport.com/pudu-robotics-launches-new-mp2000-autonomous-forklift/",
-      "published_at": "Wed, 19 Aug 2026 13:07:06 +0000",
-      "summary": "Pudu Robotics has launched the MP2000, an AI-native autonomous robot designed to transport 2,000 kg loads across complex warehouse environments.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 25,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "autonomous",
-        "robot",
-        "robotics",
-        "warehouse"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "What does Unitree Robotics’ IPO mean for the humanoid industry?",
-      "link": "https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/",
-      "published_at": "Wed, 19 Aug 2026 18:01:43 +0000",
-      "summary": "Now that Unitree Robotics has made its IPO, which humanoid robotics companies will follow in its footsteps?",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Serve Robotics to deploy its autonomous delivery robots with Grubhub",
-      "link": "https://www.therobotreport.com/serve-robotics-deploys-autonomous-delivery-robots-grubhub/",
-      "published_at": "Wed, 19 Aug 2026 13:55:30 +0000",
-      "summary": "Serve's robot delivery will be available from more than 100 participating Grubhub merchants in Chicago and nearly 200 in Los Angeles.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "autonomous",
-        "robot",
-        "robotics"
-      ]
-    },
     {
       "source": "The Robot Report",
       "title": "Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch",
@@ -66,46 +11,97 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Schaeffler plans to mass produce gearboxes for humanoid robots in 2027",
+      "link": "https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/",
+      "published_at": "Fri, 21 Aug 2026 19:27:22 +0000",
+      "summary": "Schaeffler is creating its strain wave gearboxes with a forming technology that will enable mass production of the components.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 17,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "ATDev gives update on its journey building autonomous wheelchairs",
+      "link": "https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/",
+      "published_at": "Thu, 20 Aug 2026 17:39:25 +0000",
+      "summary": "ATDev is developing a modern power wheelchair with a coordinated robotic arm that can take on reaching and lifting tasks for the user.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 14,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "autonomous",
+        "robot"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "How software-defined manufacturing fits into real factory operations",
+      "link": "https://www.therobotreport.com/how-software-defined-manufacturing-fits-into-real-factory-operations/",
+      "published_at": "Sat, 22 Aug 2026 00:48:35 +0000",
+      "summary": "Roby Lynn explains how R2 Labs bridges PLCs, robots, and AI to unify fragmented manufacturing systems.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 14,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle factory, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "factory",
+        "robot"
       ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+      "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 22 Aug 2026 04:46:33 GMT"
+      "published_at": "Sun, 23 Aug 2026 05:46:43 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 21 Aug 2026 05:00:57 GMT"
+      "published_at": "Sat, 22 Aug 2026 20:02:46 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
+      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 22 Aug 2026 05:15:58 GMT"
+      "published_at": "Sat, 22 Aug 2026 13:13:16 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 21 Aug 2026 05:47:32 GMT"
+      "published_at": "Sat, 22 Aug 2026 21:42:42 GMT"
     }
   ],
   "market_items": [],
@@ -119,8 +115,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 7,
-      "avg_score": 19.4
+      "count": 4,
+      "avg_score": 15.5
     },
     "financial_system": {
       "count": 0,
@@ -128,13 +124,13 @@
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik akışı yavaşladı (7 -> 4)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 382,
+      "score": 132,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -145,7 +141,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 100,
+      "score": 48,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -156,7 +152,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 43,
+      "score": 15,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -169,7 +165,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 382,
+      "score": 132,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -180,7 +176,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 100,
+      "score": 48,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -191,7 +187,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 43,
+      "score": 15,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
