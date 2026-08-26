@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-25T06:41:10.988832+00:00",
+  "generated_at": "2026-08-26T06:42:52.041889+00:00",
   "headlines": [
+    {
+      "source": "BBC World",
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 25 Aug 2026 11:53:36 GMT",
+      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "categories": [
+        "macro"
+      ],
+      "score": 19,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle china, oil ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "china",
+        "oil",
+        "sanction"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA",
+      "link": "https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/",
+      "published_at": "Tue, 25 Aug 2026 15:00:22 +0000",
+      "summary": "With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
@@ -11,7 +46,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -20,18 +55,18 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Use a digital twin to explore automation before committing capital",
-      "link": "https://www.therobotreport.com/use-digital-twin-explore-automation-before-committing-capital/",
-      "published_at": "Sun, 23 Aug 2026 12:30:14 +0000",
-      "summary": "While a digital twin does not necessarily replace a systems integrator, it can help manufacturers evaluate robots and plan applications, says RoboDK.",
+      "title": "Humans in the loop are still needed for robotaxi fleet safety, says Guident",
+      "link": "https://www.therobotreport.com/humans-loop-are-still-needed-robotaxi-fleet-safety-says-guident/",
+      "published_at": "Tue, 25 Aug 2026 15:11:13 +0000",
+      "summary": "As fleets of autonomous vehicles scale, AI and human oversight remain critical for safety, explains Guident's CEO.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 15,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
+      "score": 16,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "automation",
+        "autonomous",
         "robot"
       ]
     }
@@ -39,50 +74,50 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 25 Aug 2026 06:16:28 GMT"
+      "published_at": "Tue, 25 Aug 2026 19:50:57 GMT"
     },
     {
       "source": "BBC World",
-      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
-      "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 25 Aug 2026 04:06:34 GMT"
+      "published_at": "Tue, 25 Aug 2026 11:53:36 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 25 Aug 2026 00:17:25 GMT"
+      "published_at": "Tue, 25 Aug 2026 19:48:14 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+      "title": "European rights court orders Turkey to free imprisoned businessman",
+      "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
+      "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 25 Aug 2026 02:51:53 GMT"
+      "published_at": "Tue, 25 Aug 2026 15:58:20 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 19.0
     },
     "technology": {
       "count": 0,
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 17.0
+      "count": 4,
+      "avg_score": 16.2
     },
     "financial_system": {
       "count": 0,
@@ -90,13 +125,13 @@
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (4 -> 2)."
+    "Robotik ivmesi artıyor (2 -> 4)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 72,
+      "score": 138,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -105,9 +140,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 40,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 20,
+      "score": 35,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -116,22 +162,22 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 16,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 19,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 72,
+      "score": 138,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -140,26 +186,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 40,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 20,
+      "score": 35,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 16,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
