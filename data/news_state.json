@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-08-28T18:11:12.791005+00:00",
+  "generated_at": "2026-08-29T12:16:11.120788+00:00",
   "headlines": [
-    {
-      "source": "Quartz",
-      "title": "Fed Chair Warsh warns inflation is still too high but won't signal rate hike",
-      "link": "https://qz.com/fed-chair-kevin-warsh-jackson-hole-inflation-rates-082826",
-      "published_at": "Fri, 28 Aug 2026 18:04:04 GMT",
-      "summary": "The Fed chair stopped short of signaling a rate hike but said the central bank may have \"work to do\" if price trends don't improve",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 22,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, central bank ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "central bank",
-        "fed",
-        "inflation"
-      ]
-    },
     {
       "source": "The Robot Report",
       "title": "Bedrock Robotics’ first operator-free excavator deployments take off",
@@ -42,27 +21,10 @@
     },
     {
       "source": "The Robot Report",
-      "title": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation",
-      "link": "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/",
-      "published_at": "Fri, 28 Aug 2026 13:29:51 +0000",
-      "summary": "Locus Robotics recently acquired Nexera Robotics, which create unique soft picking technology, bolstering its manipulation capabilities.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "NSF to invest $90M into three new technology centers, including one focused on robotics",
-      "link": "https://www.therobotreport.com/nsf-invests-90m-three-new-technology-centers-including-one-focused-robotics/",
-      "published_at": "Thu, 27 Aug 2026 18:12:54 +0000",
-      "summary": "One of the new NSF funded centers will be the Center for Human and Robot Co-Adaptation, led by The University of Texas at Austin.",
+      "title": "From teach and repeat to SelfPath AI: The next robotics leap",
+      "link": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
+      "published_at": "Fri, 28 Aug 2026 23:25:06 +0000",
+      "summary": "John Black, chief technology officer at Brian Corp, shares insights on how to build trust for robotics fleets and AI.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -73,59 +35,93 @@
         "robot",
         "robotics"
       ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation",
+      "link": "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/",
+      "published_at": "Fri, 28 Aug 2026 13:29:51 +0000",
+      "summary": "Locus Robotics recently acquired Nexera Robotics, which create unique soft picking technology, bolstering its manipulation capabilities.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Carbon Robotics partners with iMerit to power instant in-field AI customization",
+      "link": "https://www.therobotreport.com/carbon-robotics-partners-with-imerit-to-power-instant-in-field-ai-customization/",
+      "published_at": "Thu, 27 Aug 2026 13:27:58 +0000",
+      "summary": "Carbon Robotics introduced a plant foundation AI model and tractor kit, enabling farmers to customize laser weeding.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 17,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
     }
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "Federal judge again blocks Trump's bid to move hush money case out of New York state court",
-      "link": "https://qz.com/trump-hush-money-conviction-federal-court-082826",
-      "summary": "Judge Alvin Hellerstein ruled that Trump waited too long after his May 2024 conviction to seek removal of the case",
+      "source": "BBC World",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 28 Aug 2026 17:50:41 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "BYD now sells over 40% of its cars outside China",
-      "link": "https://qz.com/byd-stock-rally-overseas-ev-exports-earnings-082826",
-      "summary": "Overseas shipments jumped 71% in the first half to more than 790,000 vehicles, accounting for 44% of total sales",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 28 Aug 2026 17:41:11 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "A temporary COVID-era subsidy helped Americans afford health care. Then it vanished",
-      "link": "https://qz.com/aca-enhanced-subsidies-history-congress-expiration-082428",
-      "summary": "Congress let enhanced ACA subsidies expire after months of political gridlock. Millions now face premiums they can no longer afford",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 28 Aug 2026 17:31:19 GMT"
+      "published_at": "Sat, 29 Aug 2026 03:54:11 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Violence breaks out in Ceuta as migrant crisis continues",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 28 Aug 2026 16:30:59 GMT"
+      "published_at": "Sat, 29 Aug 2026 02:42:27 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 29 Aug 2026 00:46:02 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+      "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 29 Aug 2026 07:11:04 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 22.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 22.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 6,
-      "avg_score": 18.0
+      "count": 7,
+      "avg_score": 17.6
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 22.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
@@ -135,7 +131,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 249,
+      "score": 281,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -146,42 +142,20 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 116,
+      "score": 111,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 46,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 23,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 249,
+      "score": 281,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -192,7 +166,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 116,
+      "score": 111,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -201,15 +175,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 46,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
