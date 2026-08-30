@@ -1,20 +1,19 @@
 {
-  "generated_at": "2026-08-29T12:16:11.120788+00:00",
+  "generated_at": "2026-08-30T11:14:37.441337+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Bedrock Robotics’ first operator-free excavator deployments take off",
-      "link": "https://www.therobotreport.com/bedrock-robotics-first-operator-free-excavator-deployments-take-off/",
-      "published_at": "Wed, 26 Aug 2026 13:51:51 +0000",
-      "summary": "Bedrock Robotics deploys autonomous excavators to active job sites, tackling construction labor shortages with AI-powered heavy machinery.",
+      "title": "The differences between decentralized and centralized power in swarm robotics",
+      "link": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
+      "published_at": "Sat, 29 Aug 2026 12:25:31 +0000",
+      "summary": "A robotic swarm typically relies on centralized or decentralized power management, but a hybrid approach could offer the best of both.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "autonomous",
         "robot",
         "robotics"
       ]
@@ -29,7 +28,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -46,7 +45,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -54,20 +53,23 @@
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "Carbon Robotics partners with iMerit to power instant in-field AI customization",
-      "link": "https://www.therobotreport.com/carbon-robotics-partners-with-imerit-to-power-instant-in-field-ai-customization/",
-      "published_at": "Thu, 27 Aug 2026 13:27:58 +0000",
-      "summary": "Carbon Robotics introduced a plant foundation AI model and tractor kit, enabling farmers to customize laser weeding.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "TechCrunch",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "published_at": "Sat, 29 Aug 2026 13:00:00 +0000",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
       "categories": [
-        "robotics"
+        "ai",
+        "technology"
       ],
       "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, data center ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "ai",
+        "data center",
+        "gpu",
+        "nvidia"
       ]
     }
   ],
@@ -82,27 +84,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "title": "Iceland votes against restarting talks on joining EU",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 29 Aug 2026 02:42:27 GMT"
+      "published_at": "Sun, 30 Aug 2026 10:49:11 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 29 Aug 2026 00:46:02 GMT"
+      "published_at": "Sat, 29 Aug 2026 20:13:16 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-      "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 29 Aug 2026 07:11:04 GMT"
+      "published_at": "Sat, 29 Aug 2026 19:44:54 GMT"
     }
   ],
   "market_items": [],
@@ -112,12 +114,12 @@
       "avg_score": 0.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 17.0
     },
     "robotics": {
-      "count": 7,
-      "avg_score": 17.6
+      "count": 6,
+      "avg_score": 16.7
     },
     "financial_system": {
       "count": 0,
@@ -131,7 +133,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 281,
+      "score": 212,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,31 +144,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 111,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    }
-  ],
-  "today_stack": [
-    {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 281,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 111,
+      "score": 87,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -177,7 +155,53 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 0,
+      "score": 54,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 19,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    }
+  ],
+  "today_stack": [
+    {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 212,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 87,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 54,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
