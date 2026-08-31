@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-08-30T11:14:37.441337+00:00",
+  "generated_at": "2026-08-31T12:40:32.078193+00:00",
   "headlines": [
     {
-      "source": "The Robot Report",
-      "title": "The differences between decentralized and centralized power in swarm robotics",
-      "link": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
-      "published_at": "Sat, 29 Aug 2026 12:25:31 +0000",
-      "summary": "A robotic swarm typically relies on centralized or decentralized power management, but a hybrid approach could offer the best of both.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "Quartz",
+      "title": "SoftBank's data center unit gave OpenAI $5.5 billion in stock warrants to lock in leases",
+      "link": "https://qz.com/softbank-sb-energy-openai-warrants-data-center-leases-083126",
+      "published_at": "Mon, 31 Aug 2026 12:00:45 GMT",
+      "summary": "Draft IPO documents show SB Energy's warrant package grew from $3.6 billion at issuance in January to $5.5 billion by the end of June",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system",
+        "macro",
+        "technology"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "score": 19,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, data center ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "ai",
+        "data center",
+        "openai"
       ]
     },
     {
@@ -28,7 +31,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -45,7 +48,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -63,7 +66,7 @@
         "ai",
         "technology"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, data center ekseninde öne çıkıyor.",
       "matched_keywords": [
         "ai",
@@ -75,76 +78,68 @@
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "source": "Quartz",
+      "title": "Retailers are turning tariff refunds into price cuts for stretched shoppers",
+      "link": "https://qz.com/retailers-tariff-refunds-price-cuts-consumers-083126",
+      "summary": "Walmart, e.l.f. Beauty, and Tractor Supply are among companies directing billions in refunds toward lower prices rather than profits",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 29 Aug 2026 03:54:11 GMT"
+      "published_at": "Mon, 31 Aug 2026 12:31:18 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "Iceland votes against restarting talks on joining EU",
-      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
+      "source": "Quartz",
+      "title": "Brent oil surges back above $90 as the U.S. strikes Iran for first time in a month",
+      "link": "https://qz.com/brent-oil-90-us-iran-larak-island-strike-083126",
+      "summary": "U.S. forces struck two Iranian rocket launchers on Larak Island, marking the first publicly acknowledged combat between the two sides since late July",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 30 Aug 2026 10:49:11 GMT"
+      "published_at": "Mon, 31 Aug 2026 12:21:40 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "source": "Quartz",
+      "title": "Stock futures fall after U.S. strikes Iran, ending month-long lull",
+      "link": "https://qz.com/stock-futures-oil-prices-us-iran-strikes-083126",
+      "summary": "Brent crude topped $90 a barrel after the U.S. attacked Iranian rocket launchers on Sunday, the first confirmed strike in about a month",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 29 Aug 2026 20:13:16 GMT"
+      "published_at": "Mon, 31 Aug 2026 12:20:46 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "Former Ecuadorian president imprisoned for corruption",
-      "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+      "source": "Quartz",
+      "title": "Aon is buying rival USI Insurance Services from KKR in a $17 billion deal",
+      "link": "https://qz.com/aon-usi-insurance-services-kkr-acquisition-17-billion-083126",
+      "summary": "The all-cash deal, expected to close in the fourth quarter of 2026, would make USI CEO Mike Sicard president of Aon",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 29 Aug 2026 19:44:54 GMT"
+      "published_at": "Mon, 31 Aug 2026 12:10:41 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 17.5
     },
     "technology": {
-      "count": 1,
+      "count": 3,
       "avg_score": 17.0
     },
     "robotics": {
-      "count": 6,
-      "avg_score": 16.7
+      "count": 3,
+      "avg_score": 16.0
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 17.5
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Makro ivmesi artıyor (0 -> 2).",
+    "Teknoloji ivmesi artıyor (1 -> 3).",
+    "Robotik akışı yavaşladı (6 -> 3).",
+    "Finansal Sistem ivmesi artıyor (0 -> 2)."
   ],
   "topic_router": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 212,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 87,
+      "score": 125,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,9 +148,20 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 102,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 54,
+      "score": 71,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
@@ -166,7 +172,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 19,
+      "score": 37,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -177,20 +183,9 @@
   ],
   "today_stack": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 212,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 87,
+      "score": 125,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -199,9 +194,20 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 102,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 54,
+      "score": 71,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
