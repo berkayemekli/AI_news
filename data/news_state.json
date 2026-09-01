@@ -1,32 +1,12 @@
 {
-  "generated_at": "2026-08-31T12:40:32.078193+00:00",
+  "generated_at": "2026-09-01T11:04:53.115252+00:00",
   "headlines": [
     {
-      "source": "Quartz",
-      "title": "SoftBank's data center unit gave OpenAI $5.5 billion in stock warrants to lock in leases",
-      "link": "https://qz.com/softbank-sb-energy-openai-warrants-data-center-leases-083126",
-      "published_at": "Mon, 31 Aug 2026 12:00:45 GMT",
-      "summary": "Draft IPO documents show SB Energy's warrant package grew from $3.6 billion at issuance in January to $5.5 billion by the end of June",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 19,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, data center ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "data center",
-        "openai"
-      ]
-    },
-    {
       "source": "The Robot Report",
-      "title": "From teach and repeat to SelfPath AI: The next robotics leap",
-      "link": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
-      "published_at": "Fri, 28 Aug 2026 23:25:06 +0000",
-      "summary": "John Black, chief technology officer at Brian Corp, shares insights on how to build trust for robotics fleets and AI.",
+      "title": "The differences between decentralized and centralized power in swarm robotics",
+      "link": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
+      "published_at": "Sat, 29 Aug 2026 12:25:31 +0000",
+      "summary": "A robotic swarm typically relies on centralized or decentralized power management, but a hybrid approach could offer the best of both.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -36,121 +16,73 @@
       "matched_keywords": [
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation",
-      "link": "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/",
-      "published_at": "Fri, 28 Aug 2026 13:29:51 +0000",
-      "summary": "Locus Robotics recently acquired Nexera Robotics, which create unique soft picking technology, bolstering its manipulation capabilities.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "published_at": "Sat, 29 Aug 2026 13:00:00 +0000",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
-      "categories": [
-        "ai",
-        "technology"
-      ],
-      "score": 16,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, data center ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "data center",
-        "gpu",
-        "nvidia"
       ]
     }
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "Retailers are turning tariff refunds into price cuts for stretched shoppers",
-      "link": "https://qz.com/retailers-tariff-refunds-price-cuts-consumers-083126",
-      "summary": "Walmart, e.l.f. Beauty, and Tractor Supply are among companies directing billions in refunds toward lower prices rather than profits",
+      "source": "BBC World",
+      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+      "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 31 Aug 2026 12:31:18 GMT"
+      "published_at": "Tue, 01 Sep 2026 05:00:34 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Brent oil surges back above $90 as the U.S. strikes Iran for first time in a month",
-      "link": "https://qz.com/brent-oil-90-us-iran-larak-island-strike-083126",
-      "summary": "U.S. forces struck two Iranian rocket launchers on Larak Island, marking the first publicly acknowledged combat between the two sides since late July",
+      "source": "BBC World",
+      "title": "The final minutes before floodwater crashed through Nepal-China border",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 31 Aug 2026 12:21:40 GMT"
+      "published_at": "Tue, 01 Sep 2026 06:02:27 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Stock futures fall after U.S. strikes Iran, ending month-long lull",
-      "link": "https://qz.com/stock-futures-oil-prices-us-iran-strikes-083126",
-      "summary": "Brent crude topped $90 a barrel after the U.S. attacked Iranian rocket launchers on Sunday, the first confirmed strike in about a month",
+      "source": "BBC World",
+      "title": "Israeli fire kills three in Gaza City during reported raid, medics say",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "summary": "Unconfirmed local reports say the Israeli military carried out air and artillery strikes after a raid by an Israel-backed militia was discovered.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 31 Aug 2026 12:20:46 GMT"
+      "published_at": "Tue, 01 Sep 2026 10:40:55 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Aon is buying rival USI Insurance Services from KKR in a $17 billion deal",
-      "link": "https://qz.com/aon-usi-insurance-services-kkr-acquisition-17-billion-083126",
-      "summary": "The all-cash deal, expected to close in the fourth quarter of 2026, would make USI CEO Mike Sicard president of Aon",
+      "source": "BBC World",
+      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+      "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 31 Aug 2026 12:10:41 GMT"
+      "published_at": "Mon, 31 Aug 2026 21:28:49 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 2,
-      "avg_score": 17.5
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 3,
-      "avg_score": 17.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 3,
+      "count": 1,
       "avg_score": 16.0
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 17.5
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Makro ivmesi artıyor (0 -> 2).",
-    "Teknoloji ivmesi artıyor (1 -> 3).",
-    "Robotik akışı yavaşladı (6 -> 3).",
-    "Finansal Sistem ivmesi artıyor (0 -> 2)."
+    "Makro akışı yavaşladı (2 -> 0).",
+    "Teknoloji akışı yavaşladı (3 -> 0).",
+    "Robotik akışı yavaşladı (3 -> 1).",
+    "Finansal Sistem akışı yavaşladı (2 -> 0)."
   ],
   "topic_router": [
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 125,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 102,
+      "score": 34,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -159,20 +91,9 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 71,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 37,
+      "score": 17,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -183,20 +104,9 @@
   ],
   "today_stack": [
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 125,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 102,
+      "score": 34,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -205,9 +115,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 17,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 71,
+      "score": 0,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
