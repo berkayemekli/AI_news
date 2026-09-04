@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:39:25.249661+00:00",
+  "generated_at": "2026-09-04T10:34:48.349717+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 25,
+      "score": 24,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -29,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -39,10 +39,10 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Learn why food is physical AI’s hardest problem at RoboBusiness",
-      "link": "https://www.therobotreport.com/learn-why-food-is-physical-ai-hardest-problem-chef-robotics-robobusiness/",
-      "published_at": "Wed, 02 Sep 2026 17:37:50 +0000",
-      "summary": "Rajat Bhageria, the founder and CEO of Chef Robotics, will explore what makes food such a demanding benchmark for physical AI.",
+      "title": "JAKA hits Teradyne Robotics back over patent dispute",
+      "link": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute/",
+      "published_at": "Thu, 03 Sep 2026 17:44:20 +0000",
+      "summary": "JAKA is now taking legal action against Teradyne Robotics to end public dissemination of statements it considers \"false, misleading and damaging.\"",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -56,15 +56,15 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Learn how physical AI is being used to do real work at RoboBusiness",
-      "link": "https://www.therobotreport.com/learn-how-physical-ai-is-being-used-to-do-real-work-at-robobusiness/",
-      "published_at": "Tue, 01 Sep 2026 16:48:33 +0000",
-      "summary": "Leaders at Amazon Robotics, Teradyne Robotics, and Cobot will discuss how they're applying physical AI to robots operating in customer environments.",
+      "title": "Medtronic invests $700M in surgical partner Cornerstone Robotics",
+      "link": "https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics/",
+      "published_at": "Thu, 03 Sep 2026 18:53:54 +0000",
+      "summary": "Medtronic and Cornerstone Robotics are building a multi-port portfolio anchored by the Hugo surgical system and expanded by Sentire.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -75,27 +75,35 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 03 Sep 2026 10:25:43 GMT"
+      "published_at": "Fri, 04 Sep 2026 10:00:18 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
+      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 03 Sep 2026 09:30:26 GMT"
+      "published_at": "Fri, 04 Sep 2026 06:52:29 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+      "title": "US diesel prices hit an all-time-high",
+      "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 02 Sep 2026 17:33:45 GMT"
+      "published_at": "Fri, 04 Sep 2026 09:59:50 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 03 Sep 2026 22:19:59 GMT"
     }
   ],
   "market_items": [],
@@ -109,8 +117,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 20.2
+      "count": 6,
+      "avg_score": 18.8
     },
     "financial_system": {
       "count": 0,
@@ -118,13 +126,13 @@
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (4 -> 6)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 218,
+      "score": 284,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -135,7 +143,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 89,
+      "score": 104,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -148,7 +156,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 218,
+      "score": 284,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -159,7 +167,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 89,
+      "score": 104,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
