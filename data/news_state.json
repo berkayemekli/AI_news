@@ -1,6 +1,23 @@
 {
-  "generated_at": "2026-09-05T09:56:33.035668+00:00",
+  "generated_at": "2026-09-06T10:15:02.891367+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
+      "link": "https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/",
+      "published_at": "Sat, 05 Sep 2026 12:30:37 +0000",
+      "summary": "Enovis said it plans to bring a robotic system targeting the knee within the next two years, followed by a system focusing on the shoulder.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
@@ -11,7 +28,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -28,7 +45,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -45,23 +62,6 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Learn why food is physical AI’s hardest problem at RoboBusiness",
-      "link": "https://www.therobotreport.com/learn-why-food-is-physical-ai-hardest-problem-chef-robotics-robobusiness/",
-      "published_at": "Wed, 02 Sep 2026 17:37:50 +0000",
-      "summary": "Rajat Bhageria, the founder and CEO of Chef Robotics, will explore what makes food such a demanding benchmark for physical AI.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
       "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
@@ -73,19 +73,19 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 05 Sep 2026 04:28:21 GMT"
+      "published_at": "Sun, 06 Sep 2026 02:24:16 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 04 Sep 2026 16:49:15 GMT"
+      "published_at": "Sat, 05 Sep 2026 22:44:07 GMT"
     },
     {
       "source": "BBC World",
@@ -101,7 +101,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
       "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 05 Sep 2026 08:41:38 GMT"
+      "published_at": "Sat, 05 Sep 2026 15:22:41 GMT"
     }
   ],
   "market_items": [],
@@ -116,7 +116,7 @@
     },
     "robotics": {
       "count": 4,
-      "avg_score": 17.0
+      "avg_score": 16.8
     },
     "financial_system": {
       "count": 0,
@@ -124,13 +124,13 @@
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (6 -> 4)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 144,
+      "score": 142,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -141,7 +141,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 35,
+      "score": 36,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -154,7 +154,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 144,
+      "score": 142,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -165,7 +165,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 35,
+      "score": 36,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
