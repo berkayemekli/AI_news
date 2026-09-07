@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:15:02.891367+00:00",
+  "generated_at": "2026-09-07T11:34:19.149456+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -28,40 +28,6 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "JAKA hits Teradyne Robotics back over patent dispute",
-      "link": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute/",
-      "published_at": "Thu, 03 Sep 2026 17:44:20 +0000",
-      "summary": "JAKA is now taking legal action against Teradyne Robotics to end public dissemination of statements it considers \"false, misleading and damaging.\"",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Medtronic invests $700M in surgical partner Cornerstone Robotics",
-      "link": "https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics/",
-      "published_at": "Thu, 03 Sep 2026 18:53:54 +0000",
-      "summary": "Medtronic and Cornerstone Robotics are building a multi-port portfolio anchored by the Hugo surgical system and expanded by Sentire.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
       "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
@@ -73,35 +39,35 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
-      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 06 Sep 2026 02:24:16 GMT"
+      "published_at": "Mon, 07 Sep 2026 11:32:32 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 05 Sep 2026 22:44:07 GMT"
+      "published_at": "Mon, 07 Sep 2026 00:01:32 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+      "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
+      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 05 Sep 2026 09:12:48 GMT"
+      "published_at": "Mon, 07 Sep 2026 10:45:28 GMT"
     },
     {
       "source": "BBC World",
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "title": "Tanzanian President Samia's husband dies in hospital",
+      "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 05 Sep 2026 15:22:41 GMT"
+      "published_at": "Mon, 07 Sep 2026 11:18:40 GMT"
     }
   ],
   "market_items": [],
@@ -115,8 +81,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 16.8
+      "count": 2,
+      "avg_score": 16.5
     },
     "financial_system": {
       "count": 0,
@@ -124,13 +90,13 @@
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik akışı yavaşladı (4 -> 2)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 142,
+      "score": 70,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -141,7 +107,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 36,
+      "score": 18,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -154,7 +120,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 142,
+      "score": 70,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -165,7 +131,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 36,
+      "score": 18,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
