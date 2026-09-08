@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-09-07T11:34:19.149456+00:00",
+  "generated_at": "2026-09-08T10:33:51.512035+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
-      "link": "https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/",
-      "published_at": "Sat, 05 Sep 2026 12:30:37 +0000",
-      "summary": "Enovis said it plans to bring a robotic system targeting the knee within the next two years, followed by a system focusing on the shoulder.",
+      "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
+      "link": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
+      "published_at": "Mon, 07 Sep 2026 13:17:45 +0000",
+      "summary": "Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot business.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "MassRobotics shares member survey results around FCC restrictions",
+      "link": "https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions/",
+      "published_at": "Mon, 07 Sep 2026 12:30:16 +0000",
+      "summary": "MassRobotics has found that companies were split on the FCC ban on new foreign-produced mobile robots.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -20,10 +38,10 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
-      "link": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
-      "published_at": "Fri, 04 Sep 2026 16:33:59 +0000",
-      "summary": "Submit now to be part of the Robotics Startup Radar, which brings together some of the most promising robotics startups.",
+      "title": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
+      "link": "https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/",
+      "published_at": "Sat, 05 Sep 2026 12:30:37 +0000",
+      "summary": "Enovis said it plans to bring a robotic system targeting the knee within the next two years, followed by a system focusing on the shoulder.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -39,35 +57,35 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 07 Sep 2026 11:32:32 GMT"
+      "published_at": "Tue, 08 Sep 2026 04:39:14 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
+      "title": "Highest paid world leader to get salary increase of $1 million",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 07 Sep 2026 00:01:32 GMT"
+      "published_at": "Tue, 08 Sep 2026 09:20:05 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
-      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
+      "title": "Nepal cracks down on online abuse of flood survivors",
+      "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities will \"show no leniency\" to people who \"belittle\" those who are suffering, the prime minister says.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 07 Sep 2026 10:45:28 GMT"
+      "published_at": "Tue, 08 Sep 2026 08:31:01 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Tanzanian President Samia's husband dies in hospital",
-      "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
+      "title": "North Korea and Russia open first road bridge linking both countries",
+      "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Relations between the neighbours have strengthened since the start of the Ukraine war.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 07 Sep 2026 11:18:40 GMT"
+      "published_at": "Tue, 08 Sep 2026 03:53:27 GMT"
     }
   ],
   "market_items": [],
@@ -81,8 +99,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 16.5
+      "count": 3,
+      "avg_score": 20.0
     },
     "financial_system": {
       "count": 0,
@@ -90,13 +108,13 @@
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (4 -> 2)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 70,
+      "score": 151,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -107,7 +125,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 18,
+      "score": 17,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -120,7 +138,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 70,
+      "score": 151,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -131,7 +149,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 18,
+      "score": 17,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",

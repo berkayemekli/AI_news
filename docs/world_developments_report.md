@@ -1,30 +1,39 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-09-07T11:34:19.149456+00:00
+Uretim zamani: 2026-09-08T10:33:51.512035+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Enovis to acquire surgical tech provider eCential Robotics for $180M
+### 1. Agility Robotics reports $1.8M revenue ahead of humanoid SPAC
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 17
-- Link: https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/
+- Onem skoru: 24
+- Link: https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
+
+### 2. MassRobotics shares member survey results around FCC restrictions
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 20
+- Link: https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 2. Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar
+### 3. Enovis to acquire surgical tech provider eCential Robotics for $180M
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
 - Onem skoru: 16
-- Link: https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/
+- Link: https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
 ## Trend Sinyali
 
-- Robotik akışı yavaşladı (4 -> 2).
+- Belirgin kategori ivmesi yok; haber akışı dengeli.
 
 ## Topic Router
 
