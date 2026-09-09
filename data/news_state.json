@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T10:33:51.512035+00:00",
+  "generated_at": "2026-09-09T10:45:13.751574+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
-      "link": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
-      "published_at": "Mon, 07 Sep 2026 13:17:45 +0000",
-      "summary": "Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot business.",
+      "title": "AI can’t outrun a humanoid’s hardware",
+      "link": "https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware/",
+      "published_at": "Tue, 08 Sep 2026 19:03:09 +0000",
+      "summary": "The remarkable progress in AI has brought robotics closer to machines capable of determining what they should do. The next major advance may depend on whether their physical systems can execute those decisions efficiently, precisely and safely.",
       "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
@@ -21,10 +21,28 @@
     },
     {
       "source": "The Robot Report",
-      "title": "MassRobotics shares member survey results around FCC restrictions",
-      "link": "https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions/",
-      "published_at": "Mon, 07 Sep 2026 12:30:16 +0000",
-      "summary": "MassRobotics has found that companies were split on the FCC ban on new foreign-produced mobile robots.",
+      "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
+      "link": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
+      "published_at": "Mon, 07 Sep 2026 13:17:45 +0000",
+      "summary": "Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot business.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 23,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
+      "link": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
+      "published_at": "Tue, 08 Sep 2026 20:39:51 +0000",
+      "summary": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -38,15 +56,15 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
-      "link": "https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/",
-      "published_at": "Sat, 05 Sep 2026 12:30:37 +0000",
-      "summary": "Enovis said it plans to bring a robotic system targeting the knee within the next two years, followed by a system focusing on the shoulder.",
+      "title": "MassRobotics shares member survey results around FCC restrictions",
+      "link": "https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions/",
+      "published_at": "Mon, 07 Sep 2026 12:30:16 +0000",
+      "summary": "MassRobotics has found that companies were split on the FCC ban on new foreign-produced mobile robots.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 16,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -56,51 +74,51 @@
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+      "source": "Quartz",
+      "title": "The first AI election",
+      "link": "https://qz.com/ai-campaign-issue-2026-midterm-elections",
+      "summary": "More than 30 candidates have signed an AI pledge as concerns over data centers, jobs and corporate accountability enter the 2026 midterm elections",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 08 Sep 2026 04:39:14 GMT"
+      "published_at": "Wed, 09 Sep 2026 09:11:11 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Highest paid world leader to get salary increase of $1 million",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 08 Sep 2026 09:20:05 GMT"
+      "published_at": "Wed, 09 Sep 2026 09:47:39 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Nepal cracks down on online abuse of flood survivors",
-      "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities will \"show no leniency\" to people who \"belittle\" those who are suffering, the prime minister says.",
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 08 Sep 2026 08:31:01 GMT"
+      "published_at": "Wed, 09 Sep 2026 10:20:40 GMT"
     },
     {
       "source": "BBC World",
-      "title": "North Korea and Russia open first road bridge linking both countries",
-      "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Relations between the neighbours have strengthened since the start of the Ukraine war.",
+      "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+      "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 08 Sep 2026 03:53:27 GMT"
+      "published_at": "Wed, 09 Sep 2026 06:42:01 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 19.0
     },
     "technology": {
       "count": 0,
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 20.0
+      "count": 4,
+      "avg_score": 21.5
     },
     "financial_system": {
       "count": 0,
@@ -114,7 +132,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 151,
+      "score": 229,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -123,9 +141,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 85,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 17,
+      "score": 45,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -138,7 +167,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 151,
+      "score": 229,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -147,26 +176,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 85,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 17,
+      "score": 45,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 0,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
