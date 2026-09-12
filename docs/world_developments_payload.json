@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-09-11T10:35:48.027366+00:00",
+  "generated_at": "2026-09-12T10:04:33.084609+00:00",
   "headlines": [
+    {
+      "source": "Payments Dive",
+      "title": "Visa offers data to back onchain lending",
+      "link": "https://www.paymentsdive.com/news/visa-offers-data-to-back-onchain-lending/830172/",
+      "published_at": "Fri, 11 Sep 2026 10:55:46 -0400",
+      "summary": "The card network aims to offer settlement and blockchain data so fintechs and card programs backed by stablecoins can better access onchain credit.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "categories": [
+        "financial_system"
+      ],
+      "score": 24,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, settlement ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "fintech",
+        "settlement",
+        "stablecoin",
+        "visa"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "AGIBOT to explain how to scale humanoids from the lab to the real world at RoboBusiness",
       "link": "https://www.therobotreport.com/agibot-share-plans-scale-humanoids-from-lab-to-real-world-at-robobusiness/",
       "published_at": "Wed, 09 Sep 2026 16:43:28 +0000",
       "summary": "AGIBOT plans to give attendees actionable insights on identifying high-value robotics use cases and building sustainable developer ecosystems.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 23,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "AI can’t outrun a humanoid’s hardware",
-      "link": "https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware/",
-      "published_at": "Tue, 08 Sep 2026 19:03:09 +0000",
-      "summary": "The remarkable progress in AI has brought robotics closer to machines capable of determining what they should do. The next major advance may depend on whether their physical systems can execute those decisions efficiently, precisely and safely.",
       "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
@@ -39,27 +40,28 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Boston Dynamics veteran launches Dynamic Creatures to bring characters to life with robotics",
-      "link": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
-      "published_at": "Tue, 08 Sep 2026 20:39:51 +0000",
-      "summary": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments.",
+      "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
+      "link": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
+      "published_at": "Fri, 11 Sep 2026 19:49:40 +0000",
+      "summary": "ASI CEO Mel Torrie will explore why the intersection of autonomous vehicles and robotics will further revolutionize field deployments.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "score": 22,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
+        "autonomous",
         "robot",
         "robotics"
       ]
     },
     {
       "source": "The Robot Report",
-      "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
-      "link": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/",
-      "published_at": "Thu, 10 Sep 2026 20:10:22 +0000",
-      "summary": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine.",
+      "title": "How to select the right rack and pinion system for high-precision linear motion",
+      "link": "https://www.therobotreport.com/how-to-select-the-right-rack-and-pinion-system-for-high-precision-linear-motion/",
+      "published_at": "Fri, 11 Sep 2026 14:35:47 +0000",
+      "summary": "GAM explains why robotics designers should consider pinion size when thinking about motion control for high-precision applications.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -75,27 +77,35 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "7 grout cleaners to keep your tile floors in pristine condition: Consumer Reports",
-      "link": "https://qz.com/grout-cleaners-tested-consumer-reports",
-      "summary": "Grimy grout can be stubborn, but a strong cleaner brings real tradeoffs. Consumer Reports evaluated seven options for effectiveness and safety",
+      "title": "5 Trader Joe’s fall treats worth adding to your cart",
+      "link": "https://qz.com/best-fall-treats-trader-joes-readers-digest",
+      "summary": "Trader Joe’s is bringing back and rolling out plenty of seasonal favorites. Here are five fall treats worth adding to your cart",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 11 Sep 2026 09:10:57 GMT"
+      "published_at": "Sat, 12 Sep 2026 09:11:18 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-      "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 10 Sep 2026 22:36:02 GMT"
+      "published_at": "Sat, 12 Sep 2026 04:43:10 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Jimmy Kimmel says interview with Democrat won't air on TV, cites regulator 'threats'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyrv39n4eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The White House denies Kimmel's allegations regarding his interview with James Talarico, accusing the TV host of \"play acting\".",
+      "title": "US and Ireland's relationship 'stronger than ever'",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 10 Sep 2026 23:04:15 GMT"
+      "published_at": "Sat, 12 Sep 2026 10:02:45 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Passenger train derails in France leaving at least 44 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 11 Sep 2026 21:25:32 GMT"
     }
   ],
   "market_items": [],
@@ -109,12 +119,12 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 6,
-      "avg_score": 19.3
+      "count": 7,
+      "avg_score": 18.6
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 16.0
+      "count": 2,
+      "avg_score": 19.5
     }
   },
   "trend_signals": [
@@ -124,7 +134,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 291,
+      "score": 320,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -133,20 +143,9 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 85,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 51,
+      "score": 123,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -155,9 +154,20 @@
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 103,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 42,
+      "score": 18,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -170,7 +180,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 291,
+      "score": 320,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -179,26 +189,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 85,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 51,
+      "score": 123,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
       "backup_url": "https://www.reuters.com/business/",
       "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 103,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     }
   ],
   "errors": [

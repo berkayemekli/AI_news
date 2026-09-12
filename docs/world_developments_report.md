@@ -1,41 +1,41 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-09-11T10:35:48.027366+00:00
+Uretim zamani: 2026-09-12T10:04:33.084609+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. AGIBOT to explain how to scale humanoids from the lab to the real world at RoboBusiness
+### 1. Visa offers data to back onchain lending
+- Kaynak: Payments Dive
+- Kategoriler: Finansal Sistem
+- Onem skoru: 24
+- Link: https://www.paymentsdive.com/news/visa-offers-data-to-back-onchain-lending/830172/
+- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, settlement ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
+
+### 2. AGIBOT to explain how to scale humanoids from the lab to the real world at RoboBusiness
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 23
+- Onem skoru: 22
 - Link: https://www.therobotreport.com/agibot-share-plans-scale-humanoids-from-lab-to-real-world-at-robobusiness/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
 
-### 2. AI can’t outrun a humanoid’s hardware
+### 3. Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
 - Onem skoru: 22
-- Link: https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
-
-### 3. Boston Dynamics veteran launches Dynamic Creatures to bring characters to life with robotics
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 18
-- Link: https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+- Link: https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 4. Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M
+### 4. How to select the right rack and pinion system for high-precision linear motion
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
 - Onem skoru: 18
-- Link: https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/
+- Link: https://www.therobotreport.com/how-to-select-the-right-rack-and-pinion-system-for-high-precision-linear-motion/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
@@ -47,8 +47,8 @@ Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gerce
 ## Topic Router
 
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
-- YZ Modelleri: The Information (yedek: Semafor Tech)
 - Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
+- YZ Modelleri: The Information (yedek: Semafor Tech)
 - Jeopolitik: Reuters World (yedek: Foreign Affairs)
 
 ## Feed Notlari
