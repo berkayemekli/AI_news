@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T11:04:44.499646+00:00",
+  "generated_at": "2026-09-14T11:46:41.163528+00:00",
   "headlines": [
     {
       "source": "Payments Dive",
@@ -11,7 +11,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "fintech",
@@ -30,7 +30,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -39,101 +39,109 @@
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "How to select the right rack and pinion system for high-precision linear motion",
-      "link": "https://www.therobotreport.com/how-to-select-the-right-rack-and-pinion-system-for-high-precision-linear-motion/",
-      "published_at": "Fri, 11 Sep 2026 14:35:47 +0000",
-      "summary": "GAM explains why robotics designers should consider pinion size when thinking about motion control for high-precision applications.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "Quartz",
+      "title": "Cramer questions Anthropic CEO's AI 'slowdown' manifesto",
+      "link": "https://qz.com/cramer-anthropic-amodei-ai-slowdown-nvidia-091426",
+      "published_at": "Mon, 14 Sep 2026 11:30:26 GMT",
+      "summary": "CNBC's Jim Cramer said Dario Amodei's essay may be designed to build a regulatory moat and warned of pressure on Nvidia stock",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system",
+        "macro",
+        "technology"
       ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "score": 19,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "ai",
+        "anthropic",
+        "nvidia"
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "One brick at a time: How Monumental uses robotics to build walls",
-      "link": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
-      "published_at": "Fri, 11 Sep 2026 21:09:01 +0000",
-      "summary": "CEO Salar al Khafaji introduces podcast listeners to how Monumental is using robotics to build walls.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "Quartz",
+      "title": "AI stocks are sinking globally after top tech CEOs back a slowdown in development",
+      "link": "https://qz.com/ai-stocks-sink-amodei-altman-musk-slowdown-091426",
+      "published_at": "Mon, 14 Sep 2026 11:30:33 GMT",
+      "summary": "Nvidia, Intel, ASML, SK Hynix, and SoftBank were among the hardest-hit names as investors weighed the implications of a deliberate cap on AI progress",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system",
+        "macro",
+        "technology"
       ],
       "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, nvidia ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "ai",
+        "nvidia"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "The first AI election",
-      "link": "https://qz.com/ai-campaign-issue-2026-midterm-elections",
-      "summary": "More than 30 candidates have signed an AI pledge as concerns over data centers, jobs and corporate accountability enter the 2026 midterm elections",
+      "title": "Anthropic's CEO warned the AI industry it must slow down — and rivals agree",
+      "link": "https://qz.com/anthropic-amodei-ai-slowdown-altman-musk-091426",
+      "summary": "Sam Altman and Elon Musk endorsed Dario Amodei's essay calling for pacing AI development, as AI stocks fell and President Trump pushed back",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 13 Sep 2026 09:12:30 GMT"
+      "published_at": "Mon, 14 Sep 2026 11:30:39 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "summary": "It follows the Anthropic CEO 's calls for a slowdown in AI development, in a way that China doesn't pull ahead.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 12 Sep 2026 21:25:28 GMT"
+      "published_at": "Mon, 14 Sep 2026 11:31:39 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 12 Sep 2026 23:51:05 GMT"
+      "published_at": "Mon, 14 Sep 2026 03:38:13 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 12 Sep 2026 12:15:50 GMT"
+      "published_at": "Mon, 14 Sep 2026 08:36:09 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 18.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 18.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 17.4
+      "count": 3,
+      "avg_score": 17.3
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 23.0
+      "count": 3,
+      "avg_score": 19.3
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (7 -> 5)."
+    "Makro ivmesi artıyor (0 -> 2).",
+    "Teknoloji ivmesi artıyor (0 -> 2).",
+    "Robotik akışı yavaşladı (5 -> 3).",
+    "Finansal Sistem ivmesi artıyor (1 -> 3)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 206,
+      "score": 131,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -144,7 +152,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 76,
+      "score": 98,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -155,7 +163,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 72,
+      "score": 69,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -164,22 +172,22 @@
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 17,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 38,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 206,
+      "score": 131,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -190,7 +198,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 76,
+      "score": 98,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -201,7 +209,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 72,
+      "score": 69,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
