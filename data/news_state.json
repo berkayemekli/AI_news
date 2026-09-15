@@ -1,79 +1,59 @@
 {
-  "generated_at": "2026-09-14T11:46:41.163528+00:00",
+  "generated_at": "2026-09-15T11:03:26.901409+00:00",
   "headlines": [
     {
-      "source": "Payments Dive",
-      "title": "Visa offers data to back onchain lending",
-      "link": "https://www.paymentsdive.com/news/visa-offers-data-to-back-onchain-lending/830172/",
-      "published_at": "Fri, 11 Sep 2026 10:55:46 -0400",
-      "summary": "The card network aims to offer settlement and blockchain data so fintechs and card programs backed by stablecoins can better access onchain credit.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Report covers advances in surgical robots, deploying warehouse automation in the real world",
+      "link": "https://www.therobotreport.com/report-covers-surgical-robot-advances-deploying-warehouse-automation-real-world/",
+      "published_at": "Mon, 14 Sep 2026 21:01:59 +0000",
+      "summary": "Learn from a surgical robotics case study and a discussion of how to best deploy mobile robots in the warehouse in this issue.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
-        "financial_system"
+        "robotics"
       ],
-      "score": 22,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, settlement ekseninde öne çıkıyor.",
+      "score": 25,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "fintech",
-        "settlement",
-        "stablecoin",
-        "visa"
+        "automation",
+        "robot",
+        "robotics",
+        "warehouse"
       ]
     },
     {
       "source": "The Robot Report",
-      "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
-      "link": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
-      "published_at": "Fri, 11 Sep 2026 19:49:40 +0000",
-      "summary": "ASI CEO Mel Torrie will explore why the intersection of autonomous vehicles and robotics will further revolutionize field deployments.",
+      "title": "Why RaaS needs more than a subscription model",
+      "link": "https://www.therobotreport.com/why-raas-needs-more-than-a-subscription-model/",
+      "published_at": "Mon, 14 Sep 2026 21:45:57 +0000",
+      "summary": "At RoboBusiness 2026, a panel of robotics business leaders will examine the practical playbook behind Robots-as-a-Service or RaaS offerings.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "autonomous",
         "robot",
         "robotics"
       ]
     },
     {
-      "source": "Quartz",
-      "title": "Cramer questions Anthropic CEO's AI 'slowdown' manifesto",
-      "link": "https://qz.com/cramer-anthropic-amodei-ai-slowdown-nvidia-091426",
-      "published_at": "Mon, 14 Sep 2026 11:30:26 GMT",
-      "summary": "CNBC's Jim Cramer said Dario Amodei's essay may be designed to build a regulatory moat and warned of pressure on Nvidia stock",
+      "source": "TechCrunch",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "published_at": "Mon, 14 Sep 2026 20:07:37 +0000",
+      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
       "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
       "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 19,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
-      "matched_keywords": [
         "ai",
-        "anthropic",
-        "nvidia"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "AI stocks are sinking globally after top tech CEOs back a slowdown in development",
-      "link": "https://qz.com/ai-stocks-sink-amodei-altman-musk-slowdown-091426",
-      "published_at": "Mon, 14 Sep 2026 11:30:33 GMT",
-      "summary": "Nvidia, Intel, ASML, SK Hynix, and SoftBank were among the hardest-hit names as investors weighed the implications of a deliberate cap on AI progress",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
         "technology"
       ],
       "score": 17,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, nvidia ekseninde öne çıkıyor.",
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
       "matched_keywords": [
         "ai",
+        "chip",
+        "gpu",
         "nvidia"
       ]
     }
@@ -81,67 +61,65 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Anthropic's CEO warned the AI industry it must slow down — and rivals agree",
-      "link": "https://qz.com/anthropic-amodei-ai-slowdown-altman-musk-091426",
-      "summary": "Sam Altman and Elon Musk endorsed Dario Amodei's essay calling for pacing AI development, as AI stocks fell and President Trump pushed back",
+      "title": "Here are the best places to visit in Europe after summer crowds leave",
+      "link": "https://qz.com/best-places-visit-europe-after-summer-crowds-leave",
+      "summary": "From Sicily and Tuscany to London and the Amalfi Coast, these destinations become quieter, cooler, and more appealing once summer crowds fade",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 14 Sep 2026 11:30:39 GMT"
+      "published_at": "Tue, 15 Sep 2026 09:13:12 GMT"
     },
     {
       "source": "BBC World",
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows the Anthropic CEO 's calls for a slowdown in AI development, in a way that China doesn't pull ahead.",
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 14 Sep 2026 11:31:39 GMT"
+      "published_at": "Tue, 15 Sep 2026 08:49:31 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 14 Sep 2026 03:38:13 GMT"
+      "published_at": "Tue, 15 Sep 2026 02:50:36 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 14 Sep 2026 08:36:09 GMT"
+      "published_at": "Tue, 15 Sep 2026 10:12:49 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 2,
-      "avg_score": 18.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 2,
-      "avg_score": 18.0
+      "count": 1,
+      "avg_score": 17.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 17.3
+      "count": 2,
+      "avg_score": 21.5
     },
     "financial_system": {
-      "count": 3,
-      "avg_score": 19.3
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Makro ivmesi artıyor (0 -> 2).",
-    "Teknoloji ivmesi artıyor (0 -> 2).",
-    "Robotik akışı yavaşladı (5 -> 3).",
-    "Finansal Sistem ivmesi artıyor (1 -> 3)."
+    "Makro akışı yavaşladı (2 -> 0).",
+    "Finansal Sistem akışı yavaşladı (3 -> 0)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 131,
+      "score": 142,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -150,55 +128,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 98,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 69,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 38,
+      "score": 54,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
       "backup_url": "https://stratechery.com/about/",
       "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
       "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    }
-  ],
-  "today_stack": [
-    {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 131,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 98,
+      "score": 37,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -207,15 +150,50 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 69,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 26,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    }
+  ],
+  "today_stack": [
+    {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 142,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 54,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 37,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     }
   ],
   "errors": [

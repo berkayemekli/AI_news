@@ -1,58 +1,47 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-09-14T11:46:41.163528+00:00
+Uretim zamani: 2026-09-15T11:03:26.901409+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Visa offers data to back onchain lending
-- Kaynak: Payments Dive
-- Kategoriler: Finansal Sistem
-- Onem skoru: 22
-- Link: https://www.paymentsdive.com/news/visa-offers-data-to-back-onchain-lending/830172/
-- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle fintech, settlement ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
-
-### 2. Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness
+### 1. Report covers advances in surgical robots, deploying warehouse automation in the real world
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 20
-- Link: https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.
+- Onem skoru: 25
+- Link: https://www.therobotreport.com/report-covers-surgical-robot-advances-deploying-warehouse-automation-real-world/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
+
+### 2. Why RaaS needs more than a subscription model
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/why-raas-needs-more-than-a-subscription-model/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 3. Cramer questions Anthropic CEO's AI 'slowdown' manifesto
-- Kaynak: Quartz
-- Kategoriler: Finansal Sistem, Makro, Teknoloji
-- Onem skoru: 19
-- Link: https://qz.com/cramer-anthropic-amodei-ai-slowdown-nvidia-091426
-- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.
-
-### 4. AI stocks are sinking globally after top tech CEOs back a slowdown in development
-- Kaynak: Quartz
-- Kategoriler: Finansal Sistem, Makro, Teknoloji
+### 3. AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance
+- Kaynak: TechCrunch
+- Kategoriler: ai, Teknoloji
 - Onem skoru: 17
-- Link: https://qz.com/ai-stocks-sink-amodei-altman-musk-slowdown-091426
-- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, nvidia ekseninde öne çıkıyor.
+- Link: https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/
+- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.
 
 ## Trend Sinyali
 
-- Makro ivmesi artıyor (0 -> 2).
-- Teknoloji ivmesi artıyor (0 -> 2).
-- Robotik akışı yavaşladı (5 -> 3).
-- Finansal Sistem ivmesi artıyor (1 -> 3).
+- Makro akışı yavaşladı (2 -> 0).
+- Finansal Sistem akışı yavaşladı (3 -> 0).
 
 ## Topic Router
 
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
-- YZ Modelleri: The Information (yedek: Semafor Tech)
-- Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
 - Nvidia: Bloomberg Technology (yedek: Stratechery)
+- YZ Modelleri: The Information (yedek: Semafor Tech)
+- Jeopolitik: Reuters World (yedek: Foreign Affairs)
 
 ## Feed Notlari
 
