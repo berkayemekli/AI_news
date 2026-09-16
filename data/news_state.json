@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:03:26.901409+00:00",
+  "generated_at": "2026-09-16T10:50:14.590809+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 25,
+      "score": 24,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -22,10 +22,10 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Why RaaS needs more than a subscription model",
-      "link": "https://www.therobotreport.com/why-raas-needs-more-than-a-subscription-model/",
-      "published_at": "Mon, 14 Sep 2026 21:45:57 +0000",
-      "summary": "At RoboBusiness 2026, a panel of robotics business leaders will examine the practical playbook behind Robots-as-a-Service or RaaS offerings.",
+      "title": "InOrbit.AI releases OpenRobOps ISO 21423 reference implementation",
+      "link": "https://www.therobotreport.com/inorbit-ai-releases-openrobops-iso-21423-reference-implementation/",
+      "published_at": "Tue, 15 Sep 2026 12:58:29 +0000",
+      "summary": "OpenRobOps gives robotics developers a foundation to deliver a fleet manager with support for the upcoming interoperability standard.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -38,58 +38,55 @@
       ]
     },
     {
-      "source": "TechCrunch",
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-      "published_at": "Mon, 14 Sep 2026 20:07:37 +0000",
-      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Why RaaS needs more than a subscription model",
+      "link": "https://www.therobotreport.com/why-raas-needs-more-than-a-subscription-model/",
+      "published_at": "Mon, 14 Sep 2026 21:45:57 +0000",
+      "summary": "At RoboBusiness 2026, a panel of robotics business leaders will examine the practical playbook behind Robots-as-a-Service or RaaS offerings.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "ai",
-        "technology"
+        "robotics"
       ],
       "score": 17,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "ai",
-        "chip",
-        "gpu",
-        "nvidia"
+        "robot",
+        "robotics"
       ]
     }
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "Here are the best places to visit in Europe after summer crowds leave",
-      "link": "https://qz.com/best-places-visit-europe-after-summer-crowds-leave",
-      "summary": "From Sicily and Tuscany to London and the Amalfi Coast, these destinations become quieter, cooler, and more appealing once summer crowds fade",
+      "source": "BBC World",
+      "title": "EU chief opens door for Canada to become 'associate member'",
+      "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 15 Sep 2026 09:13:12 GMT"
+      "published_at": "Wed, 16 Sep 2026 10:28:45 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 15 Sep 2026 08:49:31 GMT"
+      "published_at": "Tue, 15 Sep 2026 20:34:12 GMT"
     },
     {
       "source": "BBC World",
-      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 15 Sep 2026 02:50:36 GMT"
+      "published_at": "Tue, 15 Sep 2026 16:13:41 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+      "title": "South African president vows justice as more women's bodies found near Johannesburg",
+      "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 15 Sep 2026 10:12:49 GMT"
+      "published_at": "Wed, 16 Sep 2026 10:44:02 GMT"
     }
   ],
   "market_items": [],
@@ -99,12 +96,12 @@
       "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 17.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 21.5
+      "count": 3,
+      "avg_score": 19.7
     },
     "financial_system": {
       "count": 0,
@@ -112,31 +109,19 @@
     }
   },
   "trend_signals": [
-    "Makro akışı yavaşladı (2 -> 0).",
-    "Finansal Sistem akışı yavaşladı (3 -> 0)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 142,
+      "score": 174,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
       "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 54,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     },
     {
       "topic": "ai_models",
@@ -152,7 +137,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 26,
+      "score": 25,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -165,24 +150,13 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 142,
+      "score": 174,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
       "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 54,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     },
     {
       "topic": "ai_models",
@@ -194,6 +168,17 @@
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 25,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
