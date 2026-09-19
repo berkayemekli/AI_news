@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-09-18T10:33:47.198530+00:00",
+  "generated_at": "2026-09-19T10:17:34.853924+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "The picks-and-shovels strategy behind the robotics boom",
+      "link": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
+      "published_at": "Fri, 18 Sep 2026 18:57:36 +0000",
+      "summary": "The real robotics opportunity isn’t a humanoid in every home—it’s packaging robots for the jobs businesses need done today.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "SoftBank agrees to acquire Robotics and AI Institute",
+      "link": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
+      "published_at": "Fri, 18 Sep 2026 17:14:32 +0000",
+      "summary": "The deal has been rumored for a couple of months, but it is now being reviewed by the Committee on Foreign Investment in the United States.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Robotics investments reach $4.9B in August 2026",
@@ -11,7 +46,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -28,81 +63,47 @@
       "categories": [
         "financial_system"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
         "settlement",
         "visa"
       ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Arm Total Design for Physical AI brings more than 80 developers together",
-      "link": "https://www.therobotreport.com/arm-total-design-for-physical-ai-brings-more-than-80-developers-together/",
-      "published_at": "Thu, 17 Sep 2026 12:30:13 +0000",
-      "summary": "With its new program and its Robotics Capability Framework, Arm aims to bring more clarity and unity to the robotics industry.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5",
-      "link": "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5/",
-      "published_at": "Wed, 16 Sep 2026 17:45:50 +0000",
-      "summary": "From Cassie, to five different versions of Digit, Agility Robotics has adapted its technology to fit industrial tasks.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Canada welcomes EU proposal to become 'associate member'",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 17 Sep 2026 12:27:18 GMT"
+      "published_at": "Fri, 18 Sep 2026 22:58:55 GMT"
     },
     {
       "source": "BBC World",
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+      "title": "Trump says he is banning CNN and Politico from White House",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 17 Sep 2026 20:34:30 GMT"
+      "published_at": "Sat, 19 Sep 2026 05:36:36 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Zara Larsson criticises White House for using her song in deportation video",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 18 Sep 2026 01:20:33 GMT"
+      "published_at": "Fri, 18 Sep 2026 22:05:47 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 17 Sep 2026 21:41:19 GMT"
+      "published_at": "Sat, 19 Sep 2026 00:03:53 GMT"
     }
   ],
   "market_items": [],
@@ -116,22 +117,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 17.8
+      "count": 7,
+      "avg_score": 18.9
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 20.0
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (4 -> 7)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 150,
+      "score": 303,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +143,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 42,
+      "score": 59,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -153,7 +154,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 36,
+      "score": 39,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -164,7 +165,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 21,
+      "score": 20,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -177,7 +178,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 150,
+      "score": 303,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -188,7 +189,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 42,
+      "score": 59,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -199,7 +200,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 36,
+      "score": 39,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
