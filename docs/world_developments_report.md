@@ -1,44 +1,44 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-09-20T10:36:48.332472+00:00
+Uretim zamani: 2026-09-21T11:58:55.311447+00:00
 
 ## Bugunun 5 Onemli Basligi
 
 ### 1. The picks-and-shovels strategy behind the robotics boom
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 23
+- Onem skoru: 22
 - Link: https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
 
-### 2. SoftBank agrees to acquire Robotics and AI Institute
+### 2. Google's Gemini AI broke into three real companies during a security test
+- Kaynak: Quartz
+- Kategoriler: Finansal Sistem, Makro, Teknoloji
+- Onem skoru: 20
+- Link: https://qz.com/google-gemini-ai-hacked-companies-security-test-092126
+- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.
+
+### 3. SoftBank agrees to acquire Robotics and AI Institute
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 19
+- Onem skoru: 18
 - Link: https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 3. Robotics investments reach $4.9B in August 2026
+### 4. What do you do with a humanoid robot when it breaks down?
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
 - Onem skoru: 18
-- Link: https://www.therobotreport.com/robotics-investments-reach-4-9b-in-august-2026/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+- Link: https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
-
-### 4. F-Prime Capital to give insights on the state of robotics investments at RoboBusiness
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 17
-- Link: https://www.therobotreport.com/f-prime-capital-give-insights-state-robotics-investments-robobusiness/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
 
 ## Trend Sinyali
 
