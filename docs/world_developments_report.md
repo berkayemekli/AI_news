@@ -1,41 +1,41 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-09-25T11:07:46.873954+00:00
+Uretim zamani: 2026-09-26T10:48:15.843578+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Qualcomm to acquire PickNik Robotics and keep MoveIt open-source
+### 1. Agility Robotics, maker of Digit humanoid, exploring wheeled robots
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 17
-- Link: https://www.therobotreport.com/qualcomm-acquires-picknik-robotics-keep-moveit-open-source/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
-
-### 2. State of Humanoids keynote brings industry leaders to RoboBusiness
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 17
-- Link: https://www.therobotreport.com/state-of-humanoids-keynote-brings-industry-leaders-robobusiness/
+- Onem skoru: 24
+- Link: https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
 
-### 3. With the new VENTUNO Q board, Arduino hopes to make robotics development easier
+### 2. Moov adds P2P competition
+- Kaynak: Payments Dive
+- Kategoriler: Finansal Sistem
+- Onem skoru: 21
+- Link: https://www.paymentsdive.com/news/moov-adds-p2p-competition/831268/
+- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, payment ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
+
+### 3. Amazon to invest $100M in new Indiana manufacturing facility
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 17
-- Link: https://www.therobotreport.com/new-ventuno-q-board-arduino-hopes-make-robotics-development-easier/
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 4. Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness
+### 4. Farmers are facing more pressure; CNH says robotics can help
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 16
-- Link: https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness/
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/farmers-are-facing-more-pressure-cnh-says-robotics-can-help/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
@@ -47,8 +47,8 @@ Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gerce
 ## Topic Router
 
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
+- Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
 - YZ Modelleri: The Information (yedek: Semafor Tech)
-- Nvidia: Bloomberg Technology (yedek: Stratechery)
 
 ## Feed Notlari
 
