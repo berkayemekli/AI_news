@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T11:23:23.488016+00:00",
+  "generated_at": "2026-09-28T12:53:52.917916+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -20,29 +20,32 @@
       ]
     },
     {
-      "source": "Payments Dive",
-      "title": "Moov adds P2P competition",
-      "link": "https://www.paymentsdive.com/news/moov-adds-p2p-competition/831268/",
-      "published_at": "Thu, 24 Sep 2026 10:51:00 -0400",
-      "summary": "Using Mastercard and Visa’s digital infrastructure, the tool facilitates peer-to-peer payments without requiring both parties to have the same app.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "source": "Quartz",
+      "title": "U.S. and China are detailing tariff cuts on $30 billion in goods after Trump-Xi summit",
+      "link": "https://qz.com/us-china-tariff-cuts-30-billion-product-lists-092826",
+      "published_at": "Mon, 28 Sep 2026 12:20:38 GMT",
+      "summary": "The \"30-for-30\" framework covers 1,619 U.S. export items entering China and 77 categories of Chinese goods entering the U.S.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "categories": [
-        "financial_system"
+        "financial_system",
+        "macro",
+        "technology"
       ],
-      "score": 20,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, payment ekseninde öne çıkıyor.",
+      "score": 21,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, china ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "mastercard",
-        "payment",
-        "visa"
+        "ai",
+        "china",
+        "tariff",
+        "u.s."
       ]
     },
     {
       "source": "The Robot Report",
-      "title": "Amazon to invest $100M in new Indiana manufacturing facility",
-      "link": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/",
-      "published_at": "Fri, 25 Sep 2026 18:59:01 +0000",
-      "summary": "The new facility will produce products that power Amazon's fulfillment and robotics network across North America.",
+      "title": "Asimov’s laws are not enough to keep robotics and AI safe",
+      "link": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
+      "published_at": "Sun, 27 Sep 2026 12:26:44 +0000",
+      "summary": "Asimov's fictional Three Laws of Robotics famously set safeguards, and tech observers today raise similar concerns about AI.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -55,68 +58,88 @@
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "Farmers are facing more pressure; CNH says robotics can help",
-      "link": "https://www.therobotreport.com/farmers-are-facing-more-pressure-cnh-says-robotics-can-help/",
-      "published_at": "Fri, 25 Sep 2026 12:18:36 +0000",
-      "summary": "Labor availability, costs, productivity, and efficiency are common concerns of farmers that technology can address, according to CNH.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "Quartz",
+      "title": "Nvidia is boosting its share buyback program by a record $150 billion",
+      "link": "https://qz.com/nvidia-share-buyback-repurchase-record-150-billion-092826",
+      "published_at": "Mon, 28 Sep 2026 12:30:17 GMT",
+      "summary": "The authorization raises Nvidia's total remaining repurchase program to $235 billion, to be executed through fiscal year 2028",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system",
+        "macro",
+        "technology"
       ],
       "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, nvidia ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "ai",
+        "nvidia"
       ]
     }
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "source": "Quartz",
+      "title": "U.S. and China are detailing tariff cuts on $30 billion in goods after Trump-Xi summit",
+      "link": "https://qz.com/us-china-tariff-cuts-30-billion-product-lists-092826",
+      "summary": "The \"30-for-30\" framework covers 1,619 U.S. export items entering China and 77 categories of Chinese goods entering the U.S.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 27 Sep 2026 07:44:11 GMT"
+      "published_at": "Mon, 28 Sep 2026 12:20:38 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Stock futures drop as oil, Treasury yields climb to start the week",
+      "link": "https://qz.com/stock-futures-drop-oil-treasury-yields-climb-092826",
+      "summary": "Trump's rejection of an Iranian ceasefire proposal pushed Brent crude above $108 a barrel, adding pressure to already elevated bond yields",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Mon, 28 Sep 2026 12:00:41 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Oil surged 4% after Trump rejected Iran's plan to reopen the Strait of Hormuz",
+      "link": "https://qz.com/oil-prices-surge-trump-rejects-iran-hormuz-proposal-092826",
+      "summary": "Brent crude climbed above $108 a barrel Monday after Trump turned down Tehran's offer to reopen the strait within 7 days",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Mon, 28 Sep 2026 11:30:40 GMT"
     },
     {
       "source": "BBC World",
-      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 26 Sep 2026 15:48:51 GMT"
+      "published_at": "Sun, 27 Sep 2026 21:16:31 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 3,
+      "avg_score": 18.3
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 3,
+      "avg_score": 18.3
     },
     "robotics": {
       "count": 4,
-      "avg_score": 18.5
+      "avg_score": 17.8
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 20.0
+      "count": 3,
+      "avg_score": 18.3
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (7 -> 4)."
+    "Makro ivmesi artıyor (0 -> 3).",
+    "Teknoloji ivmesi artıyor (0 -> 3).",
+    "Finansal Sistem ivmesi artıyor (1 -> 3)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 180,
+      "score": 173,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -125,33 +148,44 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 84,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 72,
+      "score": 127,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 62,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 36,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 180,
+      "score": 173,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -160,26 +194,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 84,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 72,
+      "score": 127,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 62,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
