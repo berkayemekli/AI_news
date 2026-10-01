@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:54:44.306068+00:00",
+  "generated_at": "2026-10-01T12:25:45.986675+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -29,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, humanoid ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -47,7 +47,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, humanoid ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -65,7 +65,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -77,35 +77,35 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Robinhood is launching AI trading agents and weekend stock trading for active traders",
-      "link": "https://qz.com/robinhood-ai-trading-agents-weekend-equities-perpetual-futures-093026",
-      "summary": "The brokerage also unveiled perpetual futures and earnings contracts at its annual HOOD Summit event in Houston",
+      "title": "Brent crude tops $100 as China suspends fuel exports for October",
+      "link": "https://qz.com/china-fuel-export-halt-brent-crude-100-dollars-100126",
+      "summary": "PetroChina canceled gasoline and jet fuel shipments planned for October, tightening already war-strained energy markets",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 30 Sep 2026 11:47:35 GMT"
+      "published_at": "Thu, 01 Oct 2026 12:19:38 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Wall Street holds steady ahead of key inflation reading",
-      "link": "https://qz.com/wall-street-steady-pce-inflation-data-093026",
-      "summary": "Stock futures dipped as traders awaited the Fed's preferred inflation gauge, with rate-hike odds falling sharply after a Fed official's comments",
+      "title": "Senate stalled a bipartisan Chinese vehicle ban, pushing it past midterm elections",
+      "link": "https://qz.com/senate-chinese-vehicle-ban-stalled-midterm-elections-100126",
+      "summary": "Senators failed to reach an agreement on Wednesday, with Republican Sen. Rand Paul the lone holdout over concerns about Mercedes-Benz",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 30 Sep 2026 11:30:34 GMT"
+      "published_at": "Thu, 01 Oct 2026 12:00:36 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-      "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 30 Sep 2026 04:01:52 GMT"
+      "published_at": "Thu, 01 Oct 2026 11:26:46 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-      "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 30 Sep 2026 05:02:50 GMT"
+      "published_at": "Wed, 30 Sep 2026 23:10:06 GMT"
     }
   ],
   "market_items": [],
@@ -119,22 +119,22 @@
       "avg_score": 20.0
     },
     "robotics": {
-      "count": 6,
-      "avg_score": 20.2
+      "count": 7,
+      "avg_score": 19.0
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 20.0
+      "count": 2,
+      "avg_score": 19.5
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (4 -> 6)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 346,
+      "score": 352,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -145,7 +145,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 148,
+      "score": 203,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -154,33 +154,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 42,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 24,
+      "score": 84,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
       "backup_url": "https://www.reuters.com/business/",
       "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
+      "topic": "markets",
+      "label": "Markets",
+      "score": 42,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 346,
+      "score": 352,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -191,7 +191,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 148,
+      "score": 203,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -200,15 +200,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 42,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 84,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
