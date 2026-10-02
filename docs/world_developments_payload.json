@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-01T12:25:45.986675+00:00",
+  "generated_at": "2026-10-02T11:52:12.857276+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Robonomics on the threshold: Economic autonomy, smart cities, and crypto wallets for humanoids",
-      "link": "https://www.therobotreport.com/robotics-threshold-economic-autonomy-crypto-wallets-humanoids/",
-      "published_at": "Mon, 28 Sep 2026 13:56:56 +0000",
-      "summary": "Economics is both a robotics impetus and a constraint, as systems make deliveries on streets or do chores in households.",
+      "title": "Precision In Motion. Vishay Precision Group, Inc. (VPG) to Showcase Custom Sensing Capabilities for Humanoid Robotics at RoboBusiness 2026",
+      "link": "https://www.therobotreport.com/precision-in-motion-vishay-precision-group-inc-vpg-to-showcase-custom-sensing-capabilities-for-humanoid-robotics-at-robobusiness-2026/",
+      "published_at": "Thu, 01 Oct 2026 15:29:55 +0000",
+      "summary": "As humanoid robots move from research labs into factories, warehouses, homes, and other shared spaces, accurate physical feedback becomes crucial.",
       "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 22,
+      "score": 27,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot",
-        "robotics"
+        "robotics",
+        "warehouse"
       ]
     },
     {
@@ -29,7 +30,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, humanoid ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -47,7 +48,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 20,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, humanoid ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -56,75 +57,77 @@
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
-      "link": "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control/",
-      "published_at": "Mon, 28 Sep 2026 17:41:32 +0000",
-      "summary": "Gecko Robotics is using the new NVIDIA Open Agent Safety Platform to ensure the secure autonomous control of systems.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "Quartz",
+      "title": "Broadcom is starting to raise $60 billion in debt to finance AI chips for Anthropic",
+      "link": "https://qz.com/broadcom-60-billion-debt-financing-anthropic-ai-chips-100226",
+      "published_at": "Fri, 02 Oct 2026 11:40:32 GMT",
+      "summary": "Banks are set to syndicate a $42 billion senior-secured tranche, while Blackstone is leading an $18 billion junior debt tranche",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system",
+        "macro",
+        "technology"
       ],
-      "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "autonomous",
-        "robot",
-        "robotics"
+        "ai",
+        "anthropic",
+        "chip"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Brent crude tops $100 as China suspends fuel exports for October",
-      "link": "https://qz.com/china-fuel-export-halt-brent-crude-100-dollars-100126",
-      "summary": "PetroChina canceled gasoline and jet fuel shipments planned for October, tightening already war-strained energy markets",
+      "title": "Wall Street futures rise ahead of September jobs report as oil extends losses",
+      "link": "https://qz.com/wall-street-futures-jobs-report-oil-losses-100226",
+      "summary": "Traders expect 84,000 jobs added last month; Brent crude fell below $100 a barrel for a second day",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 01 Oct 2026 12:19:38 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Senate stalled a bipartisan Chinese vehicle ban, pushing it past midterm elections",
-      "link": "https://qz.com/senate-chinese-vehicle-ban-stalled-midterm-elections-100126",
-      "summary": "Senators failed to reach an agreement on Wednesday, with Republican Sen. Rand Paul the lone holdout over concerns about Mercedes-Benz",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 01 Oct 2026 12:00:36 GMT"
+      "published_at": "Fri, 02 Oct 2026 11:30:36 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 01 Oct 2026 11:26:46 GMT"
+      "published_at": "Fri, 02 Oct 2026 09:08:06 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 30 Sep 2026 23:10:06 GMT"
+      "published_at": "Fri, 02 Oct 2026 03:09:13 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 01 Oct 2026 19:59:24 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 20.0
+      "count": 2,
+      "avg_score": 17.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 20.0
+      "count": 2,
+      "avg_score": 17.0
     },
     "robotics": {
-      "count": 7,
-      "avg_score": 19.0
+      "count": 6,
+      "avg_score": 20.0
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 19.5
+      "count": 3,
+      "avg_score": 17.3
     }
   },
   "trend_signals": [
@@ -134,7 +137,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 352,
+      "score": 350,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -145,7 +148,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 203,
+      "score": 168,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -154,33 +157,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 84,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 47,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 42,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 38,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 352,
+      "score": 350,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -191,7 +194,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 203,
+      "score": 168,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -200,15 +203,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 84,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 47,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
