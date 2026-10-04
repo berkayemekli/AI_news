@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T11:05:13.579832+00:00",
+  "generated_at": "2026-10-04T11:46:39.795717+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,13 +11,30 @@
       "categories": [
         "robotics"
       ],
-      "score": 26,
+      "score": 25,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot",
         "robotics",
         "warehouse"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "The physical AI race will be won in the patent office",
+      "link": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
+      "published_at": "Sat, 03 Oct 2026 14:30:07 +0000",
+      "summary": "Patent protection is important for robotics startups, but they should be strategic in determining what IP is important, says Lightbringer.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
       ]
     },
     {
@@ -30,7 +47,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -47,24 +64,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Runway introduces Praxis-1 world action model for robotics",
-      "link": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/",
-      "published_at": "Fri, 02 Oct 2026 18:32:13 +0000",
-      "summary": "When Runway does release Praxis-1 publicly, it plans to ship it with open weights rather than as a closed model.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -75,11 +75,27 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 03 Oct 2026 04:38:31 GMT"
+      "published_at": "Sun, 04 Oct 2026 00:11:25 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sun, 04 Oct 2026 03:42:15 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sun, 04 Oct 2026 11:03:20 GMT"
     },
     {
       "source": "BBC World",
@@ -88,22 +104,6 @@
       "summary": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "published_at": "Sat, 03 Oct 2026 10:58:51 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Kim wins Asian Games gold to secure military exemption",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 03 Oct 2026 08:51:14 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 02 Oct 2026 15:30:12 GMT"
     }
   ],
   "market_items": [],
@@ -118,23 +118,21 @@
     },
     "robotics": {
       "count": 7,
-      "avg_score": 18.6
+      "avg_score": 18.0
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 17.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Makro akışı yavaşladı (2 -> 0).",
-    "Teknoloji akışı yavaşladı (2 -> 0).",
-    "Finansal Sistem akışı yavaşladı (3 -> 1)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 328,
+      "score": 318,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -145,7 +143,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 64,
+      "score": 61,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -163,24 +161,13 @@
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 36,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 328,
+      "score": 318,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -191,7 +178,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 64,
+      "score": 61,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
