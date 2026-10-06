@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-10-05T13:35:18.017941+00:00",
+  "generated_at": "2026-10-06T12:44:22.361148+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
+      "link": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
+      "published_at": "Mon, 05 Oct 2026 23:34:35 +0000",
+      "summary": "The companies plan to integrate Teradyne robotics and test technologies with the Bright Machines manufacturing platform.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "AMD joins the trillion-dollar market cap club as personal AI agents drive chip demand",
+      "link": "https://qz.com/amd-intel-trillion-dollar-cpu-ai-agents-demand-100626",
+      "published_at": "Tue, 06 Oct 2026 12:33:44 GMT",
+      "summary": "OpenAI's Dots and Meta's Muse both run on AMD EPYC processors, and Morgan Stanley estimates Muse alone could account for 20% of AMD's 2026 chip sales",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 17,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "chip",
+        "openai"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
@@ -19,129 +56,89 @@
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "The physical AI race will be won in the patent office",
-      "link": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
-      "published_at": "Sat, 03 Oct 2026 14:30:07 +0000",
-      "summary": "Patent protection is important for robotics startups, but they should be strategic in determining what IP is important, says Lightbringer.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "Quartz",
+      "title": "Nvidia stock hits record as Foxconn posts 47% revenue surge",
+      "link": "https://qz.com/nvidia-stock-record-foxconn-revenue-ai-100626",
+      "published_at": "Tue, 06 Oct 2026 12:30:26 GMT",
+      "summary": "Foxconn reported third-quarter revenue of 3.03 trillion New Taiwan dollars, up 47% from a year earlier, driven by AI server demand",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system",
+        "macro",
+        "technology"
       ],
       "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, nvidia ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Calling robotics startups: Submissions for the 2026 Robotics Startup Radar close soon",
-      "link": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
-      "published_at": "Fri, 02 Oct 2026 14:00:59 +0000",
-      "summary": "Submit now to be part of the Robotics Startup Radar, which brings together some of the most promising robotics startups.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Inside Omron’s next-generation LD mobile robots",
-      "link": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
-      "published_at": "Fri, 02 Oct 2026 23:01:36 +0000",
-      "summary": "In mobile robotics, software, safety, and fleet management are becoming just as important as the robot itself, according to an OMROM project manager.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
+        "ai",
+        "nvidia"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "China's Jaecoo 7 topped U.K. car sales in September for the 2nd time this year",
-      "link": "https://qz.com/jaecoo-7-uk-best-selling-car-september-chery-100526",
-      "summary": "The Chery-made SUV registered 10,813 units last month, outselling the Tesla Model 3 and Ford Puma in the U.K.'s strongest September since 2017",
+      "title": "Moonshot AI is targeting a Hong Kong IPO in early 2027 after hitting a $50B valuation",
+      "link": "https://qz.com/moonshot-ai-hong-kong-ipo-2027-50-billion-valuation-100626",
+      "summary": "The Beijing-based AI startup has closed its final private funding round and is considering raising up to $5 billion in the listing",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 05 Oct 2026 13:20:29 GMT"
+      "published_at": "Tue, 06 Oct 2026 12:20:30 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Spanish PM Sánchez calls early election after housing protests",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 05 Oct 2026 10:18:47 GMT"
+      "published_at": "Tue, 06 Oct 2026 07:02:24 GMT"
     },
     {
       "source": "BBC World",
-      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-      "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-      "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 05 Oct 2026 13:16:00 GMT"
+      "published_at": "Tue, 06 Oct 2026 02:22:24 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "title": "Ship sinks and crew missing after Black Sea drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 05 Oct 2026 03:16:16 GMT"
+      "published_at": "Tue, 06 Oct 2026 11:53:21 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 17.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 17.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 16.4
+      "count": 3,
+      "avg_score": 17.0
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 17.0
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (7 -> 5)."
+    "Makro ivmesi artıyor (0 -> 2).",
+    "Teknoloji ivmesi artıyor (0 -> 2).",
+    "Robotik akışı yavaşladı (5 -> 3).",
+    "Finansal Sistem ivmesi artıyor (0 -> 2)."
   ],
   "topic_router": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 174,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 53,
+      "score": 108,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -150,44 +147,44 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 18,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 108,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 17,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "markets",
+      "label": "Markets",
+      "score": 54,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 36,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 174,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 53,
+      "score": 108,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -196,15 +193,26 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 18,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 108,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "markets",
+      "label": "Markets",
+      "score": 54,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "errors": [
