@@ -1,48 +1,42 @@
 {
-  "generated_at": "2026-10-07T12:38:22.422884+00:00",
+  "generated_at": "2026-10-08T12:48:23.378088+00:00",
   "headlines": [
     {
-      "source": "Quartz",
-      "title": "U.S. 30-year Treasury yield climbs back to 2002 high as oil tops $100",
-      "link": "https://qz.com/us-30-year-treasury-yield-2002-high-oil-100-dollars-100726",
-      "published_at": "Wed, 07 Oct 2026 12:30:35 GMT",
-      "summary": "Fresh Iranian attacks on vessels in the Strait of Hormuz pushed Brent crude past $102 a barrel, reviving fears of faster inflation and more Fed rate increases",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "source": "TechCrunch",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "published_at": "Wed, 07 Oct 2026 20:22:37 +0000",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
       "categories": [
-        "financial_system",
-        "macro",
+        "ai",
         "technology"
       ],
-      "score": 26,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, fed ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
       "matched_keywords": [
         "ai",
-        "fed",
-        "inflation",
-        "oil",
-        "treasury",
-        "u.s."
+        "chip",
+        "microsoft",
+        "model",
+        "nvidia"
       ]
     },
     {
-      "source": "Quartz",
-      "title": "Gold slips ahead of Fed September meeting minutes release",
-      "link": "https://qz.com/gold-price-fed-minutes-september-meeting-100726",
-      "published_at": "Wed, 07 Oct 2026 12:00:38 GMT",
-      "summary": "Spot gold fell to $4,118 an ounce as traders awaited Wednesday's Fed minutes for clues on the inflation and rate outlook",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "source": "The Robot Report",
+      "title": "Teradyne Robotics, Elite Robots settle cobot dispute",
+      "link": "https://www.therobotreport.com/terayne-robotics-elite-robots-settle-cobot-dispute/",
+      "published_at": "Wed, 07 Oct 2026 16:20:52 +0000",
+      "summary": "Teradyne Robotics and Elite Robots have settled their software dispute, ending the legal case without disclosing the terms of the agreement.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "financial_system",
-        "macro",
-        "technology"
+        "robotics"
       ],
-      "score": 20,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, fed ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "ai",
-        "fed",
-        "inflation",
-        "trade"
+        "robot",
+        "robotics"
       ]
     },
     {
@@ -55,7 +49,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -72,7 +66,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -83,71 +77,61 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "U.S. 30-year Treasury yield climbs back to 2002 high as oil tops $100",
-      "link": "https://qz.com/us-30-year-treasury-yield-2002-high-oil-100-dollars-100726",
-      "summary": "Fresh Iranian attacks on vessels in the Strait of Hormuz pushed Brent crude past $102 a barrel, reviving fears of faster inflation and more Fed rate increases",
+      "title": "Trump is set to announce $100 million-plus in STEM fellowships for American PhD students",
+      "link": "https://qz.com/trump-stem-fellowship-initiative-phd-students-100826",
+      "summary": "The White House is also reviving a National Science Foundation program that was shut down in 1996, with backing from trading firm Jane Street",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 07 Oct 2026 12:30:35 GMT"
+      "published_at": "Thu, 08 Oct 2026 12:40:28 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Ex-BitMEX CEO Arthur Hayes is betting the AI data center boom will crash and boost bitcoin",
-      "link": "https://qz.com/arthur-hayes-bitmex-ai-data-center-crash-bitcoin-100726",
-      "summary": "Hayes says the AI infrastructure buildout mirrors past technology overbuild cycles that ended in crashes and government bailouts",
+      "title": "Greer's financial disclosure reveals $10,000 Coupang payment before USTR meeting",
+      "link": "https://qz.com/jamieson-greer-financial-disclosure-coupang-payment-ustr-meeting-100826",
+      "summary": "The trade chief received a $10,000 honorarium from the Korean e-commerce company in May 2024, nearly a year before meeting with it at USTR",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 07 Oct 2026 12:20:36 GMT"
+      "published_at": "Thu, 08 Oct 2026 12:40:23 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Temasek's investment chief warns AI trade reversal and inflation are top 2027 market risks",
-      "link": "https://qz.com/temasek-cio-ai-trade-inflation-market-risks-2027-100726",
-      "summary": "Rohit Sipahimalani said an AI trade unwind could be triggered by safety concerns, tighter regulation, or weaker-than-expected returns",
+      "title": "Musk accused unnamed Indian billionaires of blocking Starlink's India launch",
+      "link": "https://qz.com/musk-starlink-india-launch-blocked-billionaires-100826",
+      "summary": "India's government rejected Musk's claims, saying its regulatory framework for satellite communications is fair and nondiscriminatory",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 07 Oct 2026 12:10:39 GMT"
+      "published_at": "Thu, 08 Oct 2026 12:30:26 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Gold slips ahead of Fed September meeting minutes release",
-      "link": "https://qz.com/gold-price-fed-minutes-september-meeting-100726",
-      "summary": "Spot gold fell to $4,118 an ounce as traders awaited Wednesday's Fed minutes for clues on the inflation and rate outlook",
+      "title": "OpenAI is hiring its European sales chief from SpaceX's Cursor",
+      "link": "https://qz.com/openai-emea-sales-hire-spacex-cursor-100826",
+      "summary": "Ismail Elmas becomes the second senior Cursor alumnus recruited by OpenAI for a sales role in the past month",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 07 Oct 2026 12:00:38 GMT"
+      "published_at": "Thu, 08 Oct 2026 12:20:15 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 2,
-      "avg_score": 23.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 2,
-      "avg_score": 23.0
+      "count": 1,
+      "avg_score": 18.0
     },
     "robotics": {
       "count": 3,
       "avg_score": 17.0
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 23.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Makro akışı yavaşladı (2 -> 0).",
+    "Finansal Sistem akışı yavaşladı (2 -> 0)."
   ],
   "topic_router": [
-    {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 121,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
     {
       "topic": "robotics",
       "label": "Robotik",
@@ -160,41 +144,41 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 91,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 57,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 96,
+      "score": 19,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 75,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 121,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "robotics",
       "label": "Robotik",
       "score": 108,
@@ -206,15 +190,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 96,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 91,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 57,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
