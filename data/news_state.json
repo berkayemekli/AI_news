@@ -1,152 +1,143 @@
 {
-  "generated_at": "2026-10-08T12:48:23.378088+00:00",
+  "generated_at": "2026-10-09T12:33:37.581433+00:00",
   "headlines": [
     {
-      "source": "TechCrunch",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "published_at": "Wed, 07 Oct 2026 20:22:37 +0000",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "source": "The Robot Report",
+      "title": "AWS launches open-source Physical AI Toolchain for robotics",
+      "link": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+      "published_at": "Thu, 08 Oct 2026 13:23:58 +0000",
+      "summary": "The toolchain combines AWS and NVIDIA tools for synthetic data generation, model training, simulation and validation, edge deployment, and continuous improvement.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "Firmus is exploring raising up to $3 billion privately after pulling its Australian IPO",
+      "link": "https://qz.com/firmus-private-fundraising-ipo-withdrawn-australia-100926",
+      "published_at": "Fri, 09 Oct 2026 12:10:21 GMT",
+      "summary": "The Nvidia-backed data center operator had aimed to raise $5 billion in what would have been one of Australia's biggest-ever share sales",
       "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
       "categories": [
-        "ai",
+        "financial_system",
+        "macro",
         "technology"
       ],
-      "score": 18,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
+      "score": 19,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, data center ekseninde öne çıkıyor.",
       "matched_keywords": [
         "ai",
-        "chip",
-        "microsoft",
-        "model",
+        "data center",
         "nvidia"
       ]
     },
     {
       "source": "The Robot Report",
-      "title": "Teradyne Robotics, Elite Robots settle cobot dispute",
-      "link": "https://www.therobotreport.com/terayne-robotics-elite-robots-settle-cobot-dispute/",
-      "published_at": "Wed, 07 Oct 2026 16:20:52 +0000",
-      "summary": "Teradyne Robotics and Elite Robots have settled their software dispute, ending the legal case without disclosing the terms of the agreement.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "title": "Jabil discusses the pace of humanoid robot development and production",
+      "link": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
+      "published_at": "Thu, 08 Oct 2026 16:16:21 +0000",
+      "summary": "Jabil, which is working with robot developers such as Apptronik, provides a design perspective on humanoid progress.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
       "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "humanoid",
+        "robot"
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs",
-      "link": "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
-      "published_at": "Tue, 06 Oct 2026 20:07:48 +0000",
-      "summary": "TwelveLabs says its Pegasus 1.6 model understands first-person video and supports workflows including labeling for robotics developers.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "Quartz",
+      "title": "OpenAI and Anthropic are hiring former Trump officials for senior roles",
+      "link": "https://qz.com/openai-anthropic-hiring-trump-officials-senior-roles-100926",
+      "published_at": "Fri, 09 Oct 2026 12:20:23 GMT",
+      "summary": "The two AI companies have collectively brought on at least five former administration officials this year as frontier AI becomes a national security issue",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system",
+        "macro",
+        "technology"
       ],
       "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
-      "link": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
-      "published_at": "Mon, 05 Oct 2026 23:34:35 +0000",
-      "summary": "The companies plan to integrate Teradyne robotics and test technologies with the Bright Machines manufacturing platform.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
+        "ai",
+        "anthropic",
+        "openai"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Trump is set to announce $100 million-plus in STEM fellowships for American PhD students",
-      "link": "https://qz.com/trump-stem-fellowship-initiative-phd-students-100826",
-      "summary": "The White House is also reviving a National Science Foundation program that was shut down in 1996, with backing from trading firm Jane Street",
+      "title": "The U.S. is paying more to carry its debt than to run Medicare",
+      "link": "https://qz.com/us-federal-budget-deficit-two-trillion-fiscal-2026-100926",
+      "summary": "The $1.993 trillion shortfall was 12% above the prior year, driven by rising interest costs, entitlement spending, and tariff refunds",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 08 Oct 2026 12:40:28 GMT"
+      "published_at": "Fri, 09 Oct 2026 12:28:34 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Greer's financial disclosure reveals $10,000 Coupang payment before USTR meeting",
-      "link": "https://qz.com/jamieson-greer-financial-disclosure-coupang-payment-ustr-meeting-100826",
-      "summary": "The trade chief received a $10,000 honorarium from the Korean e-commerce company in May 2024, nearly a year before meeting with it at USTR",
+      "title": "OpenAI and Anthropic are hiring former Trump officials for senior roles",
+      "link": "https://qz.com/openai-anthropic-hiring-trump-officials-senior-roles-100926",
+      "summary": "The two AI companies have collectively brought on at least five former administration officials this year as frontier AI becomes a national security issue",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 08 Oct 2026 12:40:23 GMT"
+      "published_at": "Fri, 09 Oct 2026 12:20:23 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Musk accused unnamed Indian billionaires of blocking Starlink's India launch",
-      "link": "https://qz.com/musk-starlink-india-launch-blocked-billionaires-100826",
-      "summary": "India's government rejected Musk's claims, saying its regulatory framework for satellite communications is fair and nondiscriminatory",
+      "source": "BBC World",
+      "title": "France promises 3,000 extra teachers in first step to calm student protests",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+      "summary": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 08 Oct 2026 12:30:26 GMT"
+      "published_at": "Fri, 09 Oct 2026 11:35:00 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "OpenAI is hiring its European sales chief from SpaceX's Cursor",
-      "link": "https://qz.com/openai-emea-sales-hire-spacex-cursor-100826",
-      "summary": "Ismail Elmas becomes the second senior Cursor alumnus recruited by OpenAI for a sales role in the past month",
+      "source": "BBC World",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 08 Oct 2026 12:20:15 GMT"
+      "published_at": "Fri, 09 Oct 2026 10:07:04 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 18.0
     },
     "technology": {
-      "count": 1,
+      "count": 2,
       "avg_score": 18.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 17.0
+      "count": 4,
+      "avg_score": 17.8
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 18.0
     }
   },
   "trend_signals": [
-    "Makro akışı yavaşladı (2 -> 0).",
-    "Finansal Sistem akışı yavaşladı (2 -> 0)."
+    "Makro ivmesi artıyor (0 -> 2).",
+    "Finansal Sistem ivmesi artıyor (0 -> 2)."
   ],
   "topic_router": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 108,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 91,
+      "score": 150,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -155,9 +146,20 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 150,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 57,
+      "score": 61,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
@@ -168,7 +170,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 19,
+      "score": 18,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -179,20 +181,9 @@
   ],
   "today_stack": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 108,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 91,
+      "score": 150,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -201,9 +192,20 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 150,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 57,
+      "score": 61,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
