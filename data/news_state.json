@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:33:37.581433+00:00",
+  "generated_at": "2026-10-10T11:54:18.108538+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -19,31 +19,11 @@
       ]
     },
     {
-      "source": "Quartz",
-      "title": "Firmus is exploring raising up to $3 billion privately after pulling its Australian IPO",
-      "link": "https://qz.com/firmus-private-fundraising-ipo-withdrawn-australia-100926",
-      "published_at": "Fri, 09 Oct 2026 12:10:21 GMT",
-      "summary": "The Nvidia-backed data center operator had aimed to raise $5 billion in what would have been one of Australia's biggest-ever share sales",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 19,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, data center ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "data center",
-        "nvidia"
-      ]
-    },
-    {
       "source": "The Robot Report",
-      "title": "Jabil discusses the pace of humanoid robot development and production",
-      "link": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
-      "published_at": "Thu, 08 Oct 2026 16:16:21 +0000",
-      "summary": "Jabil, which is working with robot developers such as Apptronik, provides a design perspective on humanoid progress.",
+      "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
+      "link": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
+      "published_at": "Fri, 09 Oct 2026 16:59:57 +0000",
+      "summary": "The Robot Report spoke with Alberto Rodriguez, the director of robot behavior for Atlas at Boston Dynamics, about the humanoid's new hand.",
       "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
@@ -56,99 +36,104 @@
       ]
     },
     {
-      "source": "Quartz",
-      "title": "OpenAI and Anthropic are hiring former Trump officials for senior roles",
-      "link": "https://qz.com/openai-anthropic-hiring-trump-officials-senior-roles-100926",
-      "published_at": "Fri, 09 Oct 2026 12:20:23 GMT",
-      "summary": "The two AI companies have collectively brought on at least five former administration officials this year as frontier AI becomes a national security issue",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Why humanoid robot demos still fail the generalization test",
+      "link": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
+      "published_at": "Fri, 09 Oct 2026 19:28:41 +0000",
+      "summary": "How better data and human judgment can help robots move beyond demos toward reliable real-world performance.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
-        "financial_system",
-        "macro",
-        "technology"
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Jabil discusses the pace of humanoid robot development and production",
+      "link": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
+      "published_at": "Thu, 08 Oct 2026 16:16:21 +0000",
+      "summary": "Jabil, which is working with robot developers such as Apptronik, provides a design perspective on humanoid progress.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
       ],
       "score": 17,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "ai",
-        "anthropic",
-        "openai"
+        "humanoid",
+        "robot"
       ]
     }
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "The U.S. is paying more to carry its debt than to run Medicare",
-      "link": "https://qz.com/us-federal-budget-deficit-two-trillion-fiscal-2026-100926",
-      "summary": "The $1.993 trillion shortfall was 12% above the prior year, driven by rising interest costs, entitlement spending, and tariff refunds",
+      "source": "BBC World",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 09 Oct 2026 12:28:34 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "OpenAI and Anthropic are hiring former Trump officials for senior roles",
-      "link": "https://qz.com/openai-anthropic-hiring-trump-officials-senior-roles-100926",
-      "summary": "The two AI companies have collectively brought on at least five former administration officials this year as frontier AI becomes a national security issue",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 09 Oct 2026 12:20:23 GMT"
+      "published_at": "Sat, 10 Oct 2026 04:38:20 GMT"
     },
     {
       "source": "BBC World",
-      "title": "France promises 3,000 extra teachers in first step to calm student protests",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-      "summary": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 09 Oct 2026 11:35:00 GMT"
+      "published_at": "Fri, 09 Oct 2026 22:30:22 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+      "link": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 09 Oct 2026 10:07:04 GMT"
+      "published_at": "Sat, 10 Oct 2026 04:07:11 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 09 Oct 2026 21:50:47 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 2,
-      "avg_score": 18.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 2,
-      "avg_score": 18.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 17.8
+      "count": 6,
+      "avg_score": 17.3
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 18.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Makro ivmesi artıyor (0 -> 2).",
-    "Finansal Sistem ivmesi artıyor (0 -> 2)."
+    "Makro akışı yavaşladı (2 -> 0).",
+    "Teknoloji akışı yavaşladı (2 -> 0).",
+    "Robotik ivmesi artıyor (4 -> 6).",
+    "Finansal Sistem akışı yavaşladı (2 -> 0)."
   ],
   "topic_router": [
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 150,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 150,
+      "score": 220,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -157,44 +142,44 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 61,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 76,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 18,
+      "score": 36,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 20,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 150,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 150,
+      "score": 220,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -203,15 +188,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 61,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 76,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 36,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
