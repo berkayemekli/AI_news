@@ -1,21 +1,43 @@
 {
-  "generated_at": "2026-10-11T12:05:41.796664+00:00",
+  "generated_at": "2026-10-12T14:24:40.737459+00:00",
   "headlines": [
     {
-      "source": "The Robot Report",
-      "title": "AWS launches open-source Physical AI Toolchain for robotics",
-      "link": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
-      "published_at": "Thu, 08 Oct 2026 13:23:58 +0000",
-      "summary": "The toolchain combines AWS and NVIDIA tools for synthetic data generation, model training, simulation and validation, edge deployment, and continuous improvement.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "Payments Dive",
+      "title": "Visa-Mastercard payouts top $631M",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-payouts-top-631m/832669/",
+      "published_at": "Mon, 12 Oct 2026 09:14:00 -0400",
+      "summary": "The tally of merchants receiving funds from a $5.5 billion settlement with the networks is nearing 700,000, according to a claims update.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system"
+      ],
+      "score": 22,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "mastercard",
+        "settlement",
+        "visa"
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "Microsoft is making its homegrown Maia 300 chip the primary engine for AI inference",
+      "link": "https://qz.com/microsoft-maia-300-ai-chip-inference-primary-101226",
+      "published_at": "Mon, 12 Oct 2026 13:40:22 GMT",
+      "summary": "Starting with the third-generation Maia 300, Microsoft says it will rely on its own silicon to handle incoming AI model requests",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
       ],
       "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "ai",
+        "chip",
+        "microsoft",
+        "model"
       ]
     },
     {
@@ -28,7 +50,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -45,23 +67,6 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "humanoid",
-        "robot"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Jabil discusses the pace of humanoid robot development and production",
-      "link": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
-      "published_at": "Thu, 08 Oct 2026 16:16:21 +0000",
-      "summary": "Jabil, which is working with robot developers such as Apptronik, provides a design perspective on humanoid progress.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
       "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
@@ -73,56 +78,76 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 11 Oct 2026 01:41:29 GMT"
+      "published_at": "Mon, 12 Oct 2026 14:00:03 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 11 Oct 2026 05:05:43 GMT"
+      "published_at": "Sun, 11 Oct 2026 23:18:45 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+      "title": "Indian opposition leaders march to top court to demand election chief resign",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters being detained by police.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 10 Oct 2026 15:23:47 GMT"
+      "published_at": "Mon, 12 Oct 2026 06:42:35 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sun, 11 Oct 2026 17:27:24 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 18.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 18.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 16.6
+      "count": 2,
+      "avg_score": 16.0
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 2,
+      "avg_score": 20.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik akışı yavaşladı (5 -> 2).",
+    "Finansal Sistem ivmesi artıyor (0 -> 2)."
   ],
   "topic_router": [
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 78,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 176,
+      "score": 68,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -131,15 +156,15 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 72,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 46,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
       "topic": "nvidia",
@@ -151,35 +176,13 @@
       "backup_url": "https://stratechery.com/about/",
       "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
       "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 18,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 176,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 72,
+      "score": 78,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -188,15 +191,26 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 19,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 68,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 46,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
