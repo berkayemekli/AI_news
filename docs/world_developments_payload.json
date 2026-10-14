@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-13T13:33:33.338913+00:00",
+  "generated_at": "2026-10-14T11:10:14.319125+00:00",
   "headlines": [
+    {
+      "source": "The Robot Report",
+      "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness",
+      "link": "https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness/",
+      "published_at": "Tue, 13 Oct 2026 19:48:58 +0000",
+      "summary": "As robots move beyond warehouses and other controlled environments and into everyday life, navigation challenges will be critical.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 21,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics",
+        "warehouse"
+      ]
+    },
     {
       "source": "Payments Dive",
       "title": "Visa-Mastercard payouts top $631M",
@@ -21,10 +39,10 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Promise Robotics partners with D.R. Horton on physical AI for homebuilding",
-      "link": "https://www.therobotreport.com/promise-robotics-partners-d-r-horton-physical-ai-homebuilding/",
-      "published_at": "Tue, 13 Oct 2026 13:00:05 +0000",
-      "summary": "Promise Robotics has signed a multi-year partnership with America's largest homebuilder by volume to bring physical AI to construction.",
+      "title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
+      "link": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
+      "published_at": "Tue, 13 Oct 2026 23:22:05 +0000",
+      "summary": "With the expansion, NYSOFA and Intuition Robotics established a new three-year, $2.1 million agreement to keep rolling out ElliQ.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -35,40 +53,57 @@
         "robot",
         "robotics"
       ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Promise Robotics partners with D.R. Horton on physical AI for homebuilding",
+      "link": "https://www.therobotreport.com/promise-robotics-partners-d-r-horton-physical-ai-homebuilding/",
+      "published_at": "Tue, 13 Oct 2026 13:00:05 +0000",
+      "summary": "Promise Robotics has signed a multi-year partnership with America's largest homebuilder by volume to bring physical AI to construction.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
     }
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "LVMH fashion and leather goods sales fell 5% as China hurt Louis Vuitton",
-      "link": "https://qz.com/lvmh-fashion-leather-goods-sales-china-louis-vuitton-101326",
-      "summary": "The result missed analyst expectations for a 1.6% decline, dragged down by a consumer backlash against Louis Vuitton in China",
+      "source": "BBC World",
+      "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "summary": "Critical energy infrastructure is hit, as Ukraine says speed restrictions of Elon Musk's Starlink are disrupting battlefield missions.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 13 Oct 2026 13:10:26 GMT"
+      "published_at": "Wed, 14 Oct 2026 10:04:28 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-      "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 13 Oct 2026 05:02:34 GMT"
+      "published_at": "Wed, 14 Oct 2026 10:50:11 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Ex-president named leader of new DR Congo rebel coalition",
-      "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 13 Oct 2026 13:30:28 GMT"
+      "published_at": "Tue, 13 Oct 2026 15:52:15 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 12 Oct 2026 21:20:51 GMT"
+      "published_at": "Tue, 13 Oct 2026 19:23:28 GMT"
     }
   ],
   "market_items": [],
@@ -82,8 +117,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 1,
-      "avg_score": 19.0
+      "count": 3,
+      "avg_score": 19.3
     },
     "financial_system": {
       "count": 1,
@@ -91,9 +126,20 @@
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (1 -> 3)."
   ],
   "topic_router": [
+    {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 144,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
@@ -108,7 +154,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 41,
+      "score": 40,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -117,19 +163,30 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 40,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 22,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 144,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
       "score": 42,
@@ -143,24 +200,13 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 41,
+      "score": 40,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 40,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     }
   ],
   "errors": [
