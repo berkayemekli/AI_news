@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:50:55.227930+00:00",
+  "generated_at": "2026-10-16T10:41:06.506956+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -20,21 +20,37 @@
       ]
     },
     {
-      "source": "Payments Dive",
-      "title": "Visa-Mastercard payouts top $631M",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-payouts-top-631m/832669/",
-      "published_at": "Mon, 12 Oct 2026 09:14:00 -0400",
-      "summary": "The tally of merchants receiving funds from a $5.5 billion settlement with the networks is nearing 700,000, according to a claims update.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "source": "The Robot Report",
+      "title": "How ADI is helping robotics startups scale",
+      "link": "https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale-2/",
+      "published_at": "Thu, 15 Oct 2026 16:39:38 +0000",
+      "summary": "Robotics businesses need help keeping up with innovations as they scale. Analog Devices Inc. or ADI is offering its Emerging Tech Hub.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "financial_system"
+        "robotics"
       ],
-      "score": 19,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "mastercard",
-        "settlement",
-        "visa"
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Stryker invests $400M into CMR Surgical",
+      "link": "https://www.therobotreport.com/stryker-invests-400m-into-cmr-surgical/",
+      "published_at": "Thu, 15 Oct 2026 16:54:14 +0000",
+      "summary": "Stryker plans to serve as the exclusive sales agent in the U.S. for the Versius robotics portfolio from CMR Surgical.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
       ]
     },
     {
@@ -47,63 +63,46 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
-      "link": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
-      "published_at": "Tue, 13 Oct 2026 23:22:05 +0000",
-      "summary": "With the expansion, NYSOFA and Intuition Robotics established a new three-year, $2.1 million agreement to keep rolling out ElliQ.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
       ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 15 Oct 2026 04:30:08 GMT"
+      "published_at": "Fri, 16 Oct 2026 10:37:47 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Student protesters attack government buildings in Albania",
-      "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
+      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 14 Oct 2026 20:29:05 GMT"
+      "published_at": "Fri, 16 Oct 2026 08:45:54 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 15 Oct 2026 02:26:07 GMT"
+      "published_at": "Thu, 15 Oct 2026 17:47:22 GMT"
     },
     {
       "source": "BBC World",
-      "title": "White House defends new press secretary amid questions about her legal credentials",
-      "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-      "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 15 Oct 2026 08:41:04 GMT"
+      "published_at": "Thu, 15 Oct 2026 16:50:18 GMT"
     }
   ],
   "market_items": [],
@@ -117,22 +116,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 18.0
+      "count": 6,
+      "avg_score": 17.3
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 19.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (4 -> 6)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 173,
+      "score": 240,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -141,44 +140,33 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 40,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 38,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 21,
+      "score": 20,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 17,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 173,
+      "score": 240,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -187,20 +175,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 40,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 20,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 38,
+      "score": 17,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
