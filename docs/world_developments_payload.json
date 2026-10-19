@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:22:57.225935+00:00",
+  "generated_at": "2026-10-19T12:06:33.866646+00:00",
   "headlines": [
     {
       "source": "Payments Dive",
@@ -11,7 +11,7 @@
       "categories": [
         "financial_system"
       ],
-      "score": 22,
+      "score": 21,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
@@ -29,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -46,7 +46,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -55,54 +55,54 @@
     },
     {
       "source": "The Robot Report",
-      "title": "How ADI is helping robotics startups scale",
-      "link": "https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale-2/",
-      "published_at": "Thu, 15 Oct 2026 16:39:38 +0000",
-      "summary": "Robotics businesses need help keeping up with innovations as they scale. Analog Devices Inc. or ADI is offering its Emerging Tech Hub.",
+      "title": "Why opportunity charging is winning as robot fleets scale",
+      "link": "https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/",
+      "published_at": "Fri, 16 Oct 2026 23:39:33 +0000",
+      "summary": "Ben Waters explains why opportunity charging is becoming essential for keeping autonomous robot fleets moving, scalable, and operationally efficient.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "score": 14,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "autonomous",
+        "robot"
       ]
     }
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "source": "Quartz",
+      "title": "Futures climb as tech bounces back from the Nasdaq's 4.5% weekly drop",
+      "link": "https://qz.com/stock-futures-tech-rebound-nasdaq-weekly-drop-101926",
+      "summary": "The Nasdaq fell 4.5% last week as investors questioned the health of the AI trade, and Nasdaq 100 futures are up 1.1% Monday",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 17 Oct 2026 23:52:38 GMT"
+      "published_at": "Mon, 19 Oct 2026 11:40:26 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "OpenAI bugging suspect was in frequent contact with a Saudi royal, prosecutors say",
+      "link": "https://qz.com/openai-bugging-suspect-saudi-royal-whatsapp-contact-101926",
+      "summary": "Prosecutors seek to keep Abdulrahman Alfozan jailed without bail, citing Saudi government help for his wife and son",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Mon, 19 Oct 2026 11:20:34 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Several dead or injured in major fire at Canada military base",
-      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 18 Oct 2026 08:52:41 GMT"
+      "published_at": "Sun, 18 Oct 2026 23:20:15 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 18 Oct 2026 01:10:25 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Anti-government protesters battle with police in Albania",
-      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 17 Oct 2026 20:53:00 GMT"
+      "published_at": "Mon, 19 Oct 2026 09:40:44 GMT"
     }
   ],
   "market_items": [],
@@ -116,22 +116,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 16.4
+      "count": 3,
+      "avg_score": 15.7
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 22.0
+      "avg_score": 21.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik akışı yavaşladı (5 -> 3)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 174,
+      "score": 100,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -142,7 +142,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 54,
+      "score": 51,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -153,7 +153,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 46,
+      "score": 44,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -164,7 +164,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 23,
+      "score": 22,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -177,7 +177,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 174,
+      "score": 100,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -188,7 +188,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 54,
+      "score": 51,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -199,7 +199,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 46,
+      "score": 44,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",

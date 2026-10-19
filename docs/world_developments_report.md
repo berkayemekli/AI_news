@@ -1,13 +1,13 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-10-18T10:22:57.225935+00:00
+Uretim zamani: 2026-10-19T12:06:33.866646+00:00
 
 ## Bugunun 5 Onemli Basligi
 
 ### 1. Visa, Mastercard urge court to approve fee settlement
 - Kaynak: Payments Dive
 - Kategoriler: Finansal Sistem
-- Onem skoru: 22
+- Onem skoru: 21
 - Link: https://www.paymentsdive.com/news/visa-mastercard-urge-court-to-approve-fee-settlement/833241/
 - Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.
 
@@ -16,7 +16,7 @@ Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestig
 ### 2. The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 18
+- Onem skoru: 17
 - Link: https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
@@ -25,24 +25,24 @@ Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha
 ### 3. MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 17
+- Onem skoru: 16
 - Link: https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 4. How ADI is helping robotics startups scale
+### 4. Why opportunity charging is winning as robot fleets scale
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 16
-- Link: https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale-2/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+- Onem skoru: 14
+- Link: https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
 ## Trend Sinyali
 
-- Belirgin kategori ivmesi yok; haber akışı dengeli.
+- Robotik akışı yavaşladı (5 -> 3).
 
 ## Topic Router
 
