@@ -1,54 +1,54 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-10-19T12:06:33.866646+00:00
+Uretim zamani: 2026-10-20T10:55:19.592110+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Visa, Mastercard urge court to approve fee settlement
-- Kaynak: Payments Dive
-- Kategoriler: Finansal Sistem
-- Onem skoru: 21
-- Link: https://www.paymentsdive.com/news/visa-mastercard-urge-court-to-approve-fee-settlement/833241/
-- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
-
-### 2. The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies
+### 1. Gecko Robotics secures $300M contract with the U.S. Navy
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 17
-- Link: https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
-
-### 3. MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 16
-- Link: https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/
+- Onem skoru: 19
+- Link: https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 4. Why opportunity charging is winning as robot fleets scale
+### 2. Daimon Robotics building the infrastructure layer for tactile intelligence
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 14
-- Link: https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+
+### 3. Kodama raises $7M to bring robotics to forestry
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+
+### 4. Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
 ## Trend Sinyali
 
-- Robotik akışı yavaşladı (5 -> 3).
+- Robotik ivmesi artıyor (3 -> 5).
 
 ## Topic Router
 
-- Robotik: The Robot Report (yedek: Bloomberg Technology)
 - YZ Modelleri: The Information (yedek: Semafor Tech)
-- Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
+- Robotik: The Robot Report (yedek: Bloomberg Technology)
+- Nvidia: Bloomberg Technology (yedek: Stratechery)
 - Jeopolitik: Reuters World (yedek: Foreign Affairs)
 
 ## Feed Notlari
