@@ -1,17 +1,51 @@
 {
-  "generated_at": "2026-10-20T10:55:19.592110+00:00",
+  "generated_at": "2026-10-21T11:09:04.785514+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Gecko Robotics secures $300M contract with the U.S. Navy",
-      "link": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/",
-      "published_at": "Tue, 20 Oct 2026 10:25:47 +0000",
-      "summary": "Gecko claimed this signals the Pentagon’s confidence that it is a core military capability that is delivering results.",
+      "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
+      "link": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
+      "published_at": "Tue, 20 Oct 2026 19:40:05 +0000",
+      "summary": "Reservoir hopes to put agricultural robotics startups to work in the orchards, vineyards and berry fields alongside researchers and growers.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "2027 TRR50 Robotics Innovation Awards open nominations",
+      "link": "https://www.therobotreport.com/2027-trr50-robotics-innovation-awards-open-nominations/",
+      "published_at": "Tue, 20 Oct 2026 16:15:24 +0000",
+      "summary": "The TRR50 winners will be celebrated at an awards gala during the Robotics Summit & Expo, which will be held on June 2-3, 2027 in Boston.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "RoboBusiness rebrands as Robotics Summit & Expo West",
+      "link": "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/",
+      "published_at": "Tue, 20 Oct 2026 16:23:21 +0000",
+      "summary": "Robotics Summit & Expo West sharpens focus on deploying robotics and AI in the real world, complementing the East Coast flagship event.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -28,41 +62,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Kodama raises $7M to bring robotics to forestry",
-      "link": "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/",
-      "published_at": "Mon, 19 Oct 2026 15:55:12 +0000",
-      "summary": "Kodama is working on automating forestry and logging equipment, starting with teleoperation and collecting valuable data on the way.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
-      "link": "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus/",
-      "published_at": "Mon, 19 Oct 2026 17:38:13 +0000",
-      "summary": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -73,35 +73,35 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Seventh day of violent clashes between Albanian protesters and police",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+      "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
+      "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former teacher has been released without any \"swap\" required, according to the president.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 20 Oct 2026 02:45:05 GMT"
+      "published_at": "Wed, 21 Oct 2026 10:52:00 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "title": "Trump and Zelensky appear at loggerheads despite new optimism",
+      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 19 Oct 2026 20:49:00 GMT"
+      "published_at": "Tue, 20 Oct 2026 20:00:57 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-      "summary": "The two top tennis pros married in 2021 and have one child together.",
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 19 Oct 2026 21:02:33 GMT"
+      "published_at": "Tue, 20 Oct 2026 22:22:17 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Exiled critic of Rwandan president found beheaded",
-      "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-      "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 19 Oct 2026 13:42:41 GMT"
+      "published_at": "Tue, 20 Oct 2026 19:30:05 GMT"
     }
   ],
   "market_items": [],
@@ -115,8 +115,8 @@
       "avg_score": 16.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 17.8
+      "count": 7,
+      "avg_score": 17.7
     },
     "financial_system": {
       "count": 0,
@@ -124,24 +124,13 @@
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (3 -> 5)."
+    "Robotik ivmesi artıyor (5 -> 7)."
   ],
   "topic_router": [
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 198,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 188,
+      "score": 262,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -150,9 +139,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 126,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 38,
+      "score": 70,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
@@ -163,7 +163,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 20,
+      "score": 37,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -174,20 +174,9 @@
   ],
   "today_stack": [
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 198,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 188,
+      "score": 262,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -196,9 +185,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 126,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 38,
+      "score": 70,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
