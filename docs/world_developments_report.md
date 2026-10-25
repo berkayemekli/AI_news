@@ -1,13 +1,13 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-10-24T10:16:22.940440+00:00
+Uretim zamani: 2026-10-25T10:42:21.854119+00:00
 
 ## Bugunun 5 Onemli Basligi
 
 ### 1. Generative Bionics to launch Physical AI Data Factory in Italy
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 29
+- Onem skoru: 28
 - Link: https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle factory, humanoid ekseninde öne çıkıyor.
 
@@ -16,20 +16,20 @@ Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha
 ### 2. Webinar to discuss how the FCC robotics ruling affects automation buyers
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 22
+- Onem skoru: 21
 - Link: https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 3. A guide to Day 2 of RoboBusiness 2026
+### 3. Eka Robotics raises $150M to scale its vision-force-action model for robots
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 16
-- Link: https://www.therobotreport.com/a-guide-to-day-2-of-robobusiness-2026/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
-Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
 ## Trend Sinyali
 
