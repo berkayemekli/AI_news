@@ -1,133 +1,133 @@
 {
-  "generated_at": "2026-10-26T12:14:41.484160+00:00",
+  "generated_at": "2026-10-27T11:35:22.136445+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Generative Bionics to launch Physical AI Data Factory in Italy",
-      "link": "https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/",
-      "published_at": "Fri, 23 Oct 2026 18:56:44 +0000",
-      "summary": "Generative Bionics says it hopes to advance European robotics sovereignty by ensuring that humanoid data is are generated on the continent.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 27,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle factory, humanoid ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "factory",
-        "humanoid",
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Webinar to discuss how the FCC robotics ruling affects automation buyers",
-      "link": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/",
-      "published_at": "Fri, 23 Oct 2026 20:06:28 +0000",
-      "summary": "Industry leaders will discuss what robotics buyers should know about the recent FCC restriction on certain connected systems.",
+      "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
+      "link": "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/",
+      "published_at": "Mon, 26 Oct 2026 21:15:00 +0000",
+      "summary": "Bedrock Robotics has secured $600 million to scale autonomous heavy equipment and combat construction labor shortages.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 20,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, robot ekseninde öne çıkıyor.",
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "automation",
+        "autonomous",
         "robot",
         "robotics"
       ]
     },
     {
+      "source": "The Robot Report",
+      "title": "Agility and GXO Logistics plan expanded deployment of Digit humanoid",
+      "link": "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/",
+      "published_at": "Mon, 26 Oct 2026 14:05:21 +0000",
+      "summary": "GXO Logistics, which has tested humanoid robots from multiple companies, will deploy Agility's Digit at two more sites.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot"
+      ]
+    },
+    {
       "source": "Quartz",
-      "title": "Cheaper oil lifts stock futures, but the AI trade and the Fed still loom large",
-      "link": "https://qz.com/stock-futures-oil-falls-ai-fed-102626",
-      "published_at": "Mon, 26 Oct 2026 11:40:23 GMT",
-      "summary": "Dow futures added 209 points as Brent crude fell 1.7%, with the Fed due to announce its rate decision on Wednesday",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "title": "Broadcom arranged $63 billion in Wall Street financing for Anthropic's AI chips",
+      "link": "https://qz.com/broadcom-anthropic-63-billion-chip-financing-102726",
+      "published_at": "Tue, 27 Oct 2026 11:30:19 GMT",
+      "summary": "Bank of America, Blackstone, Citi and Morgan Stanley are providing committed financing, with chip deliveries expected to start in 2027",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
       "categories": [
         "financial_system",
         "macro",
         "technology"
       ],
-      "score": 19,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, fed ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
       "matched_keywords": [
         "ai",
-        "fed",
-        "oil",
-        "trade"
+        "anthropic",
+        "chip"
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
-      "link": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
-      "published_at": "Sun, 25 Oct 2026 12:35:33 +0000",
-      "summary": "Sereact and Teradyne have already shipped hundreds of UR robots in dual-arm systems to live customer sites across Europe.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "TechCrunch",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "published_at": "Tue, 27 Oct 2026 11:00:00 +0000",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
       "categories": [
-        "robotics"
+        "ai",
+        "technology"
       ],
-      "score": 18,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "score": 17,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, gpu ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "ai",
+        "gpu",
+        "model",
+        "nvidia"
       ]
     }
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "Trump's beef tariff pause is rattling ranchers as U.S. midterms near",
-      "link": "https://qz.com/trump-beef-tariff-pause-ranchers-midterms-102626",
-      "summary": "Cattle auction prices fell after the August order, and groups including the National Cattlemen's Beef Association opposed it",
+      "source": "BBC World",
+      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+      "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 26 Oct 2026 11:50:25 GMT"
+      "published_at": "Tue, 27 Oct 2026 11:11:33 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Cheaper oil lifts stock futures, but the AI trade and the Fed still loom large",
-      "link": "https://qz.com/stock-futures-oil-falls-ai-fed-102626",
-      "summary": "Dow futures added 209 points as Brent crude fell 1.7%, with the Fed due to announce its rate decision on Wednesday",
+      "source": "BBC World",
+      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 26 Oct 2026 11:40:23 GMT"
+      "published_at": "Tue, 27 Oct 2026 01:46:38 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "Audi plans to build its first U.S. manufacturing plant in Georgia to cut tariff costs",
-      "link": "https://qz.com/audi-georgia-first-us-plant-tariff-exposure-102626",
-      "summary": "The Volkswagen-owned brand plans to invest around $4 billion and create about 4,500 jobs; Volkswagen's supervisory board must make the final decision",
+      "source": "BBC World",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 26 Oct 2026 11:30:25 GMT"
+      "published_at": "Tue, 27 Oct 2026 11:17:27 GMT"
     },
     {
-      "source": "Quartz",
-      "title": "SoftBank is planning a $50 billion AI and data center push in Malaysia",
-      "link": "https://qz.com/softbank-malaysia-50-billion-ai-data-center-investment-102626",
-      "summary": "Prime Minister Anwar Ibrahim said Masayoshi Son has identified sites in Kuching, Sarawak, and peninsular Malaysia",
+      "source": "BBC World",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 26 Oct 2026 11:30:18 GMT"
+      "published_at": "Mon, 26 Oct 2026 19:27:21 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
       "count": 1,
-      "avg_score": 19.0
+      "avg_score": 18.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 19.0
+      "count": 2,
+      "avg_score": 17.5
     },
     "robotics": {
       "count": 4,
-      "avg_score": 20.5
+      "avg_score": 18.8
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 19.0
+      "avg_score": 18.0
     }
   },
   "trend_signals": [
@@ -137,7 +137,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 249,
+      "score": 183,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -148,7 +148,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 124,
+      "score": 126,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -157,22 +157,22 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 40,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 74,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 249,
+      "score": 183,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -183,7 +183,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 124,
+      "score": 126,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -192,15 +192,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 40,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 74,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
