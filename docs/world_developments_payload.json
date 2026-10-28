@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-27T11:35:22.136445+00:00",
+  "generated_at": "2026-10-28T12:06:21.127557+00:00",
   "headlines": [
+    {
+      "source": "Quartz",
+      "title": "Wall Street’s Wednesday has two tests: the Fed at 2 p.m., then Alphabet and Microsoft",
+      "link": "https://qz.com/fed-decision-alphabet-microsoft-earnings-wall-street-102826",
+      "published_at": "Wed, 28 Oct 2026 11:40:18 GMT",
+      "summary": "U.S. stock futures were mixed on Wednesday as investors awaited the Fed decision and chip stocks rose on SK Hynix's record profit",
+      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 25,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "chip",
+        "fed",
+        "microsoft",
+        "u.s."
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
@@ -11,12 +33,32 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
         "robot",
         "robotics"
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "Visa posted higher quarterly profit as payment volumes and transactions grew",
+      "link": "https://qz.com/visa-quarterly-profit-payment-volumes-transactions-102826",
+      "published_at": "Wed, 28 Oct 2026 11:30:20 GMT",
+      "summary": "Revenue rose 13% to $12.14 billion, and the payments company raised its quarterly dividend 16% to 78 cents a share",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 19,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle ai, payment ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "payment",
+        "visa"
       ]
     },
     {
@@ -29,105 +71,65 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "Broadcom arranged $63 billion in Wall Street financing for Anthropic's AI chips",
-      "link": "https://qz.com/broadcom-anthropic-63-billion-chip-financing-102726",
-      "published_at": "Tue, 27 Oct 2026 11:30:19 GMT",
-      "summary": "Bank of America, Blackstone, Citi and Morgan Stanley are providing committed financing, with chip deliveries expected to start in 2027",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 18,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "anthropic",
-        "chip"
-      ]
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "published_at": "Tue, 27 Oct 2026 11:00:00 +0000",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
-      "categories": [
-        "ai",
-        "technology"
-      ],
-      "score": 17,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, gpu ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "gpu",
-        "model",
-        "nvidia"
       ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
-      "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 27 Oct 2026 11:11:33 GMT"
+      "published_at": "Wed, 28 Oct 2026 10:17:54 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 27 Oct 2026 01:46:38 GMT"
+      "published_at": "Wed, 28 Oct 2026 10:18:40 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 27 Oct 2026 11:17:27 GMT"
+      "published_at": "Tue, 27 Oct 2026 22:11:08 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 26 Oct 2026 19:27:21 GMT"
+      "published_at": "Tue, 27 Oct 2026 18:28:23 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 18.0
+      "count": 2,
+      "avg_score": 22.0
     },
     "technology": {
       "count": 2,
-      "avg_score": 17.5
+      "avg_score": 22.0
     },
     "robotics": {
       "count": 4,
-      "avg_score": 18.8
+      "avg_score": 18.2
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 18.0
+      "count": 2,
+      "avg_score": 22.0
     }
   },
   "trend_signals": [
@@ -137,7 +139,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 183,
+      "score": 178,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -148,7 +150,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 126,
+      "score": 63,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -157,22 +159,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 74,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 60,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 26,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 183,
+      "score": 178,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -183,7 +196,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 126,
+      "score": 63,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -192,15 +205,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 74,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 60,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
