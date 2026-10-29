@@ -1,28 +1,6 @@
 {
-  "generated_at": "2026-10-28T12:06:21.127557+00:00",
+  "generated_at": "2026-10-29T12:16:26.941999+00:00",
   "headlines": [
-    {
-      "source": "Quartz",
-      "title": "Wall Street’s Wednesday has two tests: the Fed at 2 p.m., then Alphabet and Microsoft",
-      "link": "https://qz.com/fed-decision-alphabet-microsoft-earnings-wall-street-102826",
-      "published_at": "Wed, 28 Oct 2026 11:40:18 GMT",
-      "summary": "U.S. stock futures were mixed on Wednesday as investors awaited the Fed decision and chip stocks rose on SK Hynix's record profit",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 25,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "chip",
-        "fed",
-        "microsoft",
-        "u.s."
-      ]
-    },
     {
       "source": "The Robot Report",
       "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
@@ -33,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -42,104 +20,119 @@
       ]
     },
     {
-      "source": "Quartz",
-      "title": "Visa posted higher quarterly profit as payment volumes and transactions grew",
-      "link": "https://qz.com/visa-quarterly-profit-payment-volumes-transactions-102826",
-      "published_at": "Wed, 28 Oct 2026 11:30:20 GMT",
-      "summary": "Revenue rose 13% to $12.14 billion, and the payments company raised its quarterly dividend 16% to 78 cents a share",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Warp Sciences emerges from stealth, to apply robotics to drug research",
+      "link": "https://www.therobotreport.com/warp-sciences-emerges-stealth-apply-robotics-drug-research/",
+      "published_at": "Wed, 28 Oct 2026 16:28:48 +0000",
+      "summary": "Warp Sciences has co-founders from OpenAI, Meta, and more, plus funding to build infrastructure for automated drug discovery in the U.S.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "financial_system",
-        "macro",
-        "technology"
+        "robotics"
       ],
-      "score": 19,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle ai, payment ekseninde öne çıkıyor.",
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "ai",
-        "payment",
-        "visa"
+        "robot",
+        "robotics"
       ]
     },
     {
       "source": "The Robot Report",
-      "title": "Agility and GXO Logistics plan expanded deployment of Digit humanoid",
-      "link": "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/",
-      "published_at": "Mon, 26 Oct 2026 14:05:21 +0000",
-      "summary": "GXO Logistics, which has tested humanoid robots from multiple companies, will deploy Agility's Digit at two more sites.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "title": "What Symbotic’s Walmart growth teaches robotics startups about anchor customers",
+      "link": "https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/",
+      "published_at": "Wed, 28 Oct 2026 18:40:57 +0000",
+      "summary": "Symbotic’s growth with Walmart shows how an anchor customer can fund a robotics startup’s scale while creating risks around customer concentration, contractual restrictions and the challenge of building a diversified, repeatable business.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "humanoid",
-        "robot"
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "Payments Dive",
+      "title": "Visa adapts to tech innovations",
+      "link": "https://www.paymentsdive.com/news/visa-adapts-to-tech-innovations/873045/",
+      "published_at": "Wed, 28 Oct 2026 10:58:00 -0400",
+      "summary": "The card network’s fiscal 2026 results show it’s reaching beyond legacy payments paths to incorporate new technologies, offer new services and extend its global reach with more partners.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "categories": [
+        "financial_system"
+      ],
+      "score": 17,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle payment, visa ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "payment",
+        "visa"
       ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "summary": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 28 Oct 2026 10:17:54 GMT"
+      "published_at": "Thu, 29 Oct 2026 11:22:18 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 28 Oct 2026 10:18:40 GMT"
+      "published_at": "Thu, 29 Oct 2026 11:34:03 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 27 Oct 2026 22:11:08 GMT"
+      "published_at": "Thu, 29 Oct 2026 06:24:56 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 27 Oct 2026 18:28:23 GMT"
+      "published_at": "Wed, 28 Oct 2026 19:15:58 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 2,
-      "avg_score": 22.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 2,
-      "avg_score": 22.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 18.2
+      "count": 5,
+      "avg_score": 18.4
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 22.0
+      "count": 1,
+      "avg_score": 17.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Makro akışı yavaşladı (2 -> 0).",
+    "Teknoloji akışı yavaşladı (2 -> 0)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 178,
+      "score": 217,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -148,20 +141,9 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 63,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 60,
+      "score": 54,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -170,9 +152,20 @@
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 42,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 26,
+      "score": 21,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -185,7 +178,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 178,
+      "score": 217,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -194,26 +187,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 63,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 60,
+      "score": 54,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
       "backup_url": "https://www.reuters.com/business/",
       "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
       "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 42,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     }
   ],
   "errors": [
