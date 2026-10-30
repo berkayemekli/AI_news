@@ -1,20 +1,21 @@
 {
-  "generated_at": "2026-10-29T12:16:26.941999+00:00",
+  "generated_at": "2026-10-30T12:07:09.389937+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
-      "link": "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/",
-      "published_at": "Mon, 26 Oct 2026 21:15:00 +0000",
-      "summary": "Bedrock Robotics has secured $600 million to scale autonomous heavy equipment and combat construction labor shortages.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "title": "2026 Robotics Handbook looks at humanoids, AI, and design choices",
+      "link": "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/",
+      "published_at": "Thu, 29 Oct 2026 19:36:12 +0000",
+      "summary": "The 2026 Robotics Handbook examines design choices behind dexterous manipulation, humanoid robots, and construction automation.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "score": 28,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, humanoid ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "autonomous",
+        "automation",
+        "humanoid",
         "robot",
         "robotics"
       ]
@@ -29,7 +30,24 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "White House makes Section 232 determination regarding foreign-made robots",
+      "link": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/",
+      "published_at": "Thu, 29 Oct 2026 20:46:53 +0000",
+      "summary": "The U.S. secretary of commerce's Section 232 investigation concluded that dependence on robotics imports poses a national security risk.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -46,39 +64,22 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "Payments Dive",
-      "title": "Visa adapts to tech innovations",
-      "link": "https://www.paymentsdive.com/news/visa-adapts-to-tech-innovations/873045/",
-      "published_at": "Wed, 28 Oct 2026 10:58:00 -0400",
-      "summary": "The card network’s fiscal 2026 results show it’s reaching beyond legacy payments paths to incorporate new technologies, offer new services and extend its global reach with more partners.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
-      "categories": [
-        "financial_system"
-      ],
-      "score": 17,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle payment, visa ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "payment",
-        "visa"
       ]
     }
   ],
   "political_items": [
     {
       "source": "BBC World",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "summary": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "summary": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 29 Oct 2026 11:22:18 GMT"
+      "published_at": "Fri, 30 Oct 2026 06:02:23 GMT"
     },
     {
       "source": "BBC World",
@@ -86,23 +87,23 @@
       "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
       "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 29 Oct 2026 11:34:03 GMT"
+      "published_at": "Fri, 30 Oct 2026 03:24:12 GMT"
     },
     {
       "source": "BBC World",
-      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
+      "title": "Student-backed election winners demand sweeping resignations in Serbia",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 29 Oct 2026 06:24:56 GMT"
+      "published_at": "Fri, 30 Oct 2026 00:17:28 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
+      "title": "More than 43 million ballots cast so far in midterms early voting surge",
+      "link": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss",
+      "summary": "Hispanic voters have helped drive the early voting numbers, which appear to outpace overall turnout for previous elections in some battleground counties.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 28 Oct 2026 19:15:58 GMT"
+      "published_at": "Fri, 30 Oct 2026 01:44:24 GMT"
     }
   ],
   "market_items": [],
@@ -116,23 +117,22 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 5,
-      "avg_score": 18.4
+      "count": 4,
+      "avg_score": 20.5
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 17.0
+      "count": 2,
+      "avg_score": 16.5
     }
   },
   "trend_signals": [
-    "Makro akışı yavaşladı (2 -> 0).",
-    "Teknoloji akışı yavaşladı (2 -> 0)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 217,
+      "score": 230,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -143,7 +143,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 54,
+      "score": 87,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -154,7 +154,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 42,
+      "score": 69,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -165,7 +165,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 21,
+      "score": 20,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -178,7 +178,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 217,
+      "score": 230,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -189,7 +189,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 54,
+      "score": 87,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -200,7 +200,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 42,
+      "score": 69,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",

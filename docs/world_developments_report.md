@@ -1,49 +1,48 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-10-29T12:16:26.941999+00:00
+Uretim zamani: 2026-10-30T12:07:09.389937+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges
+### 1. 2026 Robotics Handbook looks at humanoids, AI, and design choices
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 22
-- Link: https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.
+- Onem skoru: 28
+- Link: https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, humanoid ekseninde öne çıkıyor.
 
-Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
 
 ### 2. Warp Sciences emerges from stealth, to apply robotics to drug research
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 20
+- Onem skoru: 19
 - Link: https://www.therobotreport.com/warp-sciences-emerges-stealth-apply-robotics-drug-research/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 3. What Symbotic’s Walmart growth teaches robotics startups about anchor customers
+### 3. White House makes Section 232 determination regarding foreign-made robots
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
 - Onem skoru: 18
+- Link: https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+
+### 4. What Symbotic’s Walmart growth teaches robotics startups about anchor customers
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 17
 - Link: https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 4. Visa adapts to tech innovations
-- Kaynak: Payments Dive
-- Kategoriler: Finansal Sistem
-- Onem skoru: 17
-- Link: https://www.paymentsdive.com/news/visa-adapts-to-tech-innovations/873045/
-- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle payment, visa ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
-
 ## Trend Sinyali
 
-- Makro akışı yavaşladı (2 -> 0).
-- Teknoloji akışı yavaşladı (2 -> 0).
+- Belirgin kategori ivmesi yok; haber akışı dengeli.
 
 ## Topic Router
 
