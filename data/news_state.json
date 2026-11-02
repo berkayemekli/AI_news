@@ -1,36 +1,37 @@
 {
-  "generated_at": "2026-11-01T12:39:49.832307+00:00",
+  "generated_at": "2026-11-02T14:44:48.143586+00:00",
   "headlines": [
     {
-      "source": "The Robot Report",
-      "title": "2026 Robotics Handbook looks at humanoids, AI, and design choices",
-      "link": "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/",
-      "published_at": "Thu, 29 Oct 2026 19:36:12 +0000",
-      "summary": "The 2026 Robotics Handbook examines design choices behind dexterous manipulation, humanoid robots, and construction automation.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "source": "Quartz",
+      "title": "Avago–Broadcom to Skyworks–Qorvo: 10 chip deals worth billions",
+      "link": "https://qz.com/major-semiconductor-acquisitions-chip-deals",
+      "published_at": "Mon, 02 Nov 2026 14:39:28 GMT",
+      "summary": "These major semiconductor acquisitions, from AMD–Xilinx to Nvidia's abandoned bid for Arm, show how chipmakers have pursued multibillion-dollar deals to reshape the industry",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system",
+        "macro",
+        "technology"
       ],
-      "score": 26,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, humanoid ekseninde öne çıkıyor.",
+      "score": 21,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle chip, nvidia ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "automation",
-        "humanoid",
-        "robot",
-        "robotics"
+        "chip",
+        "nvidia",
+        "semiconductor"
       ]
     },
     {
       "source": "The Robot Report",
-      "title": "White House makes Section 232 determination regarding foreign-made robots",
-      "link": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/",
-      "published_at": "Thu, 29 Oct 2026 20:46:53 +0000",
-      "summary": "The U.S. secretary of commerce's Section 232 investigation concluded that dependence on robotics imports poses a national security risk.",
+      "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
+      "link": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
+      "published_at": "Sun, 01 Nov 2026 14:00:58 +0000",
+      "summary": "VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 16,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -38,84 +39,84 @@
       ]
     },
     {
-      "source": "Payments Dive",
-      "title": "Will ditching the ‘honor all cards’ rule matter?",
-      "link": "https://www.paymentsdive.com/news/will-ditching-honor-all-cards-rule-matter-visa-mastercard-amex/873187/",
-      "published_at": "Thu, 29 Oct 2026 10:54:00 -0400",
-      "summary": "Visa and Mastercard agreed to drop the standard in settling litigation with merchants, but the concession may not be much of a victory.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime",
+      "link": "https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/",
+      "published_at": "Sun, 01 Nov 2026 13:00:31 +0000",
+      "summary": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "financial_system"
+        "robotics"
       ],
-      "score": 15,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, visa ekseninde öne çıkıyor.",
+      "score": 17,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "mastercard",
-        "visa"
+        "robot",
+        "robotics"
       ]
     }
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+      "source": "Quartz",
+      "title": "5 findings on how the president's party fares in midterms since 1934",
+      "link": "https://qz.com/midterm-elections-president-party-historical-trends",
+      "summary": "Across 22 midterms since 1934, the president's party has lost 28 House seats on average. Here are 5 findings from the data.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 01 Nov 2026 00:41:24 GMT"
+      "published_at": "Mon, 02 Nov 2026 14:32:11 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Ryanair warned European airfares could rise up to 20% as fuel hedges expire",
+      "link": "https://qz.com/ryanair-airfares-rise-20-fuel-hedges-expire-110226",
+      "summary": "The airline's half-year profit fell 15% to €2.15 billion, and a cost review includes a possible temporary pay freeze",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Mon, 02 Nov 2026 14:30:45 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Suspected cyberattack hit supermarket freezers across Europe in second wave",
+      "link": "https://qz.com/suspected-cyberattack-supermarket-freezers-europe-second-wave-110226",
+      "summary": "Retailers in Belgium, Luxembourg, Sweden, Estonia and Ireland reported temperature spikes; no one has claimed responsibility",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Mon, 02 Nov 2026 14:30:31 GMT"
     },
     {
       "source": "BBC World",
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+      "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 01 Nov 2026 07:00:55 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 01 Nov 2026 00:27:33 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 01 Nov 2026 00:46:12 GMT"
+      "published_at": "Mon, 02 Nov 2026 14:11:13 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 21.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 21.0
     },
     "robotics": {
       "count": 2,
-      "avg_score": 21.0
+      "avg_score": 17.0
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 15.0
+      "avg_score": 21.0
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (4 -> 2)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 142,
+      "score": 72,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -124,33 +125,44 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 32,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 66,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     },
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 27,
+      "score": 36,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "markets",
+      "label": "Markets",
+      "score": 22,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 142,
+      "score": 72,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -159,20 +171,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 32,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 66,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     },
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 27,
+      "score": 36,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",

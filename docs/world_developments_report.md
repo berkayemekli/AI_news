@@ -1,45 +1,46 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-11-01T12:39:49.832307+00:00
+Uretim zamani: 2026-11-02T14:44:48.143586+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. 2026 Robotics Handbook looks at humanoids, AI, and design choices
+### 1. Avago–Broadcom to Skyworks–Qorvo: 10 chip deals worth billions
+- Kaynak: Quartz
+- Kategoriler: Finansal Sistem, Makro, Teknoloji
+- Onem skoru: 21
+- Link: https://qz.com/major-semiconductor-acquisitions-chip-deals
+- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle chip, nvidia ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.
+
+### 2. 28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 26
-- Link: https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, humanoid ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
-
-### 2. White House makes Section 232 determination regarding foreign-made robots
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 16
-- Link: https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/
+- Onem skoru: 17
+- Link: https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 3. Will ditching the ‘honor all cards’ rule matter?
-- Kaynak: Payments Dive
-- Kategoriler: Finansal Sistem
-- Onem skoru: 15
-- Link: https://www.paymentsdive.com/news/will-ditching-honor-all-cards-rule-matter-visa-mastercard-amex/873187/
-- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, visa ekseninde öne çıkıyor.
+### 3. Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 17
+- Link: https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
-Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
 ## Trend Sinyali
 
-- Robotik akışı yavaşladı (4 -> 2).
+- Belirgin kategori ivmesi yok; haber akışı dengeli.
 
 ## Topic Router
 
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
-- Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
+- Nvidia: Bloomberg Technology (yedek: Stratechery)
 - YZ Modelleri: The Information (yedek: Semafor Tech)
+- Markets: Bloomberg (yedek: Financial Times)
 
 ## Feed Notlari
 
