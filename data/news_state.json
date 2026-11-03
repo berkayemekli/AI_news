@@ -1,24 +1,57 @@
 {
-  "generated_at": "2026-11-02T14:44:48.143586+00:00",
+  "generated_at": "2026-11-03T13:37:18.171869+00:00",
   "headlines": [
     {
-      "source": "Quartz",
-      "title": "Avago–Broadcom to Skyworks–Qorvo: 10 chip deals worth billions",
-      "link": "https://qz.com/major-semiconductor-acquisitions-chip-deals",
-      "published_at": "Mon, 02 Nov 2026 14:39:28 GMT",
-      "summary": "These major semiconductor acquisitions, from AMD–Xilinx to Nvidia's abandoned bid for Arm, show how chipmakers have pursued multibillion-dollar deals to reshape the industry",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "source": "The Robot Report",
+      "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
+      "link": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
+      "published_at": "Tue, 03 Nov 2026 00:15:39 +0000",
+      "summary": "Deal is expected to provide approximately $465 million in gross capital as Agility expands deployments of its Digit humanoid with industrial customers.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
-        "financial_system",
-        "macro",
-        "technology"
+        "robotics"
       ],
-      "score": 21,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle chip, nvidia ekseninde öne çıkıyor.",
+      "score": 26,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "chip",
-        "nvidia",
-        "semiconductor"
+        "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 03 Nov 2026 13:28:30 GMT",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "categories": [
+        "macro"
+      ],
+      "score": 22,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle sanction, trade ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "sanction",
+        "trade",
+        "treasury"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Top 10 robotics developments of October 2026",
+      "link": "https://www.therobotreport.com/top-10-robotics-developments-october-2026/",
+      "published_at": "Mon, 02 Nov 2026 17:56:42 +0000",
+      "summary": "Last month, we celebrated the 20th anniversary of RoboBusiness, whic is being rebranded to Robotics Summit & Expo West.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
       ]
     },
     {
@@ -37,86 +70,69 @@
         "robot",
         "robotics"
       ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime",
-      "link": "https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/",
-      "published_at": "Sun, 01 Nov 2026 13:00:31 +0000",
-      "summary": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 17,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "5 findings on how the president's party fares in midterms since 1934",
-      "link": "https://qz.com/midterm-elections-president-party-historical-trends",
-      "summary": "Across 22 midterms since 1934, the president's party has lost 28 House seats on average. Here are 5 findings from the data.",
+      "title": "Oil prices climb after U.S. strikes Iran's Qeshm Island in Strait of Hormuz",
+      "link": "https://qz.com/oil-prices-climb-us-strikes-iran-qeshm-island-110326",
+      "summary": "Brent crude is up more than 1.7% after a Monday selloff of more than 7%, as U.S.-Iran talks and strike risks continue",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 02 Nov 2026 14:32:11 GMT"
+      "published_at": "Tue, 03 Nov 2026 13:20:26 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Ryanair warned European airfares could rise up to 20% as fuel hedges expire",
-      "link": "https://qz.com/ryanair-airfares-rise-20-fuel-hedges-expire-110226",
-      "summary": "The airline's half-year profit fell 15% to €2.15 billion, and a cost review includes a possible temporary pay freeze",
+      "title": "The 10 longest bridges in the world",
+      "link": "https://qz.com/longest-bridges-world",
+      "summary": "Seven of the world's 10 longest bridges stand in China, and a Louisiana causeway is the lone entry outside Asia.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 02 Nov 2026 14:30:45 GMT"
+      "published_at": "Tue, 03 Nov 2026 13:03:01 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Suspected cyberattack hit supermarket freezers across Europe in second wave",
-      "link": "https://qz.com/suspected-cyberattack-supermarket-freezers-europe-second-wave-110226",
-      "summary": "Retailers in Belgium, Luxembourg, Sweden, Estonia and Ireland reported temperature spikes; no one has claimed responsibility",
+      "title": "From Trump University to Yeezy, 5 celebrity brands that failed or faltered",
+      "link": "https://qz.com/celebrity-businesses-that-flopped",
+      "summary": "These celebrity businesses that flopped or stumbled, from Trump University to Planet Hollywood and Yeezy, ran into lawsuits, bankruptcies, settlements and broken partnerships",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 02 Nov 2026 14:30:31 GMT"
+      "published_at": "Tue, 03 Nov 2026 10:10:48 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 02 Nov 2026 14:11:13 GMT"
+      "published_at": "Tue, 03 Nov 2026 11:33:33 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
       "count": 1,
-      "avg_score": 21.0
+      "avg_score": 22.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 21.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 17.0
+      "count": 4,
+      "avg_score": 19.2
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 21.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik ivmesi artıyor (2 -> 4)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 72,
+      "score": 189,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -125,20 +141,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 66,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 87,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 36,
+      "score": 35,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -147,22 +163,22 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 22,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 27,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 72,
+      "score": 189,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -171,20 +187,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 66,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 87,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     },
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 36,
+      "score": 35,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
