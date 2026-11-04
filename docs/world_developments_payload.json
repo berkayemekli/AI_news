@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:37:18.171869+00:00",
+  "generated_at": "2026-11-04T13:45:39.685367+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,30 +11,12 @@
       "categories": [
         "robotics"
       ],
-      "score": 26,
+      "score": 25,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 03 Nov 2026 13:28:30 GMT",
-      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "categories": [
-        "macro"
-      ],
-      "score": 22,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle sanction, trade ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "sanction",
-        "trade",
-        "treasury"
       ]
     },
     {
@@ -47,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -64,7 +46,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -75,50 +57,50 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Oil prices climb after U.S. strikes Iran's Qeshm Island in Strait of Hormuz",
-      "link": "https://qz.com/oil-prices-climb-us-strikes-iran-qeshm-island-110326",
-      "summary": "Brent crude is up more than 1.7% after a Monday selloff of more than 7%, as U.S.-Iran talks and strike risks continue",
+      "title": "The best travel gear of 2026, according to Shop TODAY",
+      "link": "https://qz.com/best-travel-gear-2026",
+      "summary": "A selection of 15 winners from Shop TODAY's 2026 Travel Awards, from a $39.90 Uniqlo dress to a Quince carry-on and a Qi2 charger.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 03 Nov 2026 13:20:26 GMT"
+      "published_at": "Wed, 04 Nov 2026 13:41:32 GMT"
     },
     {
       "source": "Quartz",
-      "title": "The 10 longest bridges in the world",
-      "link": "https://qz.com/longest-bridges-world",
-      "summary": "Seven of the world's 10 longest bridges stand in China, and a Louisiana causeway is the lone entry outside Asia.",
+      "title": "Stock futures rise after Democrats sweep the U.S. midterm elections",
+      "link": "https://qz.com/stock-futures-rise-democrats-sweep-midterm-elections-110426",
+      "summary": "Dow futures gained 912 points, or 1.75%, after Democrats won both chambers of Congress; shares of Oracle and CoreWeave fell",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 03 Nov 2026 13:03:01 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "From Trump University to Yeezy, 5 celebrity brands that failed or faltered",
-      "link": "https://qz.com/celebrity-businesses-that-flopped",
-      "summary": "These celebrity businesses that flopped or stumbled, from Trump University to Planet Hollywood and Yeezy, ran into lawsuits, bankruptcies, settlements and broken partnerships",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 03 Nov 2026 10:10:48 GMT"
+      "published_at": "Wed, 04 Nov 2026 13:40:22 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
+      "link": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss",
+      "summary": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 03 Nov 2026 11:33:33 GMT"
+      "published_at": "Wed, 04 Nov 2026 10:15:42 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+      "link": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
+      "summary": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Wed, 04 Nov 2026 10:03:19 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 22.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
       "count": 0,
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 4,
-      "avg_score": 19.2
+      "count": 3,
+      "avg_score": 19.3
     },
     "financial_system": {
       "count": 0,
@@ -126,13 +108,13 @@
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (2 -> 4)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 189,
+      "score": 148,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -141,20 +123,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 87,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 26,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 35,
+      "score": 17,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -163,22 +145,22 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 27,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 17,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 189,
+      "score": 148,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -187,20 +169,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 87,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 26,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     },
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 35,
+      "score": 17,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
