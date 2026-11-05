@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:45:39.685367+00:00",
+  "generated_at": "2026-11-05T13:58:18.911885+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 25,
+      "score": 24,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -20,16 +20,37 @@
       ]
     },
     {
+      "source": "Quartz",
+      "title": "Nvidia-backed Agility Robotics becomes first U.S. humanoid robot maker to go public",
+      "link": "https://qz.com/agility-robotics-nasdaq-listing-humanoid-robot-maker-110526",
+      "published_at": "Thu, 05 Nov 2026 13:40:41 GMT",
+      "summary": "The company raised about $465 million through a merger with Churchill Capital Corp XI and related financings, including a Foxconn-led investment",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 22,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, api ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "api",
+        "nvidia",
+        "u.s."
+      ]
+    },
+    {
       "source": "The Robot Report",
-      "title": "Top 10 robotics developments of October 2026",
-      "link": "https://www.therobotreport.com/top-10-robotics-developments-october-2026/",
-      "published_at": "Mon, 02 Nov 2026 17:56:42 +0000",
-      "summary": "Last month, we celebrated the 20th anniversary of RoboBusiness, whic is being rebranded to Robotics Summit & Expo West.",
+      "title": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
+      "link": "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/",
+      "published_at": "Wed, 04 Nov 2026 15:22:55 +0000",
+      "summary": "When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -38,15 +59,15 @@
     },
     {
       "source": "The Robot Report",
-      "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
-      "link": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
-      "published_at": "Sun, 01 Nov 2026 14:00:58 +0000",
-      "summary": "VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem.",
+      "title": "Robotics Startup Radar 2026",
+      "link": "https://www.therobotreport.com/robotics-startup-radar-2026/",
+      "published_at": "Wed, 04 Nov 2026 16:08:46 +0000",
+      "summary": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of commercial robotics.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 16,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -57,54 +78,54 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "The best travel gear of 2026, according to Shop TODAY",
-      "link": "https://qz.com/best-travel-gear-2026",
-      "summary": "A selection of 15 winners from Shop TODAY's 2026 Travel Awards, from a $39.90 Uniqlo dress to a Quince carry-on and a Qi2 charger.",
+      "title": "Emirates saw its profits plunge as the Iran war drives up fuel costs",
+      "link": "https://qz.com/emirates-profit-plunge-iran-war-fuel-costs-110526",
+      "summary": "The airline's fuel costs before hedging rose 60%, and it carried 22% fewer passengers than a year earlier",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 04 Nov 2026 13:41:32 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Stock futures rise after Democrats sweep the U.S. midterm elections",
-      "link": "https://qz.com/stock-futures-rise-democrats-sweep-midterm-elections-110426",
-      "summary": "Dow futures gained 912 points, or 1.75%, after Democrats won both chambers of Congress; shares of Oracle and CoreWeave fell",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 04 Nov 2026 13:40:22 GMT"
+      "published_at": "Thu, 05 Nov 2026 13:20:42 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
-      "link": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss",
-      "summary": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 04 Nov 2026 10:15:42 GMT"
+      "published_at": "Thu, 05 Nov 2026 03:47:56 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
-      "link": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
-      "summary": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Democrats can vote legislation through. But Trump still has veto power.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 04 Nov 2026 10:03:19 GMT"
+      "published_at": "Wed, 04 Nov 2026 18:01:27 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Wed, 04 Nov 2026 22:48:43 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 22.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 22.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 19.3
+      "count": 4,
+      "avg_score": 19.0
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 22.0
     }
   },
   "trend_signals": [
@@ -114,7 +135,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 148,
+      "score": 254,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -123,20 +144,9 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 26,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 17,
+      "score": 61,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -145,22 +155,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 17,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 48,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 23,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 148,
+      "score": 254,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -169,26 +190,26 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 26,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 17,
+      "score": 61,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 48,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [

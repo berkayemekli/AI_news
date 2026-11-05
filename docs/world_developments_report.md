@@ -1,32 +1,41 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-11-04T13:45:39.685367+00:00
+Uretim zamani: 2026-11-05T13:58:18.911885+00:00
 
 ## Bugunun 5 Onemli Basligi
 
 ### 1. Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 25
+- Onem skoru: 24
 - Link: https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
 
-### 2. Top 10 robotics developments of October 2026
+### 2. Nvidia-backed Agility Robotics becomes first U.S. humanoid robot maker to go public
+- Kaynak: Quartz
+- Kategoriler: Finansal Sistem, Makro, Teknoloji
+- Onem skoru: 22
+- Link: https://qz.com/agility-robotics-nasdaq-listing-humanoid-robot-maker-110526
+- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, api ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.
+
+### 3. How GlobalLogic helped Haystack Robotics build a UV disinfection robot
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 17
-- Link: https://www.therobotreport.com/top-10-robotics-developments-october-2026/
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 3. 28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics
+### 4. Robotics Startup Radar 2026
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 16
-- Link: https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/
+- Onem skoru: 18
+- Link: https://www.therobotreport.com/robotics-startup-radar-2026/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
@@ -38,9 +47,9 @@ Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gerce
 ## Topic Router
 
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
-- Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
 - YZ Modelleri: The Information (yedek: Semafor Tech)
-- Jeopolitik: Reuters World (yedek: Foreign Affairs)
+- Ödemeler / Visa: Payments Dive (yedek: Reuters Business)
+- Nvidia: Bloomberg Technology (yedek: Stratechery)
 
 ## Feed Notlari
 
