@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:26:14.160574+00:00",
+  "generated_at": "2026-11-08T12:44:34.701355+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -29,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 22,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -47,7 +47,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 20,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -64,7 +64,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -75,35 +75,35 @@
   "political_items": [
     {
       "source": "BBC World",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 06 Nov 2026 23:24:15 GMT"
+      "published_at": "Sat, 07 Nov 2026 21:36:16 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 07 Nov 2026 22:19:59 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Sat, 07 Nov 2026 18:14:38 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Paraguay's former president charged after bank collapse",
       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 07 Nov 2026 07:20:00 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 06 Nov 2026 21:06:25 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "New wave of bomb threats hit European airlines",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 06 Nov 2026 15:25:35 GMT"
+      "published_at": "Sat, 07 Nov 2026 19:17:22 GMT"
     }
   ],
   "market_items": [],
@@ -117,8 +117,8 @@
       "avg_score": 0.0
     },
     "robotics": {
-      "count": 9,
-      "avg_score": 18.9
+      "count": 7,
+      "avg_score": 18.7
     },
     "financial_system": {
       "count": 0,
@@ -126,13 +126,13 @@
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (6 -> 9)."
+    "Robotik akışı yavaşladı (9 -> 7)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 406,
+      "score": 322,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -143,7 +143,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 133,
+      "score": 94,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -152,33 +152,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 38,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    },
-    {
       "topic": "markets",
       "label": "Markets",
-      "score": 24,
+      "score": 23,
       "best_source": "Bloomberg",
       "best_url": "https://www.bloomberg.com/",
       "backup_source": "Financial Times",
       "backup_url": "https://www.ft.com/markets",
       "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
       "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 20,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 406,
+      "score": 322,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -189,7 +189,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 133,
+      "score": 94,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -198,15 +198,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 38,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "markets",
+      "label": "Markets",
+      "score": 23,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "errors": [
