@@ -1,40 +1,67 @@
 {
-  "generated_at": "2026-11-08T12:44:34.701355+00:00",
+  "generated_at": "2026-11-09T15:09:31.516218+00:00",
   "headlines": [
     {
-      "source": "The Robot Report",
-      "title": "Agility Robotics begins trading on Nasdaq",
-      "link": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
-      "published_at": "Thu, 05 Nov 2026 14:46:29 +0000",
-      "summary": "Agility Robotics becomes the first U.S.-based legged humanoid company to be publicly listed.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "source": "Quartz",
+      "title": "Dow futures rally 500 points as oil drops and traders await inflation data and AI earnings",
+      "link": "https://qz.com/dow-futures-rally-oil-drops-inflation-data-ai-earnings-110926",
+      "published_at": "Mon, 09 Nov 2026 14:40:25 GMT",
+      "summary": "S&P 500 futures rose 0.7% and Nasdaq 100 futures gained 0.4%, while Nvidia stock fell about 5% in premarket trading",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system",
+        "macro",
+        "technology"
       ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "score": 26,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, inflation ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "humanoid",
-        "robot",
-        "robotics"
+        "ai",
+        "inflation",
+        "nvidia",
+        "oil",
+        "trade"
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "How did Agility Robotics perform on its first day on the stock market?",
-      "link": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
-      "published_at": "Thu, 05 Nov 2026 22:48:14 +0000",
-      "summary": "Humanoid developer Agility Robotics ended its first day of trading on the Nasdaq just 2% above where it started, at $11.49.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "source": "Quartz",
+      "title": "U.S. pressed China on farm purchase pledges, lifting soybean futures",
+      "link": "https://qz.com/us-china-farm-purchases-soybean-futures-110926",
+      "published_at": "Mon, 09 Nov 2026 15:00:27 GMT",
+      "summary": "Soybean futures gave up earlier gains on Monday as traders looked ahead to a USDA crop report due this week",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
       "categories": [
-        "robotics"
+        "financial_system",
+        "macro",
+        "technology"
       ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "score": 20,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, china ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "humanoid",
-        "robot",
-        "robotics"
+        "ai",
+        "china",
+        "trade",
+        "u.s."
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "Dow jumps more than 600 points as oil slides and Nvidia stock falls",
+      "link": "https://qz.com/dow-jumps-600-points-oil-slides-nvidia-stock-110926",
+      "published_at": "Mon, 09 Nov 2026 14:50:30 GMT",
+      "summary": "The S&P 500 gained 0.9% and the Nasdaq rose 0.8% while Nvidia's board opens a probe into CEO Jensen Huang",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 18,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, nvidia ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "nvidia",
+        "oil"
       ]
     },
     {
@@ -43,23 +70,6 @@
       "link": "https://www.therobotreport.com/industry-experts-discuss-china-blocking-softbank-acquisition-abb-robotics/",
       "published_at": "Fri, 06 Nov 2026 20:41:17 +0000",
       "summary": "China's prohibition of SoftBank's purchase of ABB Robotics reflects wider concerns about data and AI, say experts.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "robot",
-        "robotics"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "Chinese regulators block SoftBank’s $5.4B acquisition of ABB Robotics",
-      "link": "https://www.therobotreport.com/chinese-regulators-block-softbanks-5-4b-acquisition-of-abb-robotics/",
-      "published_at": "Thu, 05 Nov 2026 16:25:46 +0000",
-      "summary": "Chinese authorities blocked the deal over concerns about robot data being transferred overseas and used to train AI models.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -74,76 +84,68 @@
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "source": "Quartz",
+      "title": "U.S. pressed China on farm purchase pledges, lifting soybean futures",
+      "link": "https://qz.com/us-china-farm-purchases-soybean-futures-110926",
+      "summary": "Soybean futures gave up earlier gains on Monday as traders looked ahead to a USDA crop report due this week",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 07 Nov 2026 21:36:16 GMT"
+      "published_at": "Mon, 09 Nov 2026 15:00:27 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "source": "Quartz",
+      "title": "Emirates president said the Iran war has again derailed his retirement plans",
+      "link": "https://qz.com/emirates-tim-clark-iran-war-retirement-plans-110926",
+      "summary": "Clark, 76, was considering stepping away after record profit, while Emirates' first-half profit fell 66% as the war disrupted flights",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 07 Nov 2026 22:19:59 GMT"
+      "published_at": "Mon, 09 Nov 2026 14:40:32 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "source": "Quartz",
+      "title": "Dow futures rally 500 points as oil drops and traders await inflation data and AI earnings",
+      "link": "https://qz.com/dow-futures-rally-oil-drops-inflation-data-ai-earnings-110926",
+      "summary": "S&P 500 futures rose 0.7% and Nasdaq 100 futures gained 0.4%, while Nvidia stock fell about 5% in premarket trading",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 07 Nov 2026 18:14:38 GMT"
+      "published_at": "Mon, 09 Nov 2026 14:40:25 GMT"
     },
     {
-      "source": "BBC World",
-      "title": "Paraguay's former president charged after bank collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "source": "Quartz",
+      "title": "Jensen Huang's spy scandal throws Nvidia's South Korea AI event into disarray",
+      "link": "https://qz.com/nvidia-jensen-huang-spy-scandal-south-korea-event-110926",
+      "summary": "Madison Huang canceled her Seoul trip, a planned ministerial meeting fell through and Nvidia declined to discuss the controversy",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 07 Nov 2026 19:17:22 GMT"
+      "published_at": "Mon, 09 Nov 2026 14:30:25 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 5,
+      "avg_score": 20.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 5,
+      "avg_score": 20.0
     },
     "robotics": {
-      "count": 7,
-      "avg_score": 18.7
+      "count": 3,
+      "avg_score": 16.7
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 5,
+      "avg_score": 20.0
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (9 -> 7)."
+    "Makro ivmesi artıyor (0 -> 5).",
+    "Teknoloji ivmesi artıyor (0 -> 5).",
+    "Robotik akışı yavaşladı (7 -> 3).",
+    "Finansal Sistem ivmesi artıyor (0 -> 5)."
   ],
   "topic_router": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 322,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 94,
+      "score": 158,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -152,44 +154,44 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 23,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 106,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 20,
+      "score": 88,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 84,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "today_stack": [
     {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 322,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 94,
+      "score": 158,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -198,15 +200,26 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "markets",
-      "label": "Markets",
-      "score": 23,
-      "best_source": "Bloomberg",
-      "best_url": "https://www.bloomberg.com/",
-      "backup_source": "Financial Times",
-      "backup_url": "https://www.ft.com/markets",
-      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
-      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 106,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 88,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
