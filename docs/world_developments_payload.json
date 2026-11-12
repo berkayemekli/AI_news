@@ -1,59 +1,34 @@
 {
-  "generated_at": "2026-11-11T13:32:32.549002+00:00",
+  "generated_at": "2026-11-12T14:36:29.672506+00:00",
   "headlines": [
     {
-      "source": "Quartz",
-      "title": "TSMC is buying stakes in Anthropic and OpenAI worth up to $1 billion",
-      "link": "https://qz.com/tsmc-anthropic-openai-stakes-investment-111126",
-      "published_at": "Wed, 11 Nov 2026 13:00:16 GMT",
-      "summary": "The chipmaker's board approved purchases of Anthropic common stock and OpenAI preferred stock, each capped at $500 million",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 23,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "anthropic",
-        "chip",
-        "openai"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "A venture capitalist warned Anthropic's IPO lockup could spark an AI correction",
-      "link": "https://qz.com/anthropic-ipo-lockup-ai-correction-selby-111126",
-      "published_at": "Wed, 11 Nov 2026 13:10:28 GMT",
-      "summary": "Copper Sky's Jack Selby said a weak Anthropic offering and later lockup expirations could pressure the AI trade",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 19,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "anthropic",
-        "api",
-        "trade"
-      ]
-    },
-    {
       "source": "The Robot Report",
-      "title": "Memories.ai builds standardized egocentric video pipeline",
-      "link": "https://www.therobotreport.com/memories-ai-builds-standardized-egocentric-video-pipeline/",
-      "published_at": "Wed, 11 Nov 2026 13:00:34 +0000",
-      "summary": "Memories.ai provides standardized egocentric video collection and AI-powered annotation to build training data infrastructure for robotics.",
+      "title": "Runway’s Praxis-1 world action model for robotics is now available",
+      "link": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/",
+      "published_at": "Thu, 12 Nov 2026 13:18:47 +0000",
+      "summary": "Runway launched Praxis-1 with partners including Noble Machines, Standard Bots, and Ultra. Developers can now use it with open weights.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 21,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Viam Launchpad aims to accelerate robotics deployments",
+      "link": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
+      "published_at": "Thu, 12 Nov 2026 13:30:31 +0000",
+      "summary": "The Viam Launchpad is intended to provide the software and engineering infrastructure to help startups bring robots to commercial deployment.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -70,86 +45,95 @@
       "categories": [
         "robotics"
       ],
-      "score": 19,
+      "score": 18,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
         "robotics"
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "Stock futures fall as Huang’s exit sends Nvidia reeling and oil prices rise",
+      "link": "https://qz.com/nvidia-stock-jensen-huang-ouster-board-wsj-111226",
+      "published_at": "Thu, 12 Nov 2026 14:20:19 GMT",
+      "summary": "Nvidia named CFO Colette Kress interim CEO after Jensen Huang resigned, as Nasdaq-100 futures lost 1.2% and U.S. crude rose above $87 a barrel",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 18,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle nvidia, oil ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "nvidia",
+        "oil",
+        "u.s."
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "A venture capitalist warned Anthropic's IPO lockup could spark an AI correction",
-      "link": "https://qz.com/anthropic-ipo-lockup-ai-correction-selby-111126",
-      "summary": "Copper Sky's Jack Selby said a weak Anthropic offering and later lockup expirations could pressure the AI trade",
+      "title": "Oil prices reverse course after Trump said U.S. doesn't need Iran deal",
+      "link": "https://qz.com/oil-prices-reverse-trump-iran-deal-brent-111226",
+      "summary": "Brent crude climbed as much as 1.8% to top $94 a barrel after falling on signs of higher Saudi exports",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 11 Nov 2026 13:10:28 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Nissan posted a net loss and cut its sales forecast as China slump deepens",
-      "link": "https://qz.com/nissan-net-loss-sales-forecast-china-slump-111126",
-      "summary": "The automaker lowered its fiscal-year volume target to 2.97 million-3 million vehicles from 3.15 million, its second cut since August",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 11 Nov 2026 13:00:27 GMT"
+      "published_at": "Thu, 12 Nov 2026 14:30:21 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 11 Nov 2026 01:01:20 GMT"
+      "published_at": "Thu, 12 Nov 2026 07:59:33 GMT"
     },
     {
       "source": "BBC World",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Wed, 11 Nov 2026 11:47:22 GMT"
+      "published_at": "Thu, 12 Nov 2026 12:56:55 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Thu, 12 Nov 2026 12:14:51 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 2,
-      "avg_score": 21.0
+      "count": 1,
+      "avg_score": 18.0
     },
     "technology": {
-      "count": 2,
-      "avg_score": 21.0
+      "count": 1,
+      "avg_score": 18.0
     },
     "robotics": {
-      "count": 5,
+      "count": 8,
       "avg_score": 17.8
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 21.0
+      "count": 1,
+      "avg_score": 18.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (2 -> 5)."
+    "Robotik ivmesi artıyor (5 -> 8)."
   ],
   "topic_router": [
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 190,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 188,
+      "score": 300,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -158,9 +142,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 139,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 44,
+      "score": 38,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
@@ -171,7 +166,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 40,
+      "score": 22,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -182,20 +177,9 @@
   ],
   "today_stack": [
     {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 190,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 188,
+      "score": 300,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -204,9 +188,20 @@
       "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 139,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 44,
+      "score": 38,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",

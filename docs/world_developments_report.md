@@ -1,53 +1,53 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-11-11T13:32:32.549002+00:00
+Uretim zamani: 2026-11-12T14:36:29.672506+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. TSMC is buying stakes in Anthropic and OpenAI worth up to $1 billion
-- Kaynak: Quartz
-- Kategoriler: Finansal Sistem, Makro, Teknoloji
-- Onem skoru: 23
-- Link: https://qz.com/tsmc-anthropic-openai-stakes-investment-111126
-- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.
-
-### 2. A venture capitalist warned Anthropic's IPO lockup could spark an AI correction
-- Kaynak: Quartz
-- Kategoriler: Finansal Sistem, Makro, Teknoloji
-- Onem skoru: 19
-- Link: https://qz.com/anthropic-ipo-lockup-ai-correction-selby-111126
-- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.
-
-### 3. Memories.ai builds standardized egocentric video pipeline
+### 1. Runway’s Praxis-1 world action model for robotics is now available
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 19
-- Link: https://www.therobotreport.com/memories-ai-builds-standardized-egocentric-video-pipeline/
+- Onem skoru: 21
+- Link: https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 4. NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL
+### 2. Viam Launchpad aims to accelerate robotics deployments
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 19
+- Onem skoru: 21
+- Link: https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/
+- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
+
+### 3. NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL
+- Kaynak: The Robot Report
+- Kategoriler: Robotik
+- Onem skoru: 18
 - Link: https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
+### 4. Stock futures fall as Huang’s exit sends Nvidia reeling and oil prices rise
+- Kaynak: Quartz
+- Kategoriler: Finansal Sistem, Makro, Teknoloji
+- Onem skoru: 18
+- Link: https://qz.com/nvidia-stock-jensen-huang-ouster-board-wsj-111226
+- Bu seni neden ilgilendiriyor: Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle nvidia, oil ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.
+
 ## Trend Sinyali
 
-- Robotik ivmesi artıyor (2 -> 5).
+- Robotik ivmesi artıyor (5 -> 8).
 
 ## Topic Router
 
-- YZ Modelleri: The Information (yedek: Semafor Tech)
 - Robotik: The Robot Report (yedek: Bloomberg Technology)
+- YZ Modelleri: The Information (yedek: Semafor Tech)
 - Nvidia: Bloomberg Technology (yedek: Stratechery)
 - Jeopolitik: Reuters World (yedek: Foreign Affairs)
 
