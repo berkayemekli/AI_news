@@ -1,48 +1,48 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-11-12T14:36:29.672506+00:00
+Uretim zamani: 2026-11-13T13:54:45.985082+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Runway’s Praxis-1 world action model for robotics is now available
+### 1. Documents tie banned Nvidia AI chips to Alice Huang-linked Shanghai data center
+- Kaynak: Quartz
+- Kategoriler: Finansal Sistem, Makro, Teknoloji
+- Onem skoru: 25
+- Link: https://qz.com/nvidia-chips-alice-huang-shanghai-data-center-111326
+- Bu seni neden ilgilendiriyor: YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.
+
+### 2. Runway’s Praxis-1 world action model for robotics is now available
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 21
+- Onem skoru: 19
 - Link: https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 2. Viam Launchpad aims to accelerate robotics deployments
+### 3. Viam Launchpad aims to accelerate robotics deployments
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 21
+- Onem skoru: 19
 - Link: https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 3. NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL
+### 4. NVIDIA replaces CEO amid China AI and robotics concerns
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
 - Onem skoru: 18
-- Link: https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/
+- Link: https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 4. Stock futures fall as Huang’s exit sends Nvidia reeling and oil prices rise
-- Kaynak: Quartz
-- Kategoriler: Finansal Sistem, Makro, Teknoloji
-- Onem skoru: 18
-- Link: https://qz.com/nvidia-stock-jensen-huang-ouster-board-wsj-111226
-- Bu seni neden ilgilendiriyor: Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle nvidia, oil ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.
-
 ## Trend Sinyali
 
-- Robotik ivmesi artıyor (5 -> 8).
+- Belirgin kategori ivmesi yok; haber akışı dengeli.
 
 ## Topic Router
 

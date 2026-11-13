@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-11-12T14:36:29.672506+00:00",
+  "generated_at": "2026-11-13T13:54:45.985082+00:00",
   "headlines": [
+    {
+      "source": "Quartz",
+      "title": "Documents tie banned Nvidia AI chips to Alice Huang-linked Shanghai data center",
+      "link": "https://qz.com/nvidia-chips-alice-huang-shanghai-data-center-111326",
+      "published_at": "Fri, 13 Nov 2026 13:30:26 GMT",
+      "summary": "Filings list servers worth 485 million yuan ($73 million) as collateral, including units with restricted Nvidia chips",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 25,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "chip",
+        "data center",
+        "nvidia"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Runway’s Praxis-1 world action model for robotics is now available",
@@ -11,7 +32,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -28,7 +49,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -37,10 +58,10 @@
     },
     {
       "source": "The Robot Report",
-      "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
-      "link": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
-      "published_at": "Mon, 09 Nov 2026 21:52:05 +0000",
-      "summary": "NVIDIA also gave a look at how its partners, like Ambi Robotics, FieldAI, Flexion, Skild AI, RLWRLD, and more, are using these technologies.",
+      "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
+      "link": "https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/",
+      "published_at": "Thu, 12 Nov 2026 16:33:17 +0000",
+      "summary": "NVIDIA is replacing co-founder Jensen Huang with Collette Kress as CEO and Harvey C. Jones as board chair as it faces trade scrutiny.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
@@ -51,89 +72,69 @@
         "robot",
         "robotics"
       ]
-    },
-    {
-      "source": "Quartz",
-      "title": "Stock futures fall as Huang’s exit sends Nvidia reeling and oil prices rise",
-      "link": "https://qz.com/nvidia-stock-jensen-huang-ouster-board-wsj-111226",
-      "published_at": "Thu, 12 Nov 2026 14:20:19 GMT",
-      "summary": "Nvidia named CFO Colette Kress interim CEO after Jensen Huang resigned, as Nasdaq-100 futures lost 1.2% and U.S. crude rose above $87 a barrel",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 18,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle nvidia, oil ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "nvidia",
-        "oil",
-        "u.s."
-      ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Oil prices reverse course after Trump said U.S. doesn't need Iran deal",
-      "link": "https://qz.com/oil-prices-reverse-trump-iran-deal-brent-111226",
-      "summary": "Brent crude climbed as much as 1.8% to top $94 a barrel after falling on signs of higher Saudi exports",
+      "title": "IEA said global oil supply is topping demand for first time since Iran war",
+      "link": "https://qz.com/iea-oil-supply-topping-demand-first-time-iran-war-111326",
+      "summary": "Observed oil inventories rose by 52 million barrels in October, the first increase since June, as Gulf exports recovered",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 12 Nov 2026 14:30:21 GMT"
+      "published_at": "Fri, 13 Nov 2026 13:30:34 GMT"
     },
     {
       "source": "BBC World",
-      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 12 Nov 2026 07:59:33 GMT"
+      "published_at": "Fri, 13 Nov 2026 03:57:01 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 12 Nov 2026 12:56:55 GMT"
+      "published_at": "Fri, 13 Nov 2026 02:01:35 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+      "summary": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 12 Nov 2026 12:14:51 GMT"
+      "published_at": "Fri, 13 Nov 2026 12:28:28 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
       "count": 1,
-      "avg_score": 18.0
+      "avg_score": 25.0
     },
     "technology": {
       "count": 1,
-      "avg_score": 18.0
+      "avg_score": 25.0
     },
     "robotics": {
-      "count": 8,
-      "avg_score": 17.8
+      "count": 7,
+      "avg_score": 17.1
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 18.0
+      "avg_score": 25.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (5 -> 8)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 300,
+      "score": 254,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -144,7 +145,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 139,
+      "score": 156,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -155,7 +156,7 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 38,
+      "score": 123,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
@@ -166,7 +167,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 22,
+      "score": 58,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -179,7 +180,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 300,
+      "score": 254,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -190,7 +191,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 139,
+      "score": 156,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -201,7 +202,7 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 38,
+      "score": 123,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
