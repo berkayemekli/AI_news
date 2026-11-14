@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-11-13T13:54:45.985082+00:00",
+  "generated_at": "2026-11-14T12:57:18.530982+00:00",
   "headlines": [
-    {
-      "source": "Quartz",
-      "title": "Documents tie banned Nvidia AI chips to Alice Huang-linked Shanghai data center",
-      "link": "https://qz.com/nvidia-chips-alice-huang-shanghai-data-center-111326",
-      "published_at": "Fri, 13 Nov 2026 13:30:26 GMT",
-      "summary": "Filings list servers worth 485 million yuan ($73 million) as collateral, including units with restricted Nvidia chips",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 25,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "chip",
-        "data center",
-        "nvidia"
-      ]
-    },
     {
       "source": "The Robot Report",
       "title": "Runway’s Praxis-1 world action model for robotics is now available",
@@ -57,6 +36,26 @@
       ]
     },
     {
+      "source": "TechCrunch",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "published_at": "Fri, 13 Nov 2026 18:40:30 +0000",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "categories": [
+        "ai",
+        "technology"
+      ],
+      "score": 17,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "chip",
+        "model",
+        "nvidia"
+      ]
+    },
+    {
       "source": "The Robot Report",
       "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
       "link": "https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/",
@@ -66,7 +65,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 17,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -76,65 +75,65 @@
   ],
   "political_items": [
     {
-      "source": "Quartz",
-      "title": "IEA said global oil supply is topping demand for first time since Iran war",
-      "link": "https://qz.com/iea-oil-supply-topping-demand-first-time-iran-war-111326",
-      "summary": "Observed oil inventories rose by 52 million barrels in October, the first increase since June, as Gulf exports recovered",
+      "source": "BBC World",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 13 Nov 2026 13:30:34 GMT"
+      "published_at": "Sat, 14 Nov 2026 11:41:20 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 13 Nov 2026 03:57:01 GMT"
+      "published_at": "Sat, 14 Nov 2026 05:52:31 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 13 Nov 2026 02:01:35 GMT"
+      "published_at": "Sat, 14 Nov 2026 10:42:20 GMT"
     },
     {
       "source": "BBC World",
-      "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
-      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-      "summary": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Fri, 13 Nov 2026 12:28:28 GMT"
+      "published_at": "Fri, 13 Nov 2026 16:40:31 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
       "count": 1,
-      "avg_score": 25.0
+      "avg_score": 16.0
     },
     "technology": {
       "count": 1,
-      "avg_score": 25.0
+      "avg_score": 17.0
     },
     "robotics": {
-      "count": 7,
-      "avg_score": 17.1
+      "count": 5,
+      "avg_score": 17.4
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 25.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
-    "Belirgin kategori ivmesi yok; haber akışı dengeli."
+    "Robotik akışı yavaşladı (7 -> 5)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 254,
+      "score": 184,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -145,7 +144,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 156,
+      "score": 148,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -154,50 +153,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 123,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
-    },
-    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 58,
+      "score": 125,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
       "backup_url": "https://www.foreignaffairs.com/",
       "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
       "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
-    }
-  ],
-  "today_stack": [
-    {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 254,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 156,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
       "topic": "nvidia",
@@ -209,6 +173,41 @@
       "backup_url": "https://stratechery.com/about/",
       "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
       "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    }
+  ],
+  "today_stack": [
+    {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 184,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 148,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 125,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
