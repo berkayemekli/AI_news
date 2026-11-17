@@ -1,124 +1,155 @@
 {
-  "generated_at": "2026-11-16T14:46:38.763023+00:00",
+  "generated_at": "2026-11-17T15:28:53.819363+00:00",
   "headlines": [
     {
-      "source": "Quartz",
-      "title": "Dow futures shed 90 points as traders await Nvidia earnings and Anthropic’s IPO",
-      "link": "https://qz.com/wall-street-lower-open-nvidia-anthropic-ipo-111626",
-      "published_at": "Mon, 16 Nov 2026 14:20:31 GMT",
-      "summary": "Nasdaq-100 futures declined 1.4% as Nvidia stock fell close to 3% before its Tuesday earnings report and Anthropic's Thursday debut",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "source": "The Robot Report",
+      "title": "The hidden reason most robots fail on the factory floor",
+      "link": "https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/",
+      "published_at": "Mon, 16 Nov 2026 23:49:56 +0000",
+      "summary": "Evan Beard explains how AI-native robotics could make automation easier to program and help American manufacturing compete globally.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
-        "financial_system",
-        "macro",
-        "technology"
+        "robotics"
       ],
-      "score": 23,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
+      "score": 25,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, factory ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "ai",
-        "anthropic",
-        "nvidia",
-        "trade"
+        "automation",
+        "factory",
+        "robot",
+        "robotics"
       ]
     },
     {
       "source": "Quartz",
-      "title": "U.S. is requiring licenses to reexport AI chips to five countries",
-      "link": "https://qz.com/us-ai-chip-reexport-licenses-five-countries-111626",
-      "published_at": "Mon, 16 Nov 2026 14:10:27 GMT",
-      "summary": "The Commerce Department's interim final rule targets remote access to advanced AI chips through data centers in third countries",
-      "summary_tr": "Bu haber, yapay zeka modeli ve altyapi yarisinda yeni urun, yatirim veya platform hamlelerinin surdugunu gosteriyor.",
+      "title": "Visa and Mastercard pushed for final approval of $38 billion swipe fee deal",
+      "link": "https://qz.com/visa-mastercard-final-approval-swipe-fee-settlement-111726",
+      "published_at": "Tue, 17 Nov 2026 14:50:31 GMT",
+      "summary": "A federal judge in Brooklyn withheld a ruling after Monday's hearing as Walmart and the National Retail Federation object",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
       "categories": [
         "financial_system",
         "macro",
         "technology"
       ],
-      "score": 20,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
+      "score": 25,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle ai, fed ekseninde öne çıkıyor.",
       "matched_keywords": [
         "ai",
-        "chip",
-        "data center",
-        "u.s."
+        "fed",
+        "mastercard",
+        "visa"
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "Agile Robots raises $500M to increase production capacity",
+      "link": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
+      "published_at": "Mon, 16 Nov 2026 17:47:48 +0000",
+      "summary": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 24,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "humanoid",
+        "robot",
+        "robotics"
+      ]
+    },
+    {
+      "source": "Payments Dive",
+      "title": "Visa, Mastercard face possible trial",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-face-possible-trial/874834/",
+      "published_at": "Tue, 17 Nov 2026 07:40:29 -0500",
+      "summary": "If a court rejects final approval of a card-fee settlement in a 2005 merchant lawsuit over the networks’ swipe fees, the case will go to trial, a federal judge said.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "categories": [
+        "financial_system"
+      ],
+      "score": 22,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "mastercard",
+        "settlement",
+        "visa"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "From DNS to undersea fiber: 10 organizations the web depends on",
-      "link": "https://qz.com/companies-quietly-run-internet",
-      "summary": "A selection of companies that run the internet, plus two nonprofits, behind the domain names, cables, data centers and security certificates few people ever see",
+      "title": "Hackers have cut power in Ukraine, but could they take down the U.S. grid? 10 cases",
+      "link": "https://qz.com/can-hackers-take-down-us-power-grid",
+      "summary": "Whether hackers can take down the U.S. power grid has no simple answer, and these 10 cases, safeguards and weak points show what cyberattacks have done and what limits them",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 16 Nov 2026 14:38:33 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "Dow futures shed 90 points as traders await Nvidia earnings and Anthropic’s IPO",
-      "link": "https://qz.com/wall-street-lower-open-nvidia-anthropic-ipo-111626",
-      "summary": "Nasdaq-100 futures declined 1.4% as Nvidia stock fell close to 3% before its Tuesday earnings report and Anthropic's Thursday debut",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 16 Nov 2026 14:20:31 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "China's economy stumbles as retail sales, factory output, and investment all miss",
-      "link": "https://qz.com/china-october-economic-data-retail-sales-investment-miss-111626",
-      "summary": "Retail sales rose 0.4% in October and industrial output 4.8%, while fixed-asset investment fell 8.1% in the first 10 months",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 16 Nov 2026 14:10:25 GMT"
+      "published_at": "Tue, 17 Nov 2026 14:33:18 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-      "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 16 Nov 2026 14:22:36 GMT"
+      "published_at": "Tue, 17 Nov 2026 13:01:11 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Tue, 17 Nov 2026 05:59:01 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Tue, 17 Nov 2026 13:02:17 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 2,
-      "avg_score": 21.5
+      "count": 1,
+      "avg_score": 25.0
     },
     "technology": {
-      "count": 2,
-      "avg_score": 21.5
+      "count": 1,
+      "avg_score": 25.0
     },
     "robotics": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 3,
+      "avg_score": 22.7
     },
     "financial_system": {
-      "count": 2,
-      "avg_score": 21.5
+      "count": 3,
+      "avg_score": 22.7
     }
   },
   "trend_signals": [
-    "Makro ivmesi artıyor (0 -> 2).",
-    "Teknoloji ivmesi artıyor (0 -> 2).",
-    "Robotik akışı yavaşladı (2 -> 0).",
-    "Finansal Sistem ivmesi artıyor (0 -> 2)."
+    "Robotik ivmesi artıyor (0 -> 3)."
   ],
   "topic_router": [
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 87,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 219,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 69,
+      "score": 166,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -127,9 +158,20 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 164,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+    },
+    {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 24,
+      "score": 49,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -140,20 +182,20 @@
   ],
   "today_stack": [
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 87,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 219,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
     },
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 69,
+      "score": 166,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -162,15 +204,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 24,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 164,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "errors": [
