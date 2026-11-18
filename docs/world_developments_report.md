@@ -1,40 +1,40 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-11-17T15:28:53.819363+00:00
+Uretim zamani: 2026-11-18T15:05:07.733597+00:00
 
 ## Bugunun 5 Onemli Basligi
 
 ### 1. The hidden reason most robots fail on the factory floor
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 25
+- Onem skoru: 24
 - Link: https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, factory ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 2. Visa and Mastercard pushed for final approval of $38 billion swipe fee deal
-- Kaynak: Quartz
-- Kategoriler: Finansal Sistem, Makro, Teknoloji
-- Onem skoru: 25
-- Link: https://qz.com/visa-mastercard-final-approval-swipe-fee-settlement-111726
-- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle ai, fed ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
-
-### 3. Agile Robots raises $500M to increase production capacity
+### 2. Agile Robots raises $500M to increase production capacity
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 24
+- Onem skoru: 23
 - Link: https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
 
+### 3. OpenAI wallet taps card networks
+- Kaynak: Payments Dive
+- Kategoriler: Finansal Sistem
+- Onem skoru: 20
+- Link: https://www.paymentsdive.com/news/openai-wallet-taps-card-networks/874769/
+- Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle digital wallet, mastercard ekseninde öne çıkıyor.
+
+Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.
+
 ### 4. Visa, Mastercard face possible trial
 - Kaynak: Payments Dive
 - Kategoriler: Finansal Sistem
-- Onem skoru: 22
+- Onem skoru: 20
 - Link: https://www.paymentsdive.com/news/visa-mastercard-face-possible-trial/874834/
 - Bu seni neden ilgilendiriyor: Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.
 
@@ -42,7 +42,7 @@ Turkce ozet: Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestig
 
 ## Trend Sinyali
 
-- Robotik ivmesi artıyor (0 -> 3).
+- Belirgin kategori ivmesi yok; haber akışı dengeli.
 
 ## Topic Router
 

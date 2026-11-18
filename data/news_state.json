@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:28:53.819363+00:00",
+  "generated_at": "2026-11-18T15:05:07.733597+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,34 +11,13 @@
       "categories": [
         "robotics"
       ],
-      "score": 25,
+      "score": 24,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, factory ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
         "factory",
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "Visa and Mastercard pushed for final approval of $38 billion swipe fee deal",
-      "link": "https://qz.com/visa-mastercard-final-approval-swipe-fee-settlement-111726",
-      "published_at": "Tue, 17 Nov 2026 14:50:31 GMT",
-      "summary": "A federal judge in Brooklyn withheld a ruling after Monday's hearing as Walmart and the National Retail Federation object",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 25,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle ai, fed ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "fed",
-        "mastercard",
-        "visa"
       ]
     },
     {
@@ -51,7 +30,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 24,
+      "score": 23,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "humanoid",
@@ -61,15 +40,33 @@
     },
     {
       "source": "Payments Dive",
-      "title": "Visa, Mastercard face possible trial",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-face-possible-trial/874834/",
-      "published_at": "Tue, 17 Nov 2026 07:40:29 -0500",
-      "summary": "If a court rejects final approval of a card-fee settlement in a 2005 merchant lawsuit over the networks’ swipe fees, the case will go to trial, a federal judge said.",
+      "title": "OpenAI wallet taps card networks",
+      "link": "https://www.paymentsdive.com/news/openai-wallet-taps-card-networks/874769/",
+      "published_at": "Mon, 16 Nov 2026 11:35:31 -0500",
+      "summary": "The artificial intelligence company has created a digital wallet through which its ChatGPT agent can use Visa, Mastercard and American Express.",
       "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
       "categories": [
         "financial_system"
       ],
-      "score": 22,
+      "score": 20,
+      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle digital wallet, mastercard ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "digital wallet",
+        "mastercard",
+        "visa"
+      ]
+    },
+    {
+      "source": "Payments Dive",
+      "title": "Visa, Mastercard face possible trial",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-face-possible-trial/874834/",
+      "published_at": "Tue, 17 Nov 2026 07:40:29 -0500",
+      "summary": "If a court rejects final approval of a card-fee settlement over the networks’ swipe fees, the case will go to trial, a federal judge said.",
+      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
+      "categories": [
+        "financial_system"
+      ],
+      "score": 20,
       "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle mastercard, settlement ekseninde öne çıkıyor.",
       "matched_keywords": [
         "mastercard",
@@ -81,64 +78,64 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Hackers have cut power in Ukraine, but could they take down the U.S. grid? 10 cases",
-      "link": "https://qz.com/can-hackers-take-down-us-power-grid",
-      "summary": "Whether hackers can take down the U.S. power grid has no simple answer, and these 10 cases, safeguards and weak points show what cyberattacks have done and what limits them",
+      "title": "Apollo's Europe chief says continent needs an estimated €1.4 trillion a year in investment",
+      "link": "https://qz.com/apollo-europe-investment-needs-trillion-euros-111826",
+      "summary": "Apollo's Diego De Giorgi links the increase from €800 billion in the Draghi report to spending on defense, power and AI",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 17 Nov 2026 14:33:18 GMT"
+      "published_at": "Wed, 18 Nov 2026 14:20:28 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 17 Nov 2026 13:01:11 GMT"
+      "published_at": "Wed, 18 Nov 2026 12:39:24 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
+      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 17 Nov 2026 05:59:01 GMT"
+      "published_at": "Wed, 18 Nov 2026 14:30:33 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 17 Nov 2026 13:02:17 GMT"
+      "published_at": "Wed, 18 Nov 2026 13:04:48 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 25.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 25.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 22.7
+      "count": 4,
+      "avg_score": 20.5
     },
     "financial_system": {
-      "count": 3,
-      "avg_score": 22.7
+      "count": 2,
+      "avg_score": 20.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (0 -> 3)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 219,
+      "score": 246,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -149,7 +146,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 166,
+      "score": 152,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -160,7 +157,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 164,
+      "score": 105,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
@@ -171,7 +168,7 @@
     {
       "topic": "geopolitics",
       "label": "Jeopolitik",
-      "score": 49,
+      "score": 21,
       "best_source": "Reuters World",
       "best_url": "https://www.reuters.com/world/",
       "backup_source": "Foreign Affairs",
@@ -184,7 +181,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 219,
+      "score": 246,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -195,7 +192,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 166,
+      "score": 152,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -206,7 +203,7 @@
     {
       "topic": "payments",
       "label": "Ödemeler / Visa",
-      "score": 164,
+      "score": 105,
       "best_source": "Payments Dive",
       "best_url": "https://www.paymentsdive.com/",
       "backup_source": "Reuters Business",
