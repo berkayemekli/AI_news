@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:14:03.307770+00:00",
+  "generated_at": "2026-11-20T14:53:00.401304+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
@@ -11,7 +11,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 26,
+      "score": 25,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, autonomous ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
@@ -22,121 +22,120 @@
     },
     {
       "source": "The Robot Report",
-      "title": "The hidden reason most robots fail on the factory floor",
-      "link": "https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/",
-      "published_at": "Mon, 16 Nov 2026 23:49:56 +0000",
-      "summary": "Evan Beard explains how AI-native robotics could make automation easier to program and help American manufacturing compete globally.",
+      "title": "Robotics enters its post-Jensen Huang era",
+      "link": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
+      "published_at": "Fri, 20 Nov 2026 03:06:28 +0000",
+      "summary": "One of robotics' most influential advocates is gone. Can the industry sustain its momentum without him?",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 23,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, factory ekseninde öne çıkıyor.",
+      "score": 19,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "automation",
-        "factory",
         "robot",
         "robotics"
+      ]
+    },
+    {
+      "source": "Quartz",
+      "title": "SpaceX sold $32 billion in AI chip debt, with most at yields above 8%",
+      "link": "https://qz.com/spacex-32-billion-ai-chip-debt-yields-112026",
+      "published_at": "Fri, 20 Nov 2026 13:50:21 GMT",
+      "summary": "The sale is part of a more than $40 billion financing that funds Nvidia chips SpaceX will lease for about five years",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 19,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, chip ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "chip",
+        "nvidia"
       ]
     },
     {
       "source": "The Robot Report",
-      "title": "Agile Robots raises $500M to increase production capacity",
-      "link": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
-      "published_at": "Mon, 16 Nov 2026 17:47:48 +0000",
-      "summary": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
+      "title": "From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics",
+      "link": "https://www.therobotreport.com/from-commercial-scale-to-embodied-intelligence-the-next-challenge-for-robotics/",
+      "published_at": "Wed, 18 Nov 2026 18:00:09 +0000",
+      "summary": "Robotics is advancing rapidly. New AI models and increasingly capable hardware are expanding what machines can perceive, understand and do.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 22,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle humanoid, robot ekseninde öne çıkıyor.",
+      "score": 17,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "humanoid",
         "robot",
         "robotics"
-      ]
-    },
-    {
-      "source": "Payments Dive",
-      "title": "OpenAI wallet taps card networks",
-      "link": "https://www.paymentsdive.com/news/openai-wallet-taps-card-networks/874769/",
-      "published_at": "Mon, 16 Nov 2026 11:35:31 -0500",
-      "summary": "The artificial intelligence company has created a digital wallet through which its ChatGPT agent can use Visa, Mastercard and American Express.",
-      "summary_tr": "Bu haber, odeme aglari ve stablecoin tarafinda rekabetin sertlestigini ve finans altyapisinda yeni guc dengeleri olustugunu gosteriyor.",
-      "categories": [
-        "financial_system"
-      ],
-      "score": 19,
-      "why_it_matters": "Odeme ve finans altyapisindaki degisim yeni kazananlari ve islem akisini yeniden kurar. Bu sinyal özellikle digital wallet, mastercard ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "digital wallet",
-        "mastercard",
-        "visa"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Elon Musk calls Jensen Huang's ouster from Nvidia a mistake — and regrets all that election spending",
-      "link": "https://qz.com/elon-musk-jensen-huang-ouster-midterm-spending-111926",
-      "summary": "The Tesla and SpaceX CEO said no one could replace Huang as Nvidia's chief executive, comparing it to kicking \"Michael Jordan off your team\"",
+      "title": "Trump fired White House cyber director, tapped Pentagon official as replacement",
+      "link": "https://qz.com/trump-fires-cyber-director-cairncross-davies-112026",
+      "summary": "Kirsten Davies, the Pentagon's chief information officer, will serve as acting national cyber director after Sean Cairncross's exit",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 19 Nov 2026 13:50:32 GMT"
+      "published_at": "Fri, 20 Nov 2026 14:00:30 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Chicago Fed president won't rule out a larger rate hike for December",
+      "link": "https://qz.com/goolsbee-chicago-fed-larger-rate-hike-december-112026",
+      "summary": "Austan Goolsbee said how steep the path of rate increases needs to be depends on what inflation does, after months of high readings",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 20 Nov 2026 13:40:26 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes.",
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 19 Nov 2026 13:07:35 GMT"
+      "published_at": "Fri, 20 Nov 2026 13:01:16 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 19 Nov 2026 13:31:23 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Florida pastor found guilty over role in assassination of Haitian president",
-      "link": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-      "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 19 Nov 2026 11:44:57 GMT"
+      "published_at": "Fri, 20 Nov 2026 13:52:04 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 19.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 19.0
     },
     "robotics": {
-      "count": 7,
-      "avg_score": 20.0
+      "count": 5,
+      "avg_score": 18.8
     },
     "financial_system": {
-      "count": 2,
+      "count": 1,
       "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Robotik ivmesi artıyor (4 -> 7)."
+    "Robotik akışı yavaşladı (7 -> 5)."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 419,
+      "score": 250,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -147,7 +146,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 221,
+      "score": 129,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -156,33 +155,33 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 119,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 60,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 39,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "markets",
+      "label": "Markets",
+      "score": 20,
+      "best_source": "Bloomberg",
+      "best_url": "https://www.bloomberg.com/",
+      "backup_source": "Financial Times",
+      "backup_url": "https://www.ft.com/markets",
+      "reason": "Piyasa fiyatlaması, faiz, tahvil, dolar ve risk iştahı gibi konularda hızlı ve profesyonel akış sunar.",
+      "mode": "İlk reaksiyonu Bloomberg'de gör, daha sakin ve analitik bağlamı FT ile tamamla."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 419,
+      "score": 250,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -193,7 +192,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 221,
+      "score": 129,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -202,15 +201,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "payments",
-      "label": "Ödemeler / Visa",
-      "score": 119,
-      "best_source": "Payments Dive",
-      "best_url": "https://www.paymentsdive.com/",
-      "backup_source": "Reuters Business",
-      "backup_url": "https://www.reuters.com/business/",
-      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
-      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 60,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
