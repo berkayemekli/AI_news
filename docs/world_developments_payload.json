@@ -1,38 +1,42 @@
 {
-  "generated_at": "2026-11-22T14:01:11.774562+00:00",
+  "generated_at": "2026-11-23T17:22:47.935354+00:00",
   "headlines": [
     {
       "source": "The Robot Report",
-      "title": "MassRobotics launching marine robotics facility on Boston Harbor",
-      "link": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
-      "published_at": "Fri, 20 Nov 2026 17:04:28 +0000",
-      "summary": "MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027.",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "title": "Special Report: Engineering Focus on Motion Control",
+      "link": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
+      "published_at": "Mon, 23 Nov 2026 15:16:26 +0000",
+      "summary": "The Robot Report looks at recent advances in automation for manufacturing, from improvements in technologies and use cases to the potential of humanoids and AI.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 19,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "score": 23,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, humanoid ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "automation",
+        "humanoid",
+        "robot"
       ]
     },
     {
-      "source": "The Robot Report",
-      "title": "Robotics enters its post-Jensen Huang era",
-      "link": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
-      "published_at": "Fri, 20 Nov 2026 03:06:28 +0000",
-      "summary": "One of robotics' most influential advocates is gone. Can the industry sustain its momentum without him?",
-      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "source": "Quartz",
+      "title": "Anthropic stock wavers as rest of AI sector rallies on Jensen Huang's return to Nvidia",
+      "link": "https://qz.com/anthropic-stock-ai-rally-jensen-huang-nvidia-112326",
+      "published_at": "Mon, 23 Nov 2026 16:20:27 GMT",
+      "summary": "Nvidia stock jumped 30% after Jensen Huang's reinstatement, while Anthropic stock was 6% above its $83 IPO price at 9:48 a.m. ET",
+      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
       "categories": [
-        "robotics"
+        "financial_system",
+        "macro",
+        "technology"
       ],
-      "score": 16,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "score": 19,
+      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "robot",
-        "robotics"
+        "ai",
+        "anthropic",
+        "nvidia"
       ]
     },
     {
@@ -45,7 +49,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 16,
+      "score": 15,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -55,65 +59,65 @@
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "South Korea education minister resigns over exam cheating scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "source": "Quartz",
+      "title": "Trump predicted China will buy 250 more Boeing jets after May summit",
+      "link": "https://qz.com/trump-china-boeing-250-jets-summit-112326",
+      "summary": "Boeing said after the May summit that it reached an initial commitment for 200 aircraft; Beijing has not released details",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 22 Nov 2026 09:20:45 GMT"
+      "published_at": "Mon, 23 Nov 2026 16:50:11 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Trump says he convinced Nvidia's board to bring Jensen Huang back as CEO",
+      "link": "https://qz.com/trump-praises-nvidia-jensen-huang-reinstated-ceo-112326",
+      "summary": "Nvidia's board voted unanimously to reinstate Huang, citing input from senior U.S. government officials on national security",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Mon, 23 Nov 2026 16:40:35 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "JPMorgan and Hyundai Card are testing AI agents that can pay without humans",
+      "link": "https://qz.com/jpmorgan-hyundai-card-ai-agents-payments-test-112326",
+      "summary": "The proof-of-concept used a simulated foreign exchange trade, and the companies target the first half of 2027 for a multi-agent phase",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Mon, 23 Nov 2026 16:30:39 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sun, 22 Nov 2026 11:25:14 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 21 Nov 2026 13:17:38 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "Lock of former US President George Washington's hair sells for $4,000",
-      "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Sat, 21 Nov 2026 22:01:19 GMT"
+      "published_at": "Mon, 23 Nov 2026 16:49:51 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 19.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 19.0
     },
     "robotics": {
-      "count": 3,
-      "avg_score": 17.0
+      "count": 2,
+      "avg_score": 19.0
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
-    "Robotik akışı yavaşladı (5 -> 3)."
+    "Belirgin kategori ivmesi yok; haber akışı dengeli."
   ],
   "topic_router": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 108,
+      "score": 104,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -124,31 +128,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 34,
-      "best_source": "The Information",
-      "best_url": "https://www.theinformation.com/about/",
-      "backup_source": "Semafor Tech",
-      "backup_url": "https://www.semafor.com/vertical/tech",
-      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
-      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    }
-  ],
-  "today_stack": [
-    {
-      "topic": "robotics",
-      "label": "Robotik",
-      "score": 108,
-      "best_source": "The Robot Report",
-      "best_url": "https://www.therobotreport.com/",
-      "backup_source": "Bloomberg Technology",
-      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
-      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
-    },
-    {
-      "topic": "ai_models",
-      "label": "YZ Modelleri",
-      "score": 34,
+      "score": 80,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -159,7 +139,42 @@
     {
       "topic": "nvidia",
       "label": "Nvidia",
-      "score": 0,
+      "score": 20,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+    }
+  ],
+  "today_stack": [
+    {
+      "topic": "robotics",
+      "label": "Robotik",
+      "score": 104,
+      "best_source": "The Robot Report",
+      "best_url": "https://www.therobotreport.com/",
+      "backup_source": "Bloomberg Technology",
+      "backup_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "reason": "Robotik şirketleri, depo otomasyonu, humanoid gelişmeler ve sanayi kullanımlarını daha odaklı verir.",
+      "mode": "Niş bir alan olduğu için önce uzman yayına git, büyük piyasa etkisi varsa sonra geniş teknoloji kaynağına bak."
+    },
+    {
+      "topic": "ai_models",
+      "label": "YZ Modelleri",
+      "score": 80,
+      "best_source": "The Information",
+      "best_url": "https://www.theinformation.com/about/",
+      "backup_source": "Semafor Tech",
+      "backup_url": "https://www.semafor.com/vertical/tech",
+      "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
+      "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 20,
       "best_source": "Bloomberg Technology",
       "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
       "backup_source": "Stratechery",
