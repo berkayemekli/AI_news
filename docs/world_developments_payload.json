@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-23T17:22:47.935354+00:00",
+  "generated_at": "2026-11-24T16:56:58.962378+00:00",
   "headlines": [
+    {
+      "source": "Quartz",
+      "title": "U.S. is preparing to raise tariffs on China, the E.U., and 14 other nations",
+      "link": "https://qz.com/us-prepares-tariffs-china-eu-industrial-subsidies-112426",
+      "published_at": "Tue, 24 Nov 2026 16:10:31 GMT",
+      "summary": "The U.S. Trade Representative is expected to unveil results of its industrial subsidies investigation as soon as Tuesday",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 25,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, china ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "china",
+        "tariff",
+        "trade",
+        "u.s."
+      ]
+    },
+    {
+      "source": "The Robot Report",
+      "title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
+      "link": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
+      "published_at": "Tue, 24 Nov 2026 14:48:57 +0000",
+      "summary": "SoftBank has completed its acquisition of the Robotics and AI Institute from Hyundai Motor Group, expanding its robotics portfolio as the research organization looks to fill 24 open positions in Massachusetts and Switzerland.",
+      "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
+      "categories": [
+        "robotics"
+      ],
+      "score": 21,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "robot",
+        "robotics"
+      ]
+    },
     {
       "source": "The Robot Report",
       "title": "Special Report: Engineering Focus on Motion Control",
@@ -11,32 +50,12 @@
       "categories": [
         "robotics"
       ],
-      "score": 23,
+      "score": 21,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, humanoid ekseninde öne çıkıyor.",
       "matched_keywords": [
         "automation",
         "humanoid",
         "robot"
-      ]
-    },
-    {
-      "source": "Quartz",
-      "title": "Anthropic stock wavers as rest of AI sector rallies on Jensen Huang's return to Nvidia",
-      "link": "https://qz.com/anthropic-stock-ai-rally-jensen-huang-nvidia-112326",
-      "published_at": "Mon, 23 Nov 2026 16:20:27 GMT",
-      "summary": "Nvidia stock jumped 30% after Jensen Huang's reinstatement, while Anthropic stock was 6% above its $83 IPO price at 9:48 a.m. ET",
-      "summary_tr": "Bu haber, Nvidia ve yapay zeka cipleri tarafinda altyapi yarisinin hiz kesmeden devam ettigini gosteriyor.",
-      "categories": [
-        "financial_system",
-        "macro",
-        "technology"
-      ],
-      "score": 19,
-      "why_it_matters": "YZ altyapi yarisi sermaye akislarini, cip talebini ve platform kazananlarini belirler. Bu sinyal özellikle ai, anthropic ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "ai",
-        "anthropic",
-        "nvidia"
       ]
     },
     {
@@ -49,7 +68,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 15,
+      "score": 14,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
       "matched_keywords": [
         "autonomous",
@@ -60,54 +79,54 @@
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Trump predicted China will buy 250 more Boeing jets after May summit",
-      "link": "https://qz.com/trump-china-boeing-250-jets-summit-112326",
-      "summary": "Boeing said after the May summit that it reached an initial commitment for 200 aircraft; Beijing has not released details",
+      "title": "Anthropic CEO and president each sold $280 million in stock during IPO",
+      "link": "https://qz.com/anthropic-ceo-president-stock-sales-ipo-112426",
+      "summary": "Both executives sold Anthropic stock to underwriters at the $83 IPO price; the stock closed Monday at $87.64, above that price",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 23 Nov 2026 16:50:11 GMT"
+      "published_at": "Tue, 24 Nov 2026 16:20:27 GMT"
     },
     {
       "source": "Quartz",
-      "title": "Trump says he convinced Nvidia's board to bring Jensen Huang back as CEO",
-      "link": "https://qz.com/trump-praises-nvidia-jensen-huang-reinstated-ceo-112326",
-      "summary": "Nvidia's board voted unanimously to reinstate Huang, citing input from senior U.S. government officials on national security",
+      "title": "U.S. is preparing to raise tariffs on China, the E.U., and 14 other nations",
+      "link": "https://qz.com/us-prepares-tariffs-china-eu-industrial-subsidies-112426",
+      "summary": "The U.S. Trade Representative is expected to unveil results of its industrial subsidies investigation as soon as Tuesday",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 23 Nov 2026 16:40:35 GMT"
-    },
-    {
-      "source": "Quartz",
-      "title": "JPMorgan and Hyundai Card are testing AI agents that can pay without humans",
-      "link": "https://qz.com/jpmorgan-hyundai-card-ai-agents-payments-test-112326",
-      "summary": "The proof-of-concept used a simulated foreign exchange trade, and the companies target the first half of 2027 for a multi-agent phase",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 23 Nov 2026 16:30:39 GMT"
+      "published_at": "Tue, 24 Nov 2026 16:10:31 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
       "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Mon, 23 Nov 2026 16:49:51 GMT"
+      "published_at": "Tue, 24 Nov 2026 10:53:37 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Tue, 24 Nov 2026 07:26:27 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
       "count": 1,
-      "avg_score": 19.0
+      "avg_score": 25.0
     },
     "technology": {
       "count": 1,
-      "avg_score": 19.0
+      "avg_score": 25.0
     },
     "robotics": {
-      "count": 2,
-      "avg_score": 19.0
+      "count": 3,
+      "avg_score": 18.7
     },
     "financial_system": {
       "count": 1,
-      "avg_score": 19.0
+      "avg_score": 25.0
     }
   },
   "trend_signals": [
@@ -117,7 +136,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 104,
+      "score": 140,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -128,7 +147,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 80,
+      "score": 85,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -137,22 +156,22 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 20,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 78,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 104,
+      "score": 140,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -163,7 +182,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 80,
+      "score": 85,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -172,15 +191,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 20,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 78,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
