@@ -1,26 +1,22 @@
 {
-  "generated_at": "2026-11-24T16:56:58.962378+00:00",
+  "generated_at": "2026-11-25T16:46:20.739610+00:00",
   "headlines": [
     {
-      "source": "Quartz",
-      "title": "U.S. is preparing to raise tariffs on China, the E.U., and 14 other nations",
-      "link": "https://qz.com/us-prepares-tariffs-china-eu-industrial-subsidies-112426",
-      "published_at": "Tue, 24 Nov 2026 16:10:31 GMT",
-      "summary": "The U.S. Trade Representative is expected to unveil results of its industrial subsidies investigation as soon as Tuesday",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "source": "The Robot Report",
+      "title": "Special Report: Engineering Focus on Motion Control",
+      "link": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
+      "published_at": "Mon, 23 Nov 2026 15:16:26 +0000",
+      "summary": "The Robot Report looks at recent advances in automation for manufacturing, from improvements in technologies and use cases to the potential of humanoids and AI.",
+      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
       "categories": [
-        "financial_system",
-        "macro",
-        "technology"
+        "robotics"
       ],
-      "score": 25,
-      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, china ekseninde öne çıkıyor.",
+      "score": 20,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, humanoid ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "ai",
-        "china",
-        "tariff",
-        "trade",
-        "u.s."
+        "automation",
+        "humanoid",
+        "robot"
       ]
     },
     {
@@ -33,7 +29,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 21,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -42,91 +38,73 @@
     },
     {
       "source": "The Robot Report",
-      "title": "Special Report: Engineering Focus on Motion Control",
-      "link": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
-      "published_at": "Mon, 23 Nov 2026 15:16:26 +0000",
-      "summary": "The Robot Report looks at recent advances in automation for manufacturing, from improvements in technologies and use cases to the potential of humanoids and AI.",
-      "summary_tr": "Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.",
-      "categories": [
-        "robotics"
-      ],
-      "score": 21,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, humanoid ekseninde öne çıkıyor.",
-      "matched_keywords": [
-        "automation",
-        "humanoid",
-        "robot"
-      ]
-    },
-    {
-      "source": "The Robot Report",
-      "title": "The manufacturing data gap holding back physical AI",
-      "link": "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/",
-      "published_at": "Sat, 21 Nov 2026 22:25:35 +0000",
-      "summary": "Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback to enable reliable decision-making and improve production efficiency.",
+      "title": "Robotics Summit 2027 opens call for speakers",
+      "link": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
+      "published_at": "Tue, 24 Nov 2026 18:03:37 +0000",
+      "summary": "The Robotics Summit & Expo returns to Boston June 2-3, 2027 with deepened coverage, an expanded expo floor, and more.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 14,
-      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle autonomous, robot ekseninde öne çıkıyor.",
+      "score": 18,
+      "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
-        "autonomous",
-        "robot"
+        "robot",
+        "robotics"
       ]
     }
   ],
   "political_items": [
     {
       "source": "Quartz",
-      "title": "Anthropic CEO and president each sold $280 million in stock during IPO",
-      "link": "https://qz.com/anthropic-ceo-president-stock-sales-ipo-112426",
-      "summary": "Both executives sold Anthropic stock to underwriters at the $83 IPO price; the stock closed Monday at $87.64, above that price",
+      "title": "Trump floats a pardon for Nvidia CEO Jensen Huang",
+      "link": "https://qz.com/trump-pardon-jensen-huang-nvidia-congress-testimony-112526",
+      "summary": "Huang is due to sit for a private session with House committees and a public Senate committee hearing next week",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 24 Nov 2026 16:20:27 GMT"
+      "published_at": "Wed, 25 Nov 2026 16:20:22 GMT"
     },
     {
       "source": "Quartz",
-      "title": "U.S. is preparing to raise tariffs on China, the E.U., and 14 other nations",
-      "link": "https://qz.com/us-prepares-tariffs-china-eu-industrial-subsidies-112426",
-      "summary": "The U.S. Trade Representative is expected to unveil results of its industrial subsidies investigation as soon as Tuesday",
+      "title": "Russia's oil exports are on pace for highest year since Ukraine war",
+      "link": "https://qz.com/russia-crude-exports-highest-year-ukraine-invasion-opec-112526",
+      "summary": "Russia's flows add to forecasts of a global oil surplus as OPEC+ ministers are due to meet Sunday on 2027 targets",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 24 Nov 2026 16:10:31 GMT"
+      "published_at": "Wed, 25 Nov 2026 15:50:23 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "10 things to know about filing an Army claim after a blast damages property",
+      "link": "https://qz.com/army-claim-property-damage-blast",
+      "summary": "How an Army claim for property damage works after a military blast such as the lead azide detonation in Iowa, from the Federal Tort Claims Act and SF 95 to deadlines, exceptions and fee limits",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Wed, 25 Nov 2026 15:42:37 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 24 Nov 2026 10:53:37 GMT"
-    },
-    {
-      "source": "BBC World",
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Tue, 24 Nov 2026 07:26:27 GMT"
+      "published_at": "Wed, 25 Nov 2026 12:21:49 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 1,
-      "avg_score": 25.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "technology": {
-      "count": 1,
-      "avg_score": 25.0
+      "count": 0,
+      "avg_score": 0.0
     },
     "robotics": {
       "count": 3,
-      "avg_score": 18.7
+      "avg_score": 19.0
     },
     "financial_system": {
-      "count": 1,
-      "avg_score": 25.0
+      "count": 0,
+      "avg_score": 0.0
     }
   },
   "trend_signals": [
@@ -136,7 +114,7 @@
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 140,
+      "score": 141,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -147,31 +125,20 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 85,
+      "score": 41,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
-    },
-    {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 78,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "today_stack": [
     {
       "topic": "robotics",
       "label": "Robotik",
-      "score": 140,
+      "score": 141,
       "best_source": "The Robot Report",
       "best_url": "https://www.therobotreport.com/",
       "backup_source": "Bloomberg Technology",
@@ -182,7 +149,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 85,
+      "score": 41,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -191,15 +158,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "geopolitics",
-      "label": "Jeopolitik",
-      "score": 78,
-      "best_source": "Reuters World",
-      "best_url": "https://www.reuters.com/world/",
-      "backup_source": "Foreign Affairs",
-      "backup_url": "https://www.foreignaffairs.com/",
-      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
-      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+      "topic": "nvidia",
+      "label": "Nvidia",
+      "score": 0,
+      "best_source": "Bloomberg Technology",
+      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
+      "backup_source": "Stratechery",
+      "backup_url": "https://stratechery.com/about/",
+      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
+      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
     }
   ],
   "errors": [
