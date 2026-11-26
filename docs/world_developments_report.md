@@ -1,31 +1,22 @@
 # Dunya Gelismeleri Botu
 
-Uretim zamani: 2026-11-25T16:46:20.739610+00:00
+Uretim zamani: 2026-11-26T16:22:28.235321+00:00
 
 ## Bugunun 5 Onemli Basligi
 
-### 1. Special Report: Engineering Focus on Motion Control
+### 1. SoftBank acquires Marc Raibert’s Robotics and AI Institute
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 20
-- Link: https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/
-- Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle automation, humanoid ekseninde öne çıkıyor.
-
-Turkce ozet: Bu haber, insansi robotlarin depo ve lojistik tarafinda gercek saha kullanimina gectigini gosteriyor.
-
-### 2. SoftBank acquires Marc Raibert’s Robotics and AI Institute
-- Kaynak: The Robot Report
-- Kategoriler: Robotik
-- Onem skoru: 19
+- Onem skoru: 18
 - Link: https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
 Turkce ozet: Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.
 
-### 3. Robotics Summit 2027 opens call for speakers
+### 2. Robotics Summit 2027 opens call for speakers
 - Kaynak: The Robot Report
 - Kategoriler: Robotik
-- Onem skoru: 18
+- Onem skoru: 17
 - Link: https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/
 - Bu seni neden ilgilendiriyor: Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.
 
