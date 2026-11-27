@@ -1,17 +1,38 @@
 {
-  "generated_at": "2026-11-26T16:22:28.235321+00:00",
+  "generated_at": "2026-11-27T16:07:03.221488+00:00",
   "headlines": [
     {
+      "source": "Quartz",
+      "title": "AI import boom pushed U.S. goods trade deficit to widest since March 2025",
+      "link": "https://qz.com/ai-imports-us-goods-trade-deficit-october-112726",
+      "published_at": "Fri, 27 Nov 2026 15:00:22 GMT",
+      "summary": "Capital goods imports rose 8.5% to $171.4 billion in October as the AI buildout continued, Census data show",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "categories": [
+        "financial_system",
+        "macro",
+        "technology"
+      ],
+      "score": 19,
+      "why_it_matters": "Makro rejim degisimi kur, faiz, emtia ve risk istahini birlikte etkiler. Bu sinyal özellikle ai, api ekseninde öne çıkıyor.",
+      "matched_keywords": [
+        "ai",
+        "api",
+        "trade",
+        "u.s."
+      ]
+    },
+    {
       "source": "The Robot Report",
-      "title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
-      "link": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
-      "published_at": "Tue, 24 Nov 2026 14:48:57 +0000",
-      "summary": "SoftBank has completed its acquisition of the Robotics and AI Institute from Hyundai Motor Group, expanding its robotics portfolio as the research organization looks to fill 24 open positions in Massachusetts and Switzerland.",
+      "title": "GXO doubling down on robotics in 2027",
+      "link": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
+      "published_at": "Fri, 27 Nov 2026 13:56:43 +0000",
+      "summary": "GXO didn't disclose which providers it would increase deployments with, but let's take a look at the existing technologies in its portfolio.",
       "summary_tr": "Bu haber, robotik uygulamalarin laboratuvar asamasindan cikip gercek operasyonlara daha fazla girdigini gosteriyor.",
       "categories": [
         "robotics"
       ],
-      "score": 18,
+      "score": 19,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -28,7 +49,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 17,
+      "score": 16,
       "why_it_matters": "Robotik gercek dunyaya indiginde verimlilik, uretim yapisi ve is gucu dengesi degisir. Bu sinyal özellikle robot, robotics ekseninde öne çıkıyor.",
       "matched_keywords": [
         "robot",
@@ -38,39 +59,55 @@
   ],
   "political_items": [
     {
-      "source": "BBC World",
-      "title": "Two Italians killed after Iranian strike in Kuwait",
-      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "source": "Quartz",
+      "title": "AI import boom pushed U.S. goods trade deficit to widest since March 2025",
+      "link": "https://qz.com/ai-imports-us-goods-trade-deficit-october-112726",
+      "summary": "Capital goods imports rose 8.5% to $171.4 billion in October as the AI buildout continued, Census data show",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 26 Nov 2026 15:36:08 GMT"
+      "published_at": "Fri, 27 Nov 2026 15:00:22 GMT"
+    },
+    {
+      "source": "Quartz",
+      "title": "Trump demands probe into GDP revision, falsely calling it a 'record setting error'",
+      "link": "https://qz.com/trump-gdp-revision-investigation-record-error-112726",
+      "summary": "The Bureau of Economic Analysis raised third-quarter growth to 4.3% from 3.4%, a 0.9 point revision that was not a record",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 27 Nov 2026 14:50:17 GMT"
     },
     {
       "source": "BBC World",
-      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
       "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
-      "published_at": "Thu, 26 Nov 2026 11:00:39 GMT"
+      "published_at": "Fri, 27 Nov 2026 09:07:48 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "summary_tr": "Bu haber, makro ve jeopolitik tarafta piyasalari etkileyebilecek yeni bir kirilmaya isaret ediyor.",
+      "published_at": "Fri, 27 Nov 2026 15:18:51 GMT"
     }
   ],
   "market_items": [],
   "trend_snapshot": {
     "macro": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 19.0
     },
     "technology": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 19.0
     },
     "robotics": {
       "count": 2,
       "avg_score": 17.5
     },
     "financial_system": {
-      "count": 0,
-      "avg_score": 0.0
+      "count": 1,
+      "avg_score": 19.0
     }
   },
   "trend_signals": [
@@ -91,13 +128,35 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 19,
+      "score": 20,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
       "backup_url": "https://www.semafor.com/vertical/tech",
       "reason": "Model savaşı, şirket içi hamleler, ürün stratejisi ve yatırım akışlarını erken okumak için çok güçlü.",
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
+    },
+    {
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 20,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
+    },
+    {
+      "topic": "payments",
+      "label": "Ödemeler / Visa",
+      "score": 20,
+      "best_source": "Payments Dive",
+      "best_url": "https://www.paymentsdive.com/",
+      "backup_source": "Reuters Business",
+      "backup_url": "https://www.reuters.com/business/",
+      "reason": "Visa, Mastercard, fintek altyapısı, API ekonomisi ve ödeme ağları tarafında daha odaklı akış verir.",
+      "mode": "Spesifik ödeme trendini odaklı yayında gör, daha sonra makro yansımayı business akışta kontrol et."
     }
   ],
   "today_stack": [
@@ -115,7 +174,7 @@
     {
       "topic": "ai_models",
       "label": "YZ Modelleri",
-      "score": 19,
+      "score": 20,
       "best_source": "The Information",
       "best_url": "https://www.theinformation.com/about/",
       "backup_source": "Semafor Tech",
@@ -124,15 +183,15 @@
       "mode": "İlk önce oyuncular ne yapıyor diye bak, sonra piyasa etkisini ikinci kaynakta teyit et."
     },
     {
-      "topic": "nvidia",
-      "label": "Nvidia",
-      "score": 0,
-      "best_source": "Bloomberg Technology",
-      "best_url": "https://www.bloomberg.com/series/bloomberg-technology",
-      "backup_source": "Stratechery",
-      "backup_url": "https://stratechery.com/about/",
-      "reason": "Nvidia, AI capex, çipler ve veri merkezi yarışı gibi konularda en hızlı ve en piyasa duyarlı akışlardan biri.",
-      "mode": "Önce hızlı haber akışını oku, sonra stratejik anlamlandırma için ikinci kaynağa geç."
+      "topic": "geopolitics",
+      "label": "Jeopolitik",
+      "score": 20,
+      "best_source": "Reuters World",
+      "best_url": "https://www.reuters.com/world/",
+      "backup_source": "Foreign Affairs",
+      "backup_url": "https://www.foreignaffairs.com/",
+      "reason": "Jeopolitik olaylar, devlet kararları, savunma ve ticaret gerilimlerinde temiz ve hızlı temel akış sunar.",
+      "mode": "Önce olay akışını Reuters'tan al, daha sonra yapısal anlamlandırma için derin kaynağa geç."
     }
   ],
   "errors": [
